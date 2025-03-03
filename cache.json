@@ -114,6 +114,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HAMFnXPX63Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HAMFnXPX63Q",
+          "publishedOn": "2025-03-02T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Top 12 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m3VU672o7_Y",
           "author": null,
           "description": "",
@@ -251,16 +261,6 @@
           "publishedOn": "2025-02-12T12:01:32.000Z",
           "wordCount": null,
           "title": "Autumn And Nostalgia - Fury Team [ Fury Release ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y_TaIUuzeQc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y_TaIUuzeQc",
-          "publishedOn": "2025-02-11T12:00:45.000Z",
-          "wordCount": null,
-          "title": "Top 15 Bản Nhạc EDM Mix \"Buff Cảm Hứng\" Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
         }
       ]
