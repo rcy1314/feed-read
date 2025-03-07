@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T01:51:40.159Z</id>
+    <id>urn:2025-03-07T01:52:08.482Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T01:51:40.159Z</updated>
+    <updated>2025-03-07T01:52:08.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[設計系統會如何影響前端開發的模組化和可維護性（AAPD）]]></title>
+        <id>https://www.youtube.com/watch?v=DetjtZovqnw</id>
+        <link href="https://www.youtube.com/watch?v=DetjtZovqnw"/>
+        <updated>2025-03-07T01:04:20.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以為是穩定器其實是一堂錄影課程｜DJI Osmo Mobile 7P｜手機穩定器]]></title>
+        <id>https://www.youtube.com/watch?v=-9r5EV9-gDY</id>
+        <link href="https://www.youtube.com/watch?v=-9r5EV9-gDY"/>
+        <updated>2025-03-06T12:30:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索俄國最神秘的無人區，與熊共舞！ ｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=L35xzwobMlg</id>
+        <link href="https://www.youtube.com/watch?v=L35xzwobMlg"/>
+        <updated>2025-03-06T12:00:22.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃金樹的高科技令交界地大為震撼！【艾爾登演義fms】]]></title>
+        <id>https://www.youtube.com/watch?v=32bFG3KzD8E</id>
+        <link href="https://www.youtube.com/watch?v=32bFG3KzD8E"/>
+        <updated>2025-03-06T12:00:05.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VietNam G - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=wk7KFYMn7go</id>
+        <link href="https://www.youtube.com/watch?v=wk7KFYMn7go"/>
+        <updated>2025-03-06T11:59:56.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 分钟塞爆 4TB！致态 TiPro9000 SSD 暴力测试]]></title>
+        <id>https://www.youtube.com/watch?v=WXLv7hISRQU</id>
+        <link href="https://www.youtube.com/watch?v=WXLv7hISRQU"/>
+        <updated>2025-03-06T11:14:37.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攝影進步的真正方法]]></title>
+        <id>https://www.youtube.com/watch?v=HVdXB1FSof0</id>
+        <link href="https://www.youtube.com/watch?v=HVdXB1FSof0"/>
+        <updated>2025-03-06T10:01:21.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三步驟 在本機運行語言模型 | Ollama、DeepSeekR1、Open Web UI]]></title>
+        <id>https://www.youtube.com/watch?v=-xiJQ1i48oQ</id>
+        <link href="https://www.youtube.com/watch?v=-xiJQ1i48oQ"/>
+        <updated>2025-03-06T05:47:53.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 新手想入門學程式該怎麼做？帶你看技能樹！- 線上說明會 3/5 (三)  20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=AWbg9kje44M</id>
@@ -402,7 +474,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[時隔兩年，完整講述【艾爾登法環】史詩級故事#2]]></title>
+        <title type="html"><![CDATA[降神的真相和黃金神的誕生【艾爾登演義fms】]]></title>
         <id>https://www.youtube.com/watch?v=o6LlMk87rpQ</id>
         <link href="https://www.youtube.com/watch?v=o6LlMk87rpQ"/>
         <updated>2025-02-18T12:01:13.000Z</updated>
@@ -510,15 +582,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Gây Nghiện Cực Phiêu♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=7EVkcAKGTCU</id>
-        <link href="https://www.youtube.com/watch?v=7EVkcAKGTCU"/>
-        <updated>2025-02-13T12:00:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Happy - Next Route (No Copyright Music) | Release Preview]]></title>
         <id>https://www.youtube.com/watch?v=6vXASXLG-FY</id>
         <link href="https://www.youtube.com/watch?v=6vXASXLG-FY"/>
@@ -537,7 +600,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[時隔兩年，完整講述【艾爾登法環】史詩級故事#1]]></title>
+        <title type="html"><![CDATA[蛇火誕生！古龍族退出歷史舞臺【艾爾登演義fms】]]></title>
         <id>https://www.youtube.com/watch?v=SBJ9RpEPQWg</id>
         <link href="https://www.youtube.com/watch?v=SBJ9RpEPQWg"/>
         <updated>2025-02-12T05:30:16.000Z</updated>
@@ -633,15 +696,6 @@
         <updated>2025-02-05T14:10:45.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=l1wzsOyFIn0</id>
-        <link href="https://www.youtube.com/watch?v=l1wzsOyFIn0"/>
-        <updated>2025-02-05T12:01:10.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
