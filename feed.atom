@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-07T01:52:08.482Z</id>
+    <id>urn:2025-03-08T01:23:16.957Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T01:52:08.482Z</updated>
+    <updated>2025-03-08T01:23:16.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 20 Bản EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Lip1RiiHxgg</id>
+        <link href="https://www.youtube.com/watch?v=Lip1RiiHxgg"/>
+        <updated>2025-03-07T12:03:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=B18Iozw300Y</id>
+        <link href="https://www.youtube.com/watch?v=B18Iozw300Y"/>
+        <updated>2025-03-07T12:00:22.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手機入門拍攝的最佳夥伴｜DJI Osmo Mobile 7P｜手機穩定器]]></title>
+        <id>https://www.youtube.com/watch?v=RpIZ28AZ-Y4</id>
+        <link href="https://www.youtube.com/watch?v=RpIZ28AZ-Y4"/>
+        <updated>2025-03-07T04:05:33.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設計系統會如何影響前端開發的模組化和可維護性（AAPD）]]></title>
         <id>https://www.youtube.com/watch?v=DetjtZovqnw</id>
@@ -564,15 +591,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VietNam B - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=-ulfNOnQ_Fo</id>
-        <link href="https://www.youtube.com/watch?v=-ulfNOnQ_Fo"/>
-        <updated>2025-02-14T12:00:00.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[社交属性拉满的法兰西M口旁轴相机——Pixii Max｜原来这么毒 第117集]]></title>
         <id>https://www.youtube.com/watch?v=8Mdp6IKg12Y</id>
         <link href="https://www.youtube.com/watch?v=8Mdp6IKg12Y"/>
@@ -678,24 +696,6 @@
         <updated>2025-02-06T16:32:21.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NiSi JetMag Pro 魔術套裝濾鏡組合]]></title>
-        <id>https://www.youtube.com/watch?v=y-24MXsP4dE</id>
-        <link href="https://www.youtube.com/watch?v=y-24MXsP4dE"/>
-        <updated>2025-02-06T04:46:25.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张千里2024年度作品盘点【纯享版】]]></title>
-        <id>https://www.youtube.com/watch?v=3mgd4VjeUbg</id>
-        <link href="https://www.youtube.com/watch?v=3mgd4VjeUbg"/>
-        <updated>2025-02-05T14:10:45.000Z</updated>
-        <author>
-            <name>左手+</name>
         </author>
     </entry>
 </feed>
