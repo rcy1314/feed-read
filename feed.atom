@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T01:52:32.428Z</id>
+    <id>urn:2025-03-12T01:51:25.144Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T01:52:32.428Z</updated>
+    <updated>2025-03-12T01:51:25.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 13 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=644oyedB_hA</id>
+        <link href="https://www.youtube.com/watch?v=644oyedB_hA"/>
+        <updated>2025-03-11T12:00:50.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中最神秘的反派，紅發拉達岡的誕生之謎！【艾爾登法環】]]></title>
+        <id>https://www.youtube.com/watch?v=LVRKn7Qxrr8</id>
+        <link href="https://www.youtube.com/watch?v=LVRKn7Qxrr8"/>
+        <updated>2025-03-11T12:00:34.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balloons - Fury Team [ Fury Release ]]]></title>
         <id>https://www.youtube.com/watch?v=iwtqjWLhp0g</id>
@@ -141,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黃金樹的高科技令交界地大為震撼！【艾爾登演義fms】]]></title>
+        <title type="html"><![CDATA[黃金樹的高科技令交界地大為震撼！【艾爾登法環】]]></title>
         <id>https://www.youtube.com/watch?v=32bFG3KzD8E</id>
         <link href="https://www.youtube.com/watch?v=32bFG3KzD8E"/>
         <updated>2025-03-06T12:00:05.000Z</updated>
@@ -573,16 +591,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 20 Bản Nhạc EDM TikTok Tiếng Anh US - UK Mix Hay Nhất ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=rRHDfI7LRwg</id>
-        <link href="https://www.youtube.com/watch?v=rRHDfI7LRwg"/>
-        <updated>2025-02-19T12:00:32.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[降神的真相和黃金神的誕生【艾爾登演義fms】]]></title>
+        <title type="html"><![CDATA[降神的真相和黃金神的誕生【艾爾登法環】]]></title>
         <id>https://www.youtube.com/watch?v=o6LlMk87rpQ</id>
         <link href="https://www.youtube.com/watch?v=o6LlMk87rpQ"/>
         <updated>2025-02-18T12:01:13.000Z</updated>
@@ -672,39 +681,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蛇火誕生！古龍族退出歷史舞臺【艾爾登演義fms】]]></title>
+        <title type="html"><![CDATA[蛇火誕生！古龍族退出歷史舞臺【艾爾登法環】]]></title>
         <id>https://www.youtube.com/watch?v=SBJ9RpEPQWg</id>
         <link href="https://www.youtube.com/watch?v=SBJ9RpEPQWg"/>
         <updated>2025-02-12T05:30:16.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩條北海道自駕路線推薦！只帶一台隨身相機旅行可以拍什麼？]]></title>
-        <id>https://www.youtube.com/watch?v=2--HGOa2YRw</id>
-        <link href="https://www.youtube.com/watch?v=2--HGOa2YRw"/>
-        <updated>2025-02-10T12:30:01.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年10款好玩的放置掛機角色扮演類手機遊戲精選！讓你解放雙手~輕鬆暢玩！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=Yol10H-KbU8</id>
-        <link href="https://www.youtube.com/watch?v=Yol10H-KbU8"/>
-        <updated>2025-02-10T12:00:49.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[requiem for a dream]]></title>
-        <id>https://www.youtube.com/watch?v=dnn1-a21xSI</id>
-        <link href="https://www.youtube.com/watch?v=dnn1-a21xSI"/>
-        <updated>2025-02-10T04:58:41.000Z</updated>
-        <author>
-            <name>D2izy +.+</name>
         </author>
     </entry>
 </feed>
