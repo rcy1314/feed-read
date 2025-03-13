@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-12T01:51:25.144Z</id>
+    <id>urn:2025-03-13T01:53:04.554Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T01:51:25.144Z</updated>
+    <updated>2025-03-13T01:53:04.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Roses - Next Route (No Copyright Music) | Release Preview]]></title>
+        <id>https://www.youtube.com/watch?v=NFxHXSDIck0</id>
+        <link href="https://www.youtube.com/watch?v=NFxHXSDIck0"/>
+        <updated>2025-03-12T16:00:26.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「週三八點半」器材吐槽夜！拍攝完會如何自我檢討？]]></title>
+        <id>https://www.youtube.com/watch?v=i6I21mr6VkI</id>
+        <link href="https://www.youtube.com/watch?v=i6I21mr6VkI"/>
+        <updated>2025-03-12T14:30:29.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VietNam H - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=xRCvxI0uRfo</id>
+        <link href="https://www.youtube.com/watch?v=xRCvxI0uRfo"/>
+        <updated>2025-03-12T12:03:01.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[標題： 2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=wTCCNPtqGOA</id>
+        <link href="https://www.youtube.com/watch?v=wTCCNPtqGOA"/>
+        <updated>2025-03-12T12:01:30.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 13 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=644oyedB_hA</id>
@@ -480,15 +516,6 @@
         <updated>2025-02-22T12:00:00.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 15 Bản Nhạc EDM Mix Thư Giãn Giai Điệu Vui Tươi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=32zrlI2gMRQ</id>
-        <link href="https://www.youtube.com/watch?v=32zrlI2gMRQ"/>
-        <updated>2025-02-21T12:29:19.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
