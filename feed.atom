@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T01:57:37.251Z</id>
+    <id>urn:2025-03-25T01:55:13.755Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T01:57:37.251Z</updated>
+    <updated>2025-03-25T01:55:13.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年15款喪屍題材 ZOMBIES 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=yZhN-S1q3VY</id>
+        <link href="https://www.youtube.com/watch?v=yZhN-S1q3VY"/>
+        <updated>2025-03-24T12:01:30.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthwave Retro Pop by LiQWYD & Waesto (No Copyright Background Music) / Thinking About You]]></title>
+        <id>https://www.youtube.com/watch?v=GlQruwtqyds</id>
+        <link href="https://www.youtube.com/watch?v=GlQruwtqyds"/>
+        <updated>2025-03-24T11:00:31.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】为什么 iPhone 不跑分？不堆电池容量？我们当面问了苹果产品营销副总裁]]></title>
+        <id>https://www.youtube.com/watch?v=bkDPWZCl8hE</id>
+        <link href="https://www.youtube.com/watch?v=bkDPWZCl8hE"/>
+        <updated>2025-03-24T10:54:34.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100RF x Kyotaro Hayashi/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=_ZMWIb_ihJ8</id>
+        <link href="https://www.youtube.com/watch?v=_ZMWIb_ihJ8"/>
+        <updated>2025-03-24T05:00:28.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100RF x Matthias Zwick/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=GJ2nC0RK9f0</id>
+        <link href="https://www.youtube.com/watch?v=GJ2nC0RK9f0"/>
+        <updated>2025-03-24T05:00:19.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100RF Development Story vol.3 : Innovative Lens /FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=M3GCb3cUkdo</id>
+        <link href="https://www.youtube.com/watch?v=M3GCb3cUkdo"/>
+        <updated>2025-03-24T05:00:13.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AE教程】如何用AE快速创建粒子产品展示广告]]></title>
+        <id>https://www.youtube.com/watch?v=SRwY0YQt2zg</id>
+        <link href="https://www.youtube.com/watch?v=SRwY0YQt2zg"/>
+        <updated>2025-03-24T04:00:31.000Z</updated>
+        <author>
+            <name>文广同学X</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果不做工程師，我下一步還能怎麼走｜洧杰校長課外分享 六角學員專屬優惠 現折 $300 @hexschool x @betweengos]]></title>
         <id>https://www.youtube.com/watch?v=TGSpJXQk6cQ</id>
@@ -795,15 +858,6 @@
         <updated>2025-02-24T00:54:19.000Z</updated>
         <author>
             <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何正确调节平衡大疆RS4 Mini稳定器]]></title>
-        <id>https://www.youtube.com/watch?v=kOd43EXE3aY</id>
-        <link href="https://www.youtube.com/watch?v=kOd43EXE3aY"/>
-        <updated>2025-02-23T12:00:57.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
