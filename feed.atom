@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-27T01:54:10.680Z</id>
+    <id>urn:2025-03-28T01:54:35.594Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T01:54:10.680Z</updated>
+    <updated>2025-03-28T01:54:35.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI和人類比賽寫程式，你押誰贏？]]></title>
+        <id>https://www.youtube.com/watch?v=URFquwesVFs</id>
+        <link href="https://www.youtube.com/watch?v=URFquwesVFs"/>
+        <updated>2025-03-28T01:50:29.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Nightcore ''Phiêu Không Lối Thoát" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=5hAOLCbHZFk</id>
+        <link href="https://www.youtube.com/watch?v=5hAOLCbHZFk"/>
+        <updated>2025-03-27T13:03:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學程式一定要砸大錢？上課前，先想想這三點]]></title>
+        <id>https://www.youtube.com/watch?v=j69MkUS76Ek</id>
+        <link href="https://www.youtube.com/watch?v=j69MkUS76Ek"/>
+        <updated>2025-03-27T12:00:59.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groove House by Declan DP (No Copyright Background Music) / Late Night]]></title>
+        <id>https://www.youtube.com/watch?v=OfrAKBxWRxE</id>
+        <link href="https://www.youtube.com/watch?v=OfrAKBxWRxE"/>
+        <updated>2025-03-27T11:00:35.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現在很多人都在學 AI 工具，直接讓 AI 幫忙寫程式，但…]]></title>
+        <id>https://www.youtube.com/watch?v=On9xg7wbUT0</id>
+        <link href="https://www.youtube.com/watch?v=On9xg7wbUT0"/>
+        <updated>2025-03-27T07:54:19.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100RF x Tomasz Lazar/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=xOXySNzvK9Y</id>
+        <link href="https://www.youtube.com/watch?v=xOXySNzvK9Y"/>
+        <updated>2025-03-27T05:00:48.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breakthrough - Fury Team [ Fury Release ]]]></title>
         <id>https://www.youtube.com/watch?v=cD2v2axOmBk</id>
@@ -348,15 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX100RF x Yukio Uchida/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=5tdhCQinYXI</id>
-        <link href="https://www.youtube.com/watch?v=5tdhCQinYXI"/>
-        <updated>2025-03-20T11:00:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 14 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=UNiGuuPiuTU</id>
         <link href="https://www.youtube.com/watch?v=UNiGuuPiuTU"/>
@@ -564,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 13 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=644oyedB_hA</id>
-        <link href="https://www.youtube.com/watch?v=644oyedB_hA"/>
-        <updated>2025-03-11T12:00:50.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中最神秘的反派，紅發拉達岡的誕生之謎！【艾爾登法環】]]></title>
         <id>https://www.youtube.com/watch?v=LVRKn7Qxrr8</id>
         <link href="https://www.youtube.com/watch?v=LVRKn7Qxrr8"/>
@@ -672,7 +708,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[探索俄國最神秘的無人區，與熊共舞！ ｜陈曦Stanley]]></title>
+        <title type="html"><![CDATA[探索俄国最神秘的无人区，与熊共舞！ 【上】｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=L35xzwobMlg</id>
         <link href="https://www.youtube.com/watch?v=L35xzwobMlg"/>
         <updated>2025-03-06T12:00:22.000Z</updated>
@@ -822,33 +858,6 @@
         <updated>2025-02-26T14:30:06.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=oR2PTc2vpB8</id>
-        <link href="https://www.youtube.com/watch?v=oR2PTc2vpB8"/>
-        <updated>2025-02-26T12:01:21.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿布扎比全体验，比迪拜更奢华，阿拉伯最低调紧凑的旅游城市。｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=uboz3sji3j0</id>
-        <link href="https://www.youtube.com/watch?v=uboz3sji3j0"/>
-        <updated>2025-02-26T11:41:48.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕鬆拍出故事感! Canon RF24mm F1.4 L VCM 值得入手嗎?]]></title>
-        <id>https://www.youtube.com/watch?v=gxLd-FsZXD8</id>
-        <link href="https://www.youtube.com/watch?v=gxLd-FsZXD8"/>
-        <updated>2025-02-26T10:20:18.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>

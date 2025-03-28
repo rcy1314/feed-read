@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5hAOLCbHZFk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5hAOLCbHZFk",
+          "publishedOn": "2025-03-27T13:03:18.000Z",
+          "wordCount": null,
+          "title": "Top 12 Bản Nhạc EDM Mix Nightcore ''Phiêu Không Lối Thoát\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cD2v2axOmBk",
           "author": null,
           "description": "",
@@ -231,16 +241,6 @@
           "wordCount": null,
           "title": "VietNam H - Fury Team [ Fury Release ]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=644oyedB_hA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=644oyedB_hA",
-          "publishedOn": "2025-03-11T12:00:50.000Z",
-          "wordCount": null,
-          "title": "TOP 13 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -294,16 +294,6 @@
           "wordCount": null,
           "title": "如何把生活拍的像電影? 拍片其實可以很簡單",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gxLd-FsZXD8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gxLd-FsZXD8",
-          "publishedOn": "2025-02-26T10:20:18.000Z",
-          "wordCount": null,
-          "title": "輕鬆拍出故事感! Canon RF24mm F1.4 L VCM 值得入手嗎?",
-          "imageUrl": null
         }
       ]
     },
@@ -345,6 +335,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=URFquwesVFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=URFquwesVFs",
+          "publishedOn": "2025-03-28T01:50:29.000Z",
+          "wordCount": null,
+          "title": "AI和人類比賽寫程式，你押誰贏？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j69MkUS76Ek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j69MkUS76Ek",
+          "publishedOn": "2025-03-27T12:00:59.000Z",
+          "wordCount": null,
+          "title": "學程式一定要砸大錢？上課前，先想想這三點",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=On9xg7wbUT0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=On9xg7wbUT0",
+          "publishedOn": "2025-03-27T07:54:19.000Z",
+          "wordCount": null,
+          "title": "現在很多人都在學 AI 工具，直接讓 AI 幫忙寫程式，但…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TGSpJXQk6cQ",
           "author": null,
@@ -606,16 +626,6 @@
           "wordCount": null,
           "title": "2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #8",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oR2PTc2vpB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oR2PTc2vpB8",
-          "publishedOn": "2025-02-26T12:01:21.000Z",
-          "wordCount": null,
-          "title": "2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #7",
-          "imageUrl": null
         }
       ]
     },
@@ -707,17 +717,7 @@
           "link": "https://www.youtube.com/watch?v=L35xzwobMlg",
           "publishedOn": "2025-03-06T12:00:22.000Z",
           "wordCount": null,
-          "title": "探索俄國最神秘的無人區，與熊共舞！ ｜陈曦Stanley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uboz3sji3j0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uboz3sji3j0",
-          "publishedOn": "2025-02-26T11:41:48.000Z",
-          "wordCount": null,
-          "title": "阿布扎比全体验，比迪拜更奢华，阿拉伯最低调紧凑的旅游城市。｜陈曦Stanley",
+          "title": "探索俄国最神秘的无人区，与熊共舞！ 【上】｜陈曦Stanley",
           "imageUrl": null
         }
       ]
@@ -833,6 +833,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xOXySNzvK9Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xOXySNzvK9Y",
+          "publishedOn": "2025-03-27T05:00:48.000Z",
+          "wordCount": null,
+          "title": "GFX100RF x Tomasz Lazar/ FUJIFILM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=PgaGZ4_UT-4",
           "author": null,
@@ -972,16 +982,6 @@
           "wordCount": null,
           "title": "GFX100RF x Jonas Dyhr Rask/ FUJIFILM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5tdhCQinYXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5tdhCQinYXI",
-          "publishedOn": "2025-03-20T11:00:07.000Z",
-          "wordCount": null,
-          "title": "GFX100RF x Yukio Uchida/ FUJIFILM",
-          "imageUrl": null
         }
       ]
     },
@@ -990,6 +990,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=OfrAKBxWRxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OfrAKBxWRxE",
+          "publishedOn": "2025-03-27T11:00:35.000Z",
+          "wordCount": null,
+          "title": "Groove House by Declan DP (No Copyright Background Music) / Late Night",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1U3jYbQa3Jg",
           "author": null,
