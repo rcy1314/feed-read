@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T01:53:16.827Z</id>
+    <id>urn:2025-03-30T02:02:32.715Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T01:53:16.827Z</updated>
+    <updated>2025-03-30T02:02:32.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[對資深工程師來說，AI 是ＸＸ]]></title>
+        <id>https://www.youtube.com/watch?v=U-pFD9peP_4</id>
+        <link href="https://www.youtube.com/watch?v=U-pFD9peP_4"/>
+        <updated>2025-03-29T13:00:48.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Top Nhạc EDM Mix Alan Walker Gây Nghiện Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=CbjBjwJBrBI</id>
+        <link href="https://www.youtube.com/watch?v=CbjBjwJBrBI"/>
+        <updated>2025-03-29T12:00:08.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Trap Chill by Alex-Productions (No Copyright Background Music) / Monumental]]></title>
+        <id>https://www.youtube.com/watch?v=XMCP_XzQocU</id>
+        <link href="https://www.youtube.com/watch?v=XMCP_XzQocU"/>
+        <updated>2025-03-29T11:00:43.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
         <id>https://www.youtube.com/watch?v=Vtb9ZAQnVQQ</id>
@@ -609,24 +636,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roses - Next Route (No Copyright Music) | Release Preview]]></title>
-        <id>https://www.youtube.com/watch?v=NFxHXSDIck0</id>
-        <link href="https://www.youtube.com/watch?v=NFxHXSDIck0"/>
-        <updated>2025-03-12T16:00:26.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VietNam H - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=xRCvxI0uRfo</id>
-        <link href="https://www.youtube.com/watch?v=xRCvxI0uRfo"/>
-        <updated>2025-03-12T12:03:01.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
         <id>https://www.youtube.com/watch?v=wTCCNPtqGOA</id>
         <link href="https://www.youtube.com/watch?v=wTCCNPtqGOA"/>
@@ -831,42 +840,6 @@
         <updated>2025-03-01T05:00:07.000Z</updated>
         <author>
             <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年2月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #8]]></title>
-        <id>https://www.youtube.com/watch?v=w2RqUGTw4Ck</id>
-        <link href="https://www.youtube.com/watch?v=w2RqUGTw4Ck"/>
-        <updated>2025-02-28T12:01:33.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何把生活拍的像電影? 拍片其實可以很簡單]]></title>
-        <id>https://www.youtube.com/watch?v=r1wdWrzwk0E</id>
-        <link href="https://www.youtube.com/watch?v=r1wdWrzwk0E"/>
-        <updated>2025-02-28T11:12:42.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10个我在澳洲旅行住过的“超绝住宿”推荐！]]></title>
-        <id>https://www.youtube.com/watch?v=1dQExsectFM</id>
-        <link href="https://www.youtube.com/watch?v=1dQExsectFM"/>
-        <updated>2025-02-28T10:15:00.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AE教程】零插件实现炫酷3D运动拖尾效果，超简单教程！]]></title>
-        <id>https://www.youtube.com/watch?v=oUiM7i0ab4E</id>
-        <link href="https://www.youtube.com/watch?v=oUiM7i0ab4E"/>
-        <updated>2025-02-28T03:00:49.000Z</updated>
-        <author>
-            <name>文广同学X</name>
         </author>
     </entry>
 </feed>
