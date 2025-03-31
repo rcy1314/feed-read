@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-30T02:02:32.715Z</id>
+    <id>urn:2025-03-31T02:00:33.347Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T02:02:32.715Z</updated>
+    <updated>2025-03-31T02:00:33.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Monody - Fury Team [ Fury Release ]]]></title>
+        <id>https://www.youtube.com/watch?v=95h6o0P-EI0</id>
+        <link href="https://www.youtube.com/watch?v=95h6o0P-EI0"/>
+        <updated>2025-03-30T12:03:05.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Hip-Hop Beat by Roa (No Copyright Background Music) / Glory]]></title>
+        <id>https://www.youtube.com/watch?v=yFpEmNJ_gUU</id>
+        <link href="https://www.youtube.com/watch?v=yFpEmNJ_gUU"/>
+        <updated>2025-03-30T11:01:09.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對資深工程師來說，AI 是ＸＸ]]></title>
         <id>https://www.youtube.com/watch?v=U-pFD9peP_4</id>
@@ -582,15 +600,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chillwave Synthwave Ambient by KV (No Copyright Background Music) / Fantasy]]></title>
-        <id>https://www.youtube.com/watch?v=fRQtjs1mkYA</id>
-        <link href="https://www.youtube.com/watch?v=fRQtjs1mkYA"/>
-        <updated>2025-03-15T12:00:59.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4]]></title>
         <id>https://www.youtube.com/watch?v=RDfPYqgf1CM</id>
         <link href="https://www.youtube.com/watch?v=RDfPYqgf1CM"/>
@@ -615,15 +624,6 @@
         <updated>2025-03-14T06:15:03.000Z</updated>
         <author>
             <name>文广同学X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 17 Bản Nhạc EDM Mix Nightcore ''Hay Hơn Bản Gốc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=Cnn5ZRy2eTE</id>
-        <link href="https://www.youtube.com/watch?v=Cnn5ZRy2eTE"/>
-        <updated>2025-03-13T12:02:22.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -831,15 +831,6 @@
         <updated>2025-03-02T21:10:16.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跑笔生花，轨迹里的城市交响 | 当跑步成为一种艺术]]></title>
-        <id>https://www.youtube.com/watch?v=ZSGUs8Q9Ugg</id>
-        <link href="https://www.youtube.com/watch?v=ZSGUs8Q9Ugg"/>
-        <updated>2025-03-01T05:00:07.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
         </author>
     </entry>
 </feed>

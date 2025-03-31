@@ -83,6 +83,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=95h6o0P-EI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=95h6o0P-EI0",
+          "publishedOn": "2025-03-30T12:03:05.000Z",
+          "wordCount": null,
+          "title": "Monody - Fury Team [ Fury Release ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CbjBjwJBrBI",
           "author": null,
           "description": "",
@@ -220,16 +230,6 @@
           "publishedOn": "2025-03-14T12:00:01.000Z",
           "wordCount": null,
           "title": "Hazy Moon - Fury Team [ Fury Release ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Cnn5ZRy2eTE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Cnn5ZRy2eTE",
-          "publishedOn": "2025-03-13T12:02:22.000Z",
-          "wordCount": null,
-          "title": "Top 17 Bản Nhạc EDM Mix Nightcore ''Hay Hơn Bản Gốc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
         }
       ]
@@ -623,18 +623,7 @@
       "title": "Hantao TB",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
       "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZSGUs8Q9Ugg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZSGUs8Q9Ugg",
-          "publishedOn": "2025-03-01T05:00:07.000Z",
-          "wordCount": null,
-          "title": "跑笔生花，轨迹里的城市交响 | 当跑步成为一种艺术",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "爱否科技",
@@ -970,6 +959,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yFpEmNJ_gUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yFpEmNJ_gUU",
+          "publishedOn": "2025-03-30T11:01:09.000Z",
+          "wordCount": null,
+          "title": "Chill Hip-Hop Beat by Roa (No Copyright Background Music) / Glory",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XMCP_XzQocU",
           "author": null,
           "description": "",
@@ -1107,16 +1106,6 @@
           "publishedOn": "2025-03-16T12:00:18.000Z",
           "wordCount": null,
           "title": "Chill Synthwave Electronic by Pyrosion (No Copyright Background Music) / New Heights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fRQtjs1mkYA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fRQtjs1mkYA",
-          "publishedOn": "2025-03-15T12:00:59.000Z",
-          "wordCount": null,
-          "title": "Chillwave Synthwave Ambient by KV (No Copyright Background Music) / Fantasy",
           "imageUrl": null
         }
       ]
