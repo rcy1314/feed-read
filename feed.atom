@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T01:55:00.112Z</id>
+    <id>urn:2025-04-05T01:53:26.002Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T01:55:00.112Z</updated>
+    <updated>2025-04-05T01:53:26.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年護肝神作？小林裕介 × 鬼頭明里獻聲！精美立繪忠實還原 x 簡單易懂的玩法！| Android & iOS 手遊推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=2fMn8-euZ7k</id>
+        <link href="https://www.youtube.com/watch?v=2fMn8-euZ7k"/>
+        <updated>2025-04-05T00:30:02.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年4月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=Qukq8D0SERE</id>
+        <link href="https://www.youtube.com/watch?v=Qukq8D0SERE"/>
+        <updated>2025-04-04T12:00:40.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Dream Pop by Onycs (No Copyright Background Music) / Beyond]]></title>
+        <id>https://www.youtube.com/watch?v=mBQ2tunOn-U</id>
+        <link href="https://www.youtube.com/watch?v=mBQ2tunOn-U"/>
+        <updated>2025-04-04T11:01:07.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX100RF x Daisuke Kumakiri/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=mk2ZUnIEyQ8</id>
+        <link href="https://www.youtube.com/watch?v=mk2ZUnIEyQ8"/>
+        <updated>2025-04-04T05:00:43.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pop Dance Electronic by Jay Someday (No Copyright Background Music) / Easy]]></title>
         <id>https://www.youtube.com/watch?v=RGknx1hFv7Y</id>
@@ -654,15 +690,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX100RF Development Story vol.2 : Redefining GFX Portability/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=b0fa_-7WOxM</id>
-        <link href="https://www.youtube.com/watch?v=b0fa_-7WOxM"/>
-        <updated>2025-03-21T05:00:25.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sapientdream, Slushii - Past Lives (The Chainsmokers Remix)]]></title>
         <id>https://www.youtube.com/watch?v=i1Q2wiVI0ZY</id>
         <link href="https://www.youtube.com/watch?v=i1Q2wiVI0ZY"/>
@@ -687,15 +714,6 @@
         <updated>2025-03-20T11:59:24.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic Dance by Declan DP (No Copyright Background Music) / City Lights]]></title>
-        <id>https://www.youtube.com/watch?v=EOqKRXTdqXE</id>
-        <link href="https://www.youtube.com/watch?v=EOqKRXTdqXE"/>
-        <updated>2025-03-20T11:00:25.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -901,69 +919,6 @@
         <id>https://www.youtube.com/watch?v=DetjtZovqnw</id>
         <link href="https://www.youtube.com/watch?v=DetjtZovqnw"/>
         <updated>2025-03-07T01:04:20.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以為是穩定器其實是一堂錄影課程｜DJI Osmo Mobile 7P｜手機穩定器]]></title>
-        <id>https://www.youtube.com/watch?v=-9r5EV9-gDY</id>
-        <link href="https://www.youtube.com/watch?v=-9r5EV9-gDY"/>
-        <updated>2025-03-06T12:30:00.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索俄国最神秘的无人区，与熊共舞！ 【上】｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=L35xzwobMlg</id>
-        <link href="https://www.youtube.com/watch?v=L35xzwobMlg"/>
-        <updated>2025-03-06T12:00:22.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃金樹的高科技令交界地大為震撼！【艾爾登法環】]]></title>
-        <id>https://www.youtube.com/watch?v=32bFG3KzD8E</id>
-        <link href="https://www.youtube.com/watch?v=32bFG3KzD8E"/>
-        <updated>2025-03-06T12:00:05.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 分钟塞爆 4TB！致态 TiPro9000 SSD 暴力测试]]></title>
-        <id>https://www.youtube.com/watch?v=WXLv7hISRQU</id>
-        <link href="https://www.youtube.com/watch?v=WXLv7hISRQU"/>
-        <updated>2025-03-06T11:14:37.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攝影進步的真正方法]]></title>
-        <id>https://www.youtube.com/watch?v=HVdXB1FSof0</id>
-        <link href="https://www.youtube.com/watch?v=HVdXB1FSof0"/>
-        <updated>2025-03-06T10:01:21.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三步驟 在本機運行語言模型 | Ollama、DeepSeekR1、Open Web UI]]></title>
-        <id>https://www.youtube.com/watch?v=-xiJQ1i48oQ</id>
-        <link href="https://www.youtube.com/watch?v=-xiJQ1i48oQ"/>
-        <updated>2025-03-06T05:47:53.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 新手想入門學程式該怎麼做？帶你看技能樹！- 線上說明會 3/5 (三)  20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=AWbg9kje44M</id>
-        <link href="https://www.youtube.com/watch?v=AWbg9kje44M"/>
-        <updated>2025-03-06T01:46:02.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
