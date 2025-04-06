@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T01:53:26.002Z</id>
+    <id>urn:2025-04-06T02:01:19.287Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T01:53:26.002Z</updated>
+    <updated>2025-04-06T02:01:19.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My love mine all mine]]></title>
+        <id>https://www.youtube.com/watch?v=3L_8E5CATl4</id>
+        <link href="https://www.youtube.com/watch?v=3L_8E5CATl4"/>
+        <updated>2025-04-05T14:56:05.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=m9OGtr1dxkU</id>
+        <link href="https://www.youtube.com/watch?v=m9OGtr1dxkU"/>
+        <updated>2025-04-05T12:00:52.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全网最全解读：5年拉锯，TikTok与美国政府的漫长博弈【奔流·字节跳动】P1]]></title>
+        <id>https://www.youtube.com/watch?v=bZPbjAv2giQ</id>
+        <link href="https://www.youtube.com/watch?v=bZPbjAv2giQ"/>
+        <updated>2025-04-05T11:21:38.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Electronic Pop by Spiring (No Copyright Background Music) / Stay Calm]]></title>
+        <id>https://www.youtube.com/watch?v=Sb6XVY0YFZg</id>
+        <link href="https://www.youtube.com/watch?v=Sb6XVY0YFZg"/>
+        <updated>2025-04-05T11:00:38.000Z</updated>
+        <author>
+            <name>Audio Library — Music for content creators</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首位AI軟體工程師Devin都已經誕生了！學寫程式還有用嗎？AI 真的會取代軟體工程師？]]></title>
+        <id>https://www.youtube.com/watch?v=j5tbZRSFDvU</id>
+        <link href="https://www.youtube.com/watch?v=j5tbZRSFDvU"/>
+        <updated>2025-04-05T03:00:41.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年護肝神作？小林裕介 × 鬼頭明里獻聲！精美立繪忠實還原 x 簡單易懂的玩法！| Android & iOS 手遊推薦！]]></title>
         <id>https://www.youtube.com/watch?v=2fMn8-euZ7k</id>
@@ -663,15 +708,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambient Electronic by GalaxyTones (No Copyright Background Music) / Fly Away]]></title>
-        <id>https://www.youtube.com/watch?v=ObM2FJOqIAM</id>
-        <link href="https://www.youtube.com/watch?v=ObM2FJOqIAM"/>
-        <updated>2025-03-21T11:00:39.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“嫌世界太蠢”的技术狂人，让中国无人机碾压全球【奔流·大疆】P1]]></title>
         <id>https://www.youtube.com/watch?v=uU1YatflISg</id>
         <link href="https://www.youtube.com/watch?v=uU1YatflISg"/>
@@ -789,15 +825,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day Time - Fury Team [ Fury Release ]]]></title>
-        <id>https://www.youtube.com/watch?v=MiLEn5C38FA</id>
-        <link href="https://www.youtube.com/watch?v=MiLEn5C38FA"/>
-        <updated>2025-03-16T11:59:24.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4]]></title>
         <id>https://www.youtube.com/watch?v=RDfPYqgf1CM</id>
         <link href="https://www.youtube.com/watch?v=RDfPYqgf1CM"/>
@@ -894,33 +921,6 @@
         <updated>2025-03-08T04:30:22.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=B18Iozw300Y</id>
-        <link href="https://www.youtube.com/watch?v=B18Iozw300Y"/>
-        <updated>2025-03-07T12:00:22.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手機入門拍攝的最佳夥伴｜DJI Osmo Mobile 7P｜手機穩定器]]></title>
-        <id>https://www.youtube.com/watch?v=RpIZ28AZ-Y4</id>
-        <link href="https://www.youtube.com/watch?v=RpIZ28AZ-Y4"/>
-        <updated>2025-03-07T04:05:33.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設計系統會如何影響前端開發的模組化和可維護性（AAPD）]]></title>
-        <id>https://www.youtube.com/watch?v=DetjtZovqnw</id>
-        <link href="https://www.youtube.com/watch?v=DetjtZovqnw"/>
-        <updated>2025-03-07T01:04:20.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
