@@ -294,16 +294,6 @@
           "wordCount": null,
           "title": "2025相機購買推薦指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6EqwjKgKaVM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6EqwjKgKaVM",
-          "publishedOn": "2025-03-08T09:32:58.000Z",
-          "wordCount": null,
-          "title": "長大的輪廓裡，是不是都寫著失去",
-          "imageUrl": null
         }
       ]
     },
@@ -346,16 +336,6 @@
           "publishedOn": "2025-03-10T00:45:03.000Z",
           "wordCount": null,
           "title": "DJI Neo还值得买吗?还是Flip更香?大疆无人机新手最佳选择对比!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RXofzrE0UtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RXofzrE0UtI",
-          "publishedOn": "2025-03-08T04:30:22.000Z",
-          "wordCount": null,
-          "title": "新手必看！滑轨运镜技巧，让你的视频更丝滑",
           "imageUrl": null
         }
       ]
@@ -1059,6 +1039,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-RtCeFYXuzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-RtCeFYXuzw",
+          "publishedOn": "2025-04-06T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Electronic Chiptune Dance by Johny Grimes (No Copyright Background Music) / Trinix",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Sb6XVY0YFZg",
           "author": null,
           "description": "",
@@ -1196,16 +1186,6 @@
           "publishedOn": "2025-03-23T11:00:29.000Z",
           "wordCount": null,
           "title": "Ambient Piano by Scandinavianz (No Copyright Background Music) / Dawn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-aSlWjkhKj4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-aSlWjkhKj4",
-          "publishedOn": "2025-03-22T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Dance Electronic by Peyruis (No Copyright Background Music) / Starlight",
           "imageUrl": null
         }
       ]
