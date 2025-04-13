@@ -61,16 +61,6 @@
           "wordCount": null,
           "title": "【AE教程】如何用AE快速创建粒子产品展示广告",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=whVR22G-fHA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=whVR22G-fHA",
-          "publishedOn": "2025-03-14T06:15:03.000Z",
-          "wordCount": null,
-          "title": "【AE教程】不会 AE？这两个实用特效带你入门！",
-          "imageUrl": null
         }
       ]
     },
@@ -737,16 +727,6 @@
           "wordCount": null,
           "title": "2025年15款沙盒類 SANDBOX 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RDfPYqgf1CM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RDfPYqgf1CM",
-          "publishedOn": "2025-03-14T12:00:39.000Z",
-          "wordCount": null,
-          "title": "2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4",
-          "imageUrl": null
         }
       ]
     },
@@ -1080,6 +1060,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=R3FpZZ14joo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=R3FpZZ14joo",
+          "publishedOn": "2025-04-12T11:00:46.000Z",
+          "wordCount": null,
+          "title": "Electronic Pop Dance by Spiring (No Copyright Background Music) / Crystal Water",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0R_NxzhwGZs",
           "author": null,
           "description": "",
@@ -1217,16 +1207,6 @@
           "publishedOn": "2025-03-29T11:00:43.000Z",
           "wordCount": null,
           "title": "Ambient Trap Chill by Alex-Productions (No Copyright Background Music) / Monumental",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zUT8MBkLoVA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zUT8MBkLoVA",
-          "publishedOn": "2025-03-28T11:01:32.000Z",
-          "wordCount": null,
-          "title": "Chill Pop by Pyrosion (No Copyright Background Music) / Speechless",
           "imageUrl": null
         }
       ]
