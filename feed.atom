@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T01:58:45.434Z</id>
+    <id>urn:2025-04-24T01:59:06.993Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T01:58:45.434Z</updated>
+    <updated>2025-04-24T01:59:06.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年4月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #7]]></title>
+        <id>https://www.youtube.com/watch?v=mXHfhaOgpm8</id>
+        <link href="https://www.youtube.com/watch?v=mXHfhaOgpm8"/>
+        <updated>2025-04-23T12:01:26.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 13 Bản EDM Mix Cực Phiêu "Buff Sức Mạnh" Leo Rank ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=n9GJZIshr9Q</id>
+        <link href="https://www.youtube.com/watch?v=n9GJZIshr9Q"/>
+        <updated>2025-04-23T12:01:17.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Driving Bass by Mehul Choudhary (No Copyright Background Music) / Vortex]]></title>
+        <id>https://www.youtube.com/watch?v=nepUxosaPBw</id>
+        <link href="https://www.youtube.com/watch?v=nepUxosaPBw"/>
+        <updated>2025-04-23T11:01:19.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Background Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[路邊天橋怎麼拍？小偉跟你一起拍。#1分鐘OK #人像攝影  #拍照技巧 #拍照教學]]></title>
         <id>https://www.youtube.com/watch?v=EJ8iUj2iDBM</id>
@@ -29,7 +56,7 @@
         <link href="https://www.youtube.com/watch?v=KV3-wal-iQE"/>
         <updated>2025-04-22T11:00:28.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +110,7 @@
         <link href="https://www.youtube.com/watch?v=7ywZ-wKmawM"/>
         <updated>2025-04-21T11:00:11.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -110,7 +137,7 @@
         <link href="https://www.youtube.com/watch?v=R2VpHlY_lEA"/>
         <updated>2025-04-20T11:00:48.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -128,7 +155,7 @@
         <link href="https://www.youtube.com/watch?v=mE3IMGx4Cs4"/>
         <updated>2025-04-19T11:01:13.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -164,7 +191,7 @@
         <link href="https://www.youtube.com/watch?v=qD44TeHeLWY"/>
         <updated>2025-04-18T11:01:29.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -209,7 +236,7 @@
         <link href="https://www.youtube.com/watch?v=5hCIile42gY"/>
         <updated>2025-04-17T11:00:08.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -236,7 +263,7 @@
         <link href="https://www.youtube.com/watch?v=28kDLVdBl78"/>
         <updated>2025-04-16T11:00:10.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -263,7 +290,7 @@
         <link href="https://www.youtube.com/watch?v=XRVCCb3uzvk"/>
         <updated>2025-04-15T11:00:58.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -317,7 +344,7 @@
         <link href="https://www.youtube.com/watch?v=Pz9R3QCYDoM"/>
         <updated>2025-04-14T11:00:39.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -353,7 +380,7 @@
         <link href="https://www.youtube.com/watch?v=MozH8hJxkS0"/>
         <updated>2025-04-13T11:00:28.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -362,7 +389,7 @@
         <link href="https://www.youtube.com/watch?v=R3FpZZ14joo"/>
         <updated>2025-04-12T11:00:46.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -389,7 +416,7 @@
         <link href="https://www.youtube.com/watch?v=0R_NxzhwGZs"/>
         <updated>2025-04-11T11:00:02.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -434,7 +461,7 @@
         <link href="https://www.youtube.com/watch?v=sDT7_f5nOtc"/>
         <updated>2025-04-10T11:01:16.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -461,7 +488,7 @@
         <link href="https://www.youtube.com/watch?v=IE-oPvg-9HE"/>
         <updated>2025-04-09T11:00:32.000Z</updated>
         <author>
-            <name>Audio Library — Music for content creators</name>
+            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -498,15 +525,6 @@
         <updated>2025-04-08T13:00:03.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic Dance Pop by Peyruis (No Copyright Background Music) / Vitamin]]></title>
-        <id>https://www.youtube.com/watch?v=GKTYot4iQvE</id>
-        <link href="https://www.youtube.com/watch?v=GKTYot4iQvE"/>
-        <updated>2025-04-08T11:00:21.000Z</updated>
-        <author>
-            <name>Audio Library — Music for content creators</name>
         </author>
     </entry>
     <entry>
@@ -816,15 +834,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Nightcore ''Phiêu Không Lối Thoát" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=9siJD0SDxDw</id>
-        <link href="https://www.youtube.com/watch?v=9siJD0SDxDw"/>
-        <updated>2025-03-31T12:15:35.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年15款二次元風格 ACGN 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
         <id>https://www.youtube.com/watch?v=_WHvB0-UkB4</id>
         <link href="https://www.youtube.com/watch?v=_WHvB0-UkB4"/>
@@ -948,15 +957,6 @@
         <updated>2025-03-26T12:00:06.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1.8 戰隊新成員！夜景超廣角新選擇｜Sony FE 16mm F1.8 G]]></title>
-        <id>https://www.youtube.com/watch?v=r1YK3egbyCY</id>
-        <link href="https://www.youtube.com/watch?v=r1YK3egbyCY"/>
-        <updated>2025-03-25T12:30:50.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
