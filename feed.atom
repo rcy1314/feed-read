@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T01:55:18.343Z</id>
+    <id>urn:2025-04-27T02:05:02.440Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T01:55:18.343Z</updated>
+    <updated>2025-04-27T02:05:02.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 25 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=rCLVX1h0-uY</id>
+        <link href="https://www.youtube.com/watch?v=rCLVX1h0-uY"/>
+        <updated>2025-04-26T11:59:59.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lo-fi Chill Hip-hop by Roa (No Copyright Background Music) / Blue (chill version)]]></title>
+        <id>https://www.youtube.com/watch?v=0Cdx8pEhPhY</id>
+        <link href="https://www.youtube.com/watch?v=0Cdx8pEhPhY"/>
+        <updated>2025-04-26T11:00:03.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Background Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất Của "TheFatRat" ♫ Nhạc Điện Tử Mix Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=ObP08DAO5xo</id>
@@ -474,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electronic Pop Dance by Spiring (No Copyright Background Music) / Crystal Water]]></title>
-        <id>https://www.youtube.com/watch?v=R3FpZZ14joo</id>
-        <link href="https://www.youtube.com/watch?v=R3FpZZ14joo"/>
-        <updated>2025-04-12T11:00:46.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Background Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Nghe Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=K1gODAE7bJE</id>
         <link href="https://www.youtube.com/watch?v=K1gODAE7bJE"/>
@@ -543,15 +552,6 @@
         <updated>2025-04-09T12:01:00.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 13 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=97T4Qtpu2xk</id>
-        <link href="https://www.youtube.com/watch?v=97T4Qtpu2xk"/>
-        <updated>2025-04-09T11:59:29.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -928,42 +928,6 @@
         <id>https://www.youtube.com/watch?v=U-pFD9peP_4</id>
         <link href="https://www.youtube.com/watch?v=U-pFD9peP_4"/>
         <updated>2025-03-29T13:00:48.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年3月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
-        <id>https://www.youtube.com/watch?v=Vtb9ZAQnVQQ</id>
-        <link href="https://www.youtube.com/watch?v=Vtb9ZAQnVQQ"/>
-        <updated>2025-03-28T12:00:45.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球尽头的烈焰王国：勘察加火山探险记【下】｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=Rv6haxt6PEE</id>
-        <link href="https://www.youtube.com/watch?v=Rv6haxt6PEE"/>
-        <updated>2025-03-28T11:30:26.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100RF x Waran Suwanno/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Cg2QHprNowk</id>
-        <link href="https://www.youtube.com/watch?v=Cg2QHprNowk"/>
-        <updated>2025-03-28T05:00:14.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI和人類比賽寫程式，你押誰贏？]]></title>
-        <id>https://www.youtube.com/watch?v=URFquwesVFs</id>
-        <link href="https://www.youtube.com/watch?v=URFquwesVFs"/>
-        <updated>2025-03-28T01:50:29.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
