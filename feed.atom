@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-13T02:03:38.952Z</id>
+    <id>urn:2025-05-14T02:02:13.469Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T02:03:38.952Z</updated>
+    <updated>2025-05-14T02:02:13.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[『全台最好拍販賣機？』水手的相反是什麼？ #1分鐘OK #人像攝影 #攝影教學 #拍照技巧 #拍照教學 #photography]]></title>
+        <id>https://www.youtube.com/watch?v=eOD4FSohpBw</id>
+        <link href="https://www.youtube.com/watch?v=eOD4FSohpBw"/>
+        <updated>2025-05-13T12:30:48.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=6jlXRSG-mDQ</id>
+        <link href="https://www.youtube.com/watch?v=6jlXRSG-mDQ"/>
+        <updated>2025-05-13T12:01:23.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Atmospheric Calm by Johny Grimes (No Copyright Background Music) / Dreamy Cat]]></title>
+        <id>https://www.youtube.com/watch?v=AD6TyKedfU8</id>
+        <link href="https://www.youtube.com/watch?v=AD6TyKedfU8"/>
+        <updated>2025-05-13T11:00:30.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Background Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[膝蓋不好不要來讀！什麼校園明明就是爬山！｜陽明交通大學｜FUJIFILM X-M5]]></title>
         <id>https://www.youtube.com/watch?v=MVgxCwTtF34</id>
@@ -465,15 +492,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electronic Dance by Next Route (No Copyright Background Music) / Temple]]></title>
-        <id>https://www.youtube.com/watch?v=qqnbQCYKc5Q</id>
-        <link href="https://www.youtube.com/watch?v=qqnbQCYKc5Q"/>
-        <updated>2025-04-29T11:01:24.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Background Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在澳洲首都，我遇见了一场超燃浪漫｜佳能旅拍vlog记录 Shot On Canon EOS R5 MarkII]]></title>
         <id>https://www.youtube.com/watch?v=YUmJ-Ta_ni4</id>
         <link href="https://www.youtube.com/watch?v=YUmJ-Ta_ni4"/>
@@ -489,15 +507,6 @@
         <updated>2025-04-28T12:31:08.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 15 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=SQ4oIMl2sos</id>
-        <link href="https://www.youtube.com/watch?v=SQ4oIMl2sos"/>
-        <updated>2025-04-28T12:02:53.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -687,33 +696,6 @@
         <updated>2025-04-16T01:00:02.000Z</updated>
         <author>
             <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80%的人都弄錯的攝影知識！廣角透視 vs 長焦壓縮！]]></title>
-        <id>https://www.youtube.com/watch?v=Ji-fXVPAKOg</id>
-        <link href="https://www.youtube.com/watch?v=Ji-fXVPAKOg"/>
-        <updated>2025-04-15T10:19:56.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不“Ultra”的外观，还能当最强影像旗舰么？]]></title>
-        <id>https://www.youtube.com/watch?v=Z3a0WEBmWzk</id>
-        <link href="https://www.youtube.com/watch?v=Z3a0WEBmWzk"/>
-        <updated>2025-04-14T05:42:17.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX100RF x Tsutomu Endo/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=-bBEcR_X60E</id>
-        <link href="https://www.youtube.com/watch?v=-bBEcR_X60E"/>
-        <updated>2025-04-14T05:00:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
