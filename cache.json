@@ -41,6 +41,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wgNEXlYgBSE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wgNEXlYgBSE",
+          "publishedOn": "2025-05-25T11:59:22.000Z",
+          "wordCount": null,
+          "title": "Top 10 Bản Nhạc EDM Mix Phiêu \"Nghe là Nghiện \" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cUIqzVRa9-0",
           "author": null,
           "description": "",
@@ -179,16 +189,6 @@
           "wordCount": null,
           "title": "Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 15 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rdTpk4AD33w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rdTpk4AD33w",
-          "publishedOn": "2025-05-10T12:01:19.000Z",
-          "wordCount": null,
-          "title": "Top 10 Bản Nhạc EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -326,7 +326,18 @@
       "title": "附魔星Fms",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4cFzs3Iotlu27fOP_KwlA",
       "siteUrl": "https://www.youtube.com/channel/UCm4cFzs3Iotlu27fOP_KwlA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GwlexckwhqE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GwlexckwhqE",
+          "publishedOn": "2025-05-25T12:00:25.000Z",
+          "wordCount": null,
+          "title": "是溫情還是驚悚，是極樂還是樊籠？【品遊X】",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "花現新大鹿DoeDaDa",
@@ -797,6 +808,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HkrKgYJZre8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HkrKgYJZre8",
+          "publishedOn": "2025-05-25T11:00:34.000Z",
+          "wordCount": null,
+          "title": "Dark · Synth · Electronic by Mehul Choudhary | No Copyright Music | \"Phxntxm\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QEdhlAJp9hU",
           "author": null,
           "description": "",
@@ -934,16 +955,6 @@
           "publishedOn": "2025-05-11T11:01:15.000Z",
           "wordCount": null,
           "title": "Electronic Retro Groove by KV (No Copyright Background Music) / Evasion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oN6s9d_ZhBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oN6s9d_ZhBc",
-          "publishedOn": "2025-05-10T11:01:19.000Z",
-          "wordCount": null,
-          "title": "Electronic Dance House by Peyruis (No Copyright Background Music) / Novus",
           "imageUrl": null
         }
       ]
