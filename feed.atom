@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-02T02:09:47.063Z</id>
+    <id>urn:2025-06-03T02:06:19.424Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-02T02:09:47.063Z</updated>
+    <updated>2025-06-03T02:06:19.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[為什麼我選擇拍影片，而不是拍照？｜七年創作歷程與器材心得分享｜Ft. Sony Alpha & Cinema Line]]></title>
+        <id>https://www.youtube.com/watch?v=7wm95fayDj4</id>
+        <link href="https://www.youtube.com/watch?v=7wm95fayDj4"/>
+        <updated>2025-06-02T12:30:12.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Jl3thZMUneg</id>
+        <link href="https://www.youtube.com/watch?v=Jl3thZMUneg"/>
+        <updated>2025-06-02T12:04:28.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款動作 ACTION 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=y0Zuxx2HfKs</id>
+        <link href="https://www.youtube.com/watch?v=y0Zuxx2HfKs"/>
+        <updated>2025-06-02T12:01:45.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic · Cinematic · Orchestral by Alex-Productions | No Copyright Music | "Savage"]]></title>
+        <id>https://www.youtube.com/watch?v=pILVwyuW3jw</id>
+        <link href="https://www.youtube.com/watch?v=pILVwyuW3jw"/>
+        <updated>2025-06-02T11:01:24.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Background Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【想賺錢，不要成為軟體工程師！】@hexschool]]></title>
         <id>https://www.youtube.com/watch?v=pL-vBXRHPnQ</id>
@@ -528,15 +564,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=PdC7dTZDSBY</id>
-        <link href="https://www.youtube.com/watch?v=PdC7dTZDSBY"/>
-        <updated>2025-05-18T11:59:46.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Progressive · Electronic · Trance by Mehul Choudhary | No Copyright Music | "Neptune"]]></title>
         <id>https://www.youtube.com/watch?v=xXdAyE1kruI</id>
         <link href="https://www.youtube.com/watch?v=xXdAyE1kruI"/>
@@ -552,15 +579,6 @@
         <updated>2025-05-18T10:15:10.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emo · Electronic · Trap by Onycs | No Copyright Music | "Rebirth"]]></title>
-        <id>https://www.youtube.com/watch?v=yyiekzuewDg</id>
-        <link href="https://www.youtube.com/watch?v=yyiekzuewDg"/>
-        <updated>2025-05-17T11:01:39.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Background Music</name>
         </author>
     </entry>
     <entry>
@@ -705,15 +723,6 @@
         <updated>2025-05-08T03:20:23.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年5月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲 遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=JMy1EIOjh3I</id>
-        <link href="https://www.youtube.com/watch?v=JMy1EIOjh3I"/>
-        <updated>2025-05-07T12:00:38.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
