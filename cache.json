@@ -41,6 +41,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S1jGIM3oc2U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S1jGIM3oc2U",
+          "publishedOn": "2025-06-03T12:00:45.000Z",
+          "wordCount": null,
+          "title": "TOP 10 Bản Nhạc EDM Mix Chill Cho Mùa Hè Thư Giãn ♫ Nhạc Điện Tử Gây nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Jl3thZMUneg",
           "author": null,
           "description": "",
@@ -179,16 +189,6 @@
           "wordCount": null,
           "title": "Top 10 Bản Nhạc EDM Mix Cực Phiêu \"Xoá Tan Mọi Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pDqyWuIMlEo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pDqyWuIMlEo",
-          "publishedOn": "2025-05-19T12:01:08.000Z",
-          "wordCount": null,
-          "title": "Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất",
-          "imageUrl": null
         }
       ]
     },
@@ -319,7 +319,7 @@
           "link": "https://www.youtube.com/watch?v=_leRdFy7L4Q",
           "publishedOn": "2025-05-08T03:20:23.000Z",
           "wordCount": null,
-          "title": "2025 React 前端工程師培訓班｜線上說明會 6/4 (三)  20:00 準時開播",
+          "title": "【2025 網頁切版直播班＆React 前端工程師培訓班】今晚九點準時開放報名｜提供快閃3小時優惠！",
           "imageUrl": null
         }
       ]
@@ -390,7 +390,18 @@
       "title": "大象放映室",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
       "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kClAZOy4F68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kClAZOy4F68",
+          "publishedOn": "2025-06-03T07:31:31.000Z",
+          "wordCount": null,
+          "title": "晋江小厂「踏」平国际巨头？【奔流·安踏】",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "附魔星Fms",
@@ -771,16 +782,6 @@
           "publishedOn": "2025-05-09T06:37:36.000Z",
           "wordCount": null,
           "title": "四月隨身小相機分享－GRIIIx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ECUdwFuWFbU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ECUdwFuWFbU",
-          "publishedOn": "2025-05-05T12:30:26.000Z",
-          "wordCount": null,
-          "title": "你拍的前一萬張照片都是「垃圾」嗎？",
           "imageUrl": null
         }
       ]

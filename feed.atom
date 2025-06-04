@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-03T02:06:19.424Z</id>
+    <id>urn:2025-06-04T02:06:18.063Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T02:06:19.424Z</updated>
+    <updated>2025-06-04T02:06:18.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Chill Cho Mùa Hè Thư Giãn ♫ Nhạc Điện Tử Gây nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=S1jGIM3oc2U</id>
+        <link href="https://www.youtube.com/watch?v=S1jGIM3oc2U"/>
+        <updated>2025-06-03T12:00:45.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晋江小厂「踏」平国际巨头？【奔流·安踏】]]></title>
+        <id>https://www.youtube.com/watch?v=kClAZOy4F68</id>
+        <link href="https://www.youtube.com/watch?v=kClAZOy4F68"/>
+        <updated>2025-06-03T07:31:31.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我選擇拍影片，而不是拍照？｜七年創作歷程與器材心得分享｜Ft. Sony Alpha & Cinema Line]]></title>
         <id>https://www.youtube.com/watch?v=7wm95fayDj4</id>
@@ -519,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=pDqyWuIMlEo</id>
-        <link href="https://www.youtube.com/watch?v=pDqyWuIMlEo"/>
-        <updated>2025-05-19T12:01:08.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年15款可離線遊玩 OFFLINE 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
         <id>https://www.youtube.com/watch?v=83PhlsEgIQw</id>
         <link href="https://www.youtube.com/watch?v=83PhlsEgIQw"/>
@@ -717,7 +726,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 React 前端工程師培訓班｜線上說明會 6/4 (三)  20:00 準時開播]]></title>
+        <title type="html"><![CDATA[【2025 網頁切版直播班＆React 前端工程師培訓班】今晚九點準時開放報名｜提供快閃3小時優惠！]]></title>
         <id>https://www.youtube.com/watch?v=_leRdFy7L4Q</id>
         <link href="https://www.youtube.com/watch?v=_leRdFy7L4Q"/>
         <updated>2025-05-08T03:20:23.000Z</updated>
@@ -732,15 +741,6 @@
         <updated>2025-05-07T00:30:06.000Z</updated>
         <author>
             <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你拍的前一萬張照片都是「垃圾」嗎？]]></title>
-        <id>https://www.youtube.com/watch?v=ECUdwFuWFbU</id>
-        <link href="https://www.youtube.com/watch?v=ECUdwFuWFbU"/>
-        <updated>2025-05-05T12:30:26.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
