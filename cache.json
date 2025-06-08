@@ -62,6 +62,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kGoAP0lKnbk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kGoAP0lKnbk",
+          "publishedOn": "2025-06-07T12:00:25.000Z",
+          "wordCount": null,
+          "title": "TOP 10 Bản EDM Mix Cực Phiêu \"Buff Sức Mạnh\" Leo Rank ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fv6I6Meovcw",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "wordCount": null,
           "title": "Top Nhạc EDM Leo Rank \"Buff Sức Mạnh\" Nghe Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LCmg_3QeulM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LCmg_3QeulM",
-          "publishedOn": "2025-05-23T12:06:15.000Z",
-          "wordCount": null,
-          "title": "Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc EDM Mix Cực Phiêu Gây Nghiện Hay Nhất",
-          "imageUrl": null
         }
       ]
     },
@@ -223,18 +223,7 @@
       "title": "JJJason自由攝影師",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OyuMJ8aCYeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OyuMJ8aCYeE",
-          "publishedOn": "2025-05-09T10:23:39.000Z",
-          "wordCount": null,
-          "title": "照片不該後製",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "D2izy +.+",
@@ -802,16 +791,6 @@
           "publishedOn": "2025-05-12T12:30:16.000Z",
           "wordCount": null,
           "title": "膝蓋不好不要來讀！什麼校園明明就是爬山！｜陽明交通大學｜FUJIFILM X-M5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w_bkG77wWUA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w_bkG77wWUA",
-          "publishedOn": "2025-05-09T06:37:36.000Z",
-          "wordCount": null,
-          "title": "四月隨身小相機分享－GRIIIx",
           "imageUrl": null
         }
       ]
