@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-09T02:17:58.673Z</id>
+    <id>urn:2025-06-10T02:08:07.279Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T02:17:58.673Z</updated>
+    <updated>2025-06-10T02:08:07.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【爱否】WWDC25第一时间解析，不止UI大变，背后有点东西！]]></title>
+        <id>https://www.youtube.com/watch?v=2_ipw3UIKp8</id>
+        <link href="https://www.youtube.com/watch?v=2_ipw3UIKp8"/>
+        <updated>2025-06-10T01:53:21.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轉職工程師，應該選前端、後端還是App＿V2]]></title>
+        <id>https://www.youtube.com/watch?v=YUYRy1XSo5Y</id>
+        <link href="https://www.youtube.com/watch?v=YUYRy1XSo5Y"/>
+        <updated>2025-06-09T12:45:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼買了調色檔套完卻不像？在套色之前先注意幾件事！｜Lightroom 調色教學]]></title>
+        <id>https://www.youtube.com/watch?v=BUATv8lEXl4</id>
+        <link href="https://www.youtube.com/watch?v=BUATv8lEXl4"/>
+        <updated>2025-06-09T12:30:22.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Những Bản Nhạc EDM Nhẹ Nhàng Thư Giãn "Giảm Stress" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=BQVLLeXgTR8</id>
+        <link href="https://www.youtube.com/watch?v=BQVLLeXgTR8"/>
+        <updated>2025-06-09T12:00:56.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款吃雞大逃殺 Battle Royale 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=67Zt_j2XmBs</id>
+        <link href="https://www.youtube.com/watch?v=67Zt_j2XmBs"/>
+        <updated>2025-06-09T12:00:20.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview at Kyotographie with Keijiro Kai/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=McWNFh0EFuQ</id>
+        <link href="https://www.youtube.com/watch?v=McWNFh0EFuQ"/>
+        <updated>2025-06-09T05:00:20.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[28歲，保全轉職年薪百萬的工程師 @hexschool]]></title>
         <id>https://www.youtube.com/watch?v=btUbYSKZNRE</id>
@@ -501,15 +555,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Phiêu "Nghe là Nghiện " ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=wgNEXlYgBSE</id>
-        <link href="https://www.youtube.com/watch?v=wgNEXlYgBSE"/>
-        <updated>2025-05-25T11:59:22.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dark · Synth · Electronic by Mehul Choudhary | No Copyright Music | "Phxntxm"]]></title>
         <id>https://www.youtube.com/watch?v=HkrKgYJZre8</id>
         <link href="https://www.youtube.com/watch?v=HkrKgYJZre8"/>
@@ -750,15 +795,6 @@
         <updated>2025-05-12T05:00:28.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《龍族幻想：勇者集結》「尼伯龍根/莊園/社團」的玩法全解析！| 搬空資源的必學技巧！| Android & iOS 手遊推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=E8aAgvVNgL8</id>
-        <link href="https://www.youtube.com/watch?v=E8aAgvVNgL8"/>
-        <updated>2025-05-11T12:00:27.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
