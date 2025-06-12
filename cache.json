@@ -62,6 +62,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ecmJjbQI3lo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ecmJjbQI3lo",
+          "publishedOn": "2025-06-11T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Những Bản Nhạc EDM Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=v6V9fzFXD7Q",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "wordCount": null,
           "title": "TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zdbTC2YJRAA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zdbTC2YJRAA",
-          "publishedOn": "2025-05-27T12:00:09.000Z",
-          "wordCount": null,
-          "title": "EDM Tik Tok ♫ Top Nhạc Tik Tok Tiếng Anh (Us - Uk) ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -253,6 +253,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nH9weRHYl2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nH9weRHYl2Q",
+          "publishedOn": "2025-06-11T15:05:02.000Z",
+          "wordCount": null,
+          "title": "2025 React 前端工程師培訓班｜線上說明會 6/11 (三)  20:00 準時開播",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=YUYRy1XSo5Y",
           "author": null,
@@ -304,62 +314,62 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=pL-vBXRHPnQ",
+          "id": "https://www.youtube.com/shorts/pL-vBXRHPnQ",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pL-vBXRHPnQ",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/pL-vBXRHPnQ",
           "publishedOn": "2025-06-01T13:01:31.000Z",
-          "wordCount": null,
+          "wordCount": 1920,
           "title": "【想賺錢，不要成為軟體工程師！】@hexschool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JLlWc4t1850",
+          "id": "https://www.youtube.com/shorts/JLlWc4t1850",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JLlWc4t1850",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JLlWc4t1850",
           "publishedOn": "2025-06-01T02:00:20.000Z",
-          "wordCount": null,
+          "wordCount": 1569,
           "title": "一堂五萬的程式課程，我多久能回本？@hexschool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=wr8z_O6I7o8",
+          "id": "https://www.youtube.com/shorts/wr8z_O6I7o8",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wr8z_O6I7o8",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/wr8z_O6I7o8",
           "publishedOn": "2025-05-30T13:15:08.000Z",
-          "wordCount": null,
+          "wordCount": 1886,
           "title": "轉職工程師有辦法年薪破百嗎？@hexschool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=rwyYC_1ndoo",
+          "id": "https://www.youtube.com/shorts/rwyYC_1ndoo",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rwyYC_1ndoo",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/rwyYC_1ndoo",
           "publishedOn": "2025-05-30T02:00:58.000Z",
-          "wordCount": null,
+          "wordCount": 1566,
           "title": "找六角學院的轉職仔，有失敗的嗎？@hexschool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=5aciiEDX0Ug",
+          "id": "https://www.youtube.com/shorts/5aciiEDX0Ug",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5aciiEDX0Ug",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/5aciiEDX0Ug",
           "publishedOn": "2025-05-29T04:15:00.000Z",
-          "wordCount": null,
+          "wordCount": 1561,
           "title": "【十萬元可以轉職成軟體工程師嗎？】這個超扎實的培訓班，只需要... @hexschool",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=P1KttijHugQ",
+          "id": "https://www.youtube.com/shorts/P1KttijHugQ",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P1KttijHugQ",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/P1KttijHugQ",
           "publishedOn": "2025-05-28T13:00:53.000Z",
-          "wordCount": null,
+          "wordCount": 1572,
           "title": "【軟體工程師有這麼好賺嗎？ 可以賺多少？】@hexschool",
           "imageUrl": null
         },
@@ -397,22 +407,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AC-pjdWB7nU",
+          "id": "https://www.youtube.com/shorts/AC-pjdWB7nU",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AC-pjdWB7nU",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/AC-pjdWB7nU",
           "publishedOn": "2025-05-20T08:47:22.000Z",
-          "wordCount": null,
+          "wordCount": 1909,
           "title": "吳哲宇｜演算詩篇：夢境與孤寂的邊界 — 沉浸式鋼琴演奏會",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=F6tnGHuB_c8",
+          "id": "https://www.youtube.com/shorts/F6tnGHuB_c8",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F6tnGHuB_c8",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/F6tnGHuB_c8",
           "publishedOn": "2025-05-15T09:09:35.000Z",
-          "wordCount": null,
+          "wordCount": 2032,
           "title": "250513 演算詩篇 D10 銀河倒影",
           "imageUrl": null
         }
@@ -496,6 +506,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QhhbDjYGsZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QhhbDjYGsZo",
+          "publishedOn": "2025-06-11T12:00:45.000Z",
+          "wordCount": null,
+          "title": "2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=67Zt_j2XmBs",
           "author": null,
@@ -719,6 +739,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YUpxuHAa6Pc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YUpxuHAa6Pc",
+          "publishedOn": "2025-06-11T10:30:19.000Z",
+          "wordCount": null,
+          "title": "堪培拉全攻略：鼓勵早戀的澳洲首都？我在堪培拉一邊吃瓜一邊看傻了！｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ogSHKcLVCy8",
           "author": null,
           "description": "",
@@ -813,16 +843,6 @@
           "wordCount": null,
           "title": "你也對旋焦鏡頭感興趣嗎｜TTArtisan 75mm F1.5 M42 接口",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eOD4FSohpBw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eOD4FSohpBw",
-          "publishedOn": "2025-05-13T12:30:48.000Z",
-          "wordCount": null,
-          "title": "『全台最好拍販賣機？』水手的相反是什麼？ #1分鐘OK #人像攝影 #攝影教學 #拍照技巧 #拍照教學 #photography",
-          "imageUrl": null
         }
       ]
     },
@@ -831,6 +851,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
       "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/y9U1oQ4l1tg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/y9U1oQ4l1tg",
+          "publishedOn": "2025-06-11T05:01:05.000Z",
+          "wordCount": 1632,
+          "title": "Coming Soon: X Summit SHANGHAI 2025 – June 12/ FUJIFILM #xsummit #xsummitshanghai2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RILdmTDYmDM",
           "author": null,
@@ -852,22 +882,22 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=WmcTw_lZbc8",
+          "id": "https://www.youtube.com/shorts/WmcTw_lZbc8",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WmcTw_lZbc8",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/WmcTw_lZbc8",
           "publishedOn": "2025-06-05T05:00:28.000Z",
-          "wordCount": null,
+          "wordCount": 1652,
           "title": "See you at X Summit on June 12th, 2025 / FUJIFILM #xsummit #xsummitshanghai2025",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=xl6Act1HG4Q",
+          "id": "https://www.youtube.com/shorts/xl6Act1HG4Q",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xl6Act1HG4Q",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xl6Act1HG4Q",
           "publishedOn": "2025-05-30T05:00:58.000Z",
-          "wordCount": null,
+          "wordCount": 1627,
           "title": "Stay tuned for X Summit Shanghai 2025 / FUJIFILM #xsummit #xsummitshanghai2025  #fujifilm",
           "imageUrl": null
         },
@@ -918,6 +948,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=A3roEugXo_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A3roEugXo_8",
+          "publishedOn": "2025-06-11T11:00:28.000Z",
+          "wordCount": null,
+          "title": "Lo-fi · Chill · Hip-Hop by KV | No Copyright Music | \"Elements\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CyalWUA-NjY",
           "author": null,
@@ -1056,16 +1096,6 @@
           "publishedOn": "2025-05-23T11:01:31.000Z",
           "wordCount": null,
           "title": "Retro · Synth · Driving by FIREMAN | No Copyright Music | \"I Can't Wait\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9Nijhq2apGk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9Nijhq2apGk",
-          "publishedOn": "2025-05-22T11:00:27.000Z",
-          "wordCount": null,
-          "title": "Electronic · Dance · Pop by Declan DP | No Copyright Music | \"Treasure Map\"",
           "imageUrl": null
         }
       ]
