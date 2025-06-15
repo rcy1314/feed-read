@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-14T02:02:39.578Z</id>
+    <id>urn:2025-06-15T02:22:27.203Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T02:02:39.578Z</updated>
+    <updated>2025-06-15T02:22:27.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Top 12 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=IheMyT8nVjk</id>
+        <link href="https://www.youtube.com/watch?v=IheMyT8nVjk"/>
+        <updated>2025-06-14T11:59:34.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melodic · Uplifting · Driving by Next Route | No Copyright Music | "Lemonade"]]></title>
+        <id>https://www.youtube.com/watch?v=ZL08DePkChQ</id>
+        <link href="https://www.youtube.com/watch?v=ZL08DePkChQ"/>
+        <updated>2025-06-14T11:00:57.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Background Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Một Chút Chill Cho Ngày Dài Mỏi Mệt ♫ Top 12 Bản Nhạc EDM Thư Giãn Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=n2518Ic_Djc</id>
@@ -590,15 +608,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 12 Bản Nhạc EDM Mix Chill Cho Mùa Hè Thư Giãn ♫ Nhạc Điện Tử Gây nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=0k6-qLHSBD4</id>
-        <link href="https://www.youtube.com/watch?v=0k6-qLHSBD4"/>
-        <updated>2025-05-30T12:05:14.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年5月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9]]></title>
         <id>https://www.youtube.com/watch?v=Jh-zxQACJIA</id>
         <link href="https://www.youtube.com/watch?v=Jh-zxQACJIA"/>
@@ -765,15 +774,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep · Electronic · House by Filo Starquez | No Copyright Music | "Nightscape"]]></title>
-        <id>https://www.youtube.com/watch?v=wZmvFv3CqdY</id>
-        <link href="https://www.youtube.com/watch?v=wZmvFv3CqdY"/>
-        <updated>2025-05-26T11:01:35.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Background Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[别拿玄戒不当旗舰？小米 15S Pro 真机性能分析]]></title>
         <id>https://www.youtube.com/watch?v=3JDcCPmD6p4</id>
         <link href="https://www.youtube.com/watch?v=3JDcCPmD6p4"/>
@@ -898,15 +898,6 @@
         <updated>2025-05-18T10:15:10.000Z</updated>
         <author>
             <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年5月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
-        <id>https://www.youtube.com/watch?v=nZTYOJTgg3U</id>
-        <link href="https://www.youtube.com/watch?v=nZTYOJTgg3U"/>
-        <updated>2025-05-16T12:01:27.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
