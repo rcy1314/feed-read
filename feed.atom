@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-03T02:08:25.700Z</id>
+    <id>urn:2025-07-04T02:07:47.760Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T02:08:25.700Z</updated>
+    <updated>2025-07-04T02:07:47.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=h8ZBxwrajAI</id>
+        <link href="https://www.youtube.com/watch?v=h8ZBxwrajAI"/>
+        <updated>2025-07-03T12:02:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掛機修仙，睡醒就變仙尊！MMORPG《破曉初戰》試玩評測！懶人修仙也能上天！| Android & iOS 手遊推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=H7pSdqju0_4</id>
+        <link href="https://www.youtube.com/watch?v=H7pSdqju0_4"/>
+        <updated>2025-07-03T12:00:34.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【那些令人難忘的BOSS戰】·艾爾登法環黑夜君臨篇]]></title>
+        <id>https://www.youtube.com/watch?v=ZimTMPVUxgI</id>
+        <link href="https://www.youtube.com/watch?v=ZimTMPVUxgI"/>
+        <updated>2025-07-03T12:00:11.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill · Indie · Instrumental by Atch & Hotham | No Copyright Music | "Wanderer"]]></title>
+        <id>https://www.youtube.com/watch?v=asul-H4zMPk</id>
+        <link href="https://www.youtube.com/watch?v=asul-H4zMPk"/>
+        <updated>2025-07-03T11:00:04.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影像 + 傳輸 + 充電 一線搞定｜Allite Max Cable 閃速快充傳輸線]]></title>
+        <id>https://www.youtube.com/shorts/IWcH0zfjzpQ</id>
+        <link href="https://www.youtube.com/shorts/IWcH0zfjzpQ"/>
+        <updated>2025-07-03T04:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We get back July 11th I think... White Wine & Adderall presave now]]></title>
         <id>https://www.youtube.com/shorts/066iaFof1G8</id>
@@ -49,15 +95,6 @@
         <updated>2025-07-02T11:00:03.000Z</updated>
         <author>
             <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【那些令人難忘的BOSS戰】·艾爾登法環黑夜君臨篇]]></title>
-        <id>https://www.youtube.com/watch?v=ZimTMPVUxgI</id>
-        <link href="https://www.youtube.com/watch?v=ZimTMPVUxgI"/>
-        <updated>2025-07-02T02:29:42.000Z</updated>
-        <author>
-            <name>附魔星Fms</name>
         </author>
     </entry>
     <entry>
@@ -542,30 +579,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 12 Bản EDM Thư Giãn Cực Chill "Buff Sức Mạnh" Leo Rank ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=BWpYbWVQJPo</id>
-        <link href="https://www.youtube.com/watch?v=BWpYbWVQJPo"/>
-        <updated>2025-06-18T12:02:47.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
         <id>https://www.youtube.com/watch?v=fUY0s3VUnOY</id>
         <link href="https://www.youtube.com/watch?v=fUY0s3VUnOY"/>
         <updated>2025-06-18T12:01:23.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamy · Synth · Pop by KV | No Copyright Music | "Corner"]]></title>
-        <id>https://www.youtube.com/watch?v=79f6mi7JzL8</id>
-        <link href="https://www.youtube.com/watch?v=79f6mi7JzL8"/>
-        <updated>2025-06-18T11:00:12.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
         </author>
     </entry>
     <entry>
@@ -925,24 +944,6 @@
         <updated>2025-06-04T17:33:08.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=RkEn1hOW35U</id>
-        <link href="https://www.youtube.com/watch?v=RkEn1hOW35U"/>
-        <updated>2025-06-04T12:00:59.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士X70和富士X100F，谁会是我的最终选择？]]></title>
-        <id>https://www.youtube.com/watch?v=TzsQbJ4Fruo</id>
-        <link href="https://www.youtube.com/watch?v=TzsQbJ4Fruo"/>
-        <updated>2025-06-04T11:30:33.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
