@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-11T02:19:27.756Z</id>
+    <id>urn:2025-07-12T02:20:00.590Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T02:19:27.756Z</updated>
+    <updated>2025-07-12T02:20:00.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Modern Funk Disco by Audio Library Beats (No Copyright Background Music) / Disco Sunday]]></title>
+        <id>https://www.youtube.com/shorts/WWmJaSBrYhg</id>
+        <link href="https://www.youtube.com/shorts/WWmJaSBrYhg"/>
+        <updated>2025-07-11T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=jfCElE7dRYg</id>
+        <link href="https://www.youtube.com/watch?v=jfCElE7dRYg"/>
+        <updated>2025-07-11T12:05:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4]]></title>
+        <id>https://www.youtube.com/watch?v=kzE1jxlwTgU</id>
+        <link href="https://www.youtube.com/watch?v=kzE1jxlwTgU"/>
+        <updated>2025-07-11T12:01:27.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lofi · Chill · Hip-Hop by Declan DP | No Copyright Music | "Vortex"]]></title>
+        <id>https://www.youtube.com/watch?v=dkpo2ns1wqU</id>
+        <link href="https://www.youtube.com/watch?v=dkpo2ns1wqU"/>
+        <updated>2025-07-11T11:01:15.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Beau Nox - White Wine & Adderall (Official Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=TrZY3zmFK2o</id>
+        <link href="https://www.youtube.com/watch?v=TrZY3zmFK2o"/>
+        <updated>2025-07-11T04:00:39.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拍极光的参数一分钟教会你！]]></title>
         <id>https://www.youtube.com/watch?v=TRxXRnu1Vw8</id>
@@ -552,15 +598,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trance · Uplifting · Energetic by Peyruis | No Copyright Music | "Happy Hour"]]></title>
-        <id>https://www.youtube.com/watch?v=p6X85oDrPmE</id>
-        <link href="https://www.youtube.com/watch?v=p6X85oDrPmE"/>
-        <updated>2025-06-27T11:01:35.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【爱否】听说就是它想替代手机？小米智能眼镜终于下场了！]]></title>
         <id>https://www.youtube.com/watch?v=jp4EiClTsAc</id>
         <link href="https://www.youtube.com/watch?v=jp4EiClTsAc"/>
@@ -598,30 +635,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Cực Phiêu "Phá Đảo Thế Giới Ảo" ♫ Nhạc Điện Tử Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=DkwxAa3hvJQ</id>
-        <link href="https://www.youtube.com/watch?v=DkwxAa3hvJQ"/>
-        <updated>2025-06-26T11:59:31.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[你還沒開始用Davinci resolve 20? 這些是你不能錯過的功能]]></title>
         <id>https://www.youtube.com/watch?v=s2Uqkwh_EvY</id>
         <link href="https://www.youtube.com/watch?v=s2Uqkwh_EvY"/>
         <updated>2025-06-26T11:32:18.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo-fi · Hip-Hop · Chill by Scandinavianz | No Copyright Music | "Morning"]]></title>
-        <id>https://www.youtube.com/watch?v=aqBsh6HvcJU</id>
-        <link href="https://www.youtube.com/watch?v=aqBsh6HvcJU"/>
-        <updated>2025-06-26T11:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
         </author>
     </entry>
     <entry>
@@ -833,115 +852,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手拍鳥不能不知道的三件事]]></title>
-        <id>https://www.youtube.com/shorts/1bywpzdd_Mw</id>
-        <link href="https://www.youtube.com/shorts/1bywpzdd_Mw"/>
-        <updated>2025-06-12T13:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评]]></title>
-        <id>https://www.youtube.com/watch?v=wo5SBmFqBtg</id>
-        <link href="https://www.youtube.com/watch?v=wo5SBmFqBtg"/>
-        <updated>2025-06-12T10:22:06.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF23mmF2.8 R WR x Noah Gullage/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=r-5mxM53c3s</id>
-        <link href="https://www.youtube.com/watch?v=r-5mxM53c3s"/>
-        <updated>2025-06-12T09:40:03.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Luo Fei/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=TQ8WA_aUqNo</id>
-        <link href="https://www.youtube.com/watch?v=TQ8WA_aUqNo"/>
-        <updated>2025-06-12T09:40:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Zao Yangming/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=fvkhFChhiGQ</id>
-        <link href="https://www.youtube.com/watch?v=fvkhFChhiGQ"/>
-        <updated>2025-06-12T09:40:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Ziyang Zhang/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=mFlpCqVP1sI</id>
-        <link href="https://www.youtube.com/watch?v=mFlpCqVP1sI"/>
-        <updated>2025-06-12T09:40:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Melissa Breyer/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=qM9iVX4PGgk</id>
-        <link href="https://www.youtube.com/watch?v=qM9iVX4PGgk"/>
-        <updated>2025-06-12T09:40:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJINON XF23mmF2.8 R WR Promotional Video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Eq40D-9onAM</id>
-        <link href="https://www.youtube.com/watch?v=Eq40D-9onAM"/>
-        <updated>2025-06-12T09:35:01.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJIFILM X-E5 Promotional Video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=hDczjEDMB9Q</id>
-        <link href="https://www.youtube.com/watch?v=hDczjEDMB9Q"/>
-        <updated>2025-06-12T09:35:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X Summit SHANGHAI 2025/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=RILdmTDYmDM</id>
-        <link href="https://www.youtube.com/watch?v=RILdmTDYmDM"/>
-        <updated>2025-06-12T09:00:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真我 GT7 阿斯顿马丁 F1 限量版开箱，一起看看 F1 车队联名的手机]]></title>
-        <id>https://www.youtube.com/watch?v=shP_ioGccM8</id>
-        <link href="https://www.youtube.com/watch?v=shP_ioGccM8"/>
-        <updated>2025-06-12T04:38:31.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 React 前端工程師培訓班｜線上說明會 6/11 (三)  20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=nH9weRHYl2Q</id>
-        <link href="https://www.youtube.com/watch?v=nH9weRHYl2Q"/>
-        <updated>2025-06-11T15:05:02.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
