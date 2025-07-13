@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-12T02:20:00.590Z</id>
+    <id>urn:2025-07-13T02:28:15.316Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T02:20:00.590Z</updated>
+    <updated>2025-07-13T02:28:15.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=bX407wlA7F0</id>
+        <link href="https://www.youtube.com/watch?v=bX407wlA7F0"/>
+        <updated>2025-07-12T12:02:06.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill · Electronic · Cinematic by Hotham | No Copyright Music | "Above The Clouds"]]></title>
+        <id>https://www.youtube.com/watch?v=StSD_kKK5Ik</id>
+        <link href="https://www.youtube.com/watch?v=StSD_kKK5Ik"/>
+        <updated>2025-07-12T11:00:55.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern Funk Disco by Audio Library Beats (No Copyright Background Music) / Disco Sunday]]></title>
         <id>https://www.youtube.com/shorts/WWmJaSBrYhg</id>
@@ -571,24 +589,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambient · Electronic · Dark by Rexlambo | No Copyright Music | "voices"]]></title>
-        <id>https://www.youtube.com/watch?v=rfmPUt7SfNs</id>
-        <link href="https://www.youtube.com/watch?v=rfmPUt7SfNs"/>
-        <updated>2025-06-28T11:01:33.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 14 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=j0ysOt0s4jM</id>
-        <link href="https://www.youtube.com/watch?v=j0ysOt0s4jM"/>
-        <updated>2025-06-27T12:01:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
         <id>https://www.youtube.com/watch?v=8TxtAQaDZoM</id>
         <link href="https://www.youtube.com/watch?v=8TxtAQaDZoM"/>
@@ -823,35 +823,6 @@
         <updated>2025-06-15T08:26:11.000Z</updated>
         <author>
             <name>文广同学X</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #4]]></title>
-        <id>https://www.youtube.com/watch?v=vh7VnLYGqFA</id>
-        <link href="https://www.youtube.com/watch?v=vh7VnLYGqFA"/>
-        <updated>2025-06-13T12:01:46.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[影像創作者的夢想！電動升降桌｜DEZCTOP REVON ELITE]]></title>
-        <id>https://www.youtube.com/shorts/1x3b16yLSrM</id>
-        <link href="https://www.youtube.com/shorts/1x3b16yLSrM"/>
-        <updated>2025-06-13T08:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀]]></title>
-        <id>https://www.youtube.com/shorts/o9ClZ9Wc-V0</id>
-        <link href="https://www.youtube.com/shorts/o9ClZ9Wc-V0"/>
-        <updated>2025-06-12T22:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
