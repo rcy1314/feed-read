@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-15T02:23:21.194Z</id>
+    <id>urn:2025-07-16T02:20:03.832Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T02:23:21.194Z</updated>
+    <updated>2025-07-16T02:20:03.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I was worried a little]]></title>
+        <id>https://www.youtube.com/shorts/CjhDLdU0_jg</id>
+        <link href="https://www.youtube.com/shorts/CjhDLdU0_jg"/>
+        <updated>2025-07-15T21:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Top 12 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=RFa4tQICccE</id>
+        <link href="https://www.youtube.com/watch?v=RFa4tQICccE"/>
+        <updated>2025-07-15T12:01:40.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當個仙尊？！還不如當個魔尊來得更逍遙自在，闖蕩修仙世界！開放沙盒世界《鬼谷八荒》的手遊版試玩介紹！| Android & iOS 手遊試玩！]]></title>
+        <id>https://www.youtube.com/watch?v=L4G7HkPff8s</id>
+        <link href="https://www.youtube.com/watch?v=L4G7HkPff8s"/>
+        <updated>2025-07-15T12:00:43.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款角色扮演 RPG 類手機遊戲推薦精選！]]></title>
+        <id>https://www.youtube.com/shorts/3PCFGAEs-AE</id>
+        <link href="https://www.youtube.com/shorts/3PCFGAEs-AE"/>
+        <updated>2025-07-15T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchestral · Cinematic · Trap by Alex-Productions | No Copyright Music | "Run Free"]]></title>
+        <id>https://www.youtube.com/watch?v=xIgTBrNgfKw</id>
+        <link href="https://www.youtube.com/watch?v=xIgTBrNgfKw"/>
+        <updated>2025-07-15T11:01:40.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I can’t tell if this song is amazing or if alex is just a good hype man.]]></title>
         <id>https://www.youtube.com/shorts/f3jt-xT3DG8</id>
@@ -536,15 +583,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electronic · Dance · Pop by Jay Someday | No Copyright Music | "Strawberry"]]></title>
-        <id>https://www.youtube.com/watch?v=ark6Lh0yZSw</id>
-        <link href="https://www.youtube.com/watch?v=ark6Lh0yZSw"/>
-        <updated>2025-07-01T11:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mac mini 变 NAS]]></title>
         <id>https://www.youtube.com/watch?v=LbDghxU7kbs</id>
         <link href="https://www.youtube.com/watch?v=LbDghxU7kbs"/>
@@ -624,15 +662,6 @@
         <updated>2025-06-30T00:53:52.000Z</updated>
         <author>
             <name>巫师后期.wrcolor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 10 Bản EDM Mix Cực Phiêu "Buff Sức Mạnh" Leo Rank ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2024]]></title>
-        <id>https://www.youtube.com/watch?v=Ni_NZ8wFUOE</id>
-        <link href="https://www.youtube.com/watch?v=Ni_NZ8wFUOE"/>
-        <updated>2025-06-29T12:00:21.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -833,24 +862,6 @@
         <updated>2025-06-17T10:27:34.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「人像攝影」必備小技巧！輕鬆拍出自然感，告別拍照尷尬感！]]></title>
-        <id>https://www.youtube.com/watch?v=t5Op1Dg1Y0E</id>
-        <link href="https://www.youtube.com/watch?v=t5Op1Dg1Y0E"/>
-        <updated>2025-06-16T12:31:00.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款電腦移植到移動平台的遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=CdLoqR0YOPk</id>
-        <link href="https://www.youtube.com/watch?v=CdLoqR0YOPk"/>
-        <updated>2025-06-16T12:00:19.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
