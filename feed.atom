@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-16T02:20:03.832Z</id>
+    <id>urn:2025-07-17T02:20:53.326Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T02:20:03.832Z</updated>
+    <updated>2025-07-17T02:20:53.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2025 Vue3 前端新手營】7/16 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=P6zRXZgklQY</id>
+        <link href="https://www.youtube.com/watch?v=P6zRXZgklQY"/>
+        <updated>2025-07-17T01:54:02.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's finally yours.]]></title>
+        <id>https://www.youtube.com/shorts/MIFgMMnbh64</id>
+        <link href="https://www.youtube.com/shorts/MIFgMMnbh64"/>
+        <updated>2025-07-16T22:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harman Phoenix ISO200新款彩色负片曝光测试]]></title>
+        <id>https://www.youtube.com/watch?v=Sg3rj_wTLMo</id>
+        <link href="https://www.youtube.com/watch?v=Sg3rj_wTLMo"/>
+        <updated>2025-07-16T12:08:37.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
+        <id>https://www.youtube.com/watch?v=eto-mnJ4kYk</id>
+        <link href="https://www.youtube.com/watch?v=eto-mnJ4kYk"/>
+        <updated>2025-07-16T12:01:25.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=P-IwpA44_pY</id>
+        <link href="https://www.youtube.com/watch?v=P-IwpA44_pY"/>
+        <updated>2025-07-16T12:01:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hard · Euphoric · Trance by Next Route | No Copyright Music | "Nebula"]]></title>
+        <id>https://www.youtube.com/watch?v=epGKsOfMouY</id>
+        <link href="https://www.youtube.com/watch?v=epGKsOfMouY"/>
+        <updated>2025-07-16T11:01:10.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】安卓手机是如何强 X 苹果生态的？]]></title>
+        <id>https://www.youtube.com/watch?v=yCLL0282LAM</id>
+        <link href="https://www.youtube.com/watch?v=yCLL0282LAM"/>
+        <updated>2025-07-16T10:26:57.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XF23mmF2.8 R WR x Pomma Partiew/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=pe84O13sdto</id>
+        <link href="https://www.youtube.com/watch?v=pe84O13sdto"/>
+        <updated>2025-07-16T05:00:52.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I was worried a little]]></title>
         <id>https://www.youtube.com/shorts/CjhDLdU0_jg</id>
@@ -546,15 +619,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Melodic · Uplifting · Trance by Next Route | No Copyright Music | "My Life"]]></title>
-        <id>https://www.youtube.com/watch?v=0gDPV8HHY1Q</id>
-        <link href="https://www.youtube.com/watch?v=0gDPV8HHY1Q"/>
-        <updated>2025-07-02T11:00:03.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[should we tell them?]]></title>
         <id>https://www.youtube.com/shorts/gce6cYzaWQM</id>
         <link href="https://www.youtube.com/shorts/gce6cYzaWQM"/>
@@ -629,30 +693,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=fwxcmyLVo3I</id>
-        <link href="https://www.youtube.com/watch?v=fwxcmyLVo3I"/>
-        <updated>2025-06-30T11:59:44.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-E5 x Haruki Fujimoto/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=Izic_vzdgDQ</id>
         <link href="https://www.youtube.com/watch?v=Izic_vzdgDQ"/>
         <updated>2025-06-30T05:00:19.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025 Vue3 前端新手營】7/16 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=P6zRXZgklQY</id>
-        <link href="https://www.youtube.com/watch?v=P6zRXZgklQY"/>
-        <updated>2025-06-30T03:09:11.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -829,15 +875,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年6月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
-        <id>https://www.youtube.com/watch?v=fUY0s3VUnOY</id>
-        <link href="https://www.youtube.com/watch?v=fUY0s3VUnOY"/>
-        <updated>2025-06-18T12:01:23.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-E5 x Lorenzo Catena/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=_HEQWg258S0</id>
         <link href="https://www.youtube.com/watch?v=_HEQWg258S0"/>
@@ -853,15 +890,6 @@
         <updated>2025-06-17T14:25:52.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20年的PC使用者為什麼跳家Mac？]]></title>
-        <id>https://www.youtube.com/watch?v=sAZKVgja7lU</id>
-        <link href="https://www.youtube.com/watch?v=sAZKVgja7lU"/>
-        <updated>2025-06-17T10:27:34.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
