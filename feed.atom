@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-20T02:30:52.801Z</id>
+    <id>urn:2025-07-21T02:27:28.015Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T02:30:52.801Z</updated>
+    <updated>2025-07-21T02:27:28.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[從小部落到大帝國？台服即將開啟！經典戰略遊戲《世紀帝國M》試玩介紹！| Android & iOS 手遊推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=jBW2leMdkCk</id>
+        <link href="https://www.youtube.com/watch?v=jBW2leMdkCk"/>
+        <updated>2025-07-20T12:01:16.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cinematic · Electronic · Trap by Lucjo | No Copyright Music | "Awakening"]]></title>
+        <id>https://www.youtube.com/watch?v=e6VUuAnC9_8</id>
+        <link href="https://www.youtube.com/watch?v=e6VUuAnC9_8"/>
+        <updated>2025-07-20T11:00:58.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=s0RSsw-9M74</id>
@@ -586,15 +604,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep · Soulful · House by tubebackr | No Copyright Music | "Balearic Love"]]></title>
-        <id>https://www.youtube.com/watch?v=-kEFWcvXsZA</id>
-        <link href="https://www.youtube.com/watch?v=-kEFWcvXsZA"/>
-        <updated>2025-07-06T11:00:00.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=stQS2BuF5co</id>
         <link href="https://www.youtube.com/watch?v=stQS2BuF5co"/>
@@ -758,15 +767,6 @@
         <updated>2025-06-30T12:30:04.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年8款音樂節奏 Rhythm 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=qHuWxaEs7Wg</id>
-        <link href="https://www.youtube.com/watch?v=qHuWxaEs7Wg"/>
-        <updated>2025-06-30T12:01:42.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
