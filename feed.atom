@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-22T02:21:41.035Z</id>
+    <id>urn:2025-07-23T02:22:45.151Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T02:21:41.035Z</updated>
+    <updated>2025-07-23T02:22:45.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THANK YOU HUNGARY 🇭🇺]]></title>
+        <id>https://www.youtube.com/shorts/gWJrzo6rRWA</id>
+        <link href="https://www.youtube.com/shorts/gWJrzo6rRWA"/>
+        <updated>2025-07-22T21:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=rGSTaqFEqrM</id>
+        <link href="https://www.youtube.com/watch?v=rGSTaqFEqrM"/>
+        <updated>2025-07-22T12:19:08.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年8款武俠修仙題材的手機遊戲推薦精選！]]></title>
+        <id>https://www.youtube.com/shorts/gX1UKSSAajQ</id>
+        <link href="https://www.youtube.com/shorts/gX1UKSSAajQ"/>
+        <updated>2025-07-22T12:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[85mm镜头不适合拍摄人像吗？压缩感看起来肥胖？新手必看｜卡色85毫米镜头]]></title>
+        <id>https://www.youtube.com/watch?v=QAD_OH0nIho</id>
+        <link href="https://www.youtube.com/watch?v=QAD_OH0nIho"/>
+        <updated>2025-07-22T11:15:06.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jazzy · Acoustic · Chill by Tokyo Music Walker | No Copyright Music | "Whispers in the Wind"]]></title>
+        <id>https://www.youtube.com/watch?v=UcIJdSbyeWw</id>
+        <link href="https://www.youtube.com/watch?v=UcIJdSbyeWw"/>
+        <updated>2025-07-22T11:00:54.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-E5 x Simon Zimmermann/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ZcPUq4AwZac</id>
+        <link href="https://www.youtube.com/watch?v=ZcPUq4AwZac"/>
+        <updated>2025-07-22T05:00:40.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运动摄像机拍动感画面有多绝？解锁实拍【稳】和【野】！]]></title>
         <id>https://www.youtube.com/watch?v=HcEWLmoDSLw</id>
@@ -52,7 +108,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[No Copyright Music] Epic · Orchestral · Cinematic by Limujii / Elysian]]></title>
+        <title type="html"><![CDATA[Epic · Orchestral · Cinematic by Limujii | No Copyright Music | "Elysian"]]></title>
         <id>https://www.youtube.com/watch?v=S0pBv-H-ZuI</id>
         <link href="https://www.youtube.com/watch?v=S0pBv-H-ZuI"/>
         <updated>2025-07-21T11:00:47.000Z</updated>
@@ -604,15 +660,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uplifting · Vocal · House by Peyruis | No Copyright Music | "Take Me Home"]]></title>
-        <id>https://www.youtube.com/watch?v=Bk7YjGUNqAI</id>
-        <link href="https://www.youtube.com/watch?v=Bk7YjGUNqAI"/>
-        <updated>2025-07-08T11:00:15.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年RICOH GRIII & GRIIIx還值得購買嗎？]]></title>
         <id>https://www.youtube.com/shorts/03RvrMjSZS0</id>
         <link href="https://www.youtube.com/shorts/03RvrMjSZS0"/>
@@ -659,15 +706,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=stQS2BuF5co</id>
-        <link href="https://www.youtube.com/watch?v=stQS2BuF5co"/>
-        <updated>2025-07-05T12:02:16.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #2]]></title>
         <id>https://www.youtube.com/watch?v=yAi59mzMTVo</id>
         <link href="https://www.youtube.com/watch?v=yAi59mzMTVo"/>
@@ -701,15 +739,6 @@
         <updated>2025-07-04T05:00:15.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掛機修仙，睡醒就變仙尊！MMORPG《破曉初戰》試玩評測！懶人修仙也能上天！| Android & iOS 手遊推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=H7pSdqju0_4</id>
-        <link href="https://www.youtube.com/watch?v=H7pSdqju0_4"/>
-        <updated>2025-07-03T12:00:34.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
@@ -886,15 +915,6 @@
         <updated>2025-06-24T05:00:24.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從模仿開始學習攝影！但模仿了之後呢？｜「散步街拍」｜日本名古屋｜Nikon Z5 II]]></title>
-        <id>https://www.youtube.com/watch?v=24aOi174SGg</id>
-        <link href="https://www.youtube.com/watch?v=24aOi174SGg"/>
-        <updated>2025-06-23T12:30:05.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
