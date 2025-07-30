@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-29T02:33:28.194Z</id>
+    <id>urn:2025-07-30T02:24:45.164Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T02:33:28.194Z</updated>
+    <updated>2025-07-30T02:24:45.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=LPQDUCXjbvQ</id>
+        <link href="https://www.youtube.com/watch?v=LPQDUCXjbvQ"/>
+        <updated>2025-07-29T12:05:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款好玩的放置掛機角色扮演類手機遊戲精選！讓你解放雙手~輕鬆暢玩！]]></title>
+        <id>https://www.youtube.com/shorts/et-FCP1wktM</id>
+        <link href="https://www.youtube.com/shorts/et-FCP1wktM"/>
+        <updated>2025-07-29T12:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill · Jazzy · Electronic by Filo Starquez | No Copyright Music | "Microscope"]]></title>
+        <id>https://www.youtube.com/watch?v=5EqbD0_3GmU</id>
+        <link href="https://www.youtube.com/watch?v=5EqbD0_3GmU"/>
+        <updated>2025-07-29T11:00:10.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[should we do a whole set like this?]]></title>
         <id>https://www.youtube.com/shorts/IsVDl4gqSdo</id>
@@ -636,16 +664,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年15款角色扮演 RPG 類手機遊戲推薦精選！]]></title>
-        <id>https://www.youtube.com/shorts/3PCFGAEs-AE</id>
-        <link href="https://www.youtube.com/shorts/3PCFGAEs-AE"/>
-        <updated>2025-07-15T12:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Orchestral · Cinematic · Trap by Alex-Productions | No Copyright Music | "Run Free"]]></title>
         <id>https://www.youtube.com/watch?v=xIgTBrNgfKw</id>
         <link href="https://www.youtube.com/watch?v=xIgTBrNgfKw"/>
@@ -693,15 +711,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chill · Jazzy · Beat by Tokyo Music Walker | No Copyright Music | "New Beginnings"]]></title>
-        <id>https://www.youtube.com/watch?v=ZqqBYjTgctk</id>
-        <link href="https://www.youtube.com/watch?v=ZqqBYjTgctk"/>
-        <updated>2025-07-14T11:00:58.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=8l44v7CP-jo</id>
         <link href="https://www.youtube.com/watch?v=8l44v7CP-jo"/>
@@ -744,15 +753,6 @@
         <updated>2025-07-10T12:28:33.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút Nhạc EDM Chill Cho Ngày Dài Mỏi Mệt  ♫ Tracks 12 Bản Nhạc EDM Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=f50rzS6D8z4</id>
-        <link href="https://www.youtube.com/watch?v=f50rzS6D8z4"/>
-        <updated>2025-07-10T12:02:13.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -939,33 +939,6 @@
         <updated>2025-06-30T14:47:27.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學攝影從自己的校園開始就可以 ｜ㄧ日中央大學拍什麼？｜Kase 85mm F1.4]]></title>
-        <id>https://www.youtube.com/watch?v=dtqClxW0HW0</id>
-        <link href="https://www.youtube.com/watch?v=dtqClxW0HW0"/>
-        <updated>2025-06-30T12:30:04.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Haruki Fujimoto/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Izic_vzdgDQ</id>
-        <link href="https://www.youtube.com/watch?v=Izic_vzdgDQ"/>
-        <updated>2025-06-30T05:00:19.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银河全景照片的拍摄与拼接]]></title>
-        <id>https://www.youtube.com/watch?v=NasdQQcDuPU</id>
-        <link href="https://www.youtube.com/watch?v=NasdQQcDuPU"/>
-        <updated>2025-06-30T00:53:52.000Z</updated>
-        <author>
-            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
 </feed>
