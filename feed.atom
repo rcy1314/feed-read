@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-31T02:24:08.187Z</id>
+    <id>urn:2025-08-01T02:35:47.332Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T02:24:08.187Z</updated>
+    <updated>2025-08-01T02:35:47.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我为什么会选「哈苏907X\CFV100C」作为我的主力机？｜#原来这么毒# 第120集]]></title>
+        <id>https://www.youtube.com/watch?v=aqY79xIVin8</id>
+        <link href="https://www.youtube.com/watch?v=aqY79xIVin8"/>
+        <updated>2025-07-31T13:01:16.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=BV0iMgYBPZw</id>
+        <link href="https://www.youtube.com/watch?v=BV0iMgYBPZw"/>
+        <updated>2025-07-31T12:07:56.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！]]></title>
+        <id>https://www.youtube.com/shorts/qrHE4dPuCNQ</id>
+        <link href="https://www.youtube.com/shorts/qrHE4dPuCNQ"/>
+        <updated>2025-07-31T12:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台南旅行全攻略：歷史風情與多元文化交融的一座城｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=iRi00-Pp88g</id>
+        <link href="https://www.youtube.com/watch?v=iRi00-Pp88g"/>
+        <updated>2025-07-31T12:01:21.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cinematic · Orchestral · Fantasy by Scott Buckley | No Copyright Music | "Echoes Of Home"]]></title>
+        <id>https://www.youtube.com/watch?v=zGJqWBt9OAQ</id>
+        <link href="https://www.youtube.com/watch?v=zGJqWBt9OAQ"/>
+        <updated>2025-07-31T11:01:36.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=dUvPy_a4qLY</id>
@@ -618,30 +664,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
-        <id>https://www.youtube.com/watch?v=eto-mnJ4kYk</id>
-        <link href="https://www.youtube.com/watch?v=eto-mnJ4kYk"/>
-        <updated>2025-07-16T12:01:25.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=P-IwpA44_pY</id>
         <link href="https://www.youtube.com/watch?v=P-IwpA44_pY"/>
         <updated>2025-07-16T12:01:18.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard · Euphoric · Trance by Next Route | No Copyright Music | "Nebula"]]></title>
-        <id>https://www.youtube.com/watch?v=epGKsOfMouY</id>
-        <link href="https://www.youtube.com/watch?v=epGKsOfMouY"/>
-        <updated>2025-07-16T11:01:10.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
         </author>
     </entry>
     <entry>
@@ -724,15 +752,6 @@
         <id>https://www.youtube.com/watch?v=8l44v7CP-jo</id>
         <link href="https://www.youtube.com/watch?v=8l44v7CP-jo"/>
         <updated>2025-07-13T12:26:17.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=bX407wlA7F0</id>
-        <link href="https://www.youtube.com/watch?v=bX407wlA7F0"/>
-        <updated>2025-07-12T12:02:06.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
@@ -880,25 +899,6 @@
         <id>https://www.youtube.com/shorts/066iaFof1G8</id>
         <link href="https://www.youtube.com/shorts/066iaFof1G8"/>
         <updated>2025-07-02T17:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差点误判了荣耀 Magic V5 ！玄学词汇的背后有点东西]]></title>
-        <id>https://www.youtube.com/watch?v=xbK_4SuTURU</id>
-        <link href="https://www.youtube.com/watch?v=xbK_4SuTURU"/>
-        <updated>2025-07-02T13:47:36.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[should we tell them?]]></title>
-        <id>https://www.youtube.com/shorts/gce6cYzaWQM</id>
-        <link href="https://www.youtube.com/shorts/gce6cYzaWQM"/>
-        <updated>2025-07-01T21:40:44.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
