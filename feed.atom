@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-04T02:33:43.517Z</id>
+    <id>urn:2025-08-05T02:27:21.537Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T02:33:43.517Z</updated>
+    <updated>2025-08-05T02:27:21.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[we’ll always wait ❤️]]></title>
+        <id>https://www.youtube.com/shorts/E0xDZm3drdg</id>
+        <link href="https://www.youtube.com/shorts/E0xDZm3drdg"/>
+        <updated>2025-08-04T22:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【散步街拍】不嫉妒才是成熟的表現嗎？]]></title>
+        <id>https://www.youtube.com/watch?v=Yy2g4oat-J8</id>
+        <link href="https://www.youtube.com/watch?v=Yy2g4oat-J8"/>
+        <updated>2025-08-04T12:30:07.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款休閒類 CASUAL 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=Qft8Cv7kLmc</id>
+        <link href="https://www.youtube.com/watch?v=Qft8Cv7kLmc"/>
+        <updated>2025-08-04T12:00:51.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emotional, Electronic, Uplifting No Copyright Music | Eclipse by Onycs]]></title>
+        <id>https://www.youtube.com/watch?v=aG5X40oWhag</id>
+        <link href="https://www.youtube.com/watch?v=aG5X40oWhag"/>
+        <updated>2025-08-04T11:00:00.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】爆发前夜？AI 眼镜的“iPhone 时刻”卡在哪儿了]]></title>
+        <id>https://www.youtube.com/watch?v=KnZFpAJ7ino</id>
+        <link href="https://www.youtube.com/watch?v=KnZFpAJ7ino"/>
+        <updated>2025-08-04T10:29:17.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone照片备份到U盘（支持实况照片）]]></title>
+        <id>https://www.youtube.com/watch?v=kQ6zIM-6dYY</id>
+        <link href="https://www.youtube.com/watch?v=kQ6zIM-6dYY"/>
+        <updated>2025-08-04T07:11:06.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Bản EDM Gây Nghiện Siêu Phiêu Không Lối Thoát ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=KeJAgj04rKg</id>
@@ -24,7 +79,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Synthwave · Chill · Retro by meloddict | No Copyright Music | "Cascade"]]></title>
+        <title type="html"><![CDATA[Synthwave, Chill, Retro No Copyright Music | Cascade by meloddict]]></title>
         <id>https://www.youtube.com/watch?v=sPaHUAjlLp4</id>
         <link href="https://www.youtube.com/watch?v=sPaHUAjlLp4"/>
         <updated>2025-08-03T11:01:20.000Z</updated>
@@ -61,7 +116,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambient · Relaxing · Atmospheric by Rexlambo | No Copyright Music | "under the stars"]]></title>
+        <title type="html"><![CDATA[Ambient, Relaxing, Atmospheric No Copyright Music | under the stars by Rexlambo]]></title>
         <id>https://www.youtube.com/watch?v=YlIeGCslNDs</id>
         <link href="https://www.youtube.com/watch?v=YlIeGCslNDs"/>
         <updated>2025-08-02T11:00:55.000Z</updated>
@@ -614,31 +669,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cinematic · Electronic · Trap by Lucjo | No Copyright Music | "Awakening"]]></title>
-        <id>https://www.youtube.com/watch?v=e6VUuAnC9_8</id>
-        <link href="https://www.youtube.com/watch?v=e6VUuAnC9_8"/>
-        <updated>2025-07-20T11:00:58.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=s0RSsw-9M74</id>
         <link href="https://www.youtube.com/watch?v=s0RSsw-9M74"/>
         <updated>2025-07-19T12:10:41.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！Short]]></title>
-        <id>https://www.youtube.com/shorts/hblNcwtvZ70</id>
-        <link href="https://www.youtube.com/shorts/hblNcwtvZ70"/>
-        <updated>2025-07-19T12:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
