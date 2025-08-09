@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-08T02:25:43.762Z</id>
+    <id>urn:2025-08-09T02:07:47.790Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T02:25:43.762Z</updated>
+    <updated>2025-08-09T02:07:47.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Chơi Game "Cực Phiêu" Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Zhg8yT5TbiM</id>
+        <link href="https://www.youtube.com/watch?v=Zhg8yT5TbiM"/>
+        <updated>2025-08-08T12:12:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=Xcqvghqkkzg</id>
+        <link href="https://www.youtube.com/watch?v=Xcqvghqkkzg"/>
+        <updated>2025-08-08T12:00:58.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbeat, Folk, House No Copyright Music | Skylume by Declan DP]]></title>
+        <id>https://www.youtube.com/watch?v=QDyW7ln5kYA</id>
+        <link href="https://www.youtube.com/watch?v=QDyW7ln5kYA"/>
+        <updated>2025-08-08T11:01:01.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ronin RS4 运镜教学｜14个万能镜头语言，拍出旅行大片感！]]></title>
+        <id>https://www.youtube.com/watch?v=hgzObvKqeiI</id>
+        <link href="https://www.youtube.com/watch?v=hgzObvKqeiI"/>
+        <updated>2025-08-08T10:15:10.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一百年了，徕卡为什么还这么受欢迎？探秘徕卡档案馆 | 小米影像城市人文之旅]]></title>
+        <id>https://www.youtube.com/watch?v=3yzY5eclzc0</id>
+        <link href="https://www.youtube.com/watch?v=3yzY5eclzc0"/>
+        <updated>2025-08-08T10:15:01.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[早佛晚A的炸裂行程——在观音胎内回望世界，再来一场微醺！｜#原来这么拍# 第258集]]></title>
         <id>https://www.youtube.com/watch?v=BK93MxSPzLQ</id>
@@ -614,15 +659,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic, Cinematic, Orchestral No Copyright Music | Heroes by Alex-Productions]]></title>
-        <id>https://www.youtube.com/watch?v=atpq1SVFPcE</id>
-        <link href="https://www.youtube.com/watch?v=atpq1SVFPcE"/>
-        <updated>2025-07-24T11:00:04.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[So glad i tipped the drone guy 20 euros]]></title>
         <id>https://www.youtube.com/shorts/vI-Mj2VSD1E</id>
         <link href="https://www.youtube.com/shorts/vI-Mj2VSD1E"/>
@@ -639,15 +675,6 @@
         <updated>2025-07-23T12:01:15.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年7月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=a4HUX24-NYc</id>
-        <link href="https://www.youtube.com/watch?v=a4HUX24-NYc"/>
-        <updated>2025-07-23T12:00:00.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
@@ -731,15 +758,6 @@
         <updated>2025-07-21T07:59:42.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=s0RSsw-9M74</id>
-        <link href="https://www.youtube.com/watch?v=s0RSsw-9M74"/>
-        <updated>2025-07-19T12:10:41.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -881,33 +899,6 @@
         <updated>2025-07-11T04:00:39.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍极光的参数一分钟教会你！]]></title>
-        <id>https://www.youtube.com/watch?v=TRxXRnu1Vw8</id>
-        <link href="https://www.youtube.com/watch?v=TRxXRnu1Vw8"/>
-        <updated>2025-07-10T12:28:33.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 x Derrick Ong/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=HQsH-Y1rcSQ</id>
-        <link href="https://www.youtube.com/watch?v=HQsH-Y1rcSQ"/>
-        <updated>2025-07-10T05:00:30.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日常不像宣传片精彩｜Insta360 X5｜10个简单拍法]]></title>
-        <id>https://www.youtube.com/watch?v=5fRTZBWwQ14</id>
-        <link href="https://www.youtube.com/watch?v=5fRTZBWwQ14"/>
-        <updated>2025-07-09T15:30:03.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
