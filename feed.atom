@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-12T02:07:14.001Z</id>
+    <id>urn:2025-08-13T02:08:58.123Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T02:07:14.001Z</updated>
+    <updated>2025-08-13T02:08:58.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Leica Q3 復古配件｜鐵頭 TILTA]]></title>
+        <id>https://www.youtube.com/shorts/nWncTkxGM1U</id>
+        <link href="https://www.youtube.com/shorts/nWncTkxGM1U"/>
+        <updated>2025-08-12T13:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Phiêu "Buff Cảm Hứng" Cực Hay ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=vtWZq5sVrxU</id>
+        <link href="https://www.youtube.com/watch?v=vtWZq5sVrxU"/>
+        <updated>2025-08-12T12:03:17.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款休閒種田類手機遊戲推薦精選！]]></title>
+        <id>https://www.youtube.com/shorts/_kbgc1X27Oc</id>
+        <link href="https://www.youtube.com/shorts/_kbgc1X27Oc"/>
+        <updated>2025-08-12T12:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient, Electronic, Chillout No Copyright Music | lost in the ocean by Limujii]]></title>
+        <id>https://www.youtube.com/watch?v=Vx0Xvo60O3g</id>
+        <link href="https://www.youtube.com/watch?v=Vx0Xvo60O3g"/>
+        <updated>2025-08-12T11:01:03.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我買了人生第一支昂貴手錶! Omega speedmaster]]></title>
+        <id>https://www.youtube.com/watch?v=E9IFYUCy6pk</id>
+        <link href="https://www.youtube.com/watch?v=E9IFYUCy6pk"/>
+        <updated>2025-08-12T10:56:03.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025  JS 直播班、JS+React 前端工程師培訓班｜線上說明會9/3(三) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=LCQS1Uj7w-g</id>
+        <link href="https://www.youtube.com/watch?v=LCQS1Uj7w-g"/>
+        <updated>2025-08-12T03:19:00.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HELIUM. This Friday 8/15]]></title>
         <id>https://www.youtube.com/shorts/7qHZngYRYf0</id>
@@ -576,24 +632,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年15款好玩的放置掛機角色扮演類手機遊戲精選！讓你解放雙手~輕鬆暢玩！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=lsNVLi759TU</id>
-        <link href="https://www.youtube.com/watch?v=lsNVLi759TU"/>
-        <updated>2025-07-28T12:01:21.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lofi, Chill, Hiphop No Copyright Music | Venice by Scandinavianz]]></title>
-        <id>https://www.youtube.com/watch?v=UtN4Eu_XhJQ</id>
-        <link href="https://www.youtube.com/watch?v=UtN4Eu_XhJQ"/>
-        <updated>2025-07-28T11:00:49.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[不惧封锁！横扫全球！中国“宁王”万亿帝国养成记【奔流·宁德时代】P1]]></title>
         <id>https://www.youtube.com/watch?v=8HIZRfwg_rk</id>
         <link href="https://www.youtube.com/watch?v=8HIZRfwg_rk"/>
@@ -722,15 +760,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOP 10 Bản Nhạc EDM Mix Tuyệt Đỉnh Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=bsZnux6ljnE</id>
-        <link href="https://www.youtube.com/watch?v=bsZnux6ljnE"/>
-        <updated>2025-07-23T12:01:15.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -900,34 +929,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【攝影小教室】三樣能幫助你持續進步的方法]]></title>
-        <id>https://www.youtube.com/watch?v=nVw745hFhJk</id>
-        <link href="https://www.youtube.com/watch?v=nVw745hFhJk"/>
-        <updated>2025-07-14T12:30:36.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果南半球只能去一個城市：會是雪梨嗎？｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=0-iaKA8C0q0</id>
-        <link href="https://www.youtube.com/watch?v=0-iaKA8C0q0"/>
-        <updated>2025-07-14T11:30:02.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月相機分享—A7C II]]></title>
-        <id>https://www.youtube.com/shorts/RYPOZ84ecTs</id>
-        <link href="https://www.youtube.com/shorts/RYPOZ84ecTs"/>
-        <updated>2025-07-14T11:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
