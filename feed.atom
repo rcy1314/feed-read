@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-25T02:05:31.074Z</id>
+    <id>urn:2025-08-26T02:01:32.186Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T02:05:31.074Z</updated>
+    <updated>2025-08-26T02:01:32.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年15款 Roguelike 肉鴿手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=NMTQtKcHQpU</id>
+        <link href="https://www.youtube.com/watch?v=NMTQtKcHQpU"/>
+        <updated>2025-08-25T13:30:31.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帶你逛傳說中的街拍聖地「谷根千」的好拍景點｜日本東京｜LEICA Q3]]></title>
+        <id>https://www.youtube.com/watch?v=JNq1fKU7if4</id>
+        <link href="https://www.youtube.com/watch?v=JNq1fKU7if4"/>
+        <updated>2025-08-25T12:30:20.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
+        <id>https://www.youtube.com/watch?v=GgrdgAmcces</id>
+        <link href="https://www.youtube.com/watch?v=GgrdgAmcces"/>
+        <updated>2025-08-25T11:59:43.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Free Background Music This Week #35 🎵 Cinematic, Ambient, Dance & Electronic]]></title>
+        <id>https://www.youtube.com/watch?v=89ihROphQJM</id>
+        <link href="https://www.youtube.com/watch?v=89ihROphQJM"/>
+        <updated>2025-08-25T11:00:13.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】做 Vision 眼镜很难么，vivo 怎么做出来的？]]></title>
+        <id>https://www.youtube.com/watch?v=wTva3rSZctE</id>
+        <link href="https://www.youtube.com/watch?v=wTva3rSZctE"/>
+        <updated>2025-08-25T05:35:49.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洧杰校長印象深刻的一組學生...❤️❤️]]></title>
         <id>https://www.youtube.com/shorts/eUkcVIirb78</id>
@@ -743,15 +788,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=Xcqvghqkkzg</id>
-        <link href="https://www.youtube.com/watch?v=Xcqvghqkkzg"/>
-        <updated>2025-08-08T12:00:58.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upbeat, Folk, House No Copyright Music | Skylume by Declan DP]]></title>
         <id>https://www.youtube.com/watch?v=QDyW7ln5kYA</id>
         <link href="https://www.youtube.com/watch?v=QDyW7ln5kYA"/>
@@ -785,15 +821,6 @@
         <updated>2025-08-07T12:58:00.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chút Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Top 10 Bản Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=L_j60svJQp4</id>
-        <link href="https://www.youtube.com/watch?v=L_j60svJQp4"/>
-        <updated>2025-08-07T12:06:06.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -868,15 +895,6 @@
         <updated>2025-08-04T12:30:07.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotional, Electronic, Uplifting No Copyright Music | Eclipse by Onycs]]></title>
-        <id>https://www.youtube.com/watch?v=aG5X40oWhag</id>
-        <link href="https://www.youtube.com/watch?v=aG5X40oWhag"/>
-        <updated>2025-08-04T11:00:00.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
         </author>
     </entry>
     <entry>
@@ -1014,26 +1032,6 @@
         <updated>2025-07-28T05:00:32.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搶先試用｜Sony RX1R III]]></title>
-        <id>https://www.youtube.com/shorts/1zhEQu5gxTI</id>
-        <link href="https://www.youtube.com/shorts/1zhEQu5gxTI"/>
-        <updated>2025-07-27T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你也想在夜間補光拍人像嗎？｜NANLITE 南光 pico 口袋持續燈]]></title>
-        <id>https://www.youtube.com/shorts/PmlXFiWH3fk</id>
-        <link href="https://www.youtube.com/shorts/PmlXFiWH3fk"/>
-        <updated>2025-07-26T15:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
