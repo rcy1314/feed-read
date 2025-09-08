@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-07T01:59:52.979Z</id>
+    <id>urn:2025-09-08T01:59:35.415Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T01:59:52.979Z</updated>
+    <updated>2025-09-08T01:59:35.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
+        <id>https://www.youtube.com/watch?v=kfxtq9WX1sc</id>
+        <link href="https://www.youtube.com/watch?v=kfxtq9WX1sc"/>
+        <updated>2025-09-07T12:05:57.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elite – Epic Orchestral & Cinematic Background Music | Alex-Productions]]></title>
+        <id>https://www.youtube.com/watch?v=7d6o3vOLGuY</id>
+        <link href="https://www.youtube.com/watch?v=7d6o3vOLGuY"/>
+        <updated>2025-09-07T11:00:12.000Z</updated>
+        <author>
+            <name>Audio Library — No Copyright Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遊戲中的神級角色——“陰陽之子”是如何誕生的【品遊X】]]></title>
         <id>https://www.youtube.com/watch?v=QV-sKCDNtes</id>
@@ -650,15 +668,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
-        <id>https://www.youtube.com/watch?v=3TLgPGsMNG8</id>
-        <link href="https://www.youtube.com/watch?v=3TLgPGsMNG8"/>
-        <updated>2025-08-19T12:00:26.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[廣角的正確打開方式。]]></title>
         <id>https://www.youtube.com/watch?v=Kucif6DzhJE</id>
         <link href="https://www.youtube.com/watch?v=Kucif6DzhJE"/>
@@ -964,25 +973,6 @@
         <updated>2025-08-10T11:00:05.000Z</updated>
         <author>
             <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic, Orchestral, Cinematic No Copyright Music | Voyager by Alex Productions]]></title>
-        <id>https://www.youtube.com/watch?v=WN3o15yxt-4</id>
-        <link href="https://www.youtube.com/watch?v=WN3o15yxt-4"/>
-        <updated>2025-08-09T11:01:01.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT情報安全守護御守｜東京神田神社]]></title>
-        <id>https://www.youtube.com/shorts/_mzubZqXVe4</id>
-        <link href="https://www.youtube.com/shorts/_mzubZqXVe4"/>
-        <updated>2025-08-09T06:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
