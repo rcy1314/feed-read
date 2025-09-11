@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T01:51:46.021Z</id>
+    <id>urn:2025-09-11T01:54:50.000Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T01:51:46.021Z</updated>
+    <updated>2025-09-11T01:54:50.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FUJIFILM GFX ETERNA 55 Promotional Video / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=rk9RHViSywY</id>
+        <link href="https://www.youtube.com/watch?v=rk9RHViSywY"/>
+        <updated>2025-09-11T01:00:55.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETERNA Heritage / FUJIFILM [Subtitle available]]]></title>
+        <id>https://www.youtube.com/watch?v=ulh28_yfo2o</id>
+        <link href="https://www.youtube.com/watch?v=ulh28_yfo2o"/>
+        <updated>2025-09-11T01:00:55.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55 Development Stories #1 - Product Concept / FUJIFILM [Subtitle available]]]></title>
+        <id>https://www.youtube.com/watch?v=MQtmJc0Rpqw</id>
+        <link href="https://www.youtube.com/watch?v=MQtmJc0Rpqw"/>
+        <updated>2025-09-11T01:00:21.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘SMOOTH’ is finally coming out next Friday 9/19 pre save dat!!!!!!!]]></title>
+        <id>https://www.youtube.com/shorts/eTi6shiwb5A</id>
+        <link href="https://www.youtube.com/shorts/eTi6shiwb5A"/>
+        <updated>2025-09-10T18:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=yAF9f0n-KoA</id>
+        <link href="https://www.youtube.com/watch?v=yAF9f0n-KoA"/>
+        <updated>2025-09-10T12:01:51.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Y1WbTv89kRU</id>
+        <link href="https://www.youtube.com/watch?v=Y1WbTv89kRU"/>
+        <updated>2025-09-10T12:00:34.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[all led up to this day, thanks for having us Kai]]></title>
         <id>https://www.youtube.com/shorts/XcWLvWJNvjw</id>
@@ -576,15 +631,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=Tcn7qJ1f8ZQ</id>
-        <link href="https://www.youtube.com/watch?v=Tcn7qJ1f8ZQ"/>
-        <updated>2025-08-24T12:09:43.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025 TouchDesigner實戰工作坊課前直播]]></title>
         <id>https://www.youtube.com/watch?v=ZoI3AWfMZXw</id>
         <link href="https://www.youtube.com/watch?v=ZoI3AWfMZXw"/>
@@ -630,15 +676,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #7]]></title>
-        <id>https://www.youtube.com/watch?v=zMtCLyfjJmw</id>
-        <link href="https://www.youtube.com/watch?v=zMtCLyfjJmw"/>
-        <updated>2025-08-22T12:01:52.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
@@ -947,53 +984,6 @@
         <updated>2025-08-13T05:00:45.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leica Q3 復古配件｜鐵頭 TILTA]]></title>
-        <id>https://www.youtube.com/shorts/nWncTkxGM1U</id>
-        <link href="https://www.youtube.com/shorts/nWncTkxGM1U"/>
-        <updated>2025-08-12T13:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambient, Electronic, Chillout No Copyright Music | lost in the ocean by Limujii]]></title>
-        <id>https://www.youtube.com/watch?v=Vx0Xvo60O3g</id>
-        <link href="https://www.youtube.com/watch?v=Vx0Xvo60O3g"/>
-        <updated>2025-08-12T11:01:03.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我買了人生第一支昂貴手錶! Omega speedmaster- Buying my first luxury watch!]]></title>
-        <id>https://www.youtube.com/watch?v=E9IFYUCy6pk</id>
-        <link href="https://www.youtube.com/watch?v=E9IFYUCy6pk"/>
-        <updated>2025-08-12T10:56:03.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025  JS+React 前端工程師培訓班｜線上說明會 9/10(三) 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=xSIZ55x_BS0</id>
-        <link href="https://www.youtube.com/watch?v=xSIZ55x_BS0"/>
-        <updated>2025-08-12T03:14:15.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HELIUM. This Friday 8/15]]></title>
-        <id>https://www.youtube.com/shorts/7qHZngYRYf0</id>
-        <link href="https://www.youtube.com/shorts/7qHZngYRYf0"/>
-        <updated>2025-08-11T17:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
