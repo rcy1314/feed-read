@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-14T01:59:24.493Z</id>
+    <id>urn:2025-09-15T02:00:49.713Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T01:59:24.493Z</updated>
+    <updated>2025-09-15T02:00:49.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
+        <id>https://www.youtube.com/watch?v=MJkRIFyum-I</id>
+        <link href="https://www.youtube.com/watch?v=MJkRIFyum-I"/>
+        <updated>2025-09-14T11:59:55.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
         <id>https://www.youtube.com/watch?v=FGrlahRPXks</id>
@@ -600,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=toPvi_4Bxkg</id>
-        <link href="https://www.youtube.com/watch?v=toPvi_4Bxkg"/>
-        <updated>2025-08-28T12:16:07.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！#8]]></title>
         <id>https://www.youtube.com/shorts/fwBjb_YE2zo</id>
         <link href="https://www.youtube.com/shorts/fwBjb_YE2zo"/>
@@ -914,45 +914,6 @@
         <updated>2025-08-17T11:00:49.000Z</updated>
         <author>
             <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想成為懂人話的工程師？@hexschool]]></title>
-        <id>https://www.youtube.com/shorts/SMYnLWqtrlU</id>
-        <link href="https://www.youtube.com/shorts/SMYnLWqtrlU"/>
-        <updated>2025-08-16T13:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長源醫院—鹿港歷史影像館]]></title>
-        <id>https://www.youtube.com/shorts/oji7El0U-6Y</id>
-        <link href="https://www.youtube.com/shorts/oji7El0U-6Y"/>
-        <updated>2025-08-16T12:25:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French, Funky, House No Copyright Music | Dancefloor by Peyruis]]></title>
-        <id>https://www.youtube.com/watch?v=suSG7AbnLTA</id>
-        <link href="https://www.youtube.com/watch?v=suSG7AbnLTA"/>
-        <updated>2025-08-16T11:01:25.000Z</updated>
-        <author>
-            <name>Audio Library — No Copyright Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學會寫程式就能當工程師？你以為工程師這麼好當喔？@hexschool]]></title>
-        <id>https://www.youtube.com/shorts/IrHIGqoFwTw</id>
-        <link href="https://www.youtube.com/shorts/IrHIGqoFwTw"/>
-        <updated>2025-08-16T03:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
