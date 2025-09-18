@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-17T01:51:24.632Z</id>
+    <id>urn:2025-09-18T01:51:38.048Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T01:51:24.632Z</updated>
+    <updated>2025-09-18T01:51:38.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Back to the basics or back to the future]]></title>
+        <id>https://www.youtube.com/shorts/n9fMY8wYUAE</id>
+        <link href="https://www.youtube.com/shorts/n9fMY8wYUAE"/>
+        <updated>2025-09-17T21:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五分钟了解大疆Mini 5 Pro 20个改变升级｜懒人摄影]]></title>
+        <id>https://www.youtube.com/watch?v=hFmXkGISFZ0</id>
+        <link href="https://www.youtube.com/watch?v=hFmXkGISFZ0"/>
+        <updated>2025-09-17T16:30:54.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】当 iPhone 17 全系高刷，安卓厂商会不会倒闭？iPhone 17 、Pro、Air  深度评测]]></title>
+        <id>https://www.youtube.com/watch?v=awfkAM3R9UA</id>
+        <link href="https://www.youtube.com/watch?v=awfkAM3R9UA"/>
+        <updated>2025-09-17T15:51:29.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理光GR4是否依然为街头而生？张千里巴黎实拍详评｜#原来这么毒# 第122集]]></title>
+        <id>https://www.youtube.com/watch?v=yOeA6QjbcJk</id>
+        <link href="https://www.youtube.com/watch?v=yOeA6QjbcJk"/>
+        <updated>2025-09-17T12:48:54.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
+        <id>https://www.youtube.com/watch?v=iwsh2Umrfqk</id>
+        <link href="https://www.youtube.com/watch?v=iwsh2Umrfqk"/>
+        <updated>2025-09-17T12:01:24.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundtrack – Epic Cinematic Background Music | Alex-Productions]]></title>
+        <id>https://www.youtube.com/watch?v=QVeiLLbKx2g</id>
+        <link href="https://www.youtube.com/watch?v=QVeiLLbKx2g"/>
+        <updated>2025-09-17T11:00:50.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday.]]></title>
         <id>https://www.youtube.com/shorts/7epTHGBesGI</id>
@@ -375,6 +430,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Jb87zeSIh-g</id>
+        <link href="https://www.youtube.com/watch?v=Jb87zeSIh-g"/>
+        <updated>2025-09-08T12:07:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025年15款二次元風格 ACGN 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
         <id>https://www.youtube.com/watch?v=a2o8jtxSGeQ</id>
         <link href="https://www.youtube.com/watch?v=a2o8jtxSGeQ"/>
@@ -634,15 +698,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
-        <id>https://www.youtube.com/watch?v=zkTjh_dI1rg</id>
-        <link href="https://www.youtube.com/watch?v=zkTjh_dI1rg"/>
-        <updated>2025-08-31T11:59:32.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wow. #ohio #texas #collegefootball]]></title>
         <id>https://www.youtube.com/shorts/50TksE6MCns</id>
         <link href="https://www.youtube.com/shorts/50TksE6MCns"/>
@@ -717,15 +772,6 @@
         <updated>2025-08-28T05:00:34.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
-        <id>https://www.youtube.com/watch?v=TFw-mLeE_IQ</id>
-        <link href="https://www.youtube.com/watch?v=TFw-mLeE_IQ"/>
-        <updated>2025-08-27T12:00:54.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
@@ -914,34 +960,6 @@
         <updated>2025-08-21T01:01:15.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廣角的正確打開方式。]]></title>
-        <id>https://www.youtube.com/watch?v=Kucif6DzhJE</id>
-        <link href="https://www.youtube.com/watch?v=Kucif6DzhJE"/>
-        <updated>2025-08-19T10:12:22.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XF23mmF2.8 R WR x Julien Rocheblave/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=kCy5a99nwHE</id>
-        <link href="https://www.youtube.com/watch?v=kCy5a99nwHE"/>
-        <updated>2025-08-19T05:00:48.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threw a lil release party in Chicago 🥹 thank you guys for loving Helium :)))]]></title>
-        <id>https://www.youtube.com/shorts/iE2IjfB9t8Y</id>
-        <link href="https://www.youtube.com/shorts/iE2IjfB9t8Y"/>
-        <updated>2025-08-18T17:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
