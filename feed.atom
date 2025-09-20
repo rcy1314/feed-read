@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-19T01:55:05.585Z</id>
+    <id>urn:2025-09-20T01:49:34.215Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T01:55:05.585Z</updated>
+    <updated>2025-09-20T01:49:34.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Smooth’ is finally out 🥹🥹 please enjoy this weekend with your dogs]]></title>
+        <id>https://www.youtube.com/shorts/ZkRh2nb1IyQ</id>
+        <link href="https://www.youtube.com/shorts/ZkRh2nb1IyQ"/>
+        <updated>2025-09-19T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COFO 專業級工學椅 Pro 2]]></title>
+        <id>https://www.youtube.com/shorts/ffaq8t5ZGBM</id>
+        <link href="https://www.youtube.com/shorts/ffaq8t5ZGBM"/>
+        <updated>2025-09-19T14:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=N2gBGWCWR7M</id>
+        <link href="https://www.youtube.com/watch?v=N2gBGWCWR7M"/>
+        <updated>2025-09-19T12:06:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #6]]></title>
+        <id>https://www.youtube.com/watch?v=8Myu_FFmT-w</id>
+        <link href="https://www.youtube.com/watch?v=8Myu_FFmT-w"/>
+        <updated>2025-09-19T12:00:16.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memories of the sea – Cinematic Background Music | Rexlambo]]></title>
+        <id>https://www.youtube.com/watch?v=wjgpQXfY4O8</id>
+        <link href="https://www.youtube.com/watch?v=wjgpQXfY4O8"/>
+        <updated>2025-09-19T11:02:01.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Chainsmokers - Smooth (Official Video)]]></title>
         <id>https://www.youtube.com/watch?v=8eOTsaz_Gb4</id>
         <link href="https://www.youtube.com/watch?v=8eOTsaz_Gb4"/>
-        <updated>2025-09-18T23:24:39.000Z</updated>
+        <updated>2025-09-19T04:00:06.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -542,7 +589,7 @@
         <id>https://www.youtube.com/shorts/KXdJp3fFL6g</id>
         <link href="https://www.youtube.com/shorts/KXdJp3fFL6g"/>
         <updated>2025-09-05T21:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Helium Out Now - thechainsmokers.lnk.to/helium White Wine & Adderall - Out Now: https://thechainsmokers.lnk.to/WWAConnect with The Chainsmokers: https://disc...]]></summary>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -591,15 +638,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=RJVsE1U_FgI</id>
-        <link href="https://www.youtube.com/watch?v=RJVsE1U_FgI"/>
-        <updated>2025-09-04T12:01:11.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -783,16 +821,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！#8]]></title>
-        <id>https://www.youtube.com/shorts/fwBjb_YE2zo</id>
-        <link href="https://www.youtube.com/shorts/fwBjb_YE2zo"/>
-        <updated>2025-08-28T12:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-E5 x Lucas Scarfone / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=RNBuY0RcMF0</id>
         <link href="https://www.youtube.com/watch?v=RNBuY0RcMF0"/>
@@ -941,52 +969,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度最佳隨身相機｜RICOH GR IV]]></title>
-        <id>https://www.youtube.com/shorts/u1yl1Y0idx0</id>
-        <link href="https://www.youtube.com/shorts/u1yl1Y0idx0"/>
-        <updated>2025-08-21T13:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insta360 GO Ultra首发|带你解锁口袋相机15种创意VLOG机位！]]></title>
-        <id>https://www.youtube.com/watch?v=GQ9By7IOzr4</id>
-        <link href="https://www.youtube.com/watch?v=GQ9By7IOzr4"/>
-        <updated>2025-08-21T13:00:27.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰火两重四月樱漫天，大雪、温泉与樱花的邂逅｜#原来这么拍 第260集]]></title>
-        <id>https://www.youtube.com/watch?v=8yi6K83gGrE</id>
-        <link href="https://www.youtube.com/watch?v=8yi6K83gGrE"/>
-        <updated>2025-08-21T13:00:16.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比刷 LeetCode 還重要！轉職前這樣做專題，面試官一看就想發 offer！@hexschool]]></title>
-        <id>https://www.youtube.com/watch?v=2h8maFnlq7M</id>
-        <link href="https://www.youtube.com/watch?v=2h8maFnlq7M"/>
-        <updated>2025-08-21T12:32:00.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面升級全新電影風格色調！真正意義上的「口袋相機」｜RICOH GR IV]]></title>
-        <id>https://www.youtube.com/watch?v=ozC26tkz658</id>
-        <link href="https://www.youtube.com/watch?v=ozC26tkz658"/>
-        <updated>2025-08-21T01:01:15.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
