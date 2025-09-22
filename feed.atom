@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-21T02:02:42.779Z</id>
+    <id>urn:2025-09-22T02:02:49.916Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T02:02:42.779Z</updated>
+    <updated>2025-09-22T02:02:49.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【那些令人難忘的BOSS戰】第50集·空洞騎士絲之歌篇01]]></title>
+        <id>https://www.youtube.com/watch?v=sS0rG9dvEks</id>
+        <link href="https://www.youtube.com/watch?v=sS0rG9dvEks"/>
+        <updated>2025-09-21T12:01:35.000Z</updated>
+        <author>
+            <name>附魔星Fms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新手該選「劍」還是「杖」？選錯開局差很大？《杖劍傳說：坎斯汀之約》試玩體驗介紹！| Android & iOS 手遊推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=jYjUrzA0VY0</id>
+        <link href="https://www.youtube.com/watch?v=jYjUrzA0VY0"/>
+        <updated>2025-09-21T12:01:16.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To The Sky – Uplifting Background Music | Peyruis]]></title>
+        <id>https://www.youtube.com/watch?v=bnMY2QN2vNg</id>
+        <link href="https://www.youtube.com/watch?v=bnMY2QN2vNg"/>
+        <updated>2025-09-21T11:01:05.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 17 Pro Vs Samsung Galaxy Z Fold7 ? #iPhone17Pro #SamsungGalaxyZFold7]]></title>
         <id>https://www.youtube.com/shorts/vO_SJNOPSPg</id>
@@ -55,7 +82,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[誰說星際題材是猛男專屬？！香噴噴星際老婆來襲！《天使軍團/女神幻想》全新版本上線！紳士最愛二次元老婆們來啦~ | Android & iOS 手遊試玩體驗介紹！]]></title>
+        <title type="html"><![CDATA[香噴噴星際老婆來襲！《天使軍團》全新版本上線！紳士最愛二次元老婆們來啦~ | Android & iOS 手遊試玩體驗介紹！]]></title>
         <id>https://www.youtube.com/watch?v=rJ4PA0Vgdh0</id>
         <link href="https://www.youtube.com/watch?v=rJ4PA0Vgdh0"/>
         <updated>2025-09-20T12:01:37.000Z</updated>
@@ -831,16 +858,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年8月份最新好玩的手遊推薦！#9]]></title>
-        <id>https://www.youtube.com/shorts/4XIZRyjgcOU</id>
-        <link href="https://www.youtube.com/shorts/4XIZRyjgcOU"/>
-        <updated>2025-08-30T12:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我買了人生第一支昂貴手錶！Omega speedmaster #shorts]]></title>
         <id>https://www.youtube.com/shorts/P307Yg53Kwo</id>
         <link href="https://www.youtube.com/shorts/P307Yg53Kwo"/>
@@ -951,25 +968,6 @@
         <updated>2025-08-23T21:43:30.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡斯伯老師竟然也做過《開心農場》風格的遊戲！😆 @hexschool]]></title>
-        <id>https://www.youtube.com/shorts/mqjAQaj0n7Q</id>
-        <link href="https://www.youtube.com/shorts/mqjAQaj0n7Q"/>
-        <updated>2025-08-23T13:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, Anna Sofia - Helium (Extended Version) (Official Audio)]]></title>
-        <id>https://www.youtube.com/watch?v=_sFIfeExRhg</id>
-        <link href="https://www.youtube.com/watch?v=_sFIfeExRhg"/>
-        <updated>2025-08-22T20:42:04.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
