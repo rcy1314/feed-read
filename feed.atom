@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-28T02:03:28.254Z</id>
+    <id>urn:2025-09-29T01:57:18.756Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T02:03:28.254Z</updated>
+    <updated>2025-09-29T01:57:18.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[海街日记：用理光GR IV，捕捉古都镰仓的夏末]]></title>
+        <id>https://www.youtube.com/watch?v=ZWJX01trpUA</id>
+        <link href="https://www.youtube.com/watch?v=ZWJX01trpUA"/>
+        <updated>2025-09-29T00:30:06.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best portable camera #shorts]]></title>
+        <id>https://www.youtube.com/shorts/v5IPr17CPgw</id>
+        <link href="https://www.youtube.com/shorts/v5IPr17CPgw"/>
+        <updated>2025-09-28T14:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=5t55PRM8Cb8</id>
+        <link href="https://www.youtube.com/watch?v=5t55PRM8Cb8"/>
+        <updated>2025-09-28T12:00:50.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在找能掛機又耐玩的MMO？這款「10大職業自由切換」的《雲上城之歌：勇者再出發》可能是你的選擇！| Android & iOS 手遊推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=DZjPANBOGz8</id>
+        <link href="https://www.youtube.com/watch?v=DZjPANBOGz8"/>
+        <updated>2025-09-28T12:00:26.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home – Feel Good Background Music | Sakura Girl]]></title>
+        <id>https://www.youtube.com/watch?v=QAcqNOuwGtU</id>
+        <link href="https://www.youtube.com/watch?v=QAcqNOuwGtU"/>
+        <updated>2025-09-28T11:00:45.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony G 系列 定焦鏡到底該選哪顆？]]></title>
         <id>https://www.youtube.com/shorts/gX9BVCunw-M</id>
@@ -792,24 +838,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Gây Nghiện Hay Nhất Của "TheFatRat" ♫ Nhạc Điện Tử Mix Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=CnenHh5i0r8</id>
-        <link href="https://www.youtube.com/watch?v=CnenHh5i0r8"/>
-        <updated>2025-09-11T12:00:51.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Seven – Atmospheric Background Music | BlauDisS]]></title>
-        <id>https://www.youtube.com/watch?v=JrzgI5BXxKo</id>
-        <link href="https://www.youtube.com/watch?v=JrzgI5BXxKo"/>
-        <updated>2025-09-11T11:00:38.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FUJIFILM GFX ETERNA 55 Promotional Video / FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=rk9RHViSywY</id>
         <link href="https://www.youtube.com/watch?v=rk9RHViSywY"/>
@@ -915,15 +943,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年15款二次元風格 ACGN 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=a2o8jtxSGeQ</id>
-        <link href="https://www.youtube.com/watch?v=a2o8jtxSGeQ"/>
-        <updated>2025-09-08T12:00:00.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[遊戲中的神級角色——“陰陽之子”是如何誕生的【品遊X】]]></title>
         <id>https://www.youtube.com/watch?v=QV-sKCDNtes</id>
         <link href="https://www.youtube.com/watch?v=QV-sKCDNtes"/>
@@ -1005,16 +1024,6 @@
         <updated>2025-09-01T12:00:46.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我買了人生第一支昂貴手錶！Omega speedmaster #shorts]]></title>
-        <id>https://www.youtube.com/shorts/P307Yg53Kwo</id>
-        <link href="https://www.youtube.com/shorts/P307Yg53Kwo"/>
-        <updated>2025-08-30T11:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
