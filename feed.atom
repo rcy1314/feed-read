@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-04T01:47:41.091Z</id>
+    <id>urn:2025-10-05T02:03:04.061Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-04T01:47:41.091Z</updated>
+    <updated>2025-10-05T02:03:04.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=7ewhnLO7Tho</id>
+        <link href="https://www.youtube.com/watch?v=7ewhnLO7Tho"/>
+        <updated>2025-10-04T11:59:58.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let Me Know – Chill Background Music | Balynt]]></title>
+        <id>https://www.youtube.com/watch?v=EQMX-p-isCc</id>
+        <link href="https://www.youtube.com/watch?v=EQMX-p-isCc"/>
+        <updated>2025-10-04T11:00:26.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " TheFatRat  " Gây Nghiện]]></title>
         <id>https://www.youtube.com/watch?v=7ZMFran1LwI</id>
@@ -712,15 +730,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[memories of the sea – Cinematic Background Music | Rexlambo]]></title>
-        <id>https://www.youtube.com/watch?v=wjgpQXfY4O8</id>
-        <link href="https://www.youtube.com/watch?v=wjgpQXfY4O8"/>
-        <updated>2025-09-19T11:02:01.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Chainsmokers - Smooth (Official Video)]]></title>
         <id>https://www.youtube.com/watch?v=8eOTsaz_Gb4</id>
         <link href="https://www.youtube.com/watch?v=8eOTsaz_Gb4"/>
@@ -736,15 +745,6 @@
         <updated>2025-09-18T12:31:03.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=vFOaMMxRG10</id>
-        <link href="https://www.youtube.com/watch?v=vFOaMMxRG10"/>
-        <updated>2025-09-18T12:01:50.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -1006,24 +1006,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】剃须刀徕芬 P3 Pro PK 飞科 F8：厂家没告诉你的那些缺点]]></title>
-        <id>https://www.youtube.com/watch?v=SQAVSYNO5f8</id>
-        <link href="https://www.youtube.com/watch?v=SQAVSYNO5f8"/>
-        <updated>2025-09-05T09:40:57.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short Film "Adisyon" x GFX100 II / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=HpMS1akQcY8</id>
-        <link href="https://www.youtube.com/watch?v=HpMS1akQcY8"/>
-        <updated>2025-09-05T05:00:18.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
