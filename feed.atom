@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-11T01:49:27.769Z</id>
+    <id>urn:2025-10-12T01:58:19.437Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T01:49:27.769Z</updated>
+    <updated>2025-10-12T01:58:19.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我和Mac]]></title>
+        <id>https://www.youtube.com/watch?v=HaSEgdG_Bg4</id>
+        <link href="https://www.youtube.com/watch?v=HaSEgdG_Bg4"/>
+        <updated>2025-10-11T14:40:50.000Z</updated>
+        <author>
+            <name>黄杨ME</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=rdZRnGjvkmw</id>
+        <link href="https://www.youtube.com/watch?v=rdZRnGjvkmw"/>
+        <updated>2025-10-11T12:01:39.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要想完整了解臺灣，不容錯過的相遇：臺北｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=SnOckdip_cU</id>
+        <link href="https://www.youtube.com/watch?v=SnOckdip_cU"/>
+        <updated>2025-10-11T12:00:51.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南法之行｜全程只用索尼RX1R III拍照是什么体验？]]></title>
+        <id>https://www.youtube.com/watch?v=1PM95RNyAnI</id>
+        <link href="https://www.youtube.com/watch?v=1PM95RNyAnI"/>
+        <updated>2025-10-11T12:00:07.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sun — House Background Music | tubebackr]]></title>
+        <id>https://www.youtube.com/watch?v=Dtmvu6_1wAg</id>
+        <link href="https://www.youtube.com/watch?v=Dtmvu6_1wAg"/>
+        <updated>2025-10-11T11:00:32.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=Lq67QUjAQFQ</id>
@@ -492,15 +537,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Thư Giãn " Giai Điệu Vui Tươi " 2025]]></title>
-        <id>https://www.youtube.com/watch?v=97708OcJpJY</id>
-        <link href="https://www.youtube.com/watch?v=97708OcJpJY"/>
-        <updated>2025-09-26T12:02:32.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年9月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
         <id>https://www.youtube.com/watch?v=siYN0EE0Adw</id>
         <link href="https://www.youtube.com/watch?v=siYN0EE0Adw"/>
@@ -544,15 +580,6 @@
         <updated>2025-09-25T12:29:07.000Z</updated>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamscape – Pop Background Music | Roa]]></title>
-        <id>https://www.youtube.com/watch?v=FMgDyYiUEvY</id>
-        <link href="https://www.youtube.com/watch?v=FMgDyYiUEvY"/>
-        <updated>2025-09-25T11:00:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -902,52 +929,6 @@
         <updated>2025-09-13T00:34:46.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[some advice from us]]></title>
-        <id>https://www.youtube.com/shorts/W_oqkvojepY</id>
-        <link href="https://www.youtube.com/shorts/W_oqkvojepY"/>
-        <updated>2025-09-11T21:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX ETERNA 55: Oren Soffer x Narrative Shortfilm "OKAY" Product Release Cut / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=tSR_G8-AHNA</id>
-        <link href="https://www.youtube.com/watch?v=tSR_G8-AHNA"/>
-        <updated>2025-09-11T16:01:36.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX ETERNA 55: Oren Soffer x Narrative Shortfilm "OKAY" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=j8_wmX8acrY</id>
-        <link href="https://www.youtube.com/watch?v=j8_wmX8acrY"/>
-        <updated>2025-09-11T16:01:25.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX ETERNA 55: James Tonkin x Shortfilm "ETERNAL" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=VbY5m01aJSs</id>
-        <link href="https://www.youtube.com/watch?v=VbY5m01aJSs"/>
-        <updated>2025-09-11T16:00:52.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX ETERNA 55: James Tonkin x Shortfilm "ETERNAL" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=7FzM1JaRx6A</id>
-        <link href="https://www.youtube.com/watch?v=7FzM1JaRx6A"/>
-        <updated>2025-09-11T16:00:16.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
