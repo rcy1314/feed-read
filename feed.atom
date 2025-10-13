@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-12T01:58:19.437Z</id>
+    <id>urn:2025-10-13T02:02:01.103Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T01:58:19.437Z</updated>
+    <updated>2025-10-13T02:02:01.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Wc5my-y-Gk4</id>
+        <link href="https://www.youtube.com/watch?v=Wc5my-y-Gk4"/>
+        <updated>2025-10-12T12:15:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban — Chill Background Music | KV]]></title>
+        <id>https://www.youtube.com/watch?v=us3prYBc2c4</id>
+        <link href="https://www.youtube.com/watch?v=us3prYBc2c4"/>
+        <updated>2025-10-12T11:01:34.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我和Mac]]></title>
         <id>https://www.youtube.com/watch?v=HaSEgdG_Bg4</id>
@@ -500,15 +518,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=ns8Ej7ef4qQ</id>
-        <link href="https://www.youtube.com/watch?v=ns8Ej7ef4qQ"/>
-        <updated>2025-09-27T12:00:52.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《天命》IP出手遊了！手機上也能當守護者！《天命：群星》公測試玩，Bungie粉絲值得入坑嗎？| Android & iOS 手遊推薦！]]></title>
         <id>https://www.youtube.com/watch?v=4OqT5-LbkqY</id>
         <link href="https://www.youtube.com/watch?v=4OqT5-LbkqY"/>
@@ -543,15 +552,6 @@
         <updated>2025-09-26T12:01:48.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divinity – Chillwave Background Music | ASHUTOSH]]></title>
-        <id>https://www.youtube.com/watch?v=lvgjKfN2u0c</id>
-        <link href="https://www.youtube.com/watch?v=lvgjKfN2u0c"/>
-        <updated>2025-09-26T11:01:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -918,15 +918,6 @@
         <id>https://www.youtube.com/watch?v=2JGovGy4T2I</id>
         <link href="https://www.youtube.com/watch?v=2JGovGy4T2I"/>
         <updated>2025-09-15T02:41:03.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025  JS+React 前端工程師培訓班｜線上說明會 9/10(三) 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=xSIZ55x_BS0</id>
-        <link href="https://www.youtube.com/watch?v=xSIZ55x_BS0"/>
-        <updated>2025-09-13T00:34:46.000Z</updated>
         <author>
             <name>六角學院</name>
         </author>
