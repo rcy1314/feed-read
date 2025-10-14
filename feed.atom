@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-13T02:02:01.103Z</id>
+    <id>urn:2025-10-14T01:54:47.163Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T02:02:01.103Z</updated>
+    <updated>2025-10-14T01:54:47.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【出國旅拍怎麼拍】曼谷唐人街去哪拍？街拍天堂、老件咖啡廳、沒人的火車站｜泰國曼谷｜ft. RF 24mm F1.4 L VCM]]></title>
+        <id>https://www.youtube.com/watch?v=8oWqofUdmDE</id>
+        <link href="https://www.youtube.com/watch?v=8oWqofUdmDE"/>
+        <updated>2025-10-13T12:30:03.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Game Liên Quân Cực Chiến]]></title>
+        <id>https://www.youtube.com/watch?v=QwnNaJdN854</id>
+        <link href="https://www.youtube.com/watch?v=QwnNaJdN854"/>
+        <updated>2025-10-13T12:00:39.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款角色扮演 RPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #3]]></title>
+        <id>https://www.youtube.com/watch?v=3q6J5l5sdA0</id>
+        <link href="https://www.youtube.com/watch?v=3q6J5l5sdA0"/>
+        <updated>2025-10-13T12:00:05.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If You Fly – Electronic Background Music | extenz]]></title>
+        <id>https://www.youtube.com/watch?v=NADGmui94uY</id>
+        <link href="https://www.youtube.com/watch?v=NADGmui94uY"/>
+        <updated>2025-10-13T11:00:46.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一口气看懂新中国70余年区域兴衰【激荡番外篇·区域兴衰】]]></title>
+        <id>https://www.youtube.com/watch?v=Itkj-b4QY1E</id>
+        <link href="https://www.youtube.com/watch?v=Itkj-b4QY1E"/>
+        <updated>2025-10-13T10:18:12.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=Wc5my-y-Gk4</id>
@@ -481,15 +526,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=5t55PRM8Cb8</id>
-        <link href="https://www.youtube.com/watch?v=5t55PRM8Cb8"/>
-        <updated>2025-09-28T12:00:50.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在找能掛機又耐玩的MMO？這款「10大職業自由切換」的《雲上城之歌：勇者再出發》可能是你的選擇！| Android & iOS 手遊推薦！]]></title>
         <id>https://www.youtube.com/watch?v=DZjPANBOGz8</id>
         <link href="https://www.youtube.com/watch?v=DZjPANBOGz8"/>
@@ -524,15 +560,6 @@
         <updated>2025-09-27T12:00:09.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orange – Energetic Background Music | Next Route]]></title>
-        <id>https://www.youtube.com/watch?v=zD_1K4dA3h8</id>
-        <link href="https://www.youtube.com/watch?v=zD_1K4dA3h8"/>
-        <updated>2025-09-27T11:01:43.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -802,15 +829,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[香噴噴星際老婆來襲！《天使軍團》全新版本上線！紳士最愛二次元老婆們來啦~ | Android & iOS 手遊試玩體驗介紹！]]></title>
-        <id>https://www.youtube.com/watch?v=rJ4PA0Vgdh0</id>
-        <link href="https://www.youtube.com/watch?v=rJ4PA0Vgdh0"/>
-        <updated>2025-09-20T12:01:37.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Smooth’ is finally out 🥹🥹 please enjoy this weekend with your dogs]]></title>
         <id>https://www.youtube.com/shorts/ZkRh2nb1IyQ</id>
         <link href="https://www.youtube.com/shorts/ZkRh2nb1IyQ"/>
@@ -818,16 +836,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COFO 專業級工學椅 Pro 2]]></title>
-        <id>https://www.youtube.com/shorts/ffaq8t5ZGBM</id>
-        <link href="https://www.youtube.com/shorts/ffaq8t5ZGBM"/>
-        <updated>2025-09-19T14:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
