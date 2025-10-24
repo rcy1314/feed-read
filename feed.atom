@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T01:57:07.346Z</id>
+    <id>urn:2025-10-24T01:53:14.794Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T01:57:07.346Z</updated>
+    <updated>2025-10-24T01:53:14.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=o6MzDswiXaY</id>
+        <link href="https://www.youtube.com/watch?v=o6MzDswiXaY"/>
+        <updated>2025-10-23T12:01:39.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whistle – Electronic Background Music | Next Route]]></title>
+        <id>https://www.youtube.com/watch?v=46wuENAnJRA</id>
+        <link href="https://www.youtube.com/watch?v=46wuENAnJRA"/>
+        <updated>2025-10-23T11:00:15.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Gretchen Kay Stuart "The Oregon Otter Gap"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=_C6loKsfrfo</id>
+        <link href="https://www.youtube.com/watch?v=_C6loKsfrfo"/>
+        <updated>2025-10-23T07:00:35.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Gavin Maxwell "If The Land Could Speak" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=9vXwgUZPE9A</id>
+        <link href="https://www.youtube.com/watch?v=9vXwgUZPE9A"/>
+        <updated>2025-10-23T07:00:13.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS]GFX Challenge Grant Program 2024: Claudia Guadarrama / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=4K5IMhaetGI</id>
+        <link href="https://www.youtube.com/watch?v=4K5IMhaetGI"/>
+        <updated>2025-10-23T07:00:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XC13-33mmF3.5-6.3 OIS x Mitch Wiesinger/FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=GEkTz6jliSI</id>
+        <link href="https://www.youtube.com/watch?v=GEkTz6jliSI"/>
+        <updated>2025-10-23T05:01:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T30 III x Bryan and Emily Daugherty / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=yc_F-82luBc</id>
+        <link href="https://www.youtube.com/watch?v=yc_F-82luBc"/>
+        <updated>2025-10-23T05:01:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 2025 Announcement/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=y7GaW9XkUWY</id>
+        <link href="https://www.youtube.com/watch?v=y7GaW9XkUWY"/>
+        <updated>2025-10-23T05:00:59.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUJINON XC13-33mmF3.5-6.3 OIS Promotional Video / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=IK7i-bA0lAQ</id>
+        <link href="https://www.youtube.com/watch?v=IK7i-bA0lAQ"/>
+        <updated>2025-10-23T05:00:15.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T30 III Promotional Video/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=5UPv6H4FnQg</id>
+        <link href="https://www.youtube.com/watch?v=5UPv6H4FnQg"/>
+        <updated>2025-10-23T05:00:06.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Film Simulation - "Your Vision, Your Way"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=QnJu2udd4t4</id>
+        <link href="https://www.youtube.com/watch?v=QnJu2udd4t4"/>
+        <updated>2025-10-23T04:50:00.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】10/22 20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=Exsc3i_KbCo</id>
@@ -559,24 +658,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TOP Nhạc Nightcore Mix EDM Phiêu ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=eDQCIgU-riU</id>
-        <link href="https://www.youtube.com/watch?v=eDQCIgU-riU"/>
-        <updated>2025-10-07T12:00:40.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happier — Pop Background Music | Sakura Girl]]></title>
-        <id>https://www.youtube.com/watch?v=u6e7NlCkSQw</id>
-        <link href="https://www.youtube.com/watch?v=u6e7NlCkSQw"/>
-        <updated>2025-10-07T11:01:36.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Champ 🏆]]></title>
         <id>https://www.youtube.com/shorts/9g1bpE_P0mY</id>
         <link href="https://www.youtube.com/shorts/9g1bpE_P0mY"/>
@@ -611,6 +692,15 @@
         <updated>2025-10-03T12:00:36.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025  Vibe Coding 公益程式體驗營｜線上說明會 10/27(一) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=tpaxAjMOu4E</id>
+        <link href="https://www.youtube.com/watch?v=tpaxAjMOu4E"/>
+        <updated>2025-10-03T02:03:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -837,35 +927,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最便宜的免簽國體驗如何，探訪最大內陸國哈薩克斯坦｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=RMgPURpi5Q4</id>
-        <link href="https://www.youtube.com/watch?v=RMgPURpi5Q4"/>
-        <updated>2025-09-24T12:01:02.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony G 系列 變焦鏡到底該選哪顆？]]></title>
-        <id>https://www.youtube.com/shorts/C1TiclbG0BY</id>
-        <link href="https://www.youtube.com/shorts/C1TiclbG0BY"/>
-        <updated>2025-09-24T07:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這可能是CP值最高的入門瑞士錶了]]></title>
-        <id>https://www.youtube.com/shorts/Dqk8bN3t0Do</id>
-        <link href="https://www.youtube.com/shorts/Dqk8bN3t0Do"/>
-        <updated>2025-09-23T17:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>JJJason自由攝影師</name>
         </author>
     </entry>
 </feed>
