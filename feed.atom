@@ -1,10 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-27T02:08:31.829Z</id>
+    <id>urn:2025-10-28T01:57:45.683Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T02:08:31.829Z</updated>
+    <updated>2025-10-28T01:57:45.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[this duo]]></title>
+        <id>https://www.youtube.com/shorts/fgvKx6jwWE8</id>
+        <link href="https://www.youtube.com/shorts/fgvKx6jwWE8"/>
+        <updated>2025-10-27T21:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025  Vibe Coding 公益程式體驗營｜線上說明會 10/27(一) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=tpaxAjMOu4E</id>
+        <link href="https://www.youtube.com/watch?v=tpaxAjMOu4E"/>
+        <updated>2025-10-27T15:42:07.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[性能全面提升！還能讓人感到樂趣的存在嗎？｜Sony RX1R III]]></title>
+        <id>https://www.youtube.com/watch?v=ruF4Az40BsA</id>
+        <link href="https://www.youtube.com/watch?v=ruF4Az40BsA"/>
+        <updated>2025-10-27T12:30:19.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】10/15 20:00 準時開播｜六角內部專屬直播]]></title>
+        <id>https://www.youtube.com/watch?v=InP0oJIchak</id>
+        <link href="https://www.youtube.com/watch?v=InP0oJIchak"/>
+        <updated>2025-10-27T12:05:31.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年15款動漫 ANIME 手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
+        <id>https://www.youtube.com/watch?v=Wbia5DMzSI4</id>
+        <link href="https://www.youtube.com/watch?v=Wbia5DMzSI4"/>
+        <updated>2025-10-27T12:00:58.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trip – Electronic Background Music | Scandinavianz]]></title>
+        <id>https://www.youtube.com/watch?v=i9gc6RbmZGc</id>
+        <link href="https://www.youtube.com/watch?v=i9gc6RbmZGc"/>
+        <updated>2025-10-27T11:01:30.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“大陆缺什么，我就去做什么。”中国半导体之父【奔流· 张汝京】]]></title>
+        <id>https://www.youtube.com/watch?v=N6lUGWyWZrY</id>
+        <link href="https://www.youtube.com/watch?v=N6lUGWyWZrY"/>
+        <updated>2025-10-27T10:11:42.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那天的我做了一個很大的決定]]></title>
+        <id>https://www.youtube.com/watch?v=uJK1xvWiLnU</id>
+        <link href="https://www.youtube.com/watch?v=uJK1xvWiLnU"/>
+        <updated>2025-10-27T06:54:47.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Jared Wahkinney "Peyote People" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=wIwx1-NsKCg</id>
+        <link href="https://www.youtube.com/watch?v=wIwx1-NsKCg"/>
+        <updated>2025-10-27T05:01:04.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Gianluca Lanciai "Timeland" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=eY51f5HO2E0</id>
+        <link href="https://www.youtube.com/watch?v=eY51f5HO2E0"/>
+        <updated>2025-10-27T05:00:46.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T30 III x Keiko Watanabe/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=YGRNvZDq04Y</id>
+        <link href="https://www.youtube.com/watch?v=YGRNvZDq04Y"/>
+        <updated>2025-10-27T05:00:37.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Kahli Brown "Plastic Possibilities" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=5Uj63HzDXHM</id>
+        <link href="https://www.youtube.com/watch?v=5Uj63HzDXHM"/>
+        <updated>2025-10-27T05:00:08.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cat Walk – Videogame Background Music | Sakura Girl]]></title>
         <id>https://www.youtube.com/watch?v=ta0GD1bqjyA</id>
@@ -295,15 +404,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: César Guardia Alemañi "Echoes of Resilience" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=LwJbg3ZOYCI</id>
-        <link href="https://www.youtube.com/watch?v=LwJbg3ZOYCI"/>
-        <updated>2025-10-21T05:00:33.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[投影仪最大的问题竟然没人说？坚果 N5 全系列投影仪评测]]></title>
         <id>https://www.youtube.com/watch?v=ZUAFeNj-uEA</id>
         <link href="https://www.youtube.com/watch?v=ZUAFeNj-uEA"/>
@@ -385,7 +485,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一分钟入门 FlexClip｜无需安装，快速出片的在线视频制作工具]]></title>
+        <title type="html"><![CDATA[【测评】一分钟入门 FlexClip｜无需安装，快速出片的在线视频制作工具]]></title>
         <id>https://www.youtube.com/watch?v=W_R-AAQfVBo</id>
         <link href="https://www.youtube.com/watch?v=W_R-AAQfVBo"/>
         <updated>2025-10-18T07:22:31.000Z</updated>
@@ -483,15 +583,6 @@
         <updated>2025-10-15T11:00:38.000Z</updated>
         <author>
             <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX ETERNA 55 Development Stories #3 Color Science / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ZJpNBhNlGfA</id>
-        <link href="https://www.youtube.com/watch?v=ZJpNBhNlGfA"/>
-        <updated>2025-10-15T05:00:46.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -612,15 +703,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urban — Chill Background Music | KV]]></title>
-        <id>https://www.youtube.com/watch?v=us3prYBc2c4</id>
-        <link href="https://www.youtube.com/watch?v=us3prYBc2c4"/>
-        <updated>2025-10-12T11:01:34.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我和Mac]]></title>
         <id>https://www.youtube.com/watch?v=HaSEgdG_Bg4</id>
         <link href="https://www.youtube.com/watch?v=HaSEgdG_Bg4"/>
@@ -703,15 +785,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GFX ETERNA 55 Development Stories #2 - Sensor / FUJIFILM [Subtitle available]]]></title>
-        <id>https://www.youtube.com/watch?v=Tz5A9hDflUY</id>
-        <link href="https://www.youtube.com/watch?v=Tz5A9hDflUY"/>
-        <updated>2025-10-08T14:37:19.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #3]]></title>
         <id>https://www.youtube.com/watch?v=RDAzeg1amSA</id>
         <link href="https://www.youtube.com/watch?v=RDAzeg1amSA"/>
@@ -764,15 +837,6 @@
         <updated>2025-10-03T12:00:36.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025  Vibe Coding 公益程式體驗營｜線上說明會 10/27(一) 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=tpaxAjMOu4E</id>
-        <link href="https://www.youtube.com/watch?v=tpaxAjMOu4E"/>
-        <updated>2025-10-03T02:03:14.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -886,25 +950,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在找能掛機又耐玩的MMO？這款「10大職業自由切換」的《雲上城之歌：勇者再出發》可能是你的選擇！| Android & iOS 手遊推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=DZjPANBOGz8</id>
-        <link href="https://www.youtube.com/watch?v=DZjPANBOGz8"/>
-        <updated>2025-09-28T12:00:26.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony G 系列 定焦鏡到底該選哪顆？]]></title>
-        <id>https://www.youtube.com/shorts/gX9BVCunw-M</id>
-        <link href="https://www.youtube.com/shorts/gX9BVCunw-M"/>
-        <updated>2025-09-27T15:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
