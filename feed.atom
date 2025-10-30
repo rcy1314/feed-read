@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-29T02:05:03.302Z</id>
+    <id>urn:2025-10-30T02:03:39.049Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T02:05:03.302Z</updated>
+    <updated>2025-10-30T02:03:39.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9]]></title>
+        <id>https://www.youtube.com/watch?v=ydj4bSxKwOI</id>
+        <link href="https://www.youtube.com/watch?v=ydj4bSxKwOI"/>
+        <updated>2025-10-29T12:02:17.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烏茲別克斯坦完整旅行攻略：藍金王朝之城・中亞最神秘的國度｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=AeudnQRcm6g</id>
+        <link href="https://www.youtube.com/watch?v=AeudnQRcm6g"/>
+        <updated>2025-10-29T12:00:23.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virus – Epic Background Music | Alex-Productions]]></title>
+        <id>https://www.youtube.com/watch?v=kBT4APYsP5M</id>
+        <link href="https://www.youtube.com/watch?v=kBT4APYsP5M"/>
+        <updated>2025-10-29T11:01:45.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机高像素背后的潜规则，OPPO Find X9 Pro 影像评测]]></title>
+        <id>https://www.youtube.com/watch?v=rW4QV0s7So4</id>
+        <link href="https://www.youtube.com/watch?v=rW4QV0s7So4"/>
+        <updated>2025-10-29T07:19:03.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Moe Suzuki "Kusari"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ws3bygaHYSI</id>
+        <link href="https://www.youtube.com/watch?v=ws3bygaHYSI"/>
+        <updated>2025-10-29T05:01:08.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS]GFX Challenge Grant Program 2024:Kristina Nikolova"Stabat Mater-The Ten Ages of Woman"/FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=OMdHpniCkvo</id>
+        <link href="https://www.youtube.com/watch?v=OMdHpniCkvo"/>
+        <updated>2025-10-29T05:00:28.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Luo Fei / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Gn3tNlg0O-Q</id>
+        <link href="https://www.youtube.com/watch?v=Gn3tNlg0O-Q"/>
+        <updated>2025-10-29T05:00:18.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=nogl9RMK5aY</id>
@@ -340,15 +403,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Film Simulation - "Your Vision, Your Way"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=QnJu2udd4t4</id>
-        <link href="https://www.youtube.com/watch?v=QnJu2udd4t4"/>
-        <updated>2025-10-23T04:50:00.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】10/22 20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=Exsc3i_KbCo</id>
         <link href="https://www.youtube.com/watch?v=Exsc3i_KbCo"/>
@@ -410,24 +464,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Da-seul Lee "Under the Purple sky"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=dV0aHrjgvHI</id>
-        <link href="https://www.youtube.com/watch?v=dV0aHrjgvHI"/>
-        <updated>2025-10-21T05:00:42.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: David Fulde "Queer Lenses"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ZYOnk_OF3Hw</id>
-        <link href="https://www.youtube.com/watch?v=ZYOnk_OF3Hw"/>
-        <updated>2025-10-21T05:00:40.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -646,15 +682,6 @@
         <updated>2025-10-14T12:00:02.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundown – Meditation Background Music | Qlowdy]]></title>
-        <id>https://www.youtube.com/watch?v=Qbc-x34myX8</id>
-        <link href="https://www.youtube.com/watch?v=Qbc-x34myX8"/>
-        <updated>2025-10-14T11:00:46.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -883,36 +910,6 @@
         <updated>2025-09-30T17:30:30.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當你把相機裝在車外]]></title>
-        <id>https://www.youtube.com/shorts/4Zln3vNH5xI</id>
-        <link href="https://www.youtube.com/shorts/4Zln3vNH5xI"/>
-        <updated>2025-09-30T12:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出國沒有記憶卡怎麼辦！｜別怕！一招輕鬆教會你]]></title>
-        <id>https://www.youtube.com/shorts/5z3wPV8xIEA</id>
-        <link href="https://www.youtube.com/shorts/5z3wPV8xIEA"/>
-        <updated>2025-09-30T10:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[let him cook #guyfieri]]></title>
-        <id>https://www.youtube.com/shorts/hFxhp0wrH6g</id>
-        <link href="https://www.youtube.com/shorts/hFxhp0wrH6g"/>
-        <updated>2025-09-29T21:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
