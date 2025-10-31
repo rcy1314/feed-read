@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-30T02:03:39.049Z</id>
+    <id>urn:2025-10-31T02:00:54.489Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T02:03:39.049Z</updated>
+    <updated>2025-10-31T02:00:54.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Comfy Days – Chill Background Music | Qlowdy]]></title>
+        <id>https://www.youtube.com/watch?v=7MtrRQu6A1w</id>
+        <link href="https://www.youtube.com/watch?v=7MtrRQu6A1w"/>
+        <updated>2025-10-30T11:00:13.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最強CP值無線麥克風- Saramonic Air]]></title>
+        <id>https://www.youtube.com/watch?v=Ntd10Sm4ghU</id>
+        <link href="https://www.youtube.com/watch?v=Ntd10Sm4ghU"/>
+        <updated>2025-10-30T10:57:43.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[會 JavaScript 就夠了？錯！會 TypeScript 讓你少踩 90% 的雷 #六角學院]]></title>
+        <id>https://www.youtube.com/shorts/cC_8kVAou2Y</id>
+        <link href="https://www.youtube.com/shorts/cC_8kVAou2Y"/>
+        <updated>2025-10-30T10:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Tsuyoshi Anzai "Ultra Giant Micro Plastic"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=hyjrrOEDoCk</id>
+        <link href="https://www.youtube.com/watch?v=hyjrrOEDoCk"/>
+        <updated>2025-10-30T05:00:47.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T30 III x Juan Pablo/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Jq_f0oOR4XY</id>
+        <link href="https://www.youtube.com/watch?v=Jq_f0oOR4XY"/>
+        <updated>2025-10-30T05:00:31.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Reinis Hofmanis "Shared Horizon"/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=VEBk1-vEXlw</id>
+        <link href="https://www.youtube.com/watch?v=VEBk1-vEXlw"/>
+        <updated>2025-10-30T05:00:29.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Yi Hsien Lee "Scar Tissue" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=4SdoA8OKxtU</id>
+        <link href="https://www.youtube.com/watch?v=4SdoA8OKxtU"/>
+        <updated>2025-10-30T05:00:05.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9]]></title>
         <id>https://www.youtube.com/watch?v=ydj4bSxKwOI</id>
@@ -93,6 +157,15 @@
         <updated>2025-10-28T11:01:10.000Z</updated>
         <author>
             <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】11/5 20:00 準時開播｜最終場專屬直播]]></title>
+        <id>https://www.youtube.com/watch?v=VZrhpiMJmSk</id>
+        <link href="https://www.youtube.com/watch?v=VZrhpiMJmSk"/>
+        <updated>2025-10-28T07:14:29.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -367,42 +440,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-T30 III x Bryan and Emily Daugherty / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=yc_F-82luBc</id>
-        <link href="https://www.youtube.com/watch?v=yc_F-82luBc"/>
-        <updated>2025-10-23T05:01:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 2025 Announcement/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=y7GaW9XkUWY</id>
-        <link href="https://www.youtube.com/watch?v=y7GaW9XkUWY"/>
-        <updated>2025-10-23T05:00:59.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJINON XC13-33mmF3.5-6.3 OIS Promotional Video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=IK7i-bA0lAQ</id>
-        <link href="https://www.youtube.com/watch?v=IK7i-bA0lAQ"/>
-        <updated>2025-10-23T05:00:15.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T30 III Promotional Video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=5UPv6H4FnQg</id>
-        <link href="https://www.youtube.com/watch?v=5UPv6H4FnQg"/>
-        <updated>2025-10-23T05:00:06.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】10/22 20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=Exsc3i_KbCo</id>
         <link href="https://www.youtube.com/watch?v=Exsc3i_KbCo"/>
@@ -637,15 +674,6 @@
         <updated>2025-10-15T12:00:30.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Pepper – Funky Background Music | Alex-Productions]]></title>
-        <id>https://www.youtube.com/watch?v=GzoOWFMYpk0</id>
-        <link href="https://www.youtube.com/watch?v=GzoOWFMYpk0"/>
-        <updated>2025-10-15T11:00:38.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -892,24 +920,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=fs6F475-sUc</id>
-        <link href="https://www.youtube.com/watch?v=fs6F475-sUc"/>
-        <updated>2025-10-01T12:01:31.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini 5 Pro vs Air 3s | 大疆无人机以小搏大碾压式完胜？]]></title>
-        <id>https://www.youtube.com/watch?v=VARdEqMDbCk</id>
-        <link href="https://www.youtube.com/watch?v=VARdEqMDbCk"/>
-        <updated>2025-09-30T17:30:30.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
         </author>
     </entry>
 </feed>
