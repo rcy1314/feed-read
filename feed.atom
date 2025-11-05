@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-04T02:01:06.929Z</id>
+    <id>urn:2025-11-05T02:02:56.156Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T02:01:06.929Z</updated>
+    <updated>2025-11-05T02:02:56.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All we know]]></title>
+        <id>https://www.youtube.com/shorts/nASAX0agis4</id>
+        <link href="https://www.youtube.com/shorts/nASAX0agis4"/>
+        <updated>2025-11-04T20:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sérénade – Chill Background Music | Tomh.]]></title>
+        <id>https://www.youtube.com/watch?v=XusfU5StlU0</id>
+        <link href="https://www.youtube.com/watch?v=XusfU5StlU0"/>
+        <updated>2025-11-04T11:01:12.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-T30 III x Tewter Thanawat/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=hEDzTs9Vf-I</id>
+        <link href="https://www.youtube.com/watch?v=hEDzTs9Vf-I"/>
+        <updated>2025-11-04T05:00:54.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“随身大屏”显示效果已经做到什么程度了？雷鸟 Air 4 Pro 评测]]></title>
         <id>https://www.youtube.com/watch?v=XUlsTlgb1BM</id>
@@ -560,15 +588,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XC13-33mmF3.5-6.3 OIS x Mitch Wiesinger/FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=GEkTz6jliSI</id>
-        <link href="https://www.youtube.com/watch?v=GEkTz6jliSI"/>
-        <updated>2025-10-23T05:01:07.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】10/22 20:00 準時開播]]></title>
         <id>https://www.youtube.com/watch?v=Exsc3i_KbCo</id>
         <link href="https://www.youtube.com/watch?v=Exsc3i_KbCo"/>
@@ -666,15 +685,6 @@
         <updated>2025-10-20T12:00:15.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Alone – Electronic Background Music | Spiring]]></title>
-        <id>https://www.youtube.com/watch?v=Q644zE0zrE0</id>
-        <link href="https://www.youtube.com/watch?v=Q644zE0zrE0"/>
-        <updated>2025-10-20T11:00:54.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -949,24 +959,6 @@
         <summary type="html"><![CDATA[Smooth - Out Now: https://thechainsmokers.lnk.to/SmoothHelium - Out Now: thechainsmokers.lnk.to/helium White Wine & Adderall - Out Now: https://thechainsmoke...]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【攝影小教室】我脫離攝影新手期了嗎？三個自我檢視的方式｜@EmmaSleepTaiwan]]></title>
-        <id>https://www.youtube.com/watch?v=Pl488YT4o-Y</id>
-        <link href="https://www.youtube.com/watch?v=Pl488YT4o-Y"/>
-        <updated>2025-10-06T12:30:04.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款動作角色扮演 ARPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #3]]></title>
-        <id>https://www.youtube.com/watch?v=ntDmF44PUqM</id>
-        <link href="https://www.youtube.com/watch?v=ntDmF44PUqM"/>
-        <updated>2025-10-06T12:01:32.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
