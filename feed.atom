@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-05T02:02:56.156Z</id>
+    <id>urn:2025-11-06T02:03:05.706Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T02:02:56.156Z</updated>
+    <updated>2025-11-06T02:03:05.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】11/5 20:00 準時開播｜最終場專屬直播]]></title>
+        <id>https://www.youtube.com/watch?v=VZrhpiMJmSk</id>
+        <link href="https://www.youtube.com/watch?v=VZrhpiMJmSk"/>
+        <updated>2025-11-06T01:38:01.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloodstream]]></title>
+        <id>https://www.youtube.com/shorts/25h0daW2UUA</id>
+        <link href="https://www.youtube.com/shorts/25h0daW2UUA"/>
+        <updated>2025-11-05T21:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #1]]></title>
+        <id>https://www.youtube.com/watch?v=So_ras16xPw</id>
+        <link href="https://www.youtube.com/watch?v=So_ras16xPw"/>
+        <updated>2025-11-05T12:01:02.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 12 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=_OBiVspkjkk</id>
+        <link href="https://www.youtube.com/watch?v=_OBiVspkjkk"/>
+        <updated>2025-11-05T12:00:47.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Is – Dance Background Music | tubebackr & Stanty]]></title>
+        <id>https://www.youtube.com/watch?v=s7iLBF5RNNA</id>
+        <link href="https://www.youtube.com/watch?v=s7iLBF5RNNA"/>
+        <updated>2025-11-05T11:01:45.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All we know]]></title>
         <id>https://www.youtube.com/shorts/nASAX0agis4</id>
@@ -317,15 +363,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】11/5 20:00 準時開播｜最終場專屬直播]]></title>
-        <id>https://www.youtube.com/watch?v=VZrhpiMJmSk</id>
-        <link href="https://www.youtube.com/watch?v=VZrhpiMJmSk"/>
-        <updated>2025-10-28T07:14:29.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[this duo]]></title>
         <id>https://www.youtube.com/shorts/fgvKx6jwWE8</id>
         <link href="https://www.youtube.com/shorts/fgvKx6jwWE8"/>
@@ -633,15 +670,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Midnight – Hip-hop Background Music | Qlowdy]]></title>
-        <id>https://www.youtube.com/watch?v=hdoSRMkeT-E</id>
-        <link href="https://www.youtube.com/watch?v=hdoSRMkeT-E"/>
-        <updated>2025-10-21T11:01:12.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[開箱 FE 100mm F2.8 Macro GM OSS]]></title>
         <id>https://www.youtube.com/shorts/533cDGA_Pqo</id>
         <link href="https://www.youtube.com/shorts/533cDGA_Pqo"/>
@@ -870,15 +898,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=Wc5my-y-Gk4</id>
-        <link href="https://www.youtube.com/watch?v=Wc5my-y-Gk4"/>
-        <updated>2025-10-12T12:15:02.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我和Mac]]></title>
         <id>https://www.youtube.com/watch?v=HaSEgdG_Bg4</id>
         <link href="https://www.youtube.com/watch?v=HaSEgdG_Bg4"/>
@@ -949,16 +968,6 @@
         <updated>2025-10-08T12:00:29.000Z</updated>
         <author>
             <name>附魔星Fms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Champ 🏆]]></title>
-        <id>https://www.youtube.com/shorts/9g1bpE_P0mY</id>
-        <link href="https://www.youtube.com/shorts/9g1bpE_P0mY"/>
-        <updated>2025-10-06T22:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Smooth - Out Now: https://thechainsmokers.lnk.to/SmoothHelium - Out Now: thechainsmokers.lnk.to/helium White Wine & Adderall - Out Now: https://thechainsmoke...]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
