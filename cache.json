@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/1b8Z9sdFt8c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1b8Z9sdFt8c",
+          "publishedOn": "2025-11-11T19:50:26.000Z",
+          "wordCount": 1975,
+          "title": "The lights, wow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/tv5jbvOVL8A",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tv5jbvOVL8A",
           "publishedOn": "2025-11-10T20:43:44.000Z",
-          "wordCount": 2017,
+          "wordCount": 2002,
           "title": "nice to meet me",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vPaYqhhh2g0",
           "publishedOn": "2025-11-07T21:07:10.000Z",
-          "wordCount": 2014,
+          "wordCount": 1989,
           "title": "smooth",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nASAX0agis4",
           "publishedOn": "2025-11-04T20:55:33.000Z",
-          "wordCount": 2016,
+          "wordCount": 1998,
           "title": "All we know",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fgvKx6jwWE8",
           "publishedOn": "2025-10-27T21:32:55.000Z",
-          "wordCount": 2003,
+          "wordCount": 1985,
           "title": "this duo",
           "imageUrl": null
         },
@@ -111,7 +121,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HGN_4SihJQ8",
           "publishedOn": "2025-10-17T21:02:38.000Z",
-          "wordCount": 2047,
+          "wordCount": 2153,
           "title": "'BREATHE' OUT IN ONE WEEK",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/q53ST8q_XNs",
           "publishedOn": "2025-10-15T23:20:33.000Z",
-          "wordCount": 2035,
+          "wordCount": 2001,
           "title": "reply all: thank you",
           "imageUrl": null
         },
@@ -158,7 +168,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8T-VdIKtyzg",
           "publishedOn": "2025-11-02T02:05:50.000Z",
-          "wordCount": 2208,
+          "wordCount": 2268,
           "title": "Shorts竖屏视频上下布局效果教学#shorts",
           "imageUrl": null
         },
@@ -425,7 +435,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/B3tilgExPcI",
           "publishedOn": "2025-11-06T10:30:08.000Z",
-          "wordCount": 2001,
+          "wordCount": 1979,
           "title": "工程師講話太怪，連媒人公都受不了🤣 你該學 TypeScript 幫你解決亂傳參數的問題 #六角學院",
           "imageUrl": null
         },
@@ -445,7 +455,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CoO8FPbYgN0",
           "publishedOn": "2025-11-03T00:30:19.000Z",
-          "wordCount": 2011,
+          "wordCount": 2020,
           "title": "你的 Code 有一個味道...糞 Code 的味道 #六角學院",
           "imageUrl": null
         },
@@ -455,7 +465,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cC_8kVAou2Y",
           "publishedOn": "2025-10-30T10:30:24.000Z",
-          "wordCount": 2033,
+          "wordCount": 2298,
           "title": "會 JavaScript 就夠了？錯！會 TypeScript 讓你少踩 90% 的雷 #六角學院",
           "imageUrl": null
         },
@@ -555,16 +565,6 @@
           "publishedOn": "2025-10-14T09:34:09.000Z",
           "wordCount": null,
           "title": "中国崛起的真相是什么？只因为改革开放吗？【激荡番外篇·战略变迁】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Itkj-b4QY1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Itkj-b4QY1E",
-          "publishedOn": "2025-10-13T10:18:12.000Z",
-          "wordCount": null,
-          "title": "一口气看懂新中国70余年区域兴衰【激荡番外篇·区域兴衰】",
           "imageUrl": null
         }
       ]
@@ -719,16 +719,6 @@
           "publishedOn": "2025-10-15T00:01:14.000Z",
           "wordCount": null,
           "title": "2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3q6J5l5sdA0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3q6J5l5sdA0",
-          "publishedOn": "2025-10-13T12:00:05.000Z",
-          "wordCount": null,
-          "title": "2025年15款角色扮演 RPG 類手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #3",
           "imageUrl": null
         }
       ]
@@ -904,7 +894,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Qv65MDWnuLI",
           "publishedOn": "2025-10-31T12:30:40.000Z",
-          "wordCount": 2066,
+          "wordCount": 2132,
           "title": "『陰天怎麼拍？』 最難刮傷的車子 #1分鐘OK  #攝影教學 #photography #景點 #專業拍攝 #人像攝影 #camera #拍照技巧",
           "imageUrl": null
         },
@@ -924,7 +914,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/533cDGA_Pqo",
           "publishedOn": "2025-10-21T08:18:19.000Z",
-          "wordCount": 2106,
+          "wordCount": 1970,
           "title": "開箱 FE 100mm F2.8 Macro GM OSS",
           "imageUrl": null
         },
@@ -936,16 +926,6 @@
           "publishedOn": "2025-10-20T12:31:05.000Z",
           "wordCount": null,
           "title": "【走進你家鄉】鹿港鎮有什麼好拍的？｜鹿港鎮｜ft. 沃坦 Wotancraft Rider V2 騎士包系列",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8oWqofUdmDE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8oWqofUdmDE",
-          "publishedOn": "2025-10-13T12:30:03.000Z",
-          "wordCount": null,
-          "title": "【出國旅拍怎麼拍】曼谷唐人街去哪拍？街拍天堂、老件咖啡廳、沒人的火車站｜泰國曼谷｜ft. RF 24mm F1.4 L VCM",
           "imageUrl": null
         }
       ]
@@ -1113,6 +1093,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M5i8UirzonM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M5i8UirzonM",
+          "publishedOn": "2025-11-11T11:00:50.000Z",
+          "wordCount": null,
+          "title": "Happy Vibes — Positive Background Music | Aftertune",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Jk0zTQ_Q2CI",
           "author": null,
           "description": "",
@@ -1250,16 +1240,6 @@
           "publishedOn": "2025-10-27T11:01:30.000Z",
           "wordCount": null,
           "title": "Trip – Electronic Background Music | Scandinavianz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ta0GD1bqjyA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ta0GD1bqjyA",
-          "publishedOn": "2025-10-26T11:01:39.000Z",
-          "wordCount": null,
-          "title": "Cat Walk – Videogame Background Music | Sakura Girl",
           "imageUrl": null
         }
       ]
