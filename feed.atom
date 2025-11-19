@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T02:02:46.906Z</id>
+    <id>urn:2025-11-19T02:02:15.393Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T02:02:46.906Z</updated>
+    <updated>2025-11-19T02:02:15.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Escape — Lifestyle Background Music | Roa]]></title>
+        <id>https://www.youtube.com/watch?v=vyYqQ9ZfeOc</id>
+        <link href="https://www.youtube.com/watch?v=vyYqQ9ZfeOc"/>
+        <updated>2025-11-18T11:01:58.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坏了，智能眼镜真的要替手机了——Rokid Glasses 评测]]></title>
+        <id>https://www.youtube.com/watch?v=VIsDgq8jE1g</id>
+        <link href="https://www.youtube.com/watch?v=VIsDgq8jE1g"/>
+        <updated>2025-11-18T09:54:07.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55 Development Stories #5 GF32-90mmT3.5 PZ OIS WR / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=mRUXUm2_geg</id>
+        <link href="https://www.youtube.com/watch?v=mRUXUm2_geg"/>
+        <updated>2025-11-18T05:00:53.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【鏡頭敗家指南】新手相機鏡頭推薦 ｜到底該選變焦鏡還是定焦鏡！原廠跟副廠會差很多嗎？｜攝影器材指南 EP2]]></title>
         <id>https://www.youtube.com/watch?v=h3C9dxAHe5c</id>
@@ -481,15 +508,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orange – Pop Background Music | Roa]]></title>
-        <id>https://www.youtube.com/watch?v=4oFkAlgdXVI</id>
-        <link href="https://www.youtube.com/watch?v=4oFkAlgdXVI"/>
-        <updated>2025-11-02T11:00:08.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shorts竖屏视频上下布局效果教学#shorts]]></title>
         <id>https://www.youtube.com/shorts/8T-VdIKtyzg</id>
         <link href="https://www.youtube.com/shorts/8T-VdIKtyzg"/>
@@ -746,15 +764,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X-T30 III x Keiko Watanabe/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=YGRNvZDq04Y</id>
-        <link href="https://www.youtube.com/watch?v=YGRNvZDq04Y"/>
-        <updated>2025-10-27T05:00:37.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《龍族幻想：勇者集結》X《七大罪》聯動來啦！半周年大更新試玩體驗！| Android & iOS 手遊推薦！]]></title>
         <id>https://www.youtube.com/watch?v=evpdi-LrNaQ</id>
         <link href="https://www.youtube.com/watch?v=evpdi-LrNaQ"/>
@@ -888,42 +897,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投影仪最大的问题竟然没人说？坚果 N5 全系列投影仪评测]]></title>
-        <id>https://www.youtube.com/watch?v=ZUAFeNj-uEA</id>
-        <link href="https://www.youtube.com/watch?v=ZUAFeNj-uEA"/>
-        <updated>2025-10-20T12:48:18.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【走進你家鄉】鹿港鎮有什麼好拍的？｜鹿港鎮｜ft. 沃坦 Wotancraft Rider V2 騎士包系列]]></title>
-        <id>https://www.youtube.com/watch?v=rSm8lxdtPWY</id>
-        <link href="https://www.youtube.com/watch?v=rSm8lxdtPWY"/>
-        <updated>2025-10-20T12:31:05.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=hAogDTfYWW4</id>
-        <link href="https://www.youtube.com/watch?v=hAogDTfYWW4"/>
-        <updated>2025-10-20T12:00:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款求生類 Survival 題材的手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #2]]></title>
-        <id>https://www.youtube.com/watch?v=8Qqr6W49YUM</id>
-        <link href="https://www.youtube.com/watch?v=8Qqr6W49YUM"/>
-        <updated>2025-10-20T12:00:15.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
