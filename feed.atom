@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-19T02:02:15.393Z</id>
+    <id>urn:2025-11-20T02:00:39.360Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T02:02:15.393Z</updated>
+    <updated>2025-11-20T02:00:39.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2025年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #5]]></title>
+        <id>https://www.youtube.com/watch?v=6pn9nZCT9-w</id>
+        <link href="https://www.youtube.com/watch?v=6pn9nZCT9-w"/>
+        <updated>2025-11-19T12:00:13.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Cực Phiêu ♫ Nghe Hoài Không Chán]]></title>
+        <id>https://www.youtube.com/watch?v=4wiCXZtteK8</id>
+        <link href="https://www.youtube.com/watch?v=4wiCXZtteK8"/>
+        <updated>2025-11-19T11:59:30.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feelings — Ambient Background Music | Qlowdy]]></title>
+        <id>https://www.youtube.com/watch?v=pHbuEZ_bsLg</id>
+        <link href="https://www.youtube.com/watch?v=pHbuEZ_bsLg"/>
+        <updated>2025-11-19T11:01:39.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地狱级难度的“普九”，钱从哪里来？【激荡番外篇·基础教育 上】]]></title>
+        <id>https://www.youtube.com/watch?v=8EaY2D8d_vk</id>
+        <link href="https://www.youtube.com/watch?v=8EaY2D8d_vk"/>
+        <updated>2025-11-19T10:32:58.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Escape — Lifestyle Background Music | Roa]]></title>
         <id>https://www.youtube.com/watch?v=vyYqQ9ZfeOc</id>
@@ -379,6 +415,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【2025 React 作品實戰直播班】課程說明會 11/26 (三) 20:00  準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=jlHdv5XcsRk</id>
+        <link href="https://www.youtube.com/watch?v=jlHdv5XcsRk"/>
+        <updated>2025-11-06T08:22:10.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】11/5 20:00 準時開播｜最終場專屬直播]]></title>
         <id>https://www.youtube.com/watch?v=VZrhpiMJmSk</id>
         <link href="https://www.youtube.com/watch?v=VZrhpiMJmSk"/>
@@ -486,15 +531,6 @@
         <updated>2025-11-03T12:00:02.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutekao – Funky Background Music | Peyruis]]></title>
-        <id>https://www.youtube.com/watch?v=EFftZI2Gcp8</id>
-        <link href="https://www.youtube.com/watch?v=EFftZI2Gcp8"/>
-        <updated>2025-11-03T11:00:26.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -878,25 +914,6 @@
         <updated>2025-10-22T07:23:03.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=nuLydASuefI</id>
-        <link href="https://www.youtube.com/watch?v=nuLydASuefI"/>
-        <updated>2025-10-21T12:03:24.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開箱 FE 100mm F2.8 Macro GM OSS]]></title>
-        <id>https://www.youtube.com/shorts/533cDGA_Pqo</id>
-        <link href="https://www.youtube.com/shorts/533cDGA_Pqo"/>
-        <updated>2025-10-21T08:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
