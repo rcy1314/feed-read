@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-22T01:57:31.726Z</id>
+    <id>urn:2025-11-23T02:22:47.949Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T01:57:31.726Z</updated>
+    <updated>2025-11-23T02:22:47.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Nightcore ''Hay Hơn Cả Bản Gốc'' ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=_mo3Z-0i9Gc</id>
+        <link href="https://www.youtube.com/watch?v=_mo3Z-0i9Gc"/>
+        <updated>2025-11-22T12:03:39.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distortion — Electronic Background Music | KV]]></title>
+        <id>https://www.youtube.com/watch?v=crwCX8_GjUY</id>
+        <link href="https://www.youtube.com/watch?v=crwCX8_GjUY"/>
+        <updated>2025-11-22T11:01:25.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TouchDesigner 每週直播挑戰 #3- 在數位的世界中創造浪漫的動態油畫]]></title>
+        <id>https://www.youtube.com/watch?v=6D9AerJSu28</id>
+        <link href="https://www.youtube.com/watch?v=6D9AerJSu28"/>
+        <updated>2025-11-22T02:31:26.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 17 Bản Nhạc EDM Mix Nightcore ''Hay Hơn Bản Gốc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
         <id>https://www.youtube.com/watch?v=nzlFhE2kk78</id>
@@ -423,15 +450,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybernetic Dreams — Epic Background Music | Alex-Productions]]></title>
-        <id>https://www.youtube.com/watch?v=8_tQz2caQqE</id>
-        <link href="https://www.youtube.com/watch?v=8_tQz2caQqE"/>
-        <updated>2025-11-07T11:00:14.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-T30 III x Jess Ellis/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=wfxaK5OnN24</id>
         <link href="https://www.youtube.com/watch?v=wfxaK5OnN24"/>
@@ -842,69 +860,6 @@
         <updated>2025-10-25T12:00:35.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈苏X2DII的HDR到底怎么玩？｜#原来这么拍# 第261集]]></title>
-        <id>https://www.youtube.com/watch?v=kgrOotI-HaI</id>
-        <link href="https://www.youtube.com/watch?v=kgrOotI-HaI"/>
-        <updated>2025-10-24T12:42:39.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #8]]></title>
-        <id>https://www.youtube.com/watch?v=Lsnngc9Jb2Q</id>
-        <link href="https://www.youtube.com/watch?v=Lsnngc9Jb2Q"/>
-        <updated>2025-10-24T12:00:51.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米你变了！K90 Pro Max 评测]]></title>
-        <id>https://www.youtube.com/watch?v=00EojgxB-8g</id>
-        <link href="https://www.youtube.com/watch?v=00EojgxB-8g"/>
-        <updated>2025-10-24T05:56:06.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUNT., The Chainsmokers, Izzy Bizu - Spaces (Official Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=VrEIOvMPyb8</id>
-        <link href="https://www.youtube.com/watch?v=VrEIOvMPyb8"/>
-        <updated>2025-10-24T04:00:41.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, Absolutely - Air (Official Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=GYbE_BwoUaw</id>
-        <link href="https://www.youtube.com/watch?v=GYbE_BwoUaw"/>
-        <updated>2025-10-24T04:00:31.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - The Cure (Official Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=Eolcz-VrpRg</id>
-        <link href="https://www.youtube.com/watch?v=Eolcz-VrpRg"/>
-        <updated>2025-10-24T04:00:27.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers, Daya - Veins (Official Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=LqnVIdCmU0Y</id>
-        <link href="https://www.youtube.com/watch?v=LqnVIdCmU0Y"/>
-        <updated>2025-10-24T04:00:21.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
