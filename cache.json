@@ -6,12 +6,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/dXo3mrj5svg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/dXo3mrj5svg",
+          "publishedOn": "2025-11-26T19:02:54.000Z",
+          "wordCount": 2014,
+          "title": "sampled our favorite synth line ever",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/z84uLseiKY4",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/z84uLseiKY4",
           "publishedOn": "2025-11-24T22:21:54.000Z",
-          "wordCount": 1953,
+          "wordCount": 1971,
           "title": "My Type",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/1b8Z9sdFt8c",
           "publishedOn": "2025-11-11T19:50:26.000Z",
-          "wordCount": 2112,
+          "wordCount": 1960,
           "title": "The lights, wow",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/tv5jbvOVL8A",
           "publishedOn": "2025-11-10T20:43:44.000Z",
-          "wordCount": 2093,
+          "wordCount": 2487,
           "title": "nice to meet me",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vPaYqhhh2g0",
           "publishedOn": "2025-11-07T21:07:10.000Z",
-          "wordCount": 1989,
+          "wordCount": 1976,
           "title": "smooth",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/25h0daW2UUA",
           "publishedOn": "2025-11-05T21:18:01.000Z",
-          "wordCount": 1971,
+          "wordCount": 2021,
           "title": "Bloodstream",
           "imageUrl": null
         },
@@ -61,7 +71,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nASAX0agis4",
           "publishedOn": "2025-11-04T20:55:33.000Z",
-          "wordCount": 1985,
+          "wordCount": 2056,
           "title": "All we know",
           "imageUrl": null
         },
@@ -73,16 +83,6 @@
           "publishedOn": "2025-10-31T20:47:11.000Z",
           "wordCount": null,
           "title": "After Hours Vlog: we threw an unhinged house party for our EP and the cops showed up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fgvKx6jwWE8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fgvKx6jwWE8",
-          "publishedOn": "2025-10-27T21:32:55.000Z",
-          "wordCount": 2050,
-          "title": "this duo",
           "imageUrl": null
         }
       ]
@@ -128,7 +128,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8T-VdIKtyzg",
           "publishedOn": "2025-11-02T02:05:50.000Z",
-          "wordCount": 2235,
+          "wordCount": 2299,
           "title": "Shorts竖屏视频上下布局效果教学#shorts",
           "imageUrl": null
         }
@@ -281,16 +281,6 @@
           "wordCount": null,
           "title": "Nhạc EDM Thư Giãn \" Sau Ngày Dài Mệt Mỏi \" ♫ Top 10 Bản EDM Mix Gây Nghiện Hay Nhất 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nogl9RMK5aY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nogl9RMK5aY",
-          "publishedOn": "2025-10-28T12:00:28.000Z",
-          "wordCount": null,
-          "title": "Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -300,6 +290,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=65KtIuWoSs0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=65KtIuWoSs0",
+          "publishedOn": "2025-11-26T10:00:11.000Z",
+          "wordCount": null,
+          "title": "這可能是最好的運鏡方式",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ntd10Sm4ghU",
           "author": null,
           "description": "",
@@ -307,16 +307,6 @@
           "publishedOn": "2025-10-30T10:57:43.000Z",
           "wordCount": null,
           "title": "最強CP值無線麥克風- Saramonic Air",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v6XFSRJA8R0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v6XFSRJA8R0",
-          "publishedOn": "2025-10-28T11:10:45.000Z",
-          "wordCount": null,
-          "title": "我的相機包裡有什麼(旅行版)- What's in my camera bag 2025",
           "imageUrl": null
         }
       ]
@@ -350,23 +340,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jlHdv5XcsRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jlHdv5XcsRk",
+          "publishedOn": "2025-11-27T01:50:05.000Z",
+          "wordCount": null,
+          "title": "【2025 React 作品實戰直播班】課程說明會 11/26 (三) 20:00  準時開播",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/B3tilgExPcI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/B3tilgExPcI",
           "publishedOn": "2025-11-06T10:30:08.000Z",
-          "wordCount": 2129,
+          "wordCount": 2233,
           "title": "工程師講話太怪，連媒人公都受不了🤣 你該學 TypeScript 幫你解決亂傳參數的問題 #六角學院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jlHdv5XcsRk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jlHdv5XcsRk",
-          "publishedOn": "2025-11-06T08:22:10.000Z",
-          "wordCount": null,
-          "title": "【2025 React 作品實戰直播班】課程說明會 11/26 (三) 20:00  準時開播",
           "imageUrl": null
         },
         {
@@ -385,7 +375,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/CoO8FPbYgN0",
           "publishedOn": "2025-11-03T00:30:19.000Z",
-          "wordCount": 1993,
+          "wordCount": 2192,
           "title": "你的 Code 有一個味道...糞 Code 的味道 #六角學院",
           "imageUrl": null
         },
@@ -395,18 +385,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cC_8kVAou2Y",
           "publishedOn": "2025-10-30T10:30:24.000Z",
-          "wordCount": 2053,
+          "wordCount": 2048,
           "title": "會 JavaScript 就夠了？錯！會 TypeScript 讓你少踩 90% 的雷 #六角學院",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tpaxAjMOu4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tpaxAjMOu4E",
-          "publishedOn": "2025-10-27T15:42:07.000Z",
-          "wordCount": null,
-          "title": "2025  Vibe Coding 公益程式體驗營｜線上說明會 10/27(一) 20:00 準時開播",
           "imageUrl": null
         }
       ]
@@ -500,6 +480,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rah1w95Sex0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rah1w95Sex0",
+          "publishedOn": "2025-11-26T12:01:48.000Z",
+          "wordCount": null,
+          "title": "2025年11月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #7",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ASQXI1vHJ7M",
           "author": null,
@@ -626,7 +616,18 @@
       "title": "Hantao TB",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
       "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JtYVBp-xRd0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JtYVBp-xRd0",
+          "publishedOn": "2025-11-26T05:00:06.000Z",
+          "wordCount": null,
+          "title": "金秋所剩无几，先骑他个300公里！",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "爱否科技",
@@ -739,6 +740,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xqAWDWTtnVQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xqAWDWTtnVQ",
+          "publishedOn": "2025-11-26T15:05:42.000Z",
+          "wordCount": null,
+          "title": "「週三攝影週報」前往羅弗敦的預算怎麼抓？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rybGLJl6E8I",
           "author": null,
           "description": "",
@@ -804,7 +815,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Qv65MDWnuLI",
           "publishedOn": "2025-10-31T12:30:40.000Z",
-          "wordCount": 2128,
+          "wordCount": 1994,
           "title": "『陰天怎麼拍？』 最難刮傷的車子 #1分鐘OK  #攝影教學 #photography #景點 #專業拍攝 #人像攝影 #camera #拍照技巧",
           "imageUrl": null
         }
@@ -963,6 +974,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lVbaYLlLDYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lVbaYLlLDYs",
+          "publishedOn": "2025-11-26T11:01:36.000Z",
+          "wordCount": null,
+          "title": "Make A Memory – Energetic Background Music | Aftertune",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bZYZgtVeT4A",
           "author": null,
           "description": "",
@@ -1100,16 +1121,6 @@
           "publishedOn": "2025-11-12T11:01:17.000Z",
           "wordCount": null,
           "title": "By The River — Acoustic Pop Background Music | Atch & Hotham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M5i8UirzonM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M5i8UirzonM",
-          "publishedOn": "2025-11-11T11:00:50.000Z",
-          "wordCount": null,
-          "title": "Happy Vibes — Positive Background Music | Aftertune",
           "imageUrl": null
         }
       ]
