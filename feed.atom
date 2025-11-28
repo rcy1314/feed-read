@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T02:01:43.941Z</id>
+    <id>urn:2025-11-28T02:01:18.960Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T02:01:43.941Z</updated>
+    <updated>2025-11-28T02:01:18.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【评测】AEJuice 插件到底好用吗？我用 PR 实测无缝转场和 LUT]]></title>
+        <id>https://www.youtube.com/watch?v=908GsA1vDhY</id>
+        <link href="https://www.youtube.com/watch?v=908GsA1vDhY"/>
+        <updated>2025-11-28T00:00:21.000Z</updated>
+        <author>
+            <name>WenGuang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當你的老闆是 ChatGPT.. @hexschool]]></title>
+        <id>https://www.youtube.com/shorts/ssohQ1oauWI</id>
+        <link href="https://www.youtube.com/shorts/ssohQ1oauWI"/>
+        <updated>2025-11-27T13:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Nightcore ''Hay Hơn Bản Gốc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=B7iVopMz4Ts</id>
+        <link href="https://www.youtube.com/watch?v=B7iVopMz4Ts"/>
+        <updated>2025-11-27T12:02:21.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fashion Day – Jazzy Background Music | Snoozy Beats]]></title>
+        <id>https://www.youtube.com/watch?v=vfxD_hl3IYg</id>
+        <link href="https://www.youtube.com/watch?v=vfxD_hl3IYg"/>
+        <updated>2025-11-27T11:01:58.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BTS] GFX ETERNA 55: Ahmet Sesigürgil x short film "ETHERNA" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=T3HyXx564JA</id>
+        <link href="https://www.youtube.com/watch?v=T3HyXx564JA"/>
+        <updated>2025-11-27T06:00:33.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55: Ahmet Sesigürgil x short film "ETHERNA" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=LFye9W6pltw</id>
+        <link href="https://www.youtube.com/watch?v=LFye9W6pltw"/>
+        <updated>2025-11-27T06:00:30.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 1 "Camera Set-Up" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=NHsTQztbwmI</id>
+        <link href="https://www.youtube.com/watch?v=NHsTQztbwmI"/>
+        <updated>2025-11-27T05:00:34.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2025 React 作品實戰直播班】課程說明會 11/26 (三) 20:00  準時開播]]></title>
         <id>https://www.youtube.com/watch?v=jlHdv5XcsRk</id>
@@ -22,15 +86,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「週三攝影週報」前往羅弗敦的預算怎麼抓？]]></title>
-        <id>https://www.youtube.com/watch?v=xqAWDWTtnVQ</id>
-        <link href="https://www.youtube.com/watch?v=xqAWDWTtnVQ"/>
-        <updated>2025-11-26T15:05:42.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -98,7 +153,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[花光頻道收益！只為了把各位帶到羅弗敦群島！]]></title>
+        <title type="html"><![CDATA[攝影師心中的朝聖之旅｜羅弗敦群島]]></title>
         <id>https://www.youtube.com/watch?v=rybGLJl6E8I</id>
         <link href="https://www.youtube.com/watch?v=rybGLJl6E8I"/>
         <updated>2025-11-24T12:31:28.000Z</updated>
@@ -449,15 +504,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[By The River — Acoustic Pop Background Music | Atch & Hotham]]></title>
-        <id>https://www.youtube.com/watch?v=bmFu_OWhZdQ</id>
-        <link href="https://www.youtube.com/watch?v=bmFu_OWhZdQ"/>
-        <updated>2025-11-12T11:01:17.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XC13-33mmF3.5-6.3 OIS x Harish Kumar/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=CRbDmFwjfnE</id>
         <link href="https://www.youtube.com/watch?v=CRbDmFwjfnE"/>
@@ -805,60 +851,6 @@
         <id>https://www.youtube.com/watch?v=4SdoA8OKxtU</id>
         <link href="https://www.youtube.com/watch?v=4SdoA8OKxtU"/>
         <updated>2025-10-30T05:00:05.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年10月份最新好玩的手遊推薦！| Android & iOS 手遊推薦 | 更多好玩推薦的手機遊戲/遊戲作品！| #9]]></title>
-        <id>https://www.youtube.com/watch?v=ydj4bSxKwOI</id>
-        <link href="https://www.youtube.com/watch?v=ydj4bSxKwOI"/>
-        <updated>2025-10-29T12:02:17.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏茲別克斯坦完整旅行攻略：藍金王朝之城・中亞最神秘的國度｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=AeudnQRcm6g</id>
-        <link href="https://www.youtube.com/watch?v=AeudnQRcm6g"/>
-        <updated>2025-10-29T12:00:23.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机高像素背后的潜规则，OPPO Find X9 Pro 影像评测]]></title>
-        <id>https://www.youtube.com/watch?v=rW4QV0s7So4</id>
-        <link href="https://www.youtube.com/watch?v=rW4QV0s7So4"/>
-        <updated>2025-10-29T07:19:03.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Moe Suzuki "Kusari"/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=ws3bygaHYSI</id>
-        <link href="https://www.youtube.com/watch?v=ws3bygaHYSI"/>
-        <updated>2025-10-29T05:01:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS]GFX Challenge Grant Program 2024:Kristina Nikolova"Stabat Mater-The Ten Ages of Woman"/FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=OMdHpniCkvo</id>
-        <link href="https://www.youtube.com/watch?v=OMdHpniCkvo"/>
-        <updated>2025-10-29T05:00:28.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BTS] GFX Challenge Grant Program 2024: Luo Fei / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Gn3tNlg0O-Q</id>
-        <link href="https://www.youtube.com/watch?v=Gn3tNlg0O-Q"/>
-        <updated>2025-10-29T05:00:18.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
