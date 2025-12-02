@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-01T02:30:04.919Z</id>
+    <id>urn:2025-12-02T02:06:09.871Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T02:30:04.919Z</updated>
+    <updated>2025-12-02T02:06:09.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CHINA VLOG | Wuhan, Shanghai, Hangzhou]]></title>
+        <id>https://www.youtube.com/watch?v=PirycVxzLqU</id>
+        <link href="https://www.youtube.com/watch?v=PirycVxzLqU"/>
+        <updated>2025-12-01T20:15:13.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在「手機攝影」當道的年代，我為什麼還是喜歡用相機？｜iPhone 17 Pro｜ft. Logitech]]></title>
+        <id>https://www.youtube.com/watch?v=NEor7rgZPaU</id>
+        <link href="https://www.youtube.com/watch?v=NEor7rgZPaU"/>
+        <updated>2025-12-01T12:30:37.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15款MMORPG大型多人在線角色扮演手遊精選！| 「無限職業」系統大型MMO |《誅仙》正統續作 | 結合了開放世界/生存/農場玩法 | Android & iOS 手機遊戲推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=ipHnSgvB4Zo</id>
+        <link href="https://www.youtube.com/watch?v=ipHnSgvB4Zo"/>
+        <updated>2025-12-01T12:01:35.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=XoAc4Y9qcrI</id>
+        <link href="https://www.youtube.com/watch?v=XoAc4Y9qcrI"/>
+        <updated>2025-12-01T12:01:10.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parfum Disco – Electronic Background Music | Peyruis]]></title>
+        <id>https://www.youtube.com/watch?v=frvjbHNB14s</id>
+        <link href="https://www.youtube.com/watch?v=frvjbHNB14s"/>
+        <updated>2025-12-01T11:01:27.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬祖獨旅]]></title>
+        <id>https://www.youtube.com/watch?v=8CDfE3H7ODk</id>
+        <link href="https://www.youtube.com/watch?v=8CDfE3H7ODk"/>
+        <updated>2025-12-01T09:59:54.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TouchDesigner 每週直播挑戰 #4 - 從粒子到創造如夢似幻的黑夜星軌]]></title>
         <id>https://www.youtube.com/watch?v=aT1qa_1itZI</id>
@@ -506,15 +560,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All I need — Soothing Background Music | LiQWYD]]></title>
-        <id>https://www.youtube.com/watch?v=HsoE_nAESmo</id>
-        <link href="https://www.youtube.com/watch?v=HsoE_nAESmo"/>
-        <updated>2025-11-16T11:00:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TouchDesigner 每週直播挑戰 #2 - 製作兒時記憶中的夢幻萬花筒]]></title>
         <id>https://www.youtube.com/watch?v=Cht5n6rmibM</id>
         <link href="https://www.youtube.com/watch?v=Cht5n6rmibM"/>
@@ -616,7 +661,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【出國旅拍怎麼拍】東京新宿三個景點！加碼四間相機店！森山大道的聖地巡禮｜東京新宿]]></title>
+        <title type="html"><![CDATA[【出國旅拍怎麼拍】東京新宿三個推薦景點！加碼四間相機店！森山大道的聖地巡禮｜東京新宿]]></title>
         <id>https://www.youtube.com/watch?v=nix981J1jaM</id>
         <link href="https://www.youtube.com/watch?v=nix981J1jaM"/>
         <updated>2025-11-10T12:53:36.000Z</updated>
@@ -825,16 +870,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorts竖屏视频上下布局效果教学#shorts]]></title>
-        <id>https://www.youtube.com/shorts/8T-VdIKtyzg</id>
-        <link href="https://www.youtube.com/shorts/8T-VdIKtyzg"/>
-        <updated>2025-11-02T02:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>WenGuang</name>
         </author>
     </entry>
 </feed>
