@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-02T02:06:09.871Z</id>
+    <id>urn:2025-12-03T02:05:48.083Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T02:06:09.871Z</updated>
+    <updated>2025-12-03T02:05:48.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[索尼A74浅谈回顾5大缺点｜全新A75会是索尼最强水桶机吗？]]></title>
+        <id>https://www.youtube.com/watch?v=yruye550gfg</id>
+        <link href="https://www.youtube.com/watch?v=yruye550gfg"/>
+        <updated>2025-12-02T13:00:39.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[clear skies – Lo-fi Background Music | Snoozy Beats]]></title>
+        <id>https://www.youtube.com/watch?v=wgDsutJO0ZU</id>
+        <link href="https://www.youtube.com/watch?v=wgDsutJO0ZU"/>
+        <updated>2025-12-02T11:02:01.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「很多人，都把裸辭想得太簡單。」剛開始是睡到自然醒的快樂，接著卻是存款見底的恐慌]]></title>
+        <id>https://www.youtube.com/shorts/B6L66LCkDLo</id>
+        <link href="https://www.youtube.com/shorts/B6L66LCkDLo"/>
+        <updated>2025-12-02T08:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】智能眼镜血雨腥风：Rokid 创始人是如何思考产品终局的？]]></title>
+        <id>https://www.youtube.com/watch?v=UtepHYz_rnc</id>
+        <link href="https://www.youtube.com/watch?v=UtepHYz_rnc"/>
+        <updated>2025-12-02T06:49:07.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHINA VLOG | Wuhan, Shanghai, Hangzhou]]></title>
         <id>https://www.youtube.com/watch?v=PirycVxzLqU</id>
@@ -533,15 +570,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memories — Chill Lo-fi Background Music | Begench Begenjov]]></title>
-        <id>https://www.youtube.com/watch?v=dVJGbplpjOs</id>
-        <link href="https://www.youtube.com/watch?v=dVJGbplpjOs"/>
-        <updated>2025-11-17T11:01:23.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【插件】AE 动画必备：快速制作弹性弹跳效果Squash & Stretch V2]]></title>
         <id>https://www.youtube.com/watch?v=cOkqEWttiSU</id>
         <link href="https://www.youtube.com/watch?v=cOkqEWttiSU"/>
@@ -833,43 +861,6 @@
         <updated>2025-11-03T14:34:30.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【相機敗家指南】新手相機機身推薦 ｜APS-C 還是全片幅？需要高像素一次到位嗎？｜攝影器材指南 EP1]]></title>
-        <id>https://www.youtube.com/watch?v=jUdza5FKw_o</id>
-        <link href="https://www.youtube.com/watch?v=jUdza5FKw_o"/>
-        <updated>2025-11-03T12:30:10.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年15款多人聯機同樂的手機遊戲推薦精選！| Android & iOS 手遊推薦 | 更多好玩推薦的遊戲作品！| #1]]></title>
-        <id>https://www.youtube.com/watch?v=N2jAglqi1_Q</id>
-        <link href="https://www.youtube.com/watch?v=N2jAglqi1_Q"/>
-        <updated>2025-11-03T12:00:51.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Leo Rank Cực Phiêu ♫ Nhạc Chơi Liên Quân ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=TCtSRSflWRM</id>
-        <link href="https://www.youtube.com/watch?v=TCtSRSflWRM"/>
-        <updated>2025-11-03T12:00:02.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的 Code 有一個味道...糞 Code 的味道 #六角學院]]></title>
-        <id>https://www.youtube.com/shorts/CoO8FPbYgN0</id>
-        <link href="https://www.youtube.com/shorts/CoO8FPbYgN0"/>
-        <updated>2025-11-03T00:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
