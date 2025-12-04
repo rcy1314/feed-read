@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T02:05:48.083Z</id>
+    <id>urn:2025-12-04T02:06:52.537Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T02:05:48.083Z</updated>
+    <updated>2025-12-04T02:06:52.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[251203 Ink Progression synth #touchdesigner]]></title>
+        <id>https://www.youtube.com/shorts/_F_Sune9XFI</id>
+        <link href="https://www.youtube.com/shorts/_F_Sune9XFI"/>
+        <updated>2025-12-03T12:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=I5BgMpIF9fU</id>
+        <link href="https://www.youtube.com/watch?v=I5BgMpIF9fU"/>
+        <updated>2025-12-03T12:05:27.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Unite by tubebackr & Stanty 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=MKkRYyvpRJQ</id>
+        <link href="https://www.youtube.com/watch?v=MKkRYyvpRJQ"/>
+        <updated>2025-12-03T11:00:51.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[索尼A74浅谈回顾5大缺点｜全新A75会是索尼最强水桶机吗？]]></title>
         <id>https://www.youtube.com/watch?v=yruye550gfg</id>
@@ -15,7 +43,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[clear skies – Lo-fi Background Music | Snoozy Beats]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – clear skies by Snoozy Beats 🎵]]></title>
         <id>https://www.youtube.com/watch?v=wgDsutJO0ZU</id>
         <link href="https://www.youtube.com/watch?v=wgDsutJO0ZU"/>
         <updated>2025-12-02T11:02:01.000Z</updated>
@@ -79,7 +107,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parfum Disco – Electronic Background Music | Peyruis]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Parfum Disco by Peyruis 🎵]]></title>
         <id>https://www.youtube.com/watch?v=frvjbHNB14s</id>
         <link href="https://www.youtube.com/watch?v=frvjbHNB14s"/>
         <updated>2025-12-01T11:01:27.000Z</updated>
@@ -106,7 +134,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lorn – Cinematic Background Music | GalaxyTones]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Lorn by GalaxyTones 🎵]]></title>
         <id>https://www.youtube.com/watch?v=U22MmaWG1-8</id>
         <link href="https://www.youtube.com/watch?v=U22MmaWG1-8"/>
         <updated>2025-11-30T11:00:55.000Z</updated>
@@ -133,7 +161,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shiny Day – Tropical Background Music | Roa]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Shiny Day by Roa 🎵]]></title>
         <id>https://www.youtube.com/watch?v=lqbIaY_KB5I</id>
         <link href="https://www.youtube.com/watch?v=lqbIaY_KB5I"/>
         <updated>2025-11-29T11:01:38.000Z</updated>
@@ -180,7 +208,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honolulu – Cheerful Background Music | Scandinavianz]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Honolulu by Scandinavianz 🎵]]></title>
         <id>https://www.youtube.com/watch?v=wo3SphN_6J0</id>
         <link href="https://www.youtube.com/watch?v=wo3SphN_6J0"/>
         <updated>2025-11-28T11:02:03.000Z</updated>
@@ -226,7 +254,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fashion Day – Jazzy Background Music | Snoozy Beats]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Fashion Day by Snoozy Beats 🎵]]></title>
         <id>https://www.youtube.com/watch?v=vfxD_hl3IYg</id>
         <link href="https://www.youtube.com/watch?v=vfxD_hl3IYg"/>
         <updated>2025-11-27T11:01:58.000Z</updated>
@@ -290,7 +318,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make A Memory – Energetic Background Music | Aftertune]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Make A Memory by Aftertune 🎵]]></title>
         <id>https://www.youtube.com/watch?v=lVbaYLlLDYs</id>
         <link href="https://www.youtube.com/watch?v=lVbaYLlLDYs"/>
         <updated>2025-11-26T11:01:36.000Z</updated>
@@ -317,7 +345,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moonlight – Chillhop Background Music | chillity]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Moonlight by chillity 🎵]]></title>
         <id>https://www.youtube.com/watch?v=bZYZgtVeT4A</id>
         <link href="https://www.youtube.com/watch?v=bZYZgtVeT4A"/>
         <updated>2025-11-25T11:01:14.000Z</updated>
@@ -372,7 +400,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christmas in My Heart – Cinematic Background Music | Alex-Productions]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Christmas in My Heart by Alex-Productions 🎵]]></title>
         <id>https://www.youtube.com/watch?v=i7d4rOD7AgU</id>
         <link href="https://www.youtube.com/watch?v=i7d4rOD7AgU"/>
         <updated>2025-11-24T11:01:31.000Z</updated>
@@ -399,7 +427,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheer Up — Joyful Background Music | Sakura Girl]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Cheer Up by Sakura Girl 🎵]]></title>
         <id>https://www.youtube.com/watch?v=ePF9UWO7TK4</id>
         <link href="https://www.youtube.com/watch?v=ePF9UWO7TK4"/>
         <updated>2025-11-23T11:01:13.000Z</updated>
@@ -426,7 +454,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Distortion — Electronic Background Music | KV]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Distortion by KV 🎵]]></title>
         <id>https://www.youtube.com/watch?v=crwCX8_GjUY</id>
         <link href="https://www.youtube.com/watch?v=crwCX8_GjUY"/>
         <updated>2025-11-22T11:01:25.000Z</updated>
@@ -453,7 +481,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Subway — Cheerful Background Music | Declan DP]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Subway by Declan DP 🎵]]></title>
         <id>https://www.youtube.com/watch?v=YDAUVk6FTzE</id>
         <link href="https://www.youtube.com/watch?v=YDAUVk6FTzE"/>
         <updated>2025-11-21T11:01:12.000Z</updated>
@@ -471,7 +499,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Find me — Energetic Background Music | Next Route]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Find me by Next Route 🎵]]></title>
         <id>https://www.youtube.com/watch?v=wXctVYBvkts</id>
         <link href="https://www.youtube.com/watch?v=wXctVYBvkts"/>
         <updated>2025-11-20T11:02:03.000Z</updated>
@@ -507,7 +535,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feelings — Ambient Background Music | Qlowdy]]></title>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Feelings by Qlowdy 🎵]]></title>
         <id>https://www.youtube.com/watch?v=pHbuEZ_bsLg</id>
         <link href="https://www.youtube.com/watch?v=pHbuEZ_bsLg"/>
         <updated>2025-11-19T11:01:39.000Z</updated>
@@ -522,15 +550,6 @@
         <updated>2025-11-19T10:32:58.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape — Lifestyle Background Music | Roa]]></title>
-        <id>https://www.youtube.com/watch?v=vyYqQ9ZfeOc</id>
-        <link href="https://www.youtube.com/watch?v=vyYqQ9ZfeOc"/>
-        <updated>2025-11-18T11:01:58.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -843,24 +862,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T30 III x Tewter Thanawat/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=hEDzTs9Vf-I</id>
-        <link href="https://www.youtube.com/watch?v=hEDzTs9Vf-I"/>
-        <updated>2025-11-04T05:00:54.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“随身大屏”显示效果已经做到什么程度了？雷鸟 Air 4 Pro 评测]]></title>
-        <id>https://www.youtube.com/watch?v=XUlsTlgb1BM</id>
-        <link href="https://www.youtube.com/watch?v=XUlsTlgb1BM"/>
-        <updated>2025-11-03T14:34:30.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
