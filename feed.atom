@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-05T02:06:51.298Z</id>
+    <id>urn:2025-12-06T02:00:33.495Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T02:06:51.298Z</updated>
+    <updated>2025-12-06T02:00:33.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[錢沒有不見，只是變成喜歡的形狀 (還有帳單) 💸]]></title>
+        <id>https://www.youtube.com/shorts/E1GRo6-bD5I</id>
+        <link href="https://www.youtube.com/shorts/E1GRo6-bD5I"/>
+        <updated>2025-12-06T01:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TouchDesigner 每週直播挑戰 #5 - 創造跟著音樂跳舞的ㄎㄧㄤ海膽]]></title>
+        <id>https://www.youtube.com/watch?v=sibYzEB1Umk</id>
+        <link href="https://www.youtube.com/watch?v=sibYzEB1Umk"/>
+        <updated>2025-12-05T17:10:40.000Z</updated>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12月份手遊推薦！| 備受好評《紀念碑谷》系列最新作 | 治愈休閒的 RPG 冒險 | 快節奏的橫向動作遊戲 | 動漫二次元風的作品 | Android & iOS 手機遊戲推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=jFa3jx2JltA</id>
+        <link href="https://www.youtube.com/watch?v=jFa3jx2JltA"/>
+        <updated>2025-12-05T12:01:27.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=rMf69T4igkE</id>
+        <link href="https://www.youtube.com/watch?v=rMf69T4igkE"/>
+        <updated>2025-12-05T12:00:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Cherry by Next Route 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=XXwoRYr3tSs</id>
+        <link href="https://www.youtube.com/watch?v=XXwoRYr3tSs"/>
+        <updated>2025-12-05T11:01:21.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文組畢業生 也能進入科技業 領百萬年薪？]]></title>
+        <id>https://www.youtube.com/shorts/2DTxymAVMWM</id>
+        <link href="https://www.youtube.com/shorts/2DTxymAVMWM"/>
+        <updated>2025-12-05T03:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是怎么备份数据的？]]></title>
         <id>https://www.youtube.com/watch?v=BYlx30NYtq4</id>
@@ -553,15 +609,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Find me by Next Route 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=wXctVYBvkts</id>
-        <link href="https://www.youtube.com/watch?v=wXctVYBvkts"/>
-        <updated>2025-11-20T11:02:03.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Film Simulation - PROVIA Promotional Video/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=os3pckJBpTA</id>
         <link href="https://www.youtube.com/watch?v=os3pckJBpTA"/>
@@ -604,6 +651,15 @@
         <updated>2025-11-18T09:54:07.000Z</updated>
         <author>
             <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2025 後端工程師體驗營】免費說明會 12/10 (三) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=ek02Jpx-yEI</id>
+        <link href="https://www.youtube.com/watch?v=ek02Jpx-yEI"/>
+        <updated>2025-11-18T09:23:18.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -832,53 +888,6 @@
         <updated>2025-11-07T05:01:16.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這是一顆樂趣十足的鏡頭｜ft. FE 100mm F2.8 Macro GM OSS 加碼微距攝影小教室！]]></title>
-        <id>https://www.youtube.com/watch?v=OLmlzjE45A0</id>
-        <link href="https://www.youtube.com/watch?v=OLmlzjE45A0"/>
-        <updated>2025-11-06T12:30:36.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=GLo5MjH1e20</id>
-        <link href="https://www.youtube.com/watch?v=GLo5MjH1e20"/>
-        <updated>2025-11-06T12:00:14.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程師講話太怪，連媒人公都受不了🤣 你該學 TypeScript 幫你解決亂傳參數的問題 #六角學院]]></title>
-        <id>https://www.youtube.com/shorts/B3tilgExPcI</id>
-        <link href="https://www.youtube.com/shorts/B3tilgExPcI"/>
-        <updated>2025-11-06T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025 TypeScript 實戰課：打造工程師型別思維】11/5 20:00 準時開播｜最終場專屬直播]]></title>
-        <id>https://www.youtube.com/watch?v=VZrhpiMJmSk</id>
-        <link href="https://www.youtube.com/watch?v=VZrhpiMJmSk"/>
-        <updated>2025-11-06T01:38:01.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloodstream]]></title>
-        <id>https://www.youtube.com/shorts/25h0daW2UUA</id>
-        <link href="https://www.youtube.com/shorts/25h0daW2UUA"/>
-        <updated>2025-11-05T21:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
