@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-10T02:08:49.951Z</id>
+    <id>urn:2025-12-11T02:10:33.379Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T02:08:49.951Z</updated>
+    <updated>2025-12-11T02:10:33.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This intro.]]></title>
+        <id>https://www.youtube.com/shorts/ybmmbFzkOQA</id>
+        <link href="https://www.youtube.com/shorts/ybmmbFzkOQA"/>
+        <updated>2025-12-10T22:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2025 後端工程師體驗營】免費說明會 12/10 (三) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=ek02Jpx-yEI</id>
+        <link href="https://www.youtube.com/watch?v=ek02Jpx-yEI"/>
+        <updated>2025-12-10T14:21:05.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年12月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！]]></title>
+        <id>https://www.youtube.com/watch?v=H5HTFV3GmGM</id>
+        <link href="https://www.youtube.com/watch?v=H5HTFV3GmGM"/>
+        <updated>2025-12-10T12:00:37.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 16 Bản Nhạc EDM Mix Nightcore ''Vừa Phiêu Vừa Chill" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=1oBKCf2AQAc</id>
+        <link href="https://www.youtube.com/watch?v=1oBKCf2AQAc"/>
+        <updated>2025-12-10T11:59:56.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Christmas is Coming by Alex-Productions 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=VJHZtgBBi-s</id>
+        <link href="https://www.youtube.com/watch?v=VJHZtgBBi-s"/>
+        <updated>2025-12-10T11:01:05.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人手一台的 DJI pocket3 到底強在哪！]]></title>
+        <id>https://www.youtube.com/shorts/xDXKjhxduQ4</id>
+        <link href="https://www.youtube.com/shorts/xDXKjhxduQ4"/>
+        <updated>2025-12-10T10:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓全網吵架的折疊車！為什麼這台「低科技神車」能改變我的生活？Brompton 真的有這麼神？｜陈曦Stanley]]></title>
         <id>https://www.youtube.com/watch?v=nWKfttudHUM</id>
@@ -603,15 +659,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Christmas in My Heart by Alex-Productions 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=i7d4rOD7AgU</id>
-        <link href="https://www.youtube.com/watch?v=i7d4rOD7AgU"/>
-        <updated>2025-11-24T11:01:31.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10个破水平运镜教学｜大疆Mini 5 Pro可以叫板Mavic 4 Pro了吗？]]></title>
         <id>https://www.youtube.com/watch?v=Tq2dUS5yH8w</id>
         <link href="https://www.youtube.com/watch?v=Tq2dUS5yH8w"/>
@@ -717,15 +764,6 @@
         <updated>2025-11-18T09:54:07.000Z</updated>
         <author>
             <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025 後端工程師體驗營】免費說明會 12/10 (三) 20:00 準時開播]]></title>
-        <id>https://www.youtube.com/watch?v=ek02Jpx-yEI</id>
-        <link href="https://www.youtube.com/watch?v=ek02Jpx-yEI"/>
-        <updated>2025-11-18T09:23:18.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -850,16 +888,6 @@
         <id>https://www.youtube.com/shorts/1b8Z9sdFt8c</id>
         <link href="https://www.youtube.com/shorts/1b8Z9sdFt8c"/>
         <updated>2025-11-11T19:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nice to meet me]]></title>
-        <id>https://www.youtube.com/shorts/tv5jbvOVL8A</id>
-        <link href="https://www.youtube.com/shorts/tv5jbvOVL8A"/>
-        <updated>2025-11-10T20:43:44.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
