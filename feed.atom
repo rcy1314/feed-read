@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T02:06:00.634Z</id>
+    <id>urn:2025-12-18T02:06:51.555Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T02:06:00.634Z</updated>
+    <updated>2025-12-18T02:06:51.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[251217 Drought Planet 🪐 #touchdesigner]]></title>
+        <id>https://www.youtube.com/shorts/XR5H4hXbbYA</id>
+        <link href="https://www.youtube.com/shorts/XR5H4hXbbYA"/>
+        <updated>2025-12-17T17:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「週三攝影週報」拍出來的照片一條一條黑線怎麼辦？拍攝 F1 需要的相機性能？XT30iii / GR4 HDF 值得買嗎？]]></title>
+        <id>https://www.youtube.com/watch?v=UmnIxig_uAk</id>
+        <link href="https://www.youtube.com/watch?v=UmnIxig_uAk"/>
+        <updated>2025-12-17T15:55:19.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想尋找像《薩爾達傳說》裡一樣的神奇海島？我用360 全景無人機這個新物種在印尼飛出了前所未有的視角｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=nUeuN2PhZk0</id>
+        <link href="https://www.youtube.com/watch?v=nUeuN2PhZk0"/>
+        <updated>2025-12-17T12:01:39.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
+        <id>https://www.youtube.com/watch?v=lVLxdVI3L58</id>
+        <link href="https://www.youtube.com/watch?v=lVLxdVI3L58"/>
+        <updated>2025-12-17T12:01:37.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年12月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第5期！]]></title>
+        <id>https://www.youtube.com/watch?v=GRbil_kamcY</id>
+        <link href="https://www.youtube.com/watch?v=GRbil_kamcY"/>
+        <updated>2025-12-17T12:00:35.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 時代了，還有公司在徵軟體工程師嗎？]]></title>
+        <id>https://www.youtube.com/shorts/Eb19B5iPOZA</id>
+        <link href="https://www.youtube.com/shorts/Eb19B5iPOZA"/>
+        <updated>2025-12-17T11:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Holidays by Sakura Girl 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=0dSJeX44bYE</id>
+        <link href="https://www.youtube.com/watch?v=0dSJeX44bYE"/>
+        <updated>2025-12-17T11:00:04.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony α7 V 你預購了嗎！]]></title>
+        <id>https://www.youtube.com/shorts/-XPFNHkC-GM</id>
+        <link href="https://www.youtube.com/shorts/-XPFNHkC-GM"/>
+        <updated>2025-12-17T04:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[251216 DNA Structure A/V #touchdesigner]]></title>
         <id>https://www.youtube.com/shorts/LD_7yO7CLgY</id>
@@ -637,15 +712,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Parfum Disco by Peyruis 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=frvjbHNB14s</id>
-        <link href="https://www.youtube.com/watch?v=frvjbHNB14s"/>
-        <updated>2025-12-01T11:01:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[馬祖獨旅]]></title>
         <id>https://www.youtube.com/watch?v=8CDfE3H7ODk</id>
         <link href="https://www.youtube.com/watch?v=8CDfE3H7ODk"/>
@@ -957,39 +1023,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix "Nhiều Cảm Xúc" Cực Phiêu ♫ Nghe Hoài Không Chán]]></title>
-        <id>https://www.youtube.com/watch?v=4wiCXZtteK8</id>
-        <link href="https://www.youtube.com/watch?v=4wiCXZtteK8"/>
-        <updated>2025-11-19T11:59:30.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[地狱级难度的“普九”，钱从哪里来？【激荡番外篇·基础教育 上】]]></title>
         <id>https://www.youtube.com/watch?v=8EaY2D8d_vk</id>
         <link href="https://www.youtube.com/watch?v=8EaY2D8d_vk"/>
         <updated>2025-11-19T10:32:58.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坏了，智能眼镜真的要替手机了——Rokid Glasses 评测]]></title>
-        <id>https://www.youtube.com/watch?v=VIsDgq8jE1g</id>
-        <link href="https://www.youtube.com/watch?v=VIsDgq8jE1g"/>
-        <updated>2025-11-18T09:54:07.000Z</updated>
-        <author>
-            <name>爱否科技</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFX ETERNA 55 Development Stories #5 GF32-90mmT3.5 PZ OIS WR / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=mRUXUm2_geg</id>
-        <link href="https://www.youtube.com/watch?v=mRUXUm2_geg"/>
-        <updated>2025-11-18T05:00:53.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
