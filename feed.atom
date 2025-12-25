@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T02:09:07.292Z</id>
+    <id>urn:2025-12-25T02:11:12.273Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T02:09:07.292Z</updated>
+    <updated>2025-12-25T02:11:12.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Cực Phiêu "Xoá Tan Mọi Cảm Xúc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
+        <id>https://www.youtube.com/watch?v=MB0SIWYiEP8</id>
+        <link href="https://www.youtube.com/watch?v=MB0SIWYiEP8"/>
+        <updated>2025-12-24T12:08:50.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幫派過時了！創辦邪教才是王道！】披著邪教教主皮的小羊遊戲|12月份10款必玩手遊精選！| 2025年最新 Android/iOS 雙平台手機遊戲推薦第7期！]]></title>
+        <id>https://www.youtube.com/watch?v=zg0JkiZL9bI</id>
+        <link href="https://www.youtube.com/watch?v=zg0JkiZL9bI"/>
+        <updated>2025-12-24T12:02:12.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Illuminate by Declan DP 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=A0EPENAV-ec</id>
+        <link href="https://www.youtube.com/watch?v=A0EPENAV-ec"/>
+        <updated>2025-12-24T11:00:20.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「工程師一定要理組？」你大概沒想到很多成功轉職的人，原本都是文組 #六角學院 #熱門]]></title>
         <id>https://www.youtube.com/shorts/5TlKXTACSrY</id>
@@ -726,15 +753,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Forever Free by LiQWYD 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=uSdMRZXQ7AA</id>
-        <link href="https://www.youtube.com/watch?v=uSdMRZXQ7AA"/>
-        <updated>2025-12-08T11:01:57.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TouchDesigner 直播挑戰 Vol.5 - 創造跟著音樂跳舞的ㄎㄧㄤ海膽]]></title>
         <id>https://www.youtube.com/watch?v=sibYzEB1Umk</id>
         <link href="https://www.youtube.com/watch?v=sibYzEB1Umk"/>
@@ -1014,15 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Mix Nightcore ''Hay Hơn Bản Gốc" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=B7iVopMz4Ts</id>
-        <link href="https://www.youtube.com/watch?v=B7iVopMz4Ts"/>
-        <updated>2025-11-27T12:02:21.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【2025 React 作品實戰直播班】課程說明會 11/26 (三) 20:00  準時開播]]></title>
         <id>https://www.youtube.com/watch?v=jlHdv5XcsRk</id>
         <link href="https://www.youtube.com/watch?v=jlHdv5XcsRk"/>
@@ -1066,25 +1075,6 @@
         <updated>2025-11-26T05:00:06.000Z</updated>
         <author>
             <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TouchDesigner 直播挑戰 Vol.3 - 在數位的世界中創造浪漫的動態油畫]]></title>
-        <id>https://www.youtube.com/watch?v=6D9AerJSu28</id>
-        <link href="https://www.youtube.com/watch?v=6D9AerJSu28"/>
-        <updated>2025-11-25T02:23:42.000Z</updated>
-        <author>
-            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Type]]></title>
-        <id>https://www.youtube.com/shorts/z84uLseiKY4</id>
-        <link href="https://www.youtube.com/shorts/z84uLseiKY4"/>
-        <updated>2025-11-24T22:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
