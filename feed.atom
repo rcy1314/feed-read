@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-30T02:17:43.772Z</id>
+    <id>urn:2025-12-31T02:18:16.203Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T02:17:43.772Z</updated>
+    <updated>2025-12-31T02:18:16.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TOP 50 No Copyright Songs of 2025]]></title>
+        <id>https://www.youtube.com/watch?v=bqp3m5bzWrM</id>
+        <link href="https://www.youtube.com/watch?v=bqp3m5bzWrM"/>
+        <updated>2025-12-30T18:51:27.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天津，这个地方还是太复杂了！｜#原来这么拍# 第262集]]></title>
+        <id>https://www.youtube.com/watch?v=XgaxOos_otA</id>
+        <link href="https://www.youtube.com/watch?v=XgaxOos_otA"/>
+        <updated>2025-12-30T13:01:09.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實用攝影口訣，大公開！ #1分鐘OK人像攝影，一學就廢。 #人像寫真 #攝影教學 #人像攝影 #引導]]></title>
+        <id>https://www.youtube.com/shorts/dgdn3WxzxL0</id>
+        <link href="https://www.youtube.com/shorts/dgdn3WxzxL0"/>
+        <updated>2025-12-30T12:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Lotus by Next Route 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=cDj1tVyMVzk</id>
+        <link href="https://www.youtube.com/watch?v=cDj1tVyMVzk"/>
+        <updated>2025-12-30T11:01:18.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通人如何投资理财]]></title>
+        <id>https://www.youtube.com/watch?v=jLo7PDsBvwY</id>
+        <link href="https://www.youtube.com/watch?v=jLo7PDsBvwY"/>
+        <updated>2025-12-30T05:20:36.000Z</updated>
+        <author>
+            <name>巫师后期.wrcolor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【走進你家鄉】閉著眼睛都好拍的三峽！除了「三峽老街」外還有什麼推薦呢？｜三峽區｜ft. STC Canon R V.2內置型濾鏡]]></title>
         <id>https://www.youtube.com/watch?v=FQrWD5kYaX4</id>
@@ -631,15 +677,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Awake by KV 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=_VZqskl8W7Q</id>
-        <link href="https://www.youtube.com/watch?v=_VZqskl8W7Q"/>
-        <updated>2025-12-15T11:01:09.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X-E5 × FS RECIPE: Davide Gazzotti/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=94Bdu9T6eG4</id>
         <link href="https://www.youtube.com/watch?v=94Bdu9T6eG4"/>
@@ -664,15 +701,6 @@
         <updated>2025-12-14T11:30:03.000Z</updated>
         <author>
             <name>WenGuang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Hideout by Pold 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=MUZKHwj4erE</id>
-        <link href="https://www.youtube.com/watch?v=MUZKHwj4erE"/>
-        <updated>2025-12-14T11:00:44.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -999,42 +1027,6 @@
         <updated>2025-12-01T20:15:13.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在「手機攝影」當道的年代，我為什麼還是喜歡用相機？｜iPhone 17 Pro｜ft. Logitech]]></title>
-        <id>https://www.youtube.com/watch?v=NEor7rgZPaU</id>
-        <link href="https://www.youtube.com/watch?v=NEor7rgZPaU"/>
-        <updated>2025-12-01T12:30:37.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15款MMORPG大型多人在線角色扮演手遊精選！| 「無限職業」系統大型MMO |《誅仙》正統續作 | 結合了開放世界/生存/農場玩法 | Android & iOS 手機遊戲推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=ipHnSgvB4Zo</id>
-        <link href="https://www.youtube.com/watch?v=ipHnSgvB4Zo"/>
-        <updated>2025-12-01T12:01:35.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬祖獨旅]]></title>
-        <id>https://www.youtube.com/watch?v=8CDfE3H7ODk</id>
-        <link href="https://www.youtube.com/watch?v=8CDfE3H7ODk"/>
-        <updated>2025-12-01T09:59:54.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TouchDesigner 直播挑戰 Vol.4 - 從粒子到創造如夢似幻的黑夜星軌]]></title>
-        <id>https://www.youtube.com/watch?v=aT1qa_1itZI</id>
-        <link href="https://www.youtube.com/watch?v=aT1qa_1itZI"/>
-        <updated>2025-12-01T02:19:46.000Z</updated>
-        <author>
-            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
         </author>
     </entry>
 </feed>
