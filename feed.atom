@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T02:29:48.255Z</id>
+    <id>urn:2026-01-02T02:20:23.788Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T02:29:48.255Z</updated>
+    <updated>2026-01-02T02:20:23.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EDM Nhiều Cảm Xúc ♫ Nhạc EDM Mix Cực Phiêu Thăng Hoa Cùng Cảm Xúc | Funk Remix]]></title>
+        <id>https://www.youtube.com/watch?v=kPk4l2z8p5g</id>
+        <link href="https://www.youtube.com/watch?v=kPk4l2z8p5g"/>
+        <updated>2026-01-01T12:01:29.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年1月份最新好玩的手遊精選！| 隨時隨地 “摸魚”《潛水員戴夫》手遊版 | 主機好評《我是小魚兒》| 溫馨解密《Recolit》| Android/iOS雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
+        <id>https://www.youtube.com/watch?v=BXwq4FnFako</id>
+        <link href="https://www.youtube.com/watch?v=BXwq4FnFako"/>
+        <updated>2026-01-01T12:00:19.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Born Of The Sky by Scott Buckley 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=9xZCI97qCHI</id>
+        <link href="https://www.youtube.com/watch?v=9xZCI97qCHI"/>
+        <updated>2026-01-01T11:00:14.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jungle - Back On 74 (The Chainsmokers Remix)]]></title>
         <id>https://www.youtube.com/watch?v=st1_vEnlwuY</id>
@@ -30,15 +57,6 @@
         <updated>2025-12-31T17:39:32.000Z</updated>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「週三攝影週報」2025 最後一天的閒聊......嗎？]]></title>
-        <id>https://www.youtube.com/watch?v=Wqc_CdqmmSs</id>
-        <link href="https://www.youtube.com/watch?v=Wqc_CdqmmSs"/>
-        <updated>2025-12-31T14:39:37.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -617,15 +635,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Eyes In The Void by Scott Buckley 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=fcirpz5FvLg</id>
-        <link href="https://www.youtube.com/watch?v=fcirpz5FvLg"/>
-        <updated>2025-12-16T11:01:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[a7siii老了，但却没输过｜索尼a7s3]]></title>
         <id>https://www.youtube.com/watch?v=nEFV8_-IY84</id>
         <link href="https://www.youtube.com/watch?v=nEFV8_-IY84"/>
@@ -1024,25 +1033,6 @@
         <id>https://www.youtube.com/watch?v=mUjcJUiwJks</id>
         <link href="https://www.youtube.com/watch?v=mUjcJUiwJks"/>
         <updated>2025-12-04T12:00:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[251203 Ink Progression synth #touchdesigner]]></title>
-        <id>https://www.youtube.com/shorts/_F_Sune9XFI</id>
-        <link href="https://www.youtube.com/shorts/_F_Sune9XFI"/>
-        <updated>2025-12-03T12:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Thư Giãn " Sau Ngày Dài Mệt Mỏi " ♫ Top 10 Bản EDM Mix Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=I5BgMpIF9fU</id>
-        <link href="https://www.youtube.com/watch?v=I5BgMpIF9fU"/>
-        <updated>2025-12-03T12:05:27.000Z</updated>
         <author>
             <name>FURY EDM</name>
         </author>
