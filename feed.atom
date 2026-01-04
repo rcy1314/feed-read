@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-03T02:07:24.943Z</id>
+    <id>urn:2026-01-04T02:31:05.257Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T02:07:24.943Z</updated>
+    <updated>2026-01-04T02:31:05.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Encounter by SilentCrafter 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=HkR1NwU05So</id>
+        <link href="https://www.youtube.com/watch?v=HkR1NwU05So"/>
+        <updated>2026-01-03T11:00:38.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nhạc EDM Mix Chơi Game ♫ Top Nhạc Điện Tử Gây Nghiện Phá Đảo Thế Giới Ảo Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=inQY8pFWFk8</id>
@@ -88,7 +97,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【2026 神仙打架！必玩大廠 IP 手游】米哈遊種田遊戲《星布穀地》| 3A 二次元大作《Varsapura》| 《怪物獵人：旅人》主機體驗《控制 - 終極合輯》2026最讓人期待的手機遊戲懶人包!]]></title>
+        <title type="html"><![CDATA[今年超強！15 款2026最值得期待的手機遊戲！|米哈遊種田《星布穀地》|3A 二次元大作《Varsapura》|《怪物獵人：旅人》主機體驗《控制 - 終極合輯》Android/iOS 手機遊戲推薦]]></title>
         <id>https://www.youtube.com/watch?v=3ROEWNV_Hzs</id>
         <link href="https://www.youtube.com/watch?v=3ROEWNV_Hzs"/>
         <updated>2025-12-31T12:00:12.000Z</updated>
@@ -568,15 +577,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Echo by Next Route 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=0IZ4godFQXU</id>
-        <link href="https://www.youtube.com/watch?v=0IZ4godFQXU"/>
-        <updated>2025-12-18T11:00:02.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[251217 Drought Planet 🪐 #touchdesigner]]></title>
         <id>https://www.youtube.com/shorts/XR5H4hXbbYA</id>
         <link href="https://www.youtube.com/shorts/XR5H4hXbbYA"/>
@@ -980,43 +980,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月份最新好玩的手遊推薦！| 備受好評《紀念碑谷》系列最新作 | 治愈休閒的 RPG 冒險 | 快節奏的橫向動作遊戲 | 動漫二次元風的作品 | Android & iOS 手機遊戲推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=jFa3jx2JltA</id>
-        <link href="https://www.youtube.com/watch?v=jFa3jx2JltA"/>
-        <updated>2025-12-05T12:01:27.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=rMf69T4igkE</id>
-        <link href="https://www.youtube.com/watch?v=rMf69T4igkE"/>
-        <updated>2025-12-05T12:00:18.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文組畢業生 也能進入科技業 領百萬年薪？]]></title>
-        <id>https://www.youtube.com/shorts/2DTxymAVMWM</id>
-        <link href="https://www.youtube.com/shorts/2DTxymAVMWM"/>
-        <updated>2025-12-05T03:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是怎么备份数据的？]]></title>
-        <id>https://www.youtube.com/watch?v=BYlx30NYtq4</id>
-        <link href="https://www.youtube.com/watch?v=BYlx30NYtq4"/>
-        <updated>2025-12-04T14:15:15.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
         </author>
     </entry>
 </feed>
