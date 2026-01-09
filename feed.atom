@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T02:20:03.406Z</id>
+    <id>urn:2026-01-09T02:20:52.105Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T02:20:03.406Z</updated>
+    <updated>2026-01-09T02:20:52.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[你也想要學怎麼拍合照嗎？]]></title>
+        <id>https://www.youtube.com/shorts/eYXy2549Dzo</id>
+        <link href="https://www.youtube.com/shorts/eYXy2549Dzo"/>
+        <updated>2026-01-08T16:51:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國高鐵出國遊，國內國外一把抓，西雙版納和琅勃拉邦的雙城記｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=xgt8FLEVXNo</id>
+        <link href="https://www.youtube.com/watch?v=xgt8FLEVXNo"/>
+        <updated>2026-01-08T12:01:53.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Nhiều Cảm Xúc ♫ Nhạc EDM Mix Cực Phiêu Thăng Hoa Cùng Cảm Xúc | Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=7dNCfat1r5I</id>
+        <link href="https://www.youtube.com/watch?v=7dNCfat1r5I"/>
+        <updated>2026-01-08T12:01:45.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Borealis by Next Route 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=KkoYt5odusY</id>
+        <link href="https://www.youtube.com/watch?v=KkoYt5odusY"/>
+        <updated>2026-01-08T11:00:40.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這可能是我近期看過最有質感的入門金屬錶了 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/Tobj5F0HiRI</id>
+        <link href="https://www.youtube.com/shorts/Tobj5F0HiRI"/>
+        <updated>2026-01-08T09:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAPPY NEW YEAR]]></title>
         <id>https://www.youtube.com/shorts/cWNEgplmMv8</id>
@@ -440,15 +487,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This song is a story without words... 🎵 Incredulity by Scott Buckley (No Copyright)]]></title>
-        <id>https://www.youtube.com/watch?v=yj4O2xKu4RI</id>
-        <link href="https://www.youtube.com/watch?v=yj4O2xKu4RI"/>
-        <updated>2025-12-23T11:02:03.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -948,34 +986,6 @@
         <updated>2025-12-10T14:21:05.000Z</updated>
         <author>
             <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年12月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！]]></title>
-        <id>https://www.youtube.com/watch?v=H5HTFV3GmGM</id>
-        <link href="https://www.youtube.com/watch?v=H5HTFV3GmGM"/>
-        <updated>2025-12-10T12:00:37.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 16 Bản Nhạc EDM Mix Nightcore ''Vừa Phiêu Vừa Chill" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2025]]></title>
-        <id>https://www.youtube.com/watch?v=1oBKCf2AQAc</id>
-        <link href="https://www.youtube.com/watch?v=1oBKCf2AQAc"/>
-        <updated>2025-12-10T11:59:56.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人手一台的 DJI pocket3 到底強在哪！]]></title>
-        <id>https://www.youtube.com/shorts/xDXKjhxduQ4</id>
-        <link href="https://www.youtube.com/shorts/xDXKjhxduQ4"/>
-        <updated>2025-12-10T10:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
