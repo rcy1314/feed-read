@@ -11,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/dC_JJ-UIwQE",
           "publishedOn": "2026-01-14T22:09:01.000Z",
-          "wordCount": 2005,
+          "wordCount": 2003,
           "title": "2016 nostalgia getting out of hand",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wPeDhm0aUns",
           "publishedOn": "2026-01-09T23:04:42.000Z",
-          "wordCount": 2018,
+          "wordCount": 2022,
           "title": "Can't wait",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cWNEgplmMv8",
           "publishedOn": "2026-01-08T00:09:54.000Z",
-          "wordCount": 2224,
+          "wordCount": 2006,
           "title": "HAPPY NEW YEAR",
           "imageUrl": null
         },
@@ -259,12 +259,22 @@
       "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=idfx0xjU5_I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=idfx0xjU5_I",
+          "publishedOn": "2026-01-16T09:49:47.000Z",
+          "wordCount": null,
+          "title": "我買了人生第二支昂貴手錶! Grand Seiko SBGA413 春分- Buying my second luxury watch!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Tobj5F0HiRI",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Tobj5F0HiRI",
           "publishedOn": "2026-01-08T09:58:27.000Z",
-          "wordCount": 2310,
+          "wordCount": 2158,
           "title": "這可能是我近期看過最有質感的入門金屬錶了 #shorts",
           "imageUrl": null
         },
@@ -324,7 +334,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/5TlKXTACSrY",
           "publishedOn": "2025-12-24T01:00:06.000Z",
-          "wordCount": 2006,
+          "wordCount": 1975,
           "title": "「工程師一定要理組？」你大概沒想到很多成功轉職的人，原本都是文組 #六角學院 #熱門",
           "imageUrl": null
         },
@@ -334,7 +344,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/HC_My6pXRrQ",
           "publishedOn": "2025-12-23T12:15:02.000Z",
-          "wordCount": 1997,
+          "wordCount": 2194,
           "title": "AI 時代，工程師真的還有前途嗎？直接聽獵頭給你答案！",
           "imageUrl": null
         },
@@ -344,7 +354,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/opHE5LsmM58",
           "publishedOn": "2025-12-22T09:56:32.000Z",
-          "wordCount": 1967,
+          "wordCount": 1956,
           "title": "問獵頭AI會不會取代工程師？現在公司在找的是什麼樣的人才",
           "imageUrl": null
         },
@@ -354,18 +364,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DU3IuRtUXrE",
           "publishedOn": "2025-12-19T00:30:00.000Z",
-          "wordCount": 1987,
+          "wordCount": 2095,
           "title": "Ｊ人高效有條理 Ｐ人超絕鬆弛感，你的辦公室同事？｜工程師辦公室日常",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x8AMydeqdbs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x8AMydeqdbs",
-          "publishedOn": "2025-12-18T13:15:00.000Z",
-          "wordCount": null,
-          "title": "AI 崛起後，誰還敢當工程師？獵頭一席話讓全場沉默 @hexschool",
           "imageUrl": null
         }
       ]
@@ -399,16 +399,6 @@
           "publishedOn": "2025-12-22T02:07:29.000Z",
           "wordCount": null,
           "title": "TouchDesigner 直播挑戰 Vol.7 - 創造視覺幻象的格柵時鐘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/XR5H4hXbbYA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/XR5H4hXbbYA",
-          "publishedOn": "2025-12-17T17:23:30.000Z",
-          "wordCount": 2060,
-          "title": "251217 Drought Planet 🪐 #touchdesigner",
           "imageUrl": null
         }
       ]
@@ -474,6 +464,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=z7eZwE2QsG8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=z7eZwE2QsG8",
+          "publishedOn": "2026-01-16T12:02:03.000Z",
+          "wordCount": null,
+          "title": "10款1月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第5期！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ah_7lFNCDJU",
           "author": null,
@@ -690,6 +690,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H8BqSusVs8Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H8BqSusVs8Q",
+          "publishedOn": "2026-01-15T00:00:18.000Z",
+          "wordCount": null,
+          "title": "新手到高手的距离！大疆 RS 5 运镜全攻略：10 套万能组合，旅拍出片不求人",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=paKrPP873Kk",
           "author": null,
           "description": "",
@@ -718,7 +728,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kBspblGmn0c",
           "publishedOn": "2026-01-15T04:00:49.000Z",
-          "wordCount": 2040,
+          "wordCount": 2086,
           "title": "【冬天就要拍落羽松吧】#攝影教學 #photography #人像攝影",
           "imageUrl": null
         },
@@ -738,7 +748,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/eYXy2549Dzo",
           "publishedOn": "2026-01-08T16:51:47.000Z",
-          "wordCount": 2074,
+          "wordCount": 2089,
           "title": "你也想要學怎麼拍合照嗎？",
           "imageUrl": null
         },
@@ -758,7 +768,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Z4thjeJRRyQ",
           "publishedOn": "2025-12-31T12:51:15.000Z",
-          "wordCount": 2191,
+          "wordCount": 2258,
           "title": "看膩平凡視角？試試 DJI Osmo Nano",
           "imageUrl": null
         },
@@ -768,7 +778,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/dgdn3WxzxL0",
           "publishedOn": "2025-12-30T12:31:03.000Z",
-          "wordCount": 2077,
+          "wordCount": 2096,
           "title": "實用攝影口訣，大公開！ #1分鐘OK人像攝影，一學就廢。 #人像寫真 #攝影教學 #人像攝影 #引導",
           "imageUrl": null
         },
@@ -825,7 +835,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/t5Ud9K-XcS0",
           "publishedOn": "2025-12-19T05:01:10.000Z",
-          "wordCount": 2062,
+          "wordCount": 2249,
           "title": "CLASSIC CHROME FS RECIPE x Thomas B.Jones / FUJIFILM #filmsimulation",
           "imageUrl": null
         },
@@ -845,7 +855,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/nijoLz7WOOE",
           "publishedOn": "2025-12-19T05:01:06.000Z",
-          "wordCount": 2096,
+          "wordCount": 2027,
           "title": "CLASSIC CHROME FS RECIPE x Alicia Cooper / FUJIFILM  #filmsimulation",
           "imageUrl": null
         },
@@ -855,7 +865,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/lVKYL99UVtw",
           "publishedOn": "2025-12-19T05:01:03.000Z",
-          "wordCount": 2122,
+          "wordCount": 2061,
           "title": "CLASSIC CHROME FS RECIPE x Eric Bouvet / FUJIFILM  #filmsimulation",
           "imageUrl": null
         },
@@ -865,7 +875,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fsU-_6jKGJg",
           "publishedOn": "2025-12-19T05:00:51.000Z",
-          "wordCount": 2062,
+          "wordCount": 2063,
           "title": "CLASSIC CHROME FS RECIPE x Aditya Varma/ FUJIFILM #filmsimulation",
           "imageUrl": null
         },
@@ -875,7 +885,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/DC-B0I5-q3I",
           "publishedOn": "2025-12-19T05:00:17.000Z",
-          "wordCount": 2099,
+          "wordCount": 2044,
           "title": "CLASSIC CHROME FS RECIPE x Tin Phung / FUJIFILM",
           "imageUrl": null
         },
@@ -885,7 +895,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/AMcBd4M9u_E",
           "publishedOn": "2025-12-19T05:00:13.000Z",
-          "wordCount": 2241,
+          "wordCount": 1989,
           "title": "CLASSIC CHROME FS RECIPE x Mia Moran / FUJIFILM",
           "imageUrl": null
         }
@@ -896,6 +906,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gIm_d1jedlo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gIm_d1jedlo",
+          "publishedOn": "2026-01-16T11:01:25.000Z",
+          "wordCount": null,
+          "title": "DAILY No Copyright For You – Bicycles by Scandinavianz 🎵",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=45NtBbt1-FI",
           "author": null,
@@ -1034,16 +1054,6 @@
           "publishedOn": "2026-01-02T11:00:49.000Z",
           "wordCount": null,
           "title": "DAILY No Copyright For You – One By One by Roa 🎵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9xZCI97qCHI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9xZCI97qCHI",
-          "publishedOn": "2026-01-01T11:00:14.000Z",
-          "wordCount": null,
-          "title": "DAILY No Copyright For You – Born Of The Sky by Scott Buckley 🎵",
           "imageUrl": null
         }
       ]
