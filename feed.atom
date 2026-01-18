@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-17T02:08:55.755Z</id>
+    <id>urn:2026-01-18T02:29:30.208Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T02:08:55.755Z</updated>
+    <updated>2026-01-18T02:29:30.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Thư Giãn ♫ Nhạc EDM  Thư Giãn Giảm Stress]]></title>
+        <id>https://www.youtube.com/watch?v=45sUBW5Lvs8</id>
+        <link href="https://www.youtube.com/watch?v=45sUBW5Lvs8"/>
+        <updated>2026-01-17T12:01:42.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Blossom by Roa 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=jEyW-FTehYE</id>
+        <link href="https://www.youtube.com/watch?v=jEyW-FTehYE"/>
+        <updated>2026-01-17T11:01:28.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10款1月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第5期！]]></title>
         <id>https://www.youtube.com/watch?v=z7eZwE2QsG8</id>
@@ -408,15 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – One By One by Roa 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=Qnpz8hiv5nY</id>
-        <link href="https://www.youtube.com/watch?v=Qnpz8hiv5nY"/>
-        <updated>2026-01-02T11:00:49.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EDM Nhiều Cảm Xúc ♫ Nhạc EDM Mix Cực Phiêu Thăng Hoa Cùng Cảm Xúc | Funk Remix]]></title>
         <id>https://www.youtube.com/watch?v=kPk4l2z8p5g</id>
         <link href="https://www.youtube.com/watch?v=kPk4l2z8p5g"/>
@@ -707,112 +716,6 @@
         <updated>2025-12-20T12:01:45.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=d4Vdev-egUQ</id>
-        <link href="https://www.youtube.com/watch?v=d4Vdev-egUQ"/>
-        <updated>2025-12-19T12:01:20.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月份10款必玩手遊精選！| 2025年最新 Android/iOS 雙平台手機遊戲推薦第6期！]]></title>
-        <id>https://www.youtube.com/watch?v=_COtVlRmNX8</id>
-        <link href="https://www.youtube.com/watch?v=_COtVlRmNX8"/>
-        <updated>2025-12-19T12:01:17.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-E5 × FS RECIPE: Ben Savage/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=6AhDE4dLYA0</id>
-        <link href="https://www.youtube.com/watch?v=6AhDE4dLYA0"/>
-        <updated>2025-12-19T09:00:11.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Thomas B.Jones / FUJIFILM #filmsimulation]]></title>
-        <id>https://www.youtube.com/shorts/t5Ud9K-XcS0</id>
-        <link href="https://www.youtube.com/shorts/t5Ud9K-XcS0"/>
-        <updated>2025-12-19T05:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Film Simulation - CLASSIC CHROME Promotional Video/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=qgy4ACKCYus</id>
-        <link href="https://www.youtube.com/watch?v=qgy4ACKCYus"/>
-        <updated>2025-12-19T05:01:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Alicia Cooper / FUJIFILM  #filmsimulation]]></title>
-        <id>https://www.youtube.com/shorts/nijoLz7WOOE</id>
-        <link href="https://www.youtube.com/shorts/nijoLz7WOOE"/>
-        <updated>2025-12-19T05:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Eric Bouvet / FUJIFILM  #filmsimulation]]></title>
-        <id>https://www.youtube.com/shorts/lVKYL99UVtw</id>
-        <link href="https://www.youtube.com/shorts/lVKYL99UVtw"/>
-        <updated>2025-12-19T05:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Aditya Varma/ FUJIFILM #filmsimulation]]></title>
-        <id>https://www.youtube.com/shorts/fsU-_6jKGJg</id>
-        <link href="https://www.youtube.com/shorts/fsU-_6jKGJg"/>
-        <updated>2025-12-19T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Tin Phung / FUJIFILM]]></title>
-        <id>https://www.youtube.com/shorts/DC-B0I5-q3I</id>
-        <link href="https://www.youtube.com/shorts/DC-B0I5-q3I"/>
-        <updated>2025-12-19T05:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASSIC CHROME FS RECIPE x Mia Moran / FUJIFILM]]></title>
-        <id>https://www.youtube.com/shorts/AMcBd4M9u_E</id>
-        <link href="https://www.youtube.com/shorts/AMcBd4M9u_E"/>
-        <updated>2025-12-19T05:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ｊ人高效有條理 Ｐ人超絕鬆弛感，你的辦公室同事？｜工程師辦公室日常]]></title>
-        <id>https://www.youtube.com/shorts/DU3IuRtUXrE</id>
-        <link href="https://www.youtube.com/shorts/DU3IuRtUXrE"/>
-        <updated>2025-12-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
 </feed>
