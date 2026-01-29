@@ -11,7 +11,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Bw_KQl1zM6w",
           "publishedOn": "2026-01-26T21:28:07.000Z",
-          "wordCount": 2102,
+          "wordCount": 2042,
           "title": "Ball is life",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/vE4OSBKxwKI",
           "publishedOn": "2026-01-21T16:53:53.000Z",
-          "wordCount": 2003,
+          "wordCount": 2012,
           "title": "Thinking about it",
           "imageUrl": null
         },
@@ -31,7 +31,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/dC_JJ-UIwQE",
           "publishedOn": "2026-01-14T22:09:01.000Z",
-          "wordCount": 2047,
+          "wordCount": 2042,
           "title": "2016 nostalgia getting out of hand",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/wPeDhm0aUns",
           "publishedOn": "2026-01-09T23:04:42.000Z",
-          "wordCount": 2034,
+          "wordCount": 2168,
           "title": "Can't wait",
           "imageUrl": null
         },
@@ -51,7 +51,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/cWNEgplmMv8",
           "publishedOn": "2026-01-08T00:09:54.000Z",
-          "wordCount": 2040,
+          "wordCount": 2011,
           "title": "HAPPY NEW YEAR",
           "imageUrl": null
         },
@@ -123,16 +123,6 @@
           "wordCount": null,
           "title": "古典白美人，饼干头也讲究画质！Thypoch 28mmF2.8 ASPH实拍测评",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XgaxOos_otA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XgaxOos_otA",
-          "publishedOn": "2025-12-30T13:01:09.000Z",
-          "wordCount": null,
-          "title": "天津，这个地方还是太复杂了！｜#原来这么拍# 第262集",
-          "imageUrl": null
         }
       ]
     },
@@ -141,6 +131,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lEW_o_Gb6kg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lEW_o_Gb6kg",
+          "publishedOn": "2026-01-28T12:00:55.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Mix Chill Hay Nhất 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2UQRdj-1r0M",
           "author": null,
@@ -284,7 +284,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/fWVYe73ka9I",
           "publishedOn": "2026-01-24T05:52:32.000Z",
-          "wordCount": 2186,
+          "wordCount": 2079,
           "title": "IG reel畫質最好的方法 #shorts",
           "imageUrl": null
         },
@@ -294,7 +294,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/jpVhjp8fMT0",
           "publishedOn": "2026-01-20T10:39:37.000Z",
-          "wordCount": 2040,
+          "wordCount": 2096,
           "title": "Grand Seiko好東西啊！ #shorts",
           "imageUrl": null
         },
@@ -314,7 +314,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Tobj5F0HiRI",
           "publishedOn": "2026-01-08T09:58:27.000Z",
-          "wordCount": 2072,
+          "wordCount": 2066,
           "title": "這可能是我近期看過最有質感的入門金屬錶了 #shorts",
           "imageUrl": null
         }
@@ -392,18 +392,7 @@
       "title": "巫师后期.wrcolor",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
       "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jLo7PDsBvwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jLo7PDsBvwY",
-          "publishedOn": "2025-12-30T05:20:36.000Z",
-          "wordCount": null,
-          "title": "普通人如何投资理财",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "HeyDrones",
@@ -433,6 +422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=43r5IQbXbgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=43r5IQbXbgc",
+          "publishedOn": "2026-01-28T12:00:09.000Z",
+          "wordCount": null,
+          "title": "2月份最期待的必玩手遊預告！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tdHV1azrn6A",
           "author": null,
@@ -738,7 +737,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/kBspblGmn0c",
           "publishedOn": "2026-01-15T04:00:49.000Z",
-          "wordCount": 2045,
+          "wordCount": 2094,
           "title": "【冬天就要拍落羽松吧】#攝影教學 #photography #人像攝影",
           "imageUrl": null
         },
@@ -758,7 +757,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/eYXy2549Dzo",
           "publishedOn": "2026-01-08T16:51:47.000Z",
-          "wordCount": 2055,
+          "wordCount": 2100,
           "title": "你也想要學怎麼拍合照嗎？",
           "imageUrl": null
         },
@@ -778,18 +777,8 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/Z4thjeJRRyQ",
           "publishedOn": "2025-12-31T12:51:15.000Z",
-          "wordCount": 2513,
+          "wordCount": 2146,
           "title": "看膩平凡視角？試試 DJI Osmo Nano",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/dgdn3WxzxL0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/dgdn3WxzxL0",
-          "publishedOn": "2025-12-30T12:31:03.000Z",
-          "wordCount": 2046,
-          "title": "實用攝影口訣，大公開！ #1分鐘OK人像攝影，一學就廢。 #人像寫真 #攝影教學 #人像攝影 #引導",
           "imageUrl": null
         }
       ]
@@ -825,7 +814,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/pnhgY_tmxyU",
           "publishedOn": "2026-01-20T05:01:03.000Z",
-          "wordCount": 2058,
+          "wordCount": 2023,
           "title": "CLASSIC Neg. FS RECIPE x Naoya Takahashi / FUJIFILM #filmsimulation",
           "imageUrl": null
         },
@@ -835,7 +824,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/PkAfYCLJj-k",
           "publishedOn": "2026-01-20T05:00:27.000Z",
-          "wordCount": 2051,
+          "wordCount": 2043,
           "title": "CLASSIC Neg. FS RECIPE x Nathalie Boucry / FUJIFILM #filmsimulation",
           "imageUrl": null
         },
@@ -845,7 +834,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/BRNpgKYiLTA",
           "publishedOn": "2026-01-20T05:00:21.000Z",
-          "wordCount": 2052,
+          "wordCount": 2050,
           "title": "CLASSIC Neg. FS RECIPE x Dustin Hendarlim / FUJIFILM #filmsimulation",
           "imageUrl": null
         },
@@ -865,7 +854,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/66T5v4VHvlk",
           "publishedOn": "2026-01-20T05:00:07.000Z",
-          "wordCount": 2043,
+          "wordCount": 2088,
           "title": "CLASSIC Neg. FS RECIPE x Nattanicha Luangsaardkul / FUJIFILM #filmsimulation",
           "imageUrl": null
         }
@@ -876,6 +865,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cBYImmmLWNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cBYImmmLWNY",
+          "publishedOn": "2026-01-28T11:01:15.000Z",
+          "wordCount": null,
+          "title": "DAILY No Copyright For You – Puzzle by Scandinavianz 🎵",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iKpXjV8tDtw",
           "author": null,
@@ -1014,16 +1013,6 @@
           "publishedOn": "2026-01-14T11:00:15.000Z",
           "wordCount": null,
           "title": "DAILY No Copyright For You – Blue Eyes by Peyruis 🎵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UrNFmrBfVAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UrNFmrBfVAM",
-          "publishedOn": "2026-01-13T11:01:04.000Z",
-          "wordCount": null,
-          "title": "DAILY No Copyright For You – Penumbra by Scott Buckley 🎵",
           "imageUrl": null
         }
       ]

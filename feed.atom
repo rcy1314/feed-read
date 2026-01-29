@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T02:24:06.932Z</id>
+    <id>urn:2026-01-29T02:41:09.502Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T02:24:06.932Z</updated>
+    <updated>2026-01-29T02:41:09.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Mix Chill Hay Nhất 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=lEW_o_Gb6kg</id>
+        <link href="https://www.youtube.com/watch?v=lEW_o_Gb6kg"/>
+        <updated>2026-01-28T12:00:55.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2月份最期待的必玩手遊預告！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=43r5IQbXbgc</id>
+        <link href="https://www.youtube.com/watch?v=43r5IQbXbgc"/>
+        <updated>2026-01-28T12:00:09.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Puzzle by Scandinavianz 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=cBYImmmLWNY</id>
+        <link href="https://www.youtube.com/watch?v=cBYImmmLWNY"/>
+        <updated>2026-01-28T11:01:15.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨人手遊可以這麼「佛」？3D化的艾倫巨人化帥炸，放置掛機資源拿好拿滿！| Android/iOS 雙平台手機遊戲/遊戲試玩介紹！]]></title>
         <id>https://www.youtube.com/watch?v=tdHV1azrn6A</id>
@@ -493,15 +520,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Penumbra by Scott Buckley 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=UrNFmrBfVAM</id>
-        <link href="https://www.youtube.com/watch?v=UrNFmrBfVAM"/>
-        <updated>2026-01-13T11:01:04.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[都 2026 年了純手動鏡頭還能買嗎？極致的光學表現！｜ft. ZEISS Otus ML 50mm & 85mm]]></title>
         <id>https://www.youtube.com/watch?v=gTU6KWlSHGc</id>
         <link href="https://www.youtube.com/watch?v=gTU6KWlSHGc"/>
@@ -756,34 +774,6 @@
         <updated>2025-12-31T12:00:12.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天津，这个地方还是太复杂了！｜#原来这么拍# 第262集]]></title>
-        <id>https://www.youtube.com/watch?v=XgaxOos_otA</id>
-        <link href="https://www.youtube.com/watch?v=XgaxOos_otA"/>
-        <updated>2025-12-30T13:01:09.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實用攝影口訣，大公開！ #1分鐘OK人像攝影，一學就廢。 #人像寫真 #攝影教學 #人像攝影 #引導]]></title>
-        <id>https://www.youtube.com/shorts/dgdn3WxzxL0</id>
-        <link href="https://www.youtube.com/shorts/dgdn3WxzxL0"/>
-        <updated>2025-12-30T12:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通人如何投资理财]]></title>
-        <id>https://www.youtube.com/watch?v=jLo7PDsBvwY</id>
-        <link href="https://www.youtube.com/watch?v=jLo7PDsBvwY"/>
-        <updated>2025-12-30T05:20:36.000Z</updated>
-        <author>
-            <name>巫师后期.wrcolor</name>
         </author>
     </entry>
 </feed>
