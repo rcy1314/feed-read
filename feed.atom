@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-31T02:37:10.206Z</id>
+    <id>urn:2026-02-01T03:19:06.721Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T02:37:10.206Z</updated>
+    <updated>2026-02-01T03:19:06.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[《Poker Fate》二次元卡牌手遊推薦！]]></title>
+        <id>https://www.youtube.com/shorts/PJvbMIMzfJg</id>
+        <link href="https://www.youtube.com/shorts/PJvbMIMzfJg"/>
+        <updated>2026-01-31T12:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc EDM Nhẹ Nhàng Thư Giãn]]></title>
+        <id>https://www.youtube.com/watch?v=5xGDnlI-GLU</id>
+        <link href="https://www.youtube.com/watch?v=5xGDnlI-GLU"/>
+        <updated>2026-01-31T12:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Road by KV 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=4hjQD1aPMVw</id>
+        <link href="https://www.youtube.com/watch?v=4hjQD1aPMVw"/>
+        <updated>2026-01-31T11:00:10.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈苏大师赛2026：评委真正想看到什么？｜#原来这么拍# 第263集]]></title>
         <id>https://www.youtube.com/watch?v=VWy4ze3d8dU</id>
@@ -511,15 +539,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Bicycles by Scandinavianz 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=gIm_d1jedlo</id>
-        <link href="https://www.youtube.com/watch?v=gIm_d1jedlo"/>
-        <updated>2026-01-16T11:01:25.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我又買錶啦！ Grand Seiko SBGA413 春分]]></title>
         <id>https://www.youtube.com/watch?v=idfx0xjU5_I</id>
         <link href="https://www.youtube.com/watch?v=idfx0xjU5_I"/>
@@ -766,24 +785,6 @@
         <updated>2026-01-04T12:11:23.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nhạc EDM Mix Chơi Game ♫ Top Nhạc Điện Tử Gây Nghiện Phá Đảo Thế Giới Ảo Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=inQY8pFWFk8</id>
-        <link href="https://www.youtube.com/watch?v=inQY8pFWFk8"/>
-        <updated>2026-01-02T12:01:09.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《三國：謀定天下》試玩介紹！三國策略新體驗，職業搭配 + 聯動福利爽不停！Android/iOS/PC 三平台手遊推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=Y44H7doLjR8</id>
-        <link href="https://www.youtube.com/watch?v=Y44H7doLjR8"/>
-        <updated>2026-01-02T12:01:07.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
