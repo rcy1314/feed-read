@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-02T02:51:56.165Z</id>
+    <id>urn:2026-02-03T02:48:06.673Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T02:51:56.165Z</updated>
+    <updated>2026-02-03T02:48:06.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[look back]]></title>
+        <id>https://www.youtube.com/watch?v=T3XKjt9FnHY</id>
+        <link href="https://www.youtube.com/watch?v=T3XKjt9FnHY"/>
+        <updated>2026-02-03T02:33:14.000Z</updated>
+        <author>
+            <name>D2izy +.+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一定學得會的人像拍攝口訣！]]></title>
+        <id>https://www.youtube.com/watch?v=FfUPiTpvzyw</id>
+        <link href="https://www.youtube.com/watch?v=FfUPiTpvzyw"/>
+        <updated>2026-02-02T12:30:21.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15款必玩的模擬經營類的手遊精選！超適合養老型玩家！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第1期！]]></title>
+        <id>https://www.youtube.com/watch?v=MNLvihAMCx8</id>
+        <link href="https://www.youtube.com/watch?v=MNLvihAMCx8"/>
+        <updated>2026-02-02T12:00:40.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Smile by Next Route & Declan DP 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=z6Zpo1ipCPQ</id>
+        <link href="https://www.youtube.com/watch?v=z6Zpo1ipCPQ"/>
+        <updated>2026-02-02T11:01:48.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Protein maxxing with our @gameofthrones Squire]]></title>
         <id>https://www.youtube.com/shorts/UNRxPUZ-HkA</id>
@@ -522,15 +558,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Light Finds a Way by Pyrosion 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=QK7HfJ9eT9g</id>
-        <link href="https://www.youtube.com/watch?v=QK7HfJ9eT9g"/>
-        <updated>2026-01-18T11:00:44.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Thư Giãn ♫ Nhạc EDM  Thư Giãn Giảm Stress]]></title>
         <id>https://www.youtube.com/watch?v=45sUBW5Lvs8</id>
         <link href="https://www.youtube.com/watch?v=45sUBW5Lvs8"/>
@@ -753,15 +780,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026年聚會最適合的多人派對類手遊精選！小心玩到丟手機！| 派對始祖《糖豆人》| 速度+派對《Sonic Rumble》| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
-        <id>https://www.youtube.com/watch?v=-gfpFfwJDBo</id>
-        <link href="https://www.youtube.com/watch?v=-gfpFfwJDBo"/>
-        <updated>2026-01-05T12:00:00.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[运动相机怎么拍才高级？Ace Pro 2 万能分镜公式实战分享！]]></title>
         <id>https://www.youtube.com/watch?v=paKrPP873Kk</id>
         <link href="https://www.youtube.com/watch?v=paKrPP873Kk"/>
@@ -786,15 +804,6 @@
         <updated>2026-01-05T02:38:05.000Z</updated>
         <author>
             <name>哲宇寇汀吧 CheYu's Coding Bar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc Chơi Liên Minh Huyền Thoại]]></title>
-        <id>https://www.youtube.com/watch?v=Zdi8sTExOZA</id>
-        <link href="https://www.youtube.com/watch?v=Zdi8sTExOZA"/>
-        <updated>2026-01-04T12:11:23.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
