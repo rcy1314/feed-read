@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T03:17:29.799Z</id>
+    <id>urn:2026-02-11T03:15:29.766Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T03:17:29.799Z</updated>
+    <updated>2026-02-11T03:15:29.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Good Energy by Aylex 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=j3l-N2c_Eps</id>
+        <link href="https://www.youtube.com/watch?v=j3l-N2c_Eps"/>
+        <updated>2026-02-10T11:01:20.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[畫質絕對沒問題！體驗則是…… ft.哈蘇 Hasselblad X2D]]></title>
         <id>https://www.youtube.com/watch?v=RX5d6eEv7uw</id>
@@ -111,15 +120,6 @@
         <updated>2026-02-06T08:12:54.000Z</updated>
         <author>
             <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 搜尋時代，SEO 還有用嗎？3 小時做出自己的 AI SEO 策略地圖｜六角學院 × AI SEO]]></title>
-        <id>https://www.youtube.com/watch?v=s2-V6M4iOYQ</id>
-        <link href="https://www.youtube.com/watch?v=s2-V6M4iOYQ"/>
-        <updated>2026-02-06T03:56:33.000Z</updated>
-        <author>
-            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -491,15 +491,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – 서울행 Seoul Bound by Declan DP 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=ncIaz-1mAnY</id>
-        <link href="https://www.youtube.com/watch?v=ncIaz-1mAnY"/>
-        <updated>2026-01-26T11:01:23.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
         <id>https://www.youtube.com/watch?v=2UQRdj-1r0M</id>
         <link href="https://www.youtube.com/watch?v=2UQRdj-1r0M"/>
@@ -785,24 +776,6 @@
         <updated>2026-01-14T12:00:25.000Z</updated>
         <author>
             <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都 2026 年了純手動鏡頭還能買嗎？極致的光學表現！｜ft. ZEISS Otus ML 50mm & 85mm]]></title>
-        <id>https://www.youtube.com/watch?v=gTU6KWlSHGc</id>
-        <link href="https://www.youtube.com/watch?v=gTU6KWlSHGc"/>
-        <updated>2026-01-12T12:31:07.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc EDM  Thư Giãn]]></title>
-        <id>https://www.youtube.com/watch?v=7w3YERoCgXA</id>
-        <link href="https://www.youtube.com/watch?v=7w3YERoCgXA"/>
-        <updated>2026-01-12T12:00:12.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
