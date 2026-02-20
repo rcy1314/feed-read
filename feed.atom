@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T02:50:02.758Z</id>
+    <id>urn:2026-02-20T02:44:35.398Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T02:50:02.758Z</updated>
+    <updated>2026-02-20T02:44:35.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[summer in the snow]]></title>
+        <id>https://www.youtube.com/shorts/XYbhdSCDkgc</id>
+        <link href="https://www.youtube.com/shorts/XYbhdSCDkgc"/>
+        <updated>2026-02-19T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[张千里 X 理光 GR Monochrome 样片纯享]]></title>
+        <id>https://www.youtube.com/watch?v=yyKOSpqvalQ</id>
+        <link href="https://www.youtube.com/watch?v=yyKOSpqvalQ"/>
+        <updated>2026-02-19T14:26:10.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Reverie, Pt. IV by Lucjo 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=V_qX3gv0XHA</id>
+        <link href="https://www.youtube.com/watch?v=V_qX3gv0XHA"/>
+        <updated>2026-02-19T11:00:50.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10款2月上線必玩手遊新作盤點！ AndroidiOS 雙平台！ 安卓蘋果手機遊戲遊戲作品推薦第5期！]]></title>
         <id>https://www.youtube.com/watch?v=Z2dUf6CpwB4</id>
@@ -243,6 +271,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[紐西蘭露營車7天公路旅行/ Roadtrip in New Zealand]]></title>
+        <id>https://www.youtube.com/watch?v=bs5BjuiaDeI</id>
+        <link href="https://www.youtube.com/watch?v=bs5BjuiaDeI"/>
+        <updated>2026-02-09T09:35:41.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GFX ETERNA 55 x ドラマ「相棒 24」撮影監督・会田正裕、俳優、映画監督・水谷豊 / 富士フイルム]]></title>
         <id>https://www.youtube.com/watch?v=Qnniw2rRHDs</id>
         <link href="https://www.youtube.com/watch?v=Qnniw2rRHDs"/>
@@ -267,6 +304,15 @@
         <updated>2026-02-08T11:01:05.000Z</updated>
         <author>
             <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Mix Chill Hay Nhất 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=u4t7KXYNWzI</id>
+        <link href="https://www.youtube.com/watch?v=u4t7KXYNWzI"/>
+        <updated>2026-02-07T12:01:38.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -390,12 +436,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – FADE by MEZCLA 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=Ijp3zq55JL4</id>
-        <link href="https://www.youtube.com/watch?v=Ijp3zq55JL4"/>
-        <updated>2026-02-04T11:00:37.000Z</updated>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=5qa3LzluZfg</id>
+        <link href="https://www.youtube.com/watch?v=5qa3LzluZfg"/>
+        <updated>2026-02-04T12:00:07.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=rkuTKTlkZ00</id>
+        <link href="https://www.youtube.com/watch?v=rkuTKTlkZ00"/>
+        <updated>2026-02-03T12:01:36.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -443,6 +498,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất ♫ Nhạc EDM Nhẹ Nhàng Thư Giãn]]></title>
+        <id>https://www.youtube.com/watch?v=5xGDnlI-GLU</id>
+        <link href="https://www.youtube.com/watch?v=5xGDnlI-GLU"/>
+        <updated>2026-01-31T12:00:22.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -511,6 +575,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Mix Chill Hay Nhất 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=lEW_o_Gb6kg</id>
+        <link href="https://www.youtube.com/watch?v=lEW_o_Gb6kg"/>
+        <updated>2026-01-28T12:00:55.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2月份最期待的必玩手遊預告！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦！]]></title>
         <id>https://www.youtube.com/watch?v=43r5IQbXbgc</id>
         <link href="https://www.youtube.com/watch?v=43r5IQbXbgc"/>
@@ -545,6 +618,34 @@
         <updated>2026-01-26T12:00:25.000Z</updated>
         <author>
             <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Cực Phiêu Đón Năm Mới 2026 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=2UQRdj-1r0M</id>
+        <link href="https://www.youtube.com/watch?v=2UQRdj-1r0M"/>
+        <updated>2026-01-25T12:00:20.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=1o0YFyW0GR4</id>
+        <link href="https://www.youtube.com/watch?v=1o0YFyW0GR4"/>
+        <updated>2026-01-24T12:00:02.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IG reel畫質最好的方法 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/fWVYe73ka9I</id>
+        <link href="https://www.youtube.com/shorts/fWVYe73ka9I"/>
+        <updated>2026-01-24T05:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
         </author>
     </entry>
     <entry>
@@ -600,24 +701,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一帶一路最關鍵的國家，我晚了28年才真正走近你——吉爾吉斯斯坦全攻略｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=02NlMtQk0eQ</id>
-        <link href="https://www.youtube.com/watch?v=02NlMtQk0eQ"/>
-        <updated>2026-01-21T12:00:01.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爱否】身价 20 亿的 Manus，到底能干啥]]></title>
-        <id>https://www.youtube.com/watch?v=Zx16NocmMO0</id>
-        <link href="https://www.youtube.com/watch?v=Zx16NocmMO0"/>
-        <updated>2026-01-21T10:38:34.000Z</updated>
-        <author>
-            <name>爱否科技</name>
         </author>
     </entry>
 </feed>
