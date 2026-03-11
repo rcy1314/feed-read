@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T02:40:52.251Z</id>
+    <id>urn:2026-03-11T02:40:16.472Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T02:40:52.251Z</updated>
+    <updated>2026-03-11T02:40:16.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Style Alan Walker Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=WwcJGhik_oc</id>
+        <link href="https://www.youtube.com/watch?v=WwcJGhik_oc"/>
+        <updated>2026-03-10T12:00:57.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Beloved by Roa 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=EWAMl7yD8Wc</id>
+        <link href="https://www.youtube.com/watch?v=EWAMl7yD8Wc"/>
+        <updated>2026-03-10T11:00:23.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【走進你家鄉】屏東市中央市場超好拍！公園裡該怎麼拍人像？｜EP6 屏東市]]></title>
         <id>https://www.youtube.com/watch?v=IXZbTN9PjOw</id>
@@ -105,6 +123,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trialing it]]></title>
+        <id>https://www.youtube.com/shorts/HnEwwLhdZh4</id>
+        <link href="https://www.youtube.com/shorts/HnEwwLhdZh4"/>
+        <updated>2026-03-05T21:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Focus on Glass - Untold Stories -  / FUJIFILM [Subtitles available]]]></title>
+        <id>https://www.youtube.com/watch?v=9-6BrA7cFDA</id>
+        <link href="https://www.youtube.com/watch?v=9-6BrA7cFDA"/>
+        <updated>2026-03-05T13:00:07.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【夕陽逆光怎麼拍？】掉牙齒的女孩英文怎麼說？ #1分鐘 #人像攝影 #photoshop #攝影教學 #攝影技巧]]></title>
         <id>https://www.youtube.com/shorts/lGdIge7A7JQ</id>
         <link href="https://www.youtube.com/shorts/lGdIge7A7JQ"/>
@@ -112,6 +149,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用燈光點亮空間？從5毛到設計師燈具提升居家審美｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=dazd1sPXKR8</id>
+        <link href="https://www.youtube.com/watch?v=dazd1sPXKR8"/>
+        <updated>2026-03-05T12:01:02.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
         </author>
     </entry>
     <entry>
@@ -206,6 +252,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI 開發進化營：一次訂閱，全年掌握最新 AI 開發技能｜卡斯伯老師]]></title>
+        <id>https://www.youtube.com/watch?v=Zrv7JI2sn-0</id>
+        <link href="https://www.youtube.com/watch?v=Zrv7JI2sn-0"/>
+        <updated>2026-03-02T06:06:15.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大頭小身影片拍起來就是這麼簡單｜DJI OSMO 360]]></title>
         <id>https://www.youtube.com/shorts/Cb2bvmiJDfs</id>
         <link href="https://www.youtube.com/shorts/Cb2bvmiJDfs"/>
@@ -225,6 +280,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿聯酋小眾攻略，打開不一樣的中東｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=LQceAes1fNc</id>
+        <link href="https://www.youtube.com/watch?v=LQceAes1fNc"/>
+        <updated>2026-02-28T12:00:42.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DAILY No Copyright For You – I like you by Sakura Girl 🎵]]></title>
         <id>https://www.youtube.com/watch?v=NIlzYKUJabs</id>
         <link href="https://www.youtube.com/watch?v=NIlzYKUJabs"/>
@@ -234,12 +298,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[峇里島真的「俗氣」嗎？這次我替它說句公道話｜陈曦Stanley]]></title>
+        <id>https://www.youtube.com/watch?v=vvAR3kVDuoc</id>
+        <link href="https://www.youtube.com/watch?v=vvAR3kVDuoc"/>
+        <updated>2026-02-27T12:01:40.000Z</updated>
+        <author>
+            <name>陈曦Stanley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款3月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第1期！]]></title>
         <id>https://www.youtube.com/watch?v=e4vEx6LghfU</id>
         <link href="https://www.youtube.com/watch?v=e4vEx6LghfU"/>
         <updated>2026-02-27T12:01:21.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本最南端！天涯海角的绝景温泉之旅——指宿|日本南九州旅行vlog 05]]></title>
+        <id>https://www.youtube.com/watch?v=xFxZlJ6qzBI</id>
+        <link href="https://www.youtube.com/watch?v=xFxZlJ6qzBI"/>
+        <updated>2026-02-27T12:00:06.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
         </author>
     </entry>
     <entry>
@@ -270,6 +352,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sounds better on top of a mountain]]></title>
+        <id>https://www.youtube.com/shorts/Qs2gZHis53s</id>
+        <link href="https://www.youtube.com/shorts/Qs2gZHis53s"/>
+        <updated>2026-02-25T17:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - Super Bowl Vlog 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Enniyur60oU</id>
+        <link href="https://www.youtube.com/watch?v=Enniyur60oU"/>
+        <updated>2026-02-25T15:30:53.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3月上線的必玩手遊新作盤點！| 2026年最新 Android/iOS 雙平台手機遊戲推薦！]]></title>
         <id>https://www.youtube.com/watch?v=gHhuwGs_ZjM</id>
         <link href="https://www.youtube.com/watch?v=gHhuwGs_ZjM"/>
@@ -297,12 +398,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Bounce it by Next Route 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=FlV7wUJt5TQ</id>
-        <link href="https://www.youtube.com/watch?v=FlV7wUJt5TQ"/>
-        <updated>2026-02-24T11:00:22.000Z</updated>
+        <title type="html"><![CDATA[Fits like a glove]]></title>
+        <id>https://www.youtube.com/shorts/Hek4DlFUegs</id>
+        <link href="https://www.youtube.com/shorts/Hek4DlFUegs"/>
+        <updated>2026-02-23T20:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -333,12 +435,109 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 6 "Setup for Networking" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=ALrSTe49ItM</id>
+        <link href="https://www.youtube.com/watch?v=ALrSTe49ItM"/>
+        <updated>2026-02-21T01:00:12.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款2月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第6期！]]></title>
         <id>https://www.youtube.com/watch?v=poijEUozboE</id>
         <link href="https://www.youtube.com/watch?v=poijEUozboE"/>
         <updated>2026-02-20T12:01:23.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三机大战钟鼓楼！小米 17Ultra VS OPPO Find X9 Pro VS 华为 Mate80 Pro Max]]></title>
+        <id>https://www.youtube.com/watch?v=4DFKeV3aKY4</id>
+        <link href="https://www.youtube.com/watch?v=4DFKeV3aKY4"/>
+        <updated>2026-02-20T12:00:06.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS+G FS RECIPE x Alex Liverani / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/pvdyTirCOfE</id>
+        <link href="https://www.youtube.com/shorts/pvdyTirCOfE"/>
+        <updated>2026-02-20T05:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS FS RECIPE x Thomas Phoon / FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/fF9J8aCrlmI</id>
+        <link href="https://www.youtube.com/shorts/fF9J8aCrlmI"/>
+        <updated>2026-02-20T05:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS+R FS RECIPE x Rober Tomás / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/eu2DVtS24Bg</id>
+        <link href="https://www.youtube.com/shorts/eu2DVtS24Bg"/>
+        <updated>2026-02-20T05:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Film Simulation - ACROS Promotional Video/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=dF7gjgrZmZM</id>
+        <link href="https://www.youtube.com/watch?v=dF7gjgrZmZM"/>
+        <updated>2026-02-20T05:00:43.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS FS RECIPE x Allan Ali / FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/WN4NfpAhZKY</id>
+        <link href="https://www.youtube.com/shorts/WN4NfpAhZKY"/>
+        <updated>2026-02-20T05:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS+Ye FS RECIPE x Agathe Poupeney / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/MMkHWntUQXM</id>
+        <link href="https://www.youtube.com/shorts/MMkHWntUQXM"/>
+        <updated>2026-02-20T05:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROS FS RECIPE x Ben Savage / #filmsimulation/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/shorts/7GYe0lCYS_g</id>
+        <link href="https://www.youtube.com/shorts/7GYe0lCYS_g"/>
+        <updated>2026-02-20T05:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[summer in the snow]]></title>
+        <id>https://www.youtube.com/shorts/XYbhdSCDkgc</id>
+        <link href="https://www.youtube.com/shorts/XYbhdSCDkgc"/>
+        <updated>2026-02-19T22:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -357,6 +556,25 @@
         <updated>2026-02-18T12:00:57.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 5 "Lensing and Optical Choices" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=SNUqx71YffM</id>
+        <link href="https://www.youtube.com/watch?v=SNUqx71YffM"/>
+        <updated>2026-02-18T01:00:37.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’ve been trying to do this party for years and it finally happened!!!!]]></title>
+        <id>https://www.youtube.com/shorts/RVQX9QEirbs</id>
+        <link href="https://www.youtube.com/shorts/RVQX9QEirbs"/>
+        <updated>2026-02-17T20:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -388,6 +606,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BTS] GFX ETERNA 55: Swapnil Sonawane x Narrative short film "Distance"  / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=jxY8BdpvRQM</id>
+        <link href="https://www.youtube.com/watch?v=jxY8BdpvRQM"/>
+        <updated>2026-02-16T01:00:49.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55: Swapnil Sonawane x Narrative short film "Distance" Short version / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=Jbi0yHThvNQ</id>
+        <link href="https://www.youtube.com/watch?v=Jbi0yHThvNQ"/>
+        <updated>2026-02-16T01:00:32.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 4 "Monitoring Setup and Options" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=A3hLWpH5UAQ</id>
+        <link href="https://www.youtube.com/watch?v=A3hLWpH5UAQ"/>
+        <updated>2026-02-14T01:00:24.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款2月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第4期！]]></title>
         <id>https://www.youtube.com/watch?v=VzfWqE4yhng</id>
         <link href="https://www.youtube.com/watch?v=VzfWqE4yhng"/>
@@ -406,6 +651,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A tradition at this point]]></title>
+        <id>https://www.youtube.com/shorts/qX3FgA6QDv0</id>
+        <link href="https://www.youtube.com/shorts/qX3FgA6QDv0"/>
+        <updated>2026-02-11T21:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款2月份必玩手遊精選！ AndroidiOS 雙平台！ 安卓蘋果手機遊戲遊戲作品推薦第3期！]]></title>
         <id>https://www.youtube.com/watch?v=1mxLERB5uqM</id>
         <link href="https://www.youtube.com/watch?v=1mxLERB5uqM"/>
@@ -415,30 +670,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[畫質絕對沒問題！體驗則是…… ft.哈蘇 Hasselblad X2D]]></title>
-        <id>https://www.youtube.com/watch?v=RX5d6eEv7uw</id>
-        <link href="https://www.youtube.com/watch?v=RX5d6eEv7uw"/>
-        <updated>2026-02-09T12:30:39.000Z</updated>
+        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 3 "Project Setting Menu" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=DDgD92PWH3Y</id>
+        <link href="https://www.youtube.com/watch?v=DDgD92PWH3Y"/>
+        <updated>2026-02-11T05:00:25.000Z</updated>
         <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15款類刺激爽快動作角色扮演的手遊精選！ AndroidiOS 雙平台！ 2026年安卓蘋果手機遊戲遊戲作品推薦第1期！]]></title>
-        <id>https://www.youtube.com/watch?v=Kd8Uqcwxu0M</id>
-        <link href="https://www.youtube.com/watch?v=Kd8Uqcwxu0M"/>
-        <updated>2026-02-09T12:00:37.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐西蘭露營車7天公路旅行/ Roadtrip in New Zealand]]></title>
-        <id>https://www.youtube.com/watch?v=bs5BjuiaDeI</id>
-        <link href="https://www.youtube.com/watch?v=bs5BjuiaDeI"/>
-        <updated>2026-02-09T09:35:41.000Z</updated>
-        <author>
-            <name>JJJason自由攝影師</name>
+            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
