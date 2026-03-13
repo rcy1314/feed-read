@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T02:45:52.527Z</id>
+    <id>urn:2026-03-13T02:43:48.347Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T02:45:52.527Z</updated>
+    <updated>2026-03-13T02:43:48.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【好拍景點-彰化藍色公園】 怎麼拍都好拍 #1分鐘ok #人像攝影 #攝影教學 #拍攝教學 #引導 #攝影技巧 #人像寫真]]></title>
+        <id>https://www.youtube.com/shorts/JA5-HaA4RHE</id>
+        <link href="https://www.youtube.com/shorts/JA5-HaA4RHE"/>
+        <updated>2026-03-12T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=yh6-6V5vqNY</id>
+        <link href="https://www.youtube.com/watch?v=yh6-6V5vqNY"/>
+        <updated>2026-03-12T12:00:43.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – wait for you by Rexlambo 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=xyZBwto2JsY</id>
+        <link href="https://www.youtube.com/watch?v=xyZBwto2JsY"/>
+        <updated>2026-03-12T11:01:40.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[not bad]]></title>
         <id>https://www.youtube.com/shorts/38F4G0eaMqY</id>
@@ -53,6 +81,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Style Alan Walker Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=WwcJGhik_oc</id>
+        <link href="https://www.youtube.com/watch?v=WwcJGhik_oc"/>
+        <updated>2026-03-10T12:00:57.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DAILY No Copyright For You – Beloved by Roa 🎵]]></title>
         <id>https://www.youtube.com/watch?v=EWAMl7yD8Wc</id>
         <link href="https://www.youtube.com/watch?v=EWAMl7yD8Wc"/>
@@ -77,6 +114,15 @@
         <updated>2026-03-09T12:00:59.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=-h5Dptpyse4</id>
+        <link href="https://www.youtube.com/watch?v=-h5Dptpyse4"/>
+        <updated>2026-03-09T12:00:13.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -354,15 +400,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – Velvet Sky by Declan DP 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=_JPXSbs0FNo</id>
-        <link href="https://www.youtube.com/watch?v=_JPXSbs0FNo"/>
-        <updated>2026-02-27T11:01:06.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[客户突然说：现在可以采访吗？布光+收音教学]]></title>
         <id>https://www.youtube.com/watch?v=JSkYSmBW3nw</id>
         <link href="https://www.youtube.com/watch?v=JSkYSmBW3nw"/>
@@ -397,6 +434,15 @@
         <updated>2026-02-25T12:01:13.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Mix Alan Walker Cực Phiêu Gây Nghiện ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Yt9ZRYx0W5o</id>
+        <link href="https://www.youtube.com/watch?v=Yt9ZRYx0W5o"/>
+        <updated>2026-02-25T12:01:04.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
@@ -660,24 +706,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10款2月份必玩手遊精選！ AndroidiOS 雙平台！ 安卓蘋果手機遊戲遊戲作品推薦第3期！]]></title>
-        <id>https://www.youtube.com/watch?v=1mxLERB5uqM</id>
-        <link href="https://www.youtube.com/watch?v=1mxLERB5uqM"/>
-        <updated>2026-02-11T12:00:03.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-On with GFX ETERNA 55 Chapter 3 "Project Setting Menu" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=DDgD92PWH3Y</id>
-        <link href="https://www.youtube.com/watch?v=DDgD92PWH3Y"/>
-        <updated>2026-02-11T05:00:25.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>
