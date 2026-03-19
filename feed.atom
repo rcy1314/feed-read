@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-18T02:52:37.796Z</id>
+    <id>urn:2026-03-19T02:54:06.411Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T02:52:37.796Z</updated>
+    <updated>2026-03-19T02:54:06.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ALL THE TIME MARCH 25]]></title>
+        <id>https://www.youtube.com/shorts/zInKD5Lhw4g</id>
+        <link href="https://www.youtube.com/shorts/zInKD5Lhw4g"/>
+        <updated>2026-03-18T19:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只带一颗手动50mm镜头去旅拍是什么体验？濑户内海的日常镜头 | 徕卡m10 & 叙 50mm f1.4]]></title>
+        <id>https://www.youtube.com/watch?v=_UNsiJa0c3Y</id>
+        <link href="https://www.youtube.com/watch?v=_UNsiJa0c3Y"/>
+        <updated>2026-03-18T16:01:05.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10款3月份必玩手遊精選！ AndroidiOS 雙平台！ 安卓蘋果手機遊戲遊戲作品推薦第6期！]]></title>
+        <id>https://www.youtube.com/watch?v=IGIruhyc9sE</id>
+        <link href="https://www.youtube.com/watch?v=IGIruhyc9sE"/>
+        <updated>2026-03-18T12:00:34.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAILY No Copyright For You – Don't Leave by Nettson 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=1YtFKmvGOiQ</id>
+        <link href="https://www.youtube.com/watch?v=1YtFKmvGOiQ"/>
+        <updated>2026-03-18T11:00:03.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构图，是你对世界的选择｜新手必学10种摄影构图]]></title>
+        <id>https://www.youtube.com/watch?v=gzb6vRhW2Y0</id>
+        <link href="https://www.youtube.com/watch?v=gzb6vRhW2Y0"/>
+        <updated>2026-03-18T10:30:35.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Songs for content creators this week / #12 🎵]]></title>
         <id>https://www.youtube.com/shorts/6sZx7GYCXx8</id>
@@ -405,15 +451,6 @@
         <updated>2026-03-05T12:01:02.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAILY No Copyright For You – long way by Rexlambo 🎵]]></title>
-        <id>https://www.youtube.com/watch?v=EVvMLfDoJwQ</id>
-        <link href="https://www.youtube.com/watch?v=EVvMLfDoJwQ"/>
-        <updated>2026-03-05T11:00:31.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
