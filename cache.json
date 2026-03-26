@@ -1,231 +1,6 @@
 {
   "sources": [
     {
-      "title": "The Chainsmokers",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
-      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/2zXMn8Qx1xI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/2zXMn8Qx1xI",
-          "publishedOn": "2026-03-24T16:56:50.000Z",
-          "wordCount": 2036,
-          "title": "Tonight @JohnSummit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/D5oADPezaX8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/D5oADPezaX8",
-          "publishedOn": "2026-03-23T20:45:45.000Z",
-          "wordCount": 2046,
-          "title": "Chicago we’re back…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/zInKD5Lhw4g",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/zInKD5Lhw4g",
-          "publishedOn": "2026-03-18T19:39:07.000Z",
-          "wordCount": 2041,
-          "title": "ALL THE TIME MARCH 25",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/38F4G0eaMqY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/38F4G0eaMqY",
-          "publishedOn": "2026-03-12T00:40:16.000Z",
-          "wordCount": 2040,
-          "title": "not bad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V6tFwgr-XsI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V6tFwgr-XsI",
-          "publishedOn": "2026-03-11T14:02:10.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Aspen Weekend Vlog 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HnEwwLhdZh4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HnEwwLhdZh4",
-          "publishedOn": "2026-03-05T21:32:01.000Z",
-          "wordCount": 2024,
-          "title": "Trialing it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Qs2gZHis53s",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Qs2gZHis53s",
-          "publishedOn": "2026-02-25T17:43:35.000Z",
-          "wordCount": 2148,
-          "title": "Sounds better on top of a mountain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Enniyur60oU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Enniyur60oU",
-          "publishedOn": "2026-02-25T15:30:53.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Super Bowl Vlog 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Hek4DlFUegs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Hek4DlFUegs",
-          "publishedOn": "2026-02-23T20:59:36.000Z",
-          "wordCount": 2101,
-          "title": "Fits like a glove",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "WenGuang",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
-      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/4BHZTalz5qY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/4BHZTalz5qY",
-          "publishedOn": "2026-03-24T03:30:07.000Z",
-          "wordCount": 1984,
-          "title": "Space Garden #ai #design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fDl4VCXE-MU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fDl4VCXE-MU",
-          "publishedOn": "2026-03-24T03:28:57.000Z",
-          "wordCount": 2413,
-          "title": "Cyber Samurai #ai #adobe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HlgU6KBivXI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HlgU6KBivXI",
-          "publishedOn": "2026-03-24T03:27:08.000Z",
-          "wordCount": 2312,
-          "title": "Deconstructed Reality #design #ai",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "D2izy +.+",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
-      "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=voG7hjUlLMc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=voG7hjUlLMc",
-          "publishedOn": "2026-03-23T08:44:32.000Z",
-          "wordCount": null,
-          "title": "she looks back",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_SmL0z5rofA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_SmL0z5rofA",
-          "publishedOn": "2026-03-13T09:04:35.000Z",
-          "wordCount": null,
-          "title": "shootout // japan",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "懒人摄影",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
-      "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=gzb6vRhW2Y0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gzb6vRhW2Y0",
-          "publishedOn": "2026-03-18T10:30:35.000Z",
-          "wordCount": null,
-          "title": "构图，是你对世界的选择｜新手必学10种摄影构图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L1ipUW5Wc2A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L1ipUW5Wc2A",
-          "publishedOn": "2026-03-06T07:29:06.000Z",
-          "wordCount": null,
-          "title": "2026年乱世之下，还值得购买索尼a7cii吗?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JSkYSmBW3nw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JSkYSmBW3nw",
-          "publishedOn": "2026-02-26T03:44:23.000Z",
-          "wordCount": null,
-          "title": "客户突然说：现在可以采访吗？布光+收音教学",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "六角學院",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
-      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Zrv7JI2sn-0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zrv7JI2sn-0",
-          "publishedOn": "2026-03-17T14:20:28.000Z",
-          "wordCount": null,
-          "title": "AI 開發進化營：一次訂閱，全年掌握最新 AI 開發技能｜卡斯伯老師",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JfSLh4z0BRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JfSLh4z0BRc",
-          "publishedOn": "2026-03-04T14:18:51.000Z",
-          "wordCount": null,
-          "title": "Vibe Coding 新手營：用 AI 開發辦公室系統 - 3/4 (三) 20:00 準時開播",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "無私設計分享",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
       "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
@@ -247,18 +22,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "巫师后期.wrcolor",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
-      "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
-      "articles": []
-    },
-    {
-      "title": "HeyDrones",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
-      "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
-      "articles": []
     },
     {
       "title": "大象放映室",
@@ -322,6 +85,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
       "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vkszzuvTsZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vkszzuvTsZo",
+          "publishedOn": "2026-03-25T12:01:37.000Z",
+          "wordCount": null,
+          "title": "2026年4月即將上線的必玩手遊新作盤點！| Android/iOS 雙平台手機遊戲/遊戲作品推薦！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uZVL4-GepKQ",
           "author": null,
@@ -465,6 +238,33 @@
       ]
     },
     {
+      "title": "Hantao TB",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
+      "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_UNsiJa0c3Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_UNsiJa0c3Y",
+          "publishedOn": "2026-03-18T16:01:05.000Z",
+          "wordCount": null,
+          "title": "只带一颗手动50mm镜头去旅拍是什么体验？濑户内海的日常镜头 | 徕卡m10 & 叙 50mm f1.4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xFxZlJ6qzBI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xFxZlJ6qzBI",
+          "publishedOn": "2026-02-27T12:00:06.000Z",
+          "wordCount": null,
+          "title": "日本最南端！天涯海角的绝景温泉之旅——指宿|日本南九州旅行vlog 05",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "爱否科技",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
@@ -502,10 +302,186 @@
       ]
     },
     {
+      "title": "Nick and Ezzi",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Zjvh0Yb2E7reRN-08tqLA",
+      "siteUrl": "https://www.youtube.com/channel/UC0Zjvh0Yb2E7reRN-08tqLA",
+      "articles": []
+    },
+    {
       "title": "tx6sb3jf4q",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGiZ0JgBXpGznj-QDJkdgEg",
       "siteUrl": "https://www.youtube.com/channel/UCGiZ0JgBXpGznj-QDJkdgEg",
       "articles": []
+    },
+    {
+      "title": "姜本平那村的人儿",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQ4JhzK-tXaehlpE6gUAAg",
+      "siteUrl": "https://www.youtube.com/channel/UCzQ4JhzK-tXaehlpE6gUAAg",
+      "articles": []
+    },
+    {
+      "title": "我都ok啊",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
+      "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LpPv_A_CQ-I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LpPv_A_CQ-I",
+          "publishedOn": "2026-03-23T12:30:09.000Z",
+          "wordCount": null,
+          "title": "【出國怎麼拍？】小樽真的是失望景點嗎？｜北海道小樽市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/KqAfhNMQdzw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/KqAfhNMQdzw",
+          "publishedOn": "2026-03-19T12:30:27.000Z",
+          "wordCount": 2013,
+          "title": "拍出日系感-台中 #1分鐘ok #拍攝教學 #引導 #攝影技巧 #人像寫真 #人像攝影",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zsZinw67M9E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zsZinw67M9E",
+          "publishedOn": "2026-03-16T12:32:59.000Z",
+          "wordCount": null,
+          "title": "極具魅力的十倍光學變焦！SIGMA 20-200mm F3.5-6.3 DG 的輕便與妥協",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/JA5-HaA4RHE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JA5-HaA4RHE",
+          "publishedOn": "2026-03-12T12:30:26.000Z",
+          "wordCount": 2083,
+          "title": "【好拍景點-彰化藍色公園】 怎麼拍都好拍 #1分鐘ok #人像攝影 #攝影教學 #拍攝教學 #引導 #攝影技巧 #人像寫真",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IXZbTN9PjOw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IXZbTN9PjOw",
+          "publishedOn": "2026-03-09T12:30:32.000Z",
+          "wordCount": null,
+          "title": "【走進你家鄉】屏東市中央市場超好拍！公園裡該怎麼拍人像？｜EP6 屏東市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lGdIge7A7JQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lGdIge7A7JQ",
+          "publishedOn": "2026-03-05T12:30:56.000Z",
+          "wordCount": 2090,
+          "title": "【夕陽逆光怎麼拍？】掉牙齒的女孩英文怎麼說？ #1分鐘 #人像攝影 #photoshop #攝影教學 #攝影技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2LxbY3tYop8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2LxbY3tYop8",
+          "publishedOn": "2026-03-02T12:30:04.000Z",
+          "wordCount": null,
+          "title": "劃時代卻沒有激起太大的共鳴？一年過去了 α9 III 還值得買嗎？｜Sony α9 III",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Cb2bvmiJDfs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Cb2bvmiJDfs",
+          "publishedOn": "2026-03-01T12:36:45.000Z",
+          "wordCount": 2179,
+          "title": "大頭小身影片拍起來就是這麼簡單｜DJI OSMO 360",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "FUJIFILM X Series",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
+      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Vml7sttxxKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vml7sttxxKk",
+          "publishedOn": "2026-03-24T07:49:03.000Z",
+          "wordCount": null,
+          "title": "Hands-On with GFX ETERNA 55 Chapter 7 \"Tips for Quick Turnaround Projects\" / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/jq3POKt8cPU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jq3POKt8cPU",
+          "publishedOn": "2026-03-24T05:00:52.000Z",
+          "wordCount": 2071,
+          "title": "Velvia FS RECIPE x Dominic Stone / FUJIFILM #filmsimulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/reqymel06WA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/reqymel06WA",
+          "publishedOn": "2026-03-24T05:00:48.000Z",
+          "wordCount": 2053,
+          "title": "Velvia FS RECIPE x Jordan Vickers / FUJIFILM  #filmsimulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SIdBSjiDEl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SIdBSjiDEl0",
+          "publishedOn": "2026-03-24T05:00:34.000Z",
+          "wordCount": null,
+          "title": "Film Simulation - Velvia Promotional Video/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/IzoiWIfu-DY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IzoiWIfu-DY",
+          "publishedOn": "2026-03-24T05:00:30.000Z",
+          "wordCount": 2067,
+          "title": "Velvia FS RECIPE x Keigo Suzuki / FUJIFILM #filmsimulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hxKKTzwwAsA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hxKKTzwwAsA",
+          "publishedOn": "2026-03-23T05:00:38.000Z",
+          "wordCount": 2063,
+          "title": "Velvia FS RECIPE x Rommel Bundalian / FUJIFILM #filmsimulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9-6BrA7cFDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9-6BrA7cFDA",
+          "publishedOn": "2026-03-05T13:00:07.000Z",
+          "wordCount": null,
+          "title": "Focus on Glass - Untold Stories -  / FUJIFILM [Subtitles available]",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Audio Library",
@@ -513,12 +489,22 @@
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iZrWx0f2Qkw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iZrWx0f2Qkw",
+          "publishedOn": "2026-03-25T11:01:18.000Z",
+          "wordCount": null,
+          "title": "DAILY No Copyright For You – Tiny Paws by Sakura Girl 🎵",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/JdbPR_5o71U",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/JdbPR_5o71U",
           "publishedOn": "2026-03-24T13:40:51.000Z",
-          "wordCount": 2230,
+          "wordCount": 2275,
           "title": "The weekly summary for content creators / #13 🎵",
           "imageUrl": null
         },
@@ -598,7 +584,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/6sZx7GYCXx8",
           "publishedOn": "2026-03-17T19:19:22.000Z",
-          "wordCount": 2811,
+          "wordCount": 2271,
           "title": "7 Songs for content creators this week / #12 🎵",
           "imageUrl": null
         },
@@ -650,16 +636,6 @@
           "publishedOn": "2026-03-13T11:01:33.000Z",
           "wordCount": null,
           "title": "DAILY No Copyright For You – Local Forecast - Elevator by Kevin MacLeod 🎵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xyZBwto2JsY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xyZBwto2JsY",
-          "publishedOn": "2026-03-12T11:01:40.000Z",
-          "wordCount": null,
-          "title": "DAILY No Copyright For You – wait for you by Rexlambo 🎵",
           "imageUrl": null
         }
       ]
