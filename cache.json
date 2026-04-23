@@ -1,4 +1,42 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "爱否科技",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
+      "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HsViVOau4Ic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HsViVOau4Ic",
+          "publishedOn": "2026-04-22T06:28:12.000Z",
+          "wordCount": null,
+          "title": "这样的风路，散热到底行不行？REDMI K90 Max 评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h5lZjhhQmZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h5lZjhhQmZc",
+          "publishedOn": "2026-04-01T12:53:31.000Z",
+          "wordCount": null,
+          "title": "【爱否】关于 Find N6 的折痕，官方不会告诉你的几个真相",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mW4HMwHF4Kk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mW4HMwHF4Kk",
+          "publishedOn": "2026-03-31T05:33:26.000Z",
+          "wordCount": null,
+          "title": "All in 35mm 真的值么？ vivo X300 Ultra 影像评测。",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
