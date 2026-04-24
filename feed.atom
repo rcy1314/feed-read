@@ -1,35 +1,239 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T03:34:21.977Z</id>
+    <id>urn:2026-04-24T03:36:22.026Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T03:34:21.977Z</updated>
+    <updated>2026-04-24T03:36:22.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[这样的风路，散热到底行不行？REDMI K90 Max 评测]]></title>
-        <id>https://www.youtube.com/watch?v=HsViVOau4Ic</id>
-        <link href="https://www.youtube.com/watch?v=HsViVOau4Ic"/>
-        <updated>2026-04-22T06:28:12.000Z</updated>
+        <title type="html"><![CDATA[Uplifting Electronic Music for Travel Vlogs & Drones ✈️ (No Copyright) | Wanheda - Believe]]></title>
+        <id>https://www.youtube.com/watch?v=V672hlMVHPs</id>
+        <link href="https://www.youtube.com/watch?v=V672hlMVHPs"/>
+        <updated>2026-04-23T11:00:55.000Z</updated>
         <author>
-            <name>爱否科技</name>
+            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【爱否】关于 Find N6 的折痕，官方不会告诉你的几个真相]]></title>
-        <id>https://www.youtube.com/watch?v=h5lZjhhQmZc</id>
-        <link href="https://www.youtube.com/watch?v=h5lZjhhQmZc"/>
-        <updated>2026-04-01T12:53:31.000Z</updated>
+        <title type="html"><![CDATA[2026 軟體工程師體驗營｜線上說明會 4/22 (三) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=E-NhG7-ypKs</id>
+        <link href="https://www.youtube.com/watch?v=E-NhG7-ypKs"/>
+        <updated>2026-04-23T02:02:34.000Z</updated>
         <author>
-            <name>爱否科技</name>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All in 35mm 真的值么？ vivo X300 Ultra 影像评测。]]></title>
-        <id>https://www.youtube.com/watch?v=mW4HMwHF4Kk</id>
-        <link href="https://www.youtube.com/watch?v=mW4HMwHF4Kk"/>
-        <updated>2026-03-31T05:33:26.000Z</updated>
+        <title type="html"><![CDATA[Nostalgic Lo-fi Beats for Study Sessions 🎧 (Free to Use) | Joshua Moses - Nostalgia Neuralgia]]></title>
+        <id>https://www.youtube.com/watch?v=yeaKFJdQDM4</id>
+        <link href="https://www.youtube.com/watch?v=yeaKFJdQDM4"/>
+        <updated>2026-04-22T11:01:59.000Z</updated>
         <author>
-            <name>爱否科技</name>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uplifting Ambient Music for Travel Vlogs & Drone Videos 🌌 (No Copyright) | GalaxyTones - Destiny]]></title>
+        <id>https://www.youtube.com/watch?v=hXzaa2wPqp0</id>
+        <link href="https://www.youtube.com/watch?v=hXzaa2wPqp0"/>
+        <updated>2026-04-21T11:01:12.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Cinematic Music for Travel & Drone Montages 🏔️ (No Copyright) | Alex-Productions - Triumphant]]></title>
+        <id>https://www.youtube.com/watch?v=KTIGrsWRpXc</id>
+        <link href="https://www.youtube.com/watch?v=KTIGrsWRpXc"/>
+        <updated>2026-04-20T11:00:28.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超白話解析】前端、後端、資料庫差在哪？轉職軟體工程師新手指南 @hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=zwQzrPPxGp8</id>
+        <link href="https://www.youtube.com/watch?v=zwQzrPPxGp8"/>
+        <updated>2026-04-20T09:00:00.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Cinematic Music for Documentaries & Films 🕵️ (No Copyright) | Scott Buckley - Incantation]]></title>
+        <id>https://www.youtube.com/watch?v=TJ1xfdjAy-k</id>
+        <link href="https://www.youtube.com/watch?v=TJ1xfdjAy-k"/>
+        <updated>2026-04-19T11:00:44.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Electronic Music for Gaming & Vlogs 🎮 (No Copyright) | Johny Grimes - Pixel Duck]]></title>
+        <id>https://www.youtube.com/watch?v=KOpp8PIMRPw</id>
+        <link href="https://www.youtube.com/watch?v=KOpp8PIMRPw"/>
+        <updated>2026-04-18T11:00:28.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energetic Electronic Music for Tech Reviews 🚀 (No Copyright) | Kevin MacLeod - Son of a Rocket]]></title>
+        <id>https://www.youtube.com/watch?v=bH-mFLLYnZg</id>
+        <link href="https://www.youtube.com/watch?v=bH-mFLLYnZg"/>
+        <updated>2026-04-17T11:01:07.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 軟體工程師體驗營｜線上說明會 4/16 (四)  20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=jA52Hyoa5sU</id>
+        <link href="https://www.youtube.com/watch?v=jA52Hyoa5sU"/>
+        <updated>2026-04-16T14:23:54.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI POCKET 4旅拍上手测评|五个步骤快速学会电影感|]]></title>
+        <id>https://www.youtube.com/watch?v=jTBSC2AMivw</id>
+        <link href="https://www.youtube.com/watch?v=jTBSC2AMivw"/>
+        <updated>2026-04-16T12:15:14.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energetic Dance Music for Travel Vlogs ✈️ (No Copyright) | Next Route - Loop]]></title>
+        <id>https://www.youtube.com/watch?v=3oNYSKOBnQ0</id>
+        <link href="https://www.youtube.com/watch?v=3oNYSKOBnQ0"/>
+        <updated>2026-04-16T11:00:05.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每月存一萬，存幾年才能買房？｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/iHBCR0kKRV8</id>
+        <link href="https://www.youtube.com/shorts/iHBCR0kKRV8"/>
+        <updated>2026-04-16T09:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relaxing Lo-Fi Beats for Night Vlogs & Study 🌙 (No Copyright) | Snoozy Beats - City Lights]]></title>
+        <id>https://www.youtube.com/watch?v=G4G2tlzRNz8</id>
+        <link href="https://www.youtube.com/watch?v=G4G2tlzRNz8"/>
+        <updated>2026-04-15T11:00:22.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 一秒就能寫出網頁，那工程師真的要失業了嗎？]]></title>
+        <id>https://www.youtube.com/shorts/0mfV3iF4i7Y</id>
+        <link href="https://www.youtube.com/shorts/0mfV3iF4i7Y"/>
+        <updated>2026-04-15T08:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Background Beat for Cinematic Drone Montages 🚁 (Royalty Free) | Hotham - Light]]></title>
+        <id>https://www.youtube.com/watch?v=yFOrfhGShUk</id>
+        <link href="https://www.youtube.com/watch?v=yFOrfhGShUk"/>
+        <updated>2026-04-14T11:01:44.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比起應付情緒勒索的主管，寧願天天跟電腦講話…｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/8KcnCFm7GYk</id>
+        <link href="https://www.youtube.com/shorts/8KcnCFm7GYk"/>
+        <updated>2026-04-14T01:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill Electronic Background Music for Daily Vlogs ☀️ (Royalty Free) | Roa - Stay a Little]]></title>
+        <id>https://www.youtube.com/watch?v=JtIV-xEUuQc</id>
+        <link href="https://www.youtube.com/watch?v=JtIV-xEUuQc"/>
+        <updated>2026-04-13T11:00:34.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspiring Cinematic Soundtrack for Storytelling ✨ (Royalty Free) | Scott Buckley - Into The Wilds]]></title>
+        <id>https://www.youtube.com/watch?v=t7boPXPKipQ</id>
+        <link href="https://www.youtube.com/watch?v=t7boPXPKipQ"/>
+        <updated>2026-04-12T11:01:30.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbeat & Fun Background Music for Gaming and Comedy 🎮 (Royalty Free) | Kevin MacLeod - Hyperfun]]></title>
+        <id>https://www.youtube.com/watch?v=Vugj1cii9Y0</id>
+        <link href="https://www.youtube.com/watch?v=Vugj1cii9Y0"/>
+        <updated>2026-04-10T11:01:01.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我 30 歲了，轉職工程師還來得及嗎？｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/M1or8HnvpHY</id>
+        <link href="https://www.youtube.com/shorts/M1or8HnvpHY"/>
+        <updated>2026-04-10T06:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbeat Electronic Music for Travel Vlogs & Summer Montages 🌴 (No Copyright) | tubebackr - Semantics]]></title>
+        <id>https://www.youtube.com/watch?v=c3yQAGvIrtE</id>
+        <link href="https://www.youtube.com/watch?v=c3yQAGvIrtE"/>
+        <updated>2026-04-09T11:00:56.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven days Seven songs Pick your Favorite.  / #15 🎵]]></title>
+        <id>https://www.youtube.com/shorts/TnWXWwee_3Y</id>
+        <link href="https://www.youtube.com/shorts/TnWXWwee_3Y"/>
+        <updated>2026-04-08T15:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 時代學程式很虧？其實這才是轉職的「黃金年代」｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/YuxZEk6fVPU</id>
+        <link href="https://www.youtube.com/shorts/YuxZEk6fVPU"/>
+        <updated>2026-04-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI Avata 360｜6 大运镜技巧，新手也能轻松学会！]]></title>
+        <id>https://www.youtube.com/watch?v=5Nj8PL2h1g8</id>
+        <link href="https://www.youtube.com/watch?v=5Nj8PL2h1g8"/>
+        <updated>2026-03-26T12:30:07.000Z</updated>
+        <author>
+            <name>Cruising Cat风光喵</name>
         </author>
     </entry>
 </feed>
