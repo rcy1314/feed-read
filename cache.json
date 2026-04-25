@@ -1,10 +1,406 @@
 {
   "sources": [
     {
+      "title": "The Chainsmokers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
+      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/b3WlCevO_KE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/b3WlCevO_KE",
+          "publishedOn": "2026-04-24T18:12:24.000Z",
+          "wordCount": 2158,
+          "title": "ALREADY KNOW is out now. & ok the college tour is turning out to be a great idea… THANK YOU IU…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
+          "publishedOn": "2026-04-24T04:00:37.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - Already Know ft. Oaks (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lDdy2d4OxI8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lDdy2d4OxI8",
+          "publishedOn": "2026-04-21T22:22:24.000Z",
+          "wordCount": 2170,
+          "title": "ALREADY KNOW 🐎🐎 OUT FRIDAY!!! Who’s coming to see us this summer?!?!?!!?!!!!!🦀🚀🍇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
+          "publishedOn": "2026-04-20T16:18:11.000Z",
+          "wordCount": 2035,
+          "title": "OUR NEW EP “LOVE IS KIND” featuring Oaks is OUT May 8th!!!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/MyK5_CWhkuY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MyK5_CWhkuY",
+          "publishedOn": "2026-04-17T21:13:48.000Z",
+          "wordCount": 2070,
+          "title": "The college tour hath begun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=USAwZH-AiX8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=USAwZH-AiX8",
+          "publishedOn": "2026-04-14T17:09:12.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - NCAA Final Four Vlog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/qYFYtioEog0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/qYFYtioEog0",
+          "publishedOn": "2026-04-10T16:09:03.000Z",
+          "wordCount": 2076,
+          "title": "Echo out now, let it rip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5-NfPGEyi-c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5-NfPGEyi-c",
+          "publishedOn": "2026-04-10T04:00:00.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - Echo ft. Oaks (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/cSMJPYZDEoI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/cSMJPYZDEoI",
+          "publishedOn": "2026-04-06T20:12:53.000Z",
+          "wordCount": 2661,
+          "title": "ECHO with @winonaoak  THIS FRIDAY. Where are you tuning in from?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Bl4LnlW5pb8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Bl4LnlW5pb8",
+          "publishedOn": "2026-04-03T15:50:38.000Z",
+          "wordCount": 2096,
+          "title": "OUR NEW SONG 'Echo' with Oaks OUT NEXT FRIDAY 4/10!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/rnwHd3LqsHA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/rnwHd3LqsHA",
+          "publishedOn": "2026-03-31T19:05:50.000Z",
+          "wordCount": 2139,
+          "title": "We've been waiting months to post this song 😭🥺 so excited to finally share with yall.....",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "WenGuang",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
+      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
+      "articles": []
+    },
+    {
+      "title": "黄杨ME",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
+      "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
+      "articles": []
+    },
+    {
       "title": "左手+",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvqg0fyR1cE_PsuFEgKJpgg",
       "siteUrl": "https://www.youtube.com/channel/UCvqg0fyR1cE_PsuFEgKJpgg",
       "articles": []
+    },
+    {
+      "title": "FURY EDM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
+      "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sPtAmeVJoSo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sPtAmeVJoSo",
+          "publishedOn": "2026-04-23T12:01:37.000Z",
+          "wordCount": null,
+          "title": "Một Chút Nhạc EDM Mix Thư Giãn Sôi Động \"Nhiều Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OCzJypuv8ck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OCzJypuv8ck",
+          "publishedOn": "2026-04-21T12:00:44.000Z",
+          "wordCount": null,
+          "title": "Một Chút Nhạc EDM Mix Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AvJGXZ58aM0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AvJGXZ58aM0",
+          "publishedOn": "2026-04-19T12:00:24.000Z",
+          "wordCount": null,
+          "title": "TOP Nhạc EDM Mix Gaming ♫ Nhạc Điện Tử Gây Nghiện Chơi Game Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ugm5BJuGafI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ugm5BJuGafI",
+          "publishedOn": "2026-04-17T12:01:02.000Z",
+          "wordCount": null,
+          "title": "TOP Nhạc EDM Mix Cực Phiêu Leo Rank Chiến Tướng ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DD8jZb_RHZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DD8jZb_RHZo",
+          "publishedOn": "2026-04-15T12:00:21.000Z",
+          "wordCount": null,
+          "title": "TOP 20 Bản Nhạc EDM Mix Cực Phiêu \"0 Thuốc Giải\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XwcrDJFg7qI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XwcrDJFg7qI",
+          "publishedOn": "2026-04-13T12:01:05.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Mix Chill Giãm Stress Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EuxXMt9EYw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EuxXMt9EYw0",
+          "publishedOn": "2026-04-11T12:00:24.000Z",
+          "wordCount": null,
+          "title": "Một Chút Nhạc EDM Mix Chill Thư Giãn Sau Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CM3jiuQCpWs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CM3jiuQCpWs",
+          "publishedOn": "2026-04-09T12:00:20.000Z",
+          "wordCount": null,
+          "title": "Chút Nhạc EDM Chill Thư Giãn Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Qxd1kFwGBac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qxd1kFwGBac",
+          "publishedOn": "2026-04-07T12:00:48.000Z",
+          "wordCount": null,
+          "title": "TOP 20 Bản Nhạc EDM Mix Phiêu Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wscrGw-_ej0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wscrGw-_ej0",
+          "publishedOn": "2026-04-05T12:01:33.000Z",
+          "wordCount": null,
+          "title": "Top 20 Nhạc EDM Thư Giãn Hay Nhất P5 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QEHnsng9jFU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QEHnsng9jFU",
+          "publishedOn": "2026-04-03T12:00:41.000Z",
+          "wordCount": null,
+          "title": "Top 10 Nhạc EDM Thư Giãn Hay Nhất P4 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BrbXVRf7NlE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BrbXVRf7NlE",
+          "publishedOn": "2026-04-01T12:00:26.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Thư Giãn Hay Nhất P3 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=v1iuhz8J2qo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v1iuhz8J2qo",
+          "publishedOn": "2026-03-31T12:01:07.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Hay Nhất P2 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PjXay_oSUDA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PjXay_oSUDA",
+          "publishedOn": "2026-03-30T12:00:37.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Mix Leo Rank Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WsUvpY4jnmA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WsUvpY4jnmA",
+          "publishedOn": "2026-03-29T12:00:36.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Hay Nhất P1 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "JJJason自由攝影師",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
+      "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=YxhZ-MQANJA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YxhZ-MQANJA",
+          "publishedOn": "2026-04-05T07:29:58.000Z",
+          "wordCount": null,
+          "title": "Ali mountain in fog",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "D2izy +.+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
+      "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
+      "articles": []
+    },
+    {
+      "title": "懒人摄影",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
+      "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Bmih2pD20hU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bmih2pD20hU",
+          "publishedOn": "2026-04-15T05:30:07.000Z",
+          "wordCount": null,
+          "title": "索尼A7C2镜头怎么选？一套镜头走天下",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/PFAf_Rpjl-A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/PFAf_Rpjl-A",
+          "publishedOn": "2026-04-07T03:13:24.000Z",
+          "wordCount": 2183,
+          "title": "所以你觉得ai 和ae你选哪一个？视频里有多少ai多少实拍？ #ai #摄影 #剪辑 #ai摄影 #实拍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/UTc8KheXWRg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/UTc8KheXWRg",
+          "publishedOn": "2026-04-02T14:10:20.000Z",
+          "wordCount": 2081,
+          "title": "电影里看到的镜中人转场效果教学 #转场 #镜子转场 #摄影 #剪接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/rzm0600GvOs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/rzm0600GvOs",
+          "publishedOn": "2026-04-01T12:00:58.000Z",
+          "wordCount": 2065,
+          "title": "DJI Mini 5 Pro自动返航 #DJI #大疆 #Mini5Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/EsBP6zJFSXs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/EsBP6zJFSXs",
+          "publishedOn": "2026-03-31T12:00:24.000Z",
+          "wordCount": 2067,
+          "title": "无人机起飞三种方式 #DJI #Mini5Pro #无人机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ncSJ-eDiARk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ncSJ-eDiARk",
+          "publishedOn": "2026-03-30T08:26:59.000Z",
+          "wordCount": 2085,
+          "title": "稳定器倒挂模式，你是哪一个级别？ #DJI #Rs4Mini #稳定器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/mUK0HbYsqsU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mUK0HbYsqsU",
+          "publishedOn": "2026-03-29T08:57:19.000Z",
+          "wordCount": 2067,
+          "title": "DJI Mini 5 Pro安装护套 #DJI #Drone #Mini5Pro #无人机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/tw3LxUHCUk8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/tw3LxUHCUk8",
+          "publishedOn": "2026-03-27T07:49:00.000Z",
+          "wordCount": 2023,
+          "title": "三个摄影新手必学的构图 #摄影 #构图 # 教学 #sony",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "六角學院",
@@ -47,7 +443,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/iHBCR0kKRV8",
           "publishedOn": "2026-04-16T09:42:56.000Z",
-          "wordCount": 1999,
+          "wordCount": 2061,
           "title": "每月存一萬，存幾年才能買房？｜六角學院",
           "imageUrl": null
         },
@@ -57,7 +453,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/0mfV3iF4i7Y",
           "publishedOn": "2026-04-15T08:17:15.000Z",
-          "wordCount": 2059,
+          "wordCount": 2016,
           "title": "AI 一秒就能寫出網頁，那工程師真的要失業了嗎？",
           "imageUrl": null
         },
@@ -67,7 +463,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/8KcnCFm7GYk",
           "publishedOn": "2026-04-14T01:58:15.000Z",
-          "wordCount": 2005,
+          "wordCount": 2007,
           "title": "比起應付情緒勒索的主管，寧願天天跟電腦講話…｜六角學院",
           "imageUrl": null
         },
@@ -77,7 +473,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/M1or8HnvpHY",
           "publishedOn": "2026-04-10T06:33:50.000Z",
-          "wordCount": 2031,
+          "wordCount": 2189,
           "title": "我 30 歲了，轉職工程師還來得及嗎？｜六角學院",
           "imageUrl": null
         },
@@ -87,11 +483,314 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/YuxZEk6fVPU",
           "publishedOn": "2026-04-08T08:00:00.000Z",
-          "wordCount": 2022,
+          "wordCount": 2018,
           "title": "AI 時代學程式很虧？其實這才是轉職的「黃金年代」｜六角學院",
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "無私設計分享",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
+      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "articles": []
+    },
+    {
+      "title": "哲宇寇汀吧 CheYu's Coding Bar",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
+      "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dsoNFHhwDW0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dsoNFHhwDW0",
+          "publishedOn": "2026-03-31T02:28:31.000Z",
+          "wordCount": null,
+          "title": "「創造了比國家還大的作品」｜一個藝術家如何用 AI 建構台灣知識庫｜Taiwan.md × 臺灣歷史博物館演講｜20260327 | 吳哲宇",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Learning Screen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
+      "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
+      "articles": []
+    },
+    {
+      "title": "巫师后期.wrcolor",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
+      "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
+      "articles": []
+    },
+    {
+      "title": "HeyDrones",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
+      "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
+      "articles": []
+    },
+    {
+      "title": "大象放映室",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
+      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Tr8c6Ejz2ZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tr8c6Ejz2ZU",
+          "publishedOn": "2026-04-24T17:16:28.000Z",
+          "wordCount": null,
+          "title": "地震、雪灾、奥运！00年代的中国什么样？「下」【大国阶梯·十一五规划】",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "花現新大鹿DoeDaDa",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
+      "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h4nrNp-jr-o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h4nrNp-jr-o",
+          "publishedOn": "2026-04-24T12:01:17.000Z",
+          "wordCount": null,
+          "title": "10款4月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第8期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fH1pHxWJLD0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fH1pHxWJLD0",
+          "publishedOn": "2026-04-22T12:01:25.000Z",
+          "wordCount": null,
+          "title": "15 款 5月上線必玩手遊新作盤點！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EP4RQnCPZY0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EP4RQnCPZY0",
+          "publishedOn": "2026-04-20T12:00:33.000Z",
+          "wordCount": null,
+          "title": "20款開放世界手遊精選！| Android/iOS 雙平台！| 2026年安卓/蘋果手機遊戲/遊戲作品推薦第2期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Dft3ISSYmwc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dft3ISSYmwc",
+          "publishedOn": "2026-04-19T12:00:19.000Z",
+          "wordCount": null,
+          "title": "《天龍八部2：血戰江湖》後期核心活動一次搞懂！幫會戰、跨服搶Boss、青龍塔！| Android/iOS 雙平台手機遊戲/遊戲試玩介紹！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5k_pO6447Iw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5k_pO6447Iw",
+          "publishedOn": "2026-04-17T12:00:16.000Z",
+          "wordCount": null,
+          "title": "10款4月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第7期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EdBZiLUVZns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EdBZiLUVZns",
+          "publishedOn": "2026-04-15T12:00:21.000Z",
+          "wordCount": null,
+          "title": "10款4月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第6期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7zPrrMrhs4s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7zPrrMrhs4s",
+          "publishedOn": "2026-04-13T12:00:09.000Z",
+          "wordCount": null,
+          "title": "20款類多人在線合作/同樂/競技手遊精選！| Android/iOS 雙平台！| 2026年安卓/蘋果手機遊戲/遊戲作品推薦第1期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kyadthlAd8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kyadthlAd8M",
+          "publishedOn": "2026-04-12T12:01:20.000Z",
+          "wordCount": null,
+          "title": "《天龍八部2：血戰江湖》無課也能賺嗎？各種副本 BOSS 戰玩法介紹！ AndroidiOS 雙平台手機遊戲遊戲試玩介紹！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LiodzNXn_ws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LiodzNXn_ws",
+          "publishedOn": "2026-04-10T12:00:40.000Z",
+          "wordCount": null,
+          "title": "4月份10款必玩手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第5期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9KPd2-K0AZ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9KPd2-K0AZ4",
+          "publishedOn": "2026-04-08T12:00:00.000Z",
+          "wordCount": null,
+          "title": "4月份10款必玩手遊精選！ 2026年最新 AndroidiOS 雙平台手機遊戲推薦第4期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GMYJGCPuuLA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GMYJGCPuuLA",
+          "publishedOn": "2026-04-06T12:00:32.000Z",
+          "wordCount": null,
+          "title": "15款必玩的越玩越上癮的模擬類的手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第1期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AV_vh6cdIcI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AV_vh6cdIcI",
+          "publishedOn": "2026-04-03T12:00:14.000Z",
+          "wordCount": null,
+          "title": "4月份10款必玩手遊精選！ 2026年最新 AndroidiOS 雙平台手機遊戲推薦第3期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IeDC3w5g_v0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IeDC3w5g_v0",
+          "publishedOn": "2026-04-01T12:00:00.000Z",
+          "wordCount": null,
+          "title": "4月份10款必玩手遊精選！ 2026年最新 AndroidiOS 雙平台手機遊戲推薦第2期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OFjQbZrpjMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OFjQbZrpjMU",
+          "publishedOn": "2026-03-30T12:00:00.000Z",
+          "wordCount": null,
+          "title": "20款類燒腦策略類手遊精選！ AndroidiOS 雙平台！ 2026年安卓蘋果手機遊戲遊戲作品推薦第1期！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3WKWrQKX1JY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3WKWrQKX1JY",
+          "publishedOn": "2026-03-27T12:00:00.000Z",
+          "wordCount": null,
+          "title": "2026年4月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Hantao TB",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
+      "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
+      "articles": []
+    },
+    {
+      "title": "爱否科技",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
+      "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=HsViVOau4Ic",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HsViVOau4Ic",
+          "publishedOn": "2026-04-22T06:28:12.000Z",
+          "wordCount": null,
+          "title": "这样的风路，散热到底行不行？REDMI K90 Max 评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h5lZjhhQmZc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h5lZjhhQmZc",
+          "publishedOn": "2026-04-01T12:53:31.000Z",
+          "wordCount": null,
+          "title": "【爱否】关于 Find N6 的折痕，官方不会告诉你的几个真相",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mW4HMwHF4Kk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mW4HMwHF4Kk",
+          "publishedOn": "2026-03-31T05:33:26.000Z",
+          "wordCount": null,
+          "title": "All in 35mm 真的值么？ vivo X300 Ultra 影像评测。",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nick and Ezzi",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Zjvh0Yb2E7reRN-08tqLA",
+      "siteUrl": "https://www.youtube.com/channel/UC0Zjvh0Yb2E7reRN-08tqLA",
+      "articles": []
+    },
+    {
+      "title": "Thomas Chu",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCHVb6alsMj8XfGW1Rx5rRw",
+      "siteUrl": "https://www.youtube.com/channel/UCCHVb6alsMj8XfGW1Rx5rRw",
+      "articles": []
+    },
+    {
+      "title": "陈曦Stanley",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
+      "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=reIeShFmans",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reIeShFmans",
+          "publishedOn": "2026-04-24T12:01:36.000Z",
+          "wordCount": null,
+          "title": "牛津 vs 劍橋，誰才是真正的英國第一名校？｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "誰說男裝設計很簡單，衣櫃分享幫你選對男裝｜陈曦Stanley",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "tx6sb3jf4q",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGiZ0JgBXpGznj-QDJkdgEg",
+      "siteUrl": "https://www.youtube.com/channel/UCGiZ0JgBXpGznj-QDJkdgEg",
+      "articles": []
     },
     {
       "title": "Cruising Cat风光喵",
@@ -107,15 +806,155 @@
           "wordCount": null,
           "title": "DJI POCKET 4旅拍上手测评|五个步骤快速学会电影感|",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "姜本平那村的人儿",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQ4JhzK-tXaehlpE6gUAAg",
+      "siteUrl": "https://www.youtube.com/channel/UCzQ4JhzK-tXaehlpE6gUAAg",
+      "articles": []
+    },
+    {
+      "title": "我都ok啊",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP6aWkW_3WD_TNnJjzQf6TA",
+      "siteUrl": "https://www.youtube.com/channel/UCP6aWkW_3WD_TNnJjzQf6TA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/jLZ-AmFcJP4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/jLZ-AmFcJP4",
+          "publishedOn": "2026-04-24T12:30:59.000Z",
+          "wordCount": 2124,
+          "title": "【培養攝影眼，尋找色塊】 #拍照教學拍照 #攝影教學 #引導 #攝影技巧 #人像寫真",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=5Nj8PL2h1g8",
+          "id": "https://www.youtube.com/shorts/lyAqEYBYBvg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lyAqEYBYBvg",
+          "publishedOn": "2026-04-21T06:17:08.000Z",
+          "wordCount": 2194,
+          "title": "你有去北海道吃過湯咖喱嗎👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7tg9PabRqKM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=5Nj8PL2h1g8",
-          "publishedOn": "2026-03-26T12:30:07.000Z",
+          "link": "https://www.youtube.com/watch?v=7tg9PabRqKM",
+          "publishedOn": "2026-04-20T12:30:16.000Z",
           "wordCount": null,
-          "title": "DJI Avata 360｜6 大运镜技巧，新手也能轻松学会！",
+          "title": "【走進你家鄉】國外的台灣觀光宣傳一定會出現的景點是！？｜左營區｜ft. Kase 卡色 150mm F5.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/5ku_NSfMEd4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/5ku_NSfMEd4",
+          "publishedOn": "2026-04-17T05:36:18.000Z",
+          "wordCount": 2110,
+          "title": "既然天空不夠藍，不如飛向紐西蘭🇳🇿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zFGMlVJ1eyo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zFGMlVJ1eyo",
+          "publishedOn": "2026-04-16T12:31:21.000Z",
+          "wordCount": 2092,
+          "title": "【綠美圖建築人像攝影】試著拍出建築特色結合人像寫真 #人像攝影 #攝影技巧 #攝影技巧 #攝影教學 #拍照技巧 #拍照教學",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KCY1qDFDQ5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KCY1qDFDQ5U",
+          "publishedOn": "2026-04-06T12:30:33.000Z",
+          "wordCount": null,
+          "title": "\"機會是自己獲得的，不要等別人給你\"｜ft. Luminar Neo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/W4Dfsqqn2ZM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/W4Dfsqqn2ZM",
+          "publishedOn": "2026-04-03T12:30:43.000Z",
+          "wordCount": 2063,
+          "title": "【引導線構圖】培養你的攝影眼 #人像攝影 #攝影技巧 #攝影教學 #拍照技巧 #景點推薦 #拍照教學",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n6gpS6rp45I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n6gpS6rp45I",
+          "publishedOn": "2026-04-02T12:39:02.000Z",
+          "wordCount": null,
+          "title": "用黑白來重新思考攝影的方式｜ft. GR IV Monochrome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vAnCy5QiK-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vAnCy5QiK-A",
+          "publishedOn": "2026-03-30T12:30:47.000Z",
+          "wordCount": null,
+          "title": "【走進你家鄉】景點多到不知道該怎麼取捨的西屯區｜ft. 7Artisans 七工匠｜LITE系列",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "FUJIFILM X Series",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
+      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bo3b3qMbmH8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bo3b3qMbmH8",
+          "publishedOn": "2026-04-07T01:00:26.000Z",
+          "wordCount": null,
+          "title": "[B2B] When Japanese Precision Meets Swiss Engineering/FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IPLPRp1TL-k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IPLPRp1TL-k",
+          "publishedOn": "2026-03-31T05:00:00.000Z",
+          "wordCount": null,
+          "title": "Behind the scenes of The Voice France using GFX ETERNA 55 / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3URSSS6wW1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3URSSS6wW1w",
+          "publishedOn": "2026-03-27T06:00:00.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX ETERNA 55: Richard Götze x Visual showcase \"MAGNA ETERNAL\" / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VfzrAON7ExU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VfzrAON7ExU",
+          "publishedOn": "2026-03-27T06:00:00.000Z",
+          "wordCount": null,
+          "title": "GFX ETERNA 55: Richard Götze x Visual showcase \"MAGNA ETERNAL\" / FUJIFILM",
           "imageUrl": null
         }
       ]
@@ -125,6 +964,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
       "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hHcxRZl-uKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hHcxRZl-uKw",
+          "publishedOn": "2026-04-24T11:01:13.000Z",
+          "wordCount": null,
+          "title": "Upbeat Folk Music for RPG Gaming Streams 🏰 (No Copyright) | Kevin MacLeod - Thatched Villagers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=V672hlMVHPs",
           "author": null,
@@ -264,18 +1113,14 @@
           "wordCount": null,
           "title": "Upbeat Electronic Music for Travel Vlogs & Summer Montages 🌴 (No Copyright) | tubebackr - Semantics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/TnWXWwee_3Y",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/TnWXWwee_3Y",
-          "publishedOn": "2026-04-08T15:20:11.000Z",
-          "wordCount": 2291,
-          "title": "Seven days Seven songs Pick your Favorite.  / #15 🎵",
-          "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Thomas看看世界",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9AsbX_TBYfUAMxLNSU6J7A",
+      "siteUrl": "https://www.youtube.com/channel/UC9AsbX_TBYfUAMxLNSU6J7A",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
