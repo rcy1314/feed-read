@@ -1,310 +1,108 @@
 {
   "sources": [
     {
-      "title": "The Chainsmokers",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
-      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
+      "title": "六角學院",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
+      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
       "articles": [
         {
-          "id": "https://www.youtube.com/shorts/b3WlCevO_KE",
+          "id": "https://www.youtube.com/watch?v=v05e-Yr1uAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v05e-Yr1uAE",
+          "publishedOn": "2026-04-30T01:32:13.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/29 (三)  20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XgjxFo38UWw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XgjxFo38UWw",
+          "publishedOn": "2026-04-29T05:22:15.000Z",
+          "wordCount": null,
+          "title": "AI 時代千萬別唸資工系？不懂程式的人才後悔 @hexschool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E-NhG7-ypKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E-NhG7-ypKs",
+          "publishedOn": "2026-04-23T02:02:34.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/22 (三) 20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zwQzrPPxGp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zwQzrPPxGp8",
+          "publishedOn": "2026-04-20T09:00:00.000Z",
+          "wordCount": null,
+          "title": "【超白話解析】前端、後端、資料庫差在哪？轉職軟體工程師新手指南 @hexschool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jA52Hyoa5sU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jA52Hyoa5sU",
+          "publishedOn": "2026-04-16T14:23:54.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/16 (四)  20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/iHBCR0kKRV8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/b3WlCevO_KE",
-          "publishedOn": "2026-04-24T18:12:24.000Z",
-          "wordCount": 2275,
-          "title": "ALREADY KNOW is out now. & ok the college tour is turning out to be a great idea… THANK YOU IU…",
+          "link": "https://www.youtube.com/shorts/iHBCR0kKRV8",
+          "publishedOn": "2026-04-16T09:42:56.000Z",
+          "wordCount": 2023,
+          "title": "每月存一萬，存幾年才能買房？｜六角學院",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
-          "publishedOn": "2026-04-24T04:00:37.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Already Know ft. Oaks (Official Visualizer)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lDdy2d4OxI8",
+          "id": "https://www.youtube.com/shorts/0mfV3iF4i7Y",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/lDdy2d4OxI8",
-          "publishedOn": "2026-04-21T22:22:24.000Z",
-          "wordCount": 2042,
-          "title": "ALREADY KNOW 🐎🐎 OUT FRIDAY!!! Who’s coming to see us this summer?!?!?!!?!!!!!🦀🚀🍇",
+          "link": "https://www.youtube.com/shorts/0mfV3iF4i7Y",
+          "publishedOn": "2026-04-15T08:17:15.000Z",
+          "wordCount": 2112,
+          "title": "AI 一秒就能寫出網頁，那工程師真的要失業了嗎？",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
+          "id": "https://www.youtube.com/shorts/8KcnCFm7GYk",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
-          "publishedOn": "2026-04-20T16:18:11.000Z",
-          "wordCount": 2043,
-          "title": "OUR NEW EP “LOVE IS KIND” featuring Oaks is OUT May 8th!!!!!",
+          "link": "https://www.youtube.com/shorts/8KcnCFm7GYk",
+          "publishedOn": "2026-04-14T01:58:15.000Z",
+          "wordCount": 2018,
+          "title": "比起應付情緒勒索的主管，寧願天天跟電腦講話…｜六角學院",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/MyK5_CWhkuY",
+          "id": "https://www.youtube.com/shorts/M1or8HnvpHY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/MyK5_CWhkuY",
-          "publishedOn": "2026-04-17T21:13:48.000Z",
-          "wordCount": 2062,
-          "title": "The college tour hath begun",
+          "link": "https://www.youtube.com/shorts/M1or8HnvpHY",
+          "publishedOn": "2026-04-10T06:33:50.000Z",
+          "wordCount": 2524,
+          "title": "我 30 歲了，轉職工程師還來得及嗎？｜六角學院",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=USAwZH-AiX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=USAwZH-AiX8",
-          "publishedOn": "2026-04-14T17:09:12.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - NCAA Final Four Vlog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/qYFYtioEog0",
+          "id": "https://www.youtube.com/shorts/YuxZEk6fVPU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/qYFYtioEog0",
-          "publishedOn": "2026-04-10T16:09:03.000Z",
-          "wordCount": 2049,
-          "title": "Echo out now, let it rip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5-NfPGEyi-c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5-NfPGEyi-c",
-          "publishedOn": "2026-04-10T04:00:00.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Echo ft. Oaks (Official Visualizer)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/cSMJPYZDEoI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/cSMJPYZDEoI",
-          "publishedOn": "2026-04-06T20:12:53.000Z",
-          "wordCount": 2084,
-          "title": "ECHO with @winonaoak  THIS FRIDAY. Where are you tuning in from?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Bl4LnlW5pb8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Bl4LnlW5pb8",
-          "publishedOn": "2026-04-03T15:50:38.000Z",
-          "wordCount": 2077,
-          "title": "OUR NEW SONG 'Echo' with Oaks OUT NEXT FRIDAY 4/10!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/rnwHd3LqsHA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/rnwHd3LqsHA",
-          "publishedOn": "2026-03-31T19:05:50.000Z",
-          "wordCount": 2124,
-          "title": "We've been waiting months to post this song 😭🥺 so excited to finally share with yall.....",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "FURY EDM",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
-      "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=4TEDabk-ZzM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4TEDabk-ZzM",
-          "publishedOn": "2026-04-27T12:00:06.000Z",
-          "wordCount": null,
-          "title": "Top 20 Bản Nhạc EDM Mix Cực Phiêu \"Nhiều Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WrYY4phW5Tc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WrYY4phW5Tc",
-          "publishedOn": "2026-04-25T12:00:54.000Z",
-          "wordCount": null,
-          "title": "Tracks Nhạc EDM Chill Thư Giãn Sau Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sPtAmeVJoSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sPtAmeVJoSo",
-          "publishedOn": "2026-04-23T12:01:37.000Z",
-          "wordCount": null,
-          "title": "Một Chút Nhạc EDM Mix Thư Giãn Sôi Động \"Nhiều Cảm Xúc\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OCzJypuv8ck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OCzJypuv8ck",
-          "publishedOn": "2026-04-21T12:00:44.000Z",
-          "wordCount": null,
-          "title": "Một Chút Nhạc EDM Mix Chill Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AvJGXZ58aM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AvJGXZ58aM0",
-          "publishedOn": "2026-04-19T12:00:24.000Z",
-          "wordCount": null,
-          "title": "TOP Nhạc EDM Mix Gaming ♫ Nhạc Điện Tử Gây Nghiện Chơi Game Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ugm5BJuGafI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ugm5BJuGafI",
-          "publishedOn": "2026-04-17T12:01:02.000Z",
-          "wordCount": null,
-          "title": "TOP Nhạc EDM Mix Cực Phiêu Leo Rank Chiến Tướng ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DD8jZb_RHZo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DD8jZb_RHZo",
-          "publishedOn": "2026-04-15T12:00:21.000Z",
-          "wordCount": null,
-          "title": "TOP 20 Bản Nhạc EDM Mix Cực Phiêu \"0 Thuốc Giải\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XwcrDJFg7qI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XwcrDJFg7qI",
-          "publishedOn": "2026-04-13T12:01:05.000Z",
-          "wordCount": null,
-          "title": "Một Chút EDM Mix Chill Giãm Stress Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EuxXMt9EYw0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EuxXMt9EYw0",
-          "publishedOn": "2026-04-11T12:00:24.000Z",
-          "wordCount": null,
-          "title": "Một Chút Nhạc EDM Mix Chill Thư Giãn Sau Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CM3jiuQCpWs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CM3jiuQCpWs",
-          "publishedOn": "2026-04-09T12:00:20.000Z",
-          "wordCount": null,
-          "title": "Chút Nhạc EDM Chill Thư Giãn Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Qxd1kFwGBac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Qxd1kFwGBac",
-          "publishedOn": "2026-04-07T12:00:48.000Z",
-          "wordCount": null,
-          "title": "TOP 20 Bản Nhạc EDM Mix Phiêu Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wscrGw-_ej0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wscrGw-_ej0",
-          "publishedOn": "2026-04-05T12:01:33.000Z",
-          "wordCount": null,
-          "title": "Top 20 Nhạc EDM Thư Giãn Hay Nhất P5 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QEHnsng9jFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QEHnsng9jFU",
-          "publishedOn": "2026-04-03T12:00:41.000Z",
-          "wordCount": null,
-          "title": "Top 10 Nhạc EDM Thư Giãn Hay Nhất P4 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BrbXVRf7NlE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BrbXVRf7NlE",
-          "publishedOn": "2026-04-01T12:00:26.000Z",
-          "wordCount": null,
-          "title": "Top Nhạc EDM Thư Giãn Hay Nhất P3 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v1iuhz8J2qo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v1iuhz8J2qo",
-          "publishedOn": "2026-03-31T12:01:07.000Z",
-          "wordCount": null,
-          "title": "Top Nhạc EDM Hay Nhất P2 ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
-    },
-    {
-      "title": "Learning Screen",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
-      "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
-      "articles": []
-    },
-    {
-      "title": "HeyDrones",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
-      "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
-      "articles": []
-    },
-    {
-      "title": "Cruising Cat风光喵",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jTBSC2AMivw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jTBSC2AMivw",
-          "publishedOn": "2026-04-16T12:15:14.000Z",
-          "wordCount": null,
-          "title": "DJI POCKET 4旅拍上手测评|五个步骤快速学会电影感|",
+          "link": "https://www.youtube.com/shorts/YuxZEk6fVPU",
+          "publishedOn": "2026-04-08T08:00:00.000Z",
+          "wordCount": 2048,
+          "title": "AI 時代學程式很虧？其實這才是轉職的「黃金年代」｜六角學院",
           "imageUrl": null
         }
       ]
