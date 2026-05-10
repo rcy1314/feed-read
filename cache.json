@@ -1,10 +1,254 @@
 {
   "sources": [
     {
-      "title": "黄杨ME",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYnyI0YuiJRFg2CoBOCGEaA",
-      "siteUrl": "https://www.youtube.com/channel/UCYnyI0YuiJRFg2CoBOCGEaA",
+      "title": "The Chainsmokers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
+      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/e8Ft0nhi17k",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/e8Ft0nhi17k",
+          "publishedOn": "2026-05-08T16:09:18.000Z",
+          "wordCount": 2126,
+          "title": "See… we do smoke. LOVE IS KIND IS OUT MEOWWWW!!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DtU94kpPeFM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DtU94kpPeFM",
+          "publishedOn": "2026-05-08T04:00:29.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers, Oaks - Love Is Kind (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6LjDSYW_cPI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6LjDSYW_cPI",
+          "publishedOn": "2026-05-08T04:00:21.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers, Oaks - Wild (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H_Z0Kv-LWkU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H_Z0Kv-LWkU",
+          "publishedOn": "2026-05-08T04:00:10.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers, Oaks - Five Past Three (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hgt3WcC-h8I",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hgt3WcC-h8I",
+          "publishedOn": "2026-05-04T22:31:54.000Z",
+          "wordCount": 2144,
+          "title": "THIS SONG 🥹🥹 Guys the full EP is out on Friday!!!! Thinking about where to do a release party?!?!?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/pbbeEleM3T4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/pbbeEleM3T4",
+          "publishedOn": "2026-04-30T20:37:26.000Z",
+          "wordCount": 2101,
+          "title": "ya love to see it!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dcXA1x2JjAA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dcXA1x2JjAA",
+          "publishedOn": "2026-04-29T17:28:40.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - The Making of Love Is Kind EP Vlog Pt. 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/b3WlCevO_KE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/b3WlCevO_KE",
+          "publishedOn": "2026-04-24T18:12:24.000Z",
+          "wordCount": 2180,
+          "title": "ALREADY KNOW is out now. & ok the college tour is turning out to be a great idea… THANK YOU IU…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TH4Xtu9hHkY",
+          "publishedOn": "2026-04-24T04:00:37.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers, Oaks - Already Know (Official Visualizer)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/lDdy2d4OxI8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/lDdy2d4OxI8",
+          "publishedOn": "2026-04-21T22:22:24.000Z",
+          "wordCount": 2142,
+          "title": "ALREADY KNOW 🐎🐎 OUT FRIDAY!!! Who’s coming to see us this summer?!?!?!!?!!!!!🦀🚀🍇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Vsmf_TnOBjw",
+          "publishedOn": "2026-04-20T16:18:11.000Z",
+          "wordCount": 2076,
+          "title": "OUR NEW EP “LOVE IS KIND” featuring Oaks is OUT May 8th!!!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/MyK5_CWhkuY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/MyK5_CWhkuY",
+          "publishedOn": "2026-04-17T21:13:48.000Z",
+          "wordCount": 2425,
+          "title": "The college tour hath begun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=USAwZH-AiX8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=USAwZH-AiX8",
+          "publishedOn": "2026-04-14T17:09:12.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - NCAA Final Four Vlog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/qYFYtioEog0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/qYFYtioEog0",
+          "publishedOn": "2026-04-10T16:09:03.000Z",
+          "wordCount": 2067,
+          "title": "Echo out now, let it rip",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "D2izy +.+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
+      "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
       "articles": []
+    },
+    {
+      "title": "六角學院",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
+      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=v05e-Yr1uAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v05e-Yr1uAE",
+          "publishedOn": "2026-04-30T01:32:13.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/29 (三)  20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XgjxFo38UWw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XgjxFo38UWw",
+          "publishedOn": "2026-04-29T05:22:15.000Z",
+          "wordCount": null,
+          "title": "AI 時代千萬別唸資工系？不懂程式的人才後悔 @hexschool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E-NhG7-ypKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E-NhG7-ypKs",
+          "publishedOn": "2026-04-23T02:02:34.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/22 (三) 20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zwQzrPPxGp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zwQzrPPxGp8",
+          "publishedOn": "2026-04-20T09:00:00.000Z",
+          "wordCount": null,
+          "title": "【超白話解析】前端、後端、資料庫差在哪？轉職軟體工程師新手指南 @hexschool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kiz0XZC67s0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kiz0XZC67s0",
+          "publishedOn": "2026-04-18T15:05:32.000Z",
+          "wordCount": null,
+          "title": "（6月課程即將開班）AI 開發進化營加碼課：把 Claude Code 當龍蝦用｜卡斯伯老師",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jA52Hyoa5sU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jA52Hyoa5sU",
+          "publishedOn": "2026-04-16T14:23:54.000Z",
+          "wordCount": null,
+          "title": "2026 軟體工程師體驗營｜線上說明會 4/16 (四)  20:00 準時開播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/iHBCR0kKRV8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/iHBCR0kKRV8",
+          "publishedOn": "2026-04-16T09:42:56.000Z",
+          "wordCount": 2566,
+          "title": "每月存一萬，存幾年才能買房？｜六角學院",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0mfV3iF4i7Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0mfV3iF4i7Y",
+          "publishedOn": "2026-04-15T08:17:15.000Z",
+          "wordCount": 2559,
+          "title": "AI 一秒就能寫出網頁，那工程師真的要失業了嗎？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/8KcnCFm7GYk",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8KcnCFm7GYk",
+          "publishedOn": "2026-04-14T01:58:15.000Z",
+          "wordCount": 2375,
+          "title": "比起應付情緒勒索的主管，寧願天天跟電腦講話…｜六角學院",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "哲宇寇汀吧 CheYu's Coding Bar",
@@ -170,6 +414,12 @@
       ]
     },
     {
+      "title": "Hantao TB",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvrZmNng7An3edE6Db13mnw",
+      "siteUrl": "https://www.youtube.com/channel/UCvrZmNng7An3edE6Db13mnw",
+      "articles": []
+    },
+    {
       "title": "爱否科技",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
       "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
@@ -201,197 +451,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Zjvh0Yb2E7reRN-08tqLA",
       "siteUrl": "https://www.youtube.com/channel/UC0Zjvh0Yb2E7reRN-08tqLA",
       "articles": []
-    },
-    {
-      "title": "Cruising Cat风光喵",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jTBSC2AMivw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jTBSC2AMivw",
-          "publishedOn": "2026-04-16T12:15:14.000Z",
-          "wordCount": null,
-          "title": "DJI POCKET 4旅拍上手测评|五个步骤快速学会电影感|",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "FUJIFILM X Series",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
-      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Ekd4Ew6Jd4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ekd4Ew6Jd4k",
-          "publishedOn": "2026-05-01T05:00:28.000Z",
-          "wordCount": null,
-          "title": "Fujifilm × Welcome to Our Lives in Kibera/SHIFT80 (KG＋ Discovery Award 2025)/ FUJIFILM",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Audio Library",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
-      "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=InEgxGmYz60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=InEgxGmYz60",
-          "publishedOn": "2026-05-08T11:00:37.000Z",
-          "wordCount": null,
-          "title": "Suspenseful Background Music for Horror Videos 🦇 (Free to Use) | Kevin MacLeod - Black Vortex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E8tfNNyV_iE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E8tfNNyV_iE",
-          "publishedOn": "2026-05-07T11:00:31.000Z",
-          "wordCount": null,
-          "title": "Relaxing Ambient Music for Sunset Vlogs 🌇 (No Copyright) | Joshua Moses - Sunset Static",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yYzd3MRnbz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yYzd3MRnbz0",
-          "publishedOn": "2026-05-06T11:01:44.000Z",
-          "wordCount": null,
-          "title": "Upbeat Pop Music for Daily Vlogs & Lifestyle Videos ☀️ (No Copyright) | ZiMPL - Happy 4 Nothing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QSm6LSDzrnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QSm6LSDzrnE",
-          "publishedOn": "2026-05-05T11:00:47.000Z",
-          "wordCount": null,
-          "title": "Atmospheric Chill Music for B-Roll 🎥 (Royalty Free) | Blaudiss - Patterns in the Clouds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=miCPLZOwL9M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=miCPLZOwL9M",
-          "publishedOn": "2026-05-04T11:01:29.000Z",
-          "wordCount": null,
-          "title": "Happy Tropical Beats for Summer Travel Videos 🌴 (Free to Use)  Next Route - Banana",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IZkU_xUMy1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IZkU_xUMy1M",
-          "publishedOn": "2026-05-03T11:00:25.000Z",
-          "wordCount": null,
-          "title": "Epic Cinematic Music for Documentaries & Short Films 🎬 (No Copyright) | Scott Buckley - Hyperion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F0sg8UQPsIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F0sg8UQPsIU",
-          "publishedOn": "2026-05-02T11:00:35.000Z",
-          "wordCount": null,
-          "title": "Uplifting Electronic Music for Travel Vlogs ✈️ (No Copyright) | Peyruis - With U",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xNhT3e4-DO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xNhT3e4-DO4",
-          "publishedOn": "2026-05-01T11:01:39.000Z",
-          "wordCount": null,
-          "title": "Fun & Playful Background Music for Comedy Vlogs 🐶 (No Copyright) | Kevin MacLeod - Quirky Dog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=opRrARaBeE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=opRrARaBeE8",
-          "publishedOn": "2026-04-30T11:01:31.000Z",
-          "wordCount": null,
-          "title": "Dark Cyberpunk Music for Gaming Streams 🎮 (No Copyright) | Limujii - I ain't running",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D0Ts2qGXi6g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D0Ts2qGXi6g",
-          "publishedOn": "2026-04-29T11:00:33.000Z",
-          "wordCount": null,
-          "title": "Cheerful Pop Music for Lifestyle Videos & Vlogs ☀️ (Royalty Free) | Roa - Sakura Breeze",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-v2ZLXU8rdo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-v2ZLXU8rdo",
-          "publishedOn": "2026-04-28T11:00:03.000Z",
-          "wordCount": null,
-          "title": "Epic Cinematic Music for Trailers & Gaming ⚔️ (No Copyright)  Alex-Productions - Titan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yEnHLXwCCQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yEnHLXwCCQM",
-          "publishedOn": "2026-04-27T11:01:27.000Z",
-          "wordCount": null,
-          "title": "Fresh Lo-fi Beat for Summer Vlogs & Reels 🍋 (No Copyright) | Snoozy Beats - Lemonade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KWgdDL4PdW8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KWgdDL4PdW8",
-          "publishedOn": "2026-04-26T11:00:25.000Z",
-          "wordCount": null,
-          "title": "Epic Cinematic Music for Documentaries 🎥 (No Copyright) | Scott Buckley - Shoulders Of Giants",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L72gCVDvUXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L72gCVDvUXk",
-          "publishedOn": "2026-04-25T11:00:28.000Z",
-          "wordCount": null,
-          "title": "Upbeat Dance Music for Summer Vlogs & Lifestyle Videos 🌴 (No Copyright) | Peyruis - Show Me",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hHcxRZl-uKw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hHcxRZl-uKw",
-          "publishedOn": "2026-04-24T11:01:13.000Z",
-          "wordCount": null,
-          "title": "Upbeat Folk Music for RPG Gaming Streams 🏰 (No Copyright) | Kevin MacLeod - Thatched Villagers",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"

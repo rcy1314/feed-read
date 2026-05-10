@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T03:43:44.996Z</id>
+    <id>urn:2026-05-10T03:59:59.136Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T03:43:44.996Z</updated>
+    <updated>2026-05-10T03:59:59.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[See… we do smoke. LOVE IS KIND IS OUT MEOWWWW!!!!]]></title>
+        <id>https://www.youtube.com/shorts/e8Ft0nhi17k</id>
+        <link href="https://www.youtube.com/shorts/e8Ft0nhi17k"/>
+        <updated>2026-05-08T16:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10款5月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第4期！]]></title>
         <id>https://www.youtube.com/watch?v=0Cq0hjhEXCE</id>
@@ -15,21 +25,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suspenseful Background Music for Horror Videos 🦇 (Free to Use) | Kevin MacLeod - Black Vortex]]></title>
-        <id>https://www.youtube.com/watch?v=InEgxGmYz60</id>
-        <link href="https://www.youtube.com/watch?v=InEgxGmYz60"/>
-        <updated>2026-05-08T11:00:37.000Z</updated>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Love Is Kind (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=DtU94kpPeFM</id>
+        <link href="https://www.youtube.com/watch?v=DtU94kpPeFM"/>
+        <updated>2026-05-08T04:00:29.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Relaxing Ambient Music for Sunset Vlogs 🌇 (No Copyright) | Joshua Moses - Sunset Static]]></title>
-        <id>https://www.youtube.com/watch?v=E8tfNNyV_iE</id>
-        <link href="https://www.youtube.com/watch?v=E8tfNNyV_iE"/>
-        <updated>2026-05-07T11:00:31.000Z</updated>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Wild (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=6LjDSYW_cPI</id>
+        <link href="https://www.youtube.com/watch?v=6LjDSYW_cPI"/>
+        <updated>2026-05-08T04:00:21.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Five Past Three (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=H_Z0Kv-LWkU</id>
+        <link href="https://www.youtube.com/watch?v=H_Z0Kv-LWkU"/>
+        <updated>2026-05-08T04:00:10.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -42,21 +61,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Pop Music for Daily Vlogs & Lifestyle Videos ☀️ (No Copyright) | ZiMPL - Happy 4 Nothing]]></title>
-        <id>https://www.youtube.com/watch?v=yYzd3MRnbz0</id>
-        <link href="https://www.youtube.com/watch?v=yYzd3MRnbz0"/>
-        <updated>2026-05-06T11:01:44.000Z</updated>
+        <title type="html"><![CDATA[THIS SONG 🥹🥹 Guys the full EP is out on Friday!!!! Thinking about where to do a release party?!?!?]]></title>
+        <id>https://www.youtube.com/shorts/hgt3WcC-h8I</id>
+        <link href="https://www.youtube.com/shorts/hgt3WcC-h8I"/>
+        <updated>2026-05-04T22:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atmospheric Chill Music for B-Roll 🎥 (Royalty Free) | Blaudiss - Patterns in the Clouds]]></title>
-        <id>https://www.youtube.com/watch?v=QSm6LSDzrnE</id>
-        <link href="https://www.youtube.com/watch?v=QSm6LSDzrnE"/>
-        <updated>2026-05-05T11:00:47.000Z</updated>
-        <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -69,33 +80,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happy Tropical Beats for Summer Travel Videos 🌴 (Free to Use)  Next Route - Banana]]></title>
-        <id>https://www.youtube.com/watch?v=miCPLZOwL9M</id>
-        <link href="https://www.youtube.com/watch?v=miCPLZOwL9M"/>
-        <updated>2026-05-04T11:01:29.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Cinematic Music for Documentaries & Short Films 🎬 (No Copyright) | Scott Buckley - Hyperion]]></title>
-        <id>https://www.youtube.com/watch?v=IZkU_xUMy1M</id>
-        <link href="https://www.youtube.com/watch?v=IZkU_xUMy1M"/>
-        <updated>2026-05-03T11:00:25.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uplifting Electronic Music for Travel Vlogs ✈️ (No Copyright) | Peyruis - With U]]></title>
-        <id>https://www.youtube.com/watch?v=F0sg8UQPsIU</id>
-        <link href="https://www.youtube.com/watch?v=F0sg8UQPsIU"/>
-        <updated>2026-05-02T11:00:35.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年5月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
         <id>https://www.youtube.com/watch?v=eZCB40aOz0Y</id>
         <link href="https://www.youtube.com/watch?v=eZCB40aOz0Y"/>
@@ -105,30 +89,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fun & Playful Background Music for Comedy Vlogs 🐶 (No Copyright) | Kevin MacLeod - Quirky Dog]]></title>
-        <id>https://www.youtube.com/watch?v=xNhT3e4-DO4</id>
-        <link href="https://www.youtube.com/watch?v=xNhT3e4-DO4"/>
-        <updated>2026-05-01T11:01:39.000Z</updated>
+        <title type="html"><![CDATA[ya love to see it!]]></title>
+        <id>https://www.youtube.com/shorts/pbbeEleM3T4</id>
+        <link href="https://www.youtube.com/shorts/pbbeEleM3T4"/>
+        <updated>2026-04-30T20:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fujifilm × Welcome to Our Lives in Kibera/SHIFT80 (KG＋ Discovery Award 2025)/ FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=Ekd4Ew6Jd4k</id>
-        <link href="https://www.youtube.com/watch?v=Ekd4Ew6Jd4k"/>
-        <updated>2026-05-01T05:00:28.000Z</updated>
+        <title type="html"><![CDATA[2026 軟體工程師體驗營｜線上說明會 4/29 (三)  20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=v05e-Yr1uAE</id>
+        <link href="https://www.youtube.com/watch?v=v05e-Yr1uAE"/>
+        <updated>2026-04-30T01:32:13.000Z</updated>
         <author>
-            <name>FUJIFILM X Series</name>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dark Cyberpunk Music for Gaming Streams 🎮 (No Copyright) | Limujii - I ain't running]]></title>
-        <id>https://www.youtube.com/watch?v=opRrARaBeE8</id>
-        <link href="https://www.youtube.com/watch?v=opRrARaBeE8"/>
-        <updated>2026-04-30T11:01:31.000Z</updated>
+        <title type="html"><![CDATA[The Chainsmokers - The Making of Love Is Kind EP Vlog Pt. 1]]></title>
+        <id>https://www.youtube.com/watch?v=dcXA1x2JjAA</id>
+        <link href="https://www.youtube.com/watch?v=dcXA1x2JjAA"/>
+        <updated>2026-04-29T17:28:40.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -141,21 +126,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheerful Pop Music for Lifestyle Videos & Vlogs ☀️ (Royalty Free) | Roa - Sakura Breeze]]></title>
-        <id>https://www.youtube.com/watch?v=D0Ts2qGXi6g</id>
-        <link href="https://www.youtube.com/watch?v=D0Ts2qGXi6g"/>
-        <updated>2026-04-29T11:00:33.000Z</updated>
+        <title type="html"><![CDATA[AI 時代千萬別唸資工系？不懂程式的人才後悔 @hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=XgjxFo38UWw</id>
+        <link href="https://www.youtube.com/watch?v=XgjxFo38UWw"/>
+        <updated>2026-04-29T05:22:15.000Z</updated>
         <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Cinematic Music for Trailers & Gaming ⚔️ (No Copyright)  Alex-Productions - Titan]]></title>
-        <id>https://www.youtube.com/watch?v=-v2ZLXU8rdo</id>
-        <link href="https://www.youtube.com/watch?v=-v2ZLXU8rdo"/>
-        <updated>2026-04-28T11:00:03.000Z</updated>
-        <author>
-            <name>Audio Library</name>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -177,30 +153,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fresh Lo-fi Beat for Summer Vlogs & Reels 🍋 (No Copyright) | Snoozy Beats - Lemonade]]></title>
-        <id>https://www.youtube.com/watch?v=yEnHLXwCCQM</id>
-        <link href="https://www.youtube.com/watch?v=yEnHLXwCCQM"/>
-        <updated>2026-04-27T11:01:27.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《天龍八部2：血戰江湖》裡4大PVP玩法一次講清楚~ | Android/iOS 雙平台手機遊戲/遊戲試玩介紹！]]></title>
         <id>https://www.youtube.com/watch?v=xghRvZisTuk</id>
         <link href="https://www.youtube.com/watch?v=xghRvZisTuk"/>
         <updated>2026-04-26T12:01:39.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Cinematic Music for Documentaries 🎥 (No Copyright) | Scott Buckley - Shoulders Of Giants]]></title>
-        <id>https://www.youtube.com/watch?v=KWgdDL4PdW8</id>
-        <link href="https://www.youtube.com/watch?v=KWgdDL4PdW8"/>
-        <updated>2026-04-26T11:00:25.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -213,12 +171,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Dance Music for Summer Vlogs & Lifestyle Videos 🌴 (No Copyright) | Peyruis - Show Me]]></title>
-        <id>https://www.youtube.com/watch?v=L72gCVDvUXk</id>
-        <link href="https://www.youtube.com/watch?v=L72gCVDvUXk"/>
-        <updated>2026-04-25T11:00:28.000Z</updated>
+        <title type="html"><![CDATA[ALREADY KNOW is out now. & ok the college tour is turning out to be a great idea… THANK YOU IU…]]></title>
+        <id>https://www.youtube.com/shorts/b3WlCevO_KE</id>
+        <link href="https://www.youtube.com/shorts/b3WlCevO_KE"/>
+        <updated>2026-04-24T18:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -231,12 +190,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Folk Music for RPG Gaming Streams 🏰 (No Copyright) | Kevin MacLeod - Thatched Villagers]]></title>
-        <id>https://www.youtube.com/watch?v=hHcxRZl-uKw</id>
-        <link href="https://www.youtube.com/watch?v=hHcxRZl-uKw"/>
-        <updated>2026-04-24T11:01:13.000Z</updated>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Already Know (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=TH4Xtu9hHkY</id>
+        <link href="https://www.youtube.com/watch?v=TH4Xtu9hHkY"/>
+        <updated>2026-04-24T04:00:37.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 軟體工程師體驗營｜線上說明會 4/22 (三) 20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=E-NhG7-ypKs</id>
+        <link href="https://www.youtube.com/watch?v=E-NhG7-ypKs"/>
+        <updated>2026-04-23T02:02:34.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -258,12 +226,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ALREADY KNOW 🐎🐎 OUT FRIDAY!!! Who’s coming to see us this summer?!?!?!!?!!!!!🦀🚀🍇]]></title>
+        <id>https://www.youtube.com/shorts/lDdy2d4OxI8</id>
+        <link href="https://www.youtube.com/shorts/lDdy2d4OxI8"/>
+        <updated>2026-04-21T22:22:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OUR NEW EP “LOVE IS KIND” featuring Oaks is OUT May 8th!!!!!]]></title>
+        <id>https://www.youtube.com/shorts/Vsmf_TnOBjw</id>
+        <link href="https://www.youtube.com/shorts/Vsmf_TnOBjw"/>
+        <updated>2026-04-20T16:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20款開放世界手遊精選！| Android/iOS 雙平台！| 2026年安卓/蘋果手機遊戲/遊戲作品推薦第2期！]]></title>
         <id>https://www.youtube.com/watch?v=EP4RQnCPZY0</id>
         <link href="https://www.youtube.com/watch?v=EP4RQnCPZY0"/>
         <updated>2026-04-20T12:00:33.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超白話解析】前端、後端、資料庫差在哪？轉職軟體工程師新手指南 @hexschool]]></title>
+        <id>https://www.youtube.com/watch?v=zwQzrPPxGp8</id>
+        <link href="https://www.youtube.com/watch?v=zwQzrPPxGp8"/>
+        <updated>2026-04-20T09:00:00.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -276,6 +273,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[（6月課程即將開班）AI 開發進化營加碼課：把 Claude Code 當龍蝦用｜卡斯伯老師]]></title>
+        <id>https://www.youtube.com/watch?v=kiz0XZC67s0</id>
+        <link href="https://www.youtube.com/watch?v=kiz0XZC67s0"/>
+        <updated>2026-04-18T15:05:32.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The college tour hath begun]]></title>
+        <id>https://www.youtube.com/shorts/MyK5_CWhkuY</id>
+        <link href="https://www.youtube.com/shorts/MyK5_CWhkuY"/>
+        <updated>2026-04-17T21:13:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款4月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第7期！]]></title>
         <id>https://www.youtube.com/watch?v=5k_pO6447Iw</id>
         <link href="https://www.youtube.com/watch?v=5k_pO6447Iw"/>
@@ -285,12 +301,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DJI POCKET 4旅拍上手测评|五个步骤快速学会电影感|]]></title>
-        <id>https://www.youtube.com/watch?v=jTBSC2AMivw</id>
-        <link href="https://www.youtube.com/watch?v=jTBSC2AMivw"/>
-        <updated>2026-04-16T12:15:14.000Z</updated>
+        <title type="html"><![CDATA[2026 軟體工程師體驗營｜線上說明會 4/16 (四)  20:00 準時開播]]></title>
+        <id>https://www.youtube.com/watch?v=jA52Hyoa5sU</id>
+        <link href="https://www.youtube.com/watch?v=jA52Hyoa5sU"/>
+        <updated>2026-04-16T14:23:54.000Z</updated>
         <author>
-            <name>Cruising Cat风光喵</name>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每月存一萬，存幾年才能買房？｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/iHBCR0kKRV8</id>
+        <link href="https://www.youtube.com/shorts/iHBCR0kKRV8"/>
+        <updated>2026-04-16T09:42:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -303,12 +329,51 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI 一秒就能寫出網頁，那工程師真的要失業了嗎？]]></title>
+        <id>https://www.youtube.com/shorts/0mfV3iF4i7Y</id>
+        <link href="https://www.youtube.com/shorts/0mfV3iF4i7Y"/>
+        <updated>2026-04-15T08:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - NCAA Final Four Vlog]]></title>
+        <id>https://www.youtube.com/watch?v=USAwZH-AiX8</id>
+        <link href="https://www.youtube.com/watch?v=USAwZH-AiX8"/>
+        <updated>2026-04-14T17:09:12.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比起應付情緒勒索的主管，寧願天天跟電腦講話…｜六角學院]]></title>
+        <id>https://www.youtube.com/shorts/8KcnCFm7GYk</id>
+        <link href="https://www.youtube.com/shorts/8KcnCFm7GYk"/>
+        <updated>2026-04-14T01:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20款類多人在線合作/同樂/競技手遊精選！| Android/iOS 雙平台！| 2026年安卓/蘋果手機遊戲/遊戲作品推薦第1期！]]></title>
         <id>https://www.youtube.com/watch?v=7zPrrMrhs4s</id>
         <link href="https://www.youtube.com/watch?v=7zPrrMrhs4s"/>
         <updated>2026-04-13T12:00:09.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echo out now, let it rip]]></title>
+        <id>https://www.youtube.com/shorts/qYFYtioEog0</id>
+        <link href="https://www.youtube.com/shorts/qYFYtioEog0"/>
+        <updated>2026-04-10T16:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
