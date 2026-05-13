@@ -1,95 +1,10 @@
 {
   "sources": [
     {
-      "title": "大象放映室",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
-      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=2dsKedXF_CI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2dsKedXF_CI",
-          "publishedOn": "2026-04-28T13:08:57.000Z",
-          "wordCount": null,
-          "title": "史无前例！最严吏治！反腐就只是简单的“抓贪官”吗？【大国之治·反腐】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Tr8c6Ejz2ZU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tr8c6Ejz2ZU",
-          "publishedOn": "2026-04-24T17:16:28.000Z",
-          "wordCount": null,
-          "title": "地震、雪灾、奥运！00年代的中国什么样？「下」【大国阶梯·十一五规划】",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "爱否科技",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
-      "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=AUnP_Kvv6AQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AUnP_Kvv6AQ",
-          "publishedOn": "2026-04-28T04:48:08.000Z",
-          "wordCount": null,
-          "title": "【爱否】苹果显示器，为什么要用 A19 Pro 增智慧？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HsViVOau4Ic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HsViVOau4Ic",
-          "publishedOn": "2026-04-22T06:28:12.000Z",
-          "wordCount": null,
-          "title": "这样的风路，散热到底行不行？REDMI K90 Max 评测",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "陈曦Stanley",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
-      "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
-          "publishedOn": "2026-05-06T12:01:47.000Z",
-          "wordCount": null,
-          "title": "全球唯一可出租的國家列支敦士登：四萬人口的小國體驗國王待遇｜陈曦Stanley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=reIeShFmans",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=reIeShFmans",
-          "publishedOn": "2026-04-24T12:01:36.000Z",
-          "wordCount": null,
-          "title": "牛津 vs 劍橋，誰才是真正的英國第一名校？｜陈曦Stanley",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
-          "publishedOn": "2026-04-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "誰說男裝設計很簡單，衣櫃分享幫你選對男裝｜陈曦Stanley",
-          "imageUrl": null
-        }
-      ]
+      "title": "無私設計分享",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
+      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
