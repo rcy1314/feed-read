@@ -1,4 +1,205 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Thomas Chu",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCHVb6alsMj8XfGW1Rx5rRw",
+      "siteUrl": "https://www.youtube.com/channel/UCCHVb6alsMj8XfGW1Rx5rRw",
+      "articles": []
+    },
+    {
+      "title": "陈曦Stanley",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
+      "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
+          "publishedOn": "2026-05-06T12:01:47.000Z",
+          "wordCount": null,
+          "title": "全球唯一可出租的國家列支敦士登：四萬人口的小國體驗國王待遇｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=reIeShFmans",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=reIeShFmans",
+          "publishedOn": "2026-04-24T12:01:36.000Z",
+          "wordCount": null,
+          "title": "牛津 vs 劍橋，誰才是真正的英國第一名校？｜陈曦Stanley",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-G3pnFvmnlg",
+          "publishedOn": "2026-04-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "誰說男裝設計很簡單，衣櫃分享幫你選對男裝｜陈曦Stanley",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Audio Library",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
+      "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fpgZffUIeMg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fpgZffUIeMg",
+          "publishedOn": "2026-05-19T11:01:00.000Z",
+          "wordCount": null,
+          "title": "Inspiring Ambient Track for Tutorials & Vlogs 🚀 (Royalty Free) | Alex-Productions - Coordination",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IAxDUkuYK7I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IAxDUkuYK7I",
+          "publishedOn": "2026-05-18T11:00:25.000Z",
+          "wordCount": null,
+          "title": "Relaxing Lo-fi Music for Study Sessions & Vlogs 📚 (No Copyright) | Lo-fi miku - Alone Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lReXpf906HA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lReXpf906HA",
+          "publishedOn": "2026-05-17T11:01:00.000Z",
+          "wordCount": null,
+          "title": "Epic Cinematic Music for Trailers & Short Films 🎬 (No Copyright) | Scott Buckley - Sentinel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5IUfE7K70rc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5IUfE7K70rc",
+          "publishedOn": "2026-05-16T11:00:09.000Z",
+          "wordCount": null,
+          "title": "Upbeat Electronic Vlog Music for Travel & Lifestyle 🌴 (No Copyright) | Hotham - Better Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aa3wnRNqsR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aa3wnRNqsR8",
+          "publishedOn": "2026-05-15T11:00:02.000Z",
+          "wordCount": null,
+          "title": "Intense Electronic Music for Gaming & Tech Reviews 💻 (No Copyright) | Kevin MacLeod - Killing Time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=76bJS-TNyS8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=76bJS-TNyS8",
+          "publishedOn": "2026-05-14T11:00:10.000Z",
+          "wordCount": null,
+          "title": "Relaxing Chill Music for Vlogs & Daily Life ☕ (No Copyright) | Scandinavianz - Chill Guy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8gMHlLDUbHs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8gMHlLDUbHs",
+          "publishedOn": "2026-05-13T11:00:18.000Z",
+          "wordCount": null,
+          "title": "Uplifting Background Music for YouTube Videos 🎬 (Free to Use) | Jay Someday - Midnight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z8ueFSfRLyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z8ueFSfRLyA",
+          "publishedOn": "2026-05-12T11:01:02.000Z",
+          "wordCount": null,
+          "title": "Relaxing Ambient Music for Daily Vlogs ✨ (No Copyright) | GalaxyTones & Dreamlét. - Éphémère",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xx_1xZ3-nUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xx_1xZ3-nUY",
+          "publishedOn": "2026-05-11T11:00:53.000Z",
+          "wordCount": null,
+          "title": "Relaxing Lo-fi Chill Music for Sunset Vlogs 🌅 (No Copyright) | chillity - sundown",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1BwrePS7MYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1BwrePS7MYw",
+          "publishedOn": "2026-05-10T11:00:07.000Z",
+          "wordCount": null,
+          "title": "Emotional Cinematic Music for Video Essays 🎞️ (Free to Use) | Scott Buckley - Echoes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SPpbnbQ688o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SPpbnbQ688o",
+          "publishedOn": "2026-05-09T11:00:44.000Z",
+          "wordCount": null,
+          "title": "Emotional ambient music for cinematic storytelling & vlogs ✨ (No Copyright) | Wanheda - For her",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=InEgxGmYz60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=InEgxGmYz60",
+          "publishedOn": "2026-05-08T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Dark Cinematic Music for Crime Documentaries 🕵️‍♂️ (No Copyright) | Kevin MacLeod - Black Vortex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E8tfNNyV_iE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E8tfNNyV_iE",
+          "publishedOn": "2026-05-07T11:00:31.000Z",
+          "wordCount": null,
+          "title": "Relaxing Ambient Music for Sunset Vlogs 🌇 (No Copyright) | Joshua Moses - Sunset Static",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yYzd3MRnbz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yYzd3MRnbz0",
+          "publishedOn": "2026-05-06T11:01:44.000Z",
+          "wordCount": null,
+          "title": "Bright & Happy Instrumental for Gaming Streams 🎮 (Free to Use) | ZiMPL - Happy 4 Nothing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QSm6LSDzrnE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QSm6LSDzrnE",
+          "publishedOn": "2026-05-05T11:00:47.000Z",
+          "wordCount": null,
+          "title": "Chill Ambient Music for Drone Videos & Vlogs ☁️ (No Copyright) | Blaudiss - Patterns in the Clouds",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
