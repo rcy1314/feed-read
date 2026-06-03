@@ -1,72 +1,16 @@
 {
   "sources": [
     {
-      "title": "六角學院",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
-      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=6rH7icYxiso",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6rH7icYxiso",
-          "publishedOn": "2026-05-19T02:07:09.000Z",
-          "wordCount": null,
-          "title": "2026  Node.js 直播班、Node.js 後端培訓班＆專題班－線上說明會 5/18 (一)  20:00 準時開播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kiz0XZC67s0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kiz0XZC67s0",
-          "publishedOn": "2026-05-13T01:56:46.000Z",
-          "wordCount": null,
-          "title": "（5 月即將開班）AI 開發進化營加碼課：把 Claude Code 當龍蝦用｜卡斯伯老師",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "title": "tx6sb3jf4q",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGiZ0JgBXpGznj-QDJkdgEg",
+      "siteUrl": "https://www.youtube.com/channel/UCGiZ0JgBXpGznj-QDJkdgEg",
       "articles": []
     },
     {
-      "title": "哲宇寇汀吧 CheYu's Coding Bar",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
-      "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
+      "title": "姜本平那村的人儿",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQ4JhzK-tXaehlpE6gUAAg",
+      "siteUrl": "https://www.youtube.com/channel/UCzQ4JhzK-tXaehlpE6gUAAg",
       "articles": []
-    },
-    {
-      "title": "Nick and Ezzi",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Zjvh0Yb2E7reRN-08tqLA",
-      "siteUrl": "https://www.youtube.com/channel/UC0Zjvh0Yb2E7reRN-08tqLA",
-      "articles": []
-    },
-    {
-      "title": "Thomas Chu",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCHVb6alsMj8XfGW1Rx5rRw",
-      "siteUrl": "https://www.youtube.com/channel/UCCHVb6alsMj8XfGW1Rx5rRw",
-      "articles": []
-    },
-    {
-      "title": "陈曦Stanley",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJTx8qeLhUFv2jhoIaM1OA",
-      "siteUrl": "https://www.youtube.com/channel/UCQJTx8qeLhUFv2jhoIaM1OA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yUR1UBhPIPA",
-          "publishedOn": "2026-05-06T12:01:47.000Z",
-          "wordCount": null,
-          "title": "全球唯一可出租的國家列支敦士登：四萬人口的小國體驗國王待遇｜陈曦Stanley",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
