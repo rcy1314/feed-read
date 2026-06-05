@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T04:52:13.564Z</id>
+    <id>urn:2026-06-05T04:36:41.652Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T04:52:13.564Z</updated>
+    <updated>2026-06-05T04:36:41.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[祖克柏相隔 20 年親自下海寫 Code！Meta 員工「狂燒 Token」的背後，軟體工程師真的要失業了嗎？]]></title>
+        <id>https://www.youtube.com/watch?v=yPz40WebH_Y</id>
+        <link href="https://www.youtube.com/watch?v=yPz40WebH_Y"/>
+        <updated>2026-06-04T12:15:10.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút Nhạc EDM Mix Thư Giãn Cho Mùa Hè Sôi Động ♫ Nhạc EDM Gây Nghiện Thư Giãn 2026]]></title>
+        <id>https://www.youtube.com/watch?v=-i7vFZmXzcU</id>
+        <link href="https://www.youtube.com/watch?v=-i7vFZmXzcU"/>
+        <updated>2026-06-04T12:00:33.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Dance Beat for Fitness Promos & Lifestyle Videos 🏃‍♂️ (Free to Use) | Next Route - Fresh]]></title>
+        <id>https://www.youtube.com/watch?v=v-a7l0nVuYw</id>
+        <link href="https://www.youtube.com/watch?v=v-a7l0nVuYw"/>
+        <updated>2026-06-04T11:00:20.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2026 前端工程師培訓班＆專題班】6/3 (三) 20:00 線上說明會｜洧杰校長 主持]]></title>
         <id>https://www.youtube.com/watch?v=XrHlOA40YyM</id>
@@ -12,6 +39,25 @@
         <updated>2026-06-04T03:48:16.000Z</updated>
         <author>
             <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你學會了嗎]]></title>
+        <id>https://www.youtube.com/shorts/uY8pmr63Zl0</id>
+        <link href="https://www.youtube.com/shorts/uY8pmr63Zl0"/>
+        <updated>2026-06-03T16:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - College Tour Pt. 1 Vlog]]></title>
+        <id>https://www.youtube.com/watch?v=t_4mFF5dUTA</id>
+        <link href="https://www.youtube.com/watch?v=t_4mFF5dUTA"/>
+        <updated>2026-06-03T15:00:10.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -33,6 +79,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55: Mauro Fiore, ASC x Shortfilm "Dove Sono Mamma E Papà? (Left Alone)" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=XpULVQ3LFic</id>
+        <link href="https://www.youtube.com/watch?v=XpULVQ3LFic"/>
+        <updated>2026-06-03T09:00:06.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AE 弹性弹跳动画 3步搞定！Squash & Stretch V2]]></title>
+        <id>https://www.youtube.com/shorts/F0JlxkAkPCI</id>
+        <link href="https://www.youtube.com/shorts/F0JlxkAkPCI"/>
+        <updated>2026-06-03T02:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>WenGuang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bản Nhạc EDM Thư Giãn Gây Nghiện Cho Ngày Dài Mỏi Mệt ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=iW9SLuazy_0</id>
         <link href="https://www.youtube.com/watch?v=iW9SLuazy_0"/>
@@ -48,6 +113,34 @@
         <updated>2026-06-02T11:00:23.000Z</updated>
         <author>
             <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[some of them knew]]></title>
+        <id>https://www.youtube.com/shorts/B7O2DV3TCNE</id>
+        <link href="https://www.youtube.com/shorts/B7O2DV3TCNE"/>
+        <updated>2026-06-01T20:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21mm配75mm，极端跳跃的视觉组合｜#原来这么毒# 第129集]]></title>
+        <id>https://www.youtube.com/watch?v=93LsUt_mMWg</id>
+        <link href="https://www.youtube.com/watch?v=93LsUt_mMWg"/>
+        <updated>2026-06-01T13:00:25.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為了「一隻鳥」飛了半個地球｜人生的夢想清單 - 法羅群島]]></title>
+        <id>https://www.youtube.com/watch?v=8XWMLj2eIw8</id>
+        <link href="https://www.youtube.com/watch?v=8XWMLj2eIw8"/>
+        <updated>2026-06-01T12:30:08.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +162,64 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Are we for real now?]]></title>
+        <id>https://www.youtube.com/shorts/cRKxK3txbus</id>
+        <link href="https://www.youtube.com/shorts/cRKxK3txbus"/>
+        <updated>2026-06-01T09:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我花了不到12萬台幣買到了一支勞力士 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/m6PcPTP49oA</id>
+        <link href="https://www.youtube.com/shorts/m6PcPTP49oA"/>
+        <updated>2026-06-01T09:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直男們快去買！ #shorts]]></title>
+        <id>https://www.youtube.com/shorts/wq9cdAYHcpo</id>
+        <link href="https://www.youtube.com/shorts/wq9cdAYHcpo"/>
+        <updated>2026-06-01T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可能是目前最厲害的Vlog相機了]]></title>
+        <id>https://www.youtube.com/shorts/AYObzURyNk4</id>
+        <link href="https://www.youtube.com/shorts/AYObzURyNk4"/>
+        <updated>2026-06-01T06:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFX ETERNA 55: 三本菅 悠 x ショートフィルム "透明なざわめき" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=2gCDK-Sow4o</id>
+        <link href="https://www.youtube.com/watch?v=2gCDK-Sow4o"/>
+        <updated>2026-06-01T05:00:27.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[メイキング映像] GFX ETERNA 55: 三本菅 悠 x ショートフィルム "透明なざわめき" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=CeLert6df3E</id>
+        <link href="https://www.youtube.com/watch?v=CeLert6df3E"/>
+        <updated>2026-06-01T05:00:22.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nhạc EDM Mix Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc EDM Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=oSVr9L6xTzk</id>
         <link href="https://www.youtube.com/watch?v=oSVr9L6xTzk"/>
@@ -78,7 +229,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calm Cinematic Music for Documentaries 🍃 (No Copyright) | Scott Buckley - Simplicity]]></title>
+        <title type="html"><![CDATA[Peaceful Cinematic Vibe for Storytelling ✨ (Royalty Free) | Scott Buckley - Simplicity]]></title>
         <id>https://www.youtube.com/watch?v=6ZG1qx57t98</id>
         <link href="https://www.youtube.com/watch?v=6ZG1qx57t98"/>
         <updated>2026-05-31T11:00:00.000Z</updated>
@@ -120,6 +271,26 @@
         <updated>2026-05-29T11:00:05.000Z</updated>
         <author>
             <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI Pocket4 推薦給你！]]></title>
+        <id>https://www.youtube.com/shorts/wmiHpIbH5MM</id>
+        <link href="https://www.youtube.com/shorts/wmiHpIbH5MM"/>
+        <updated>2026-05-29T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人像攝影引導技巧！ #人像寫真 #攝影教學 #拍照 #引導 #拍照姿勢  #我都ok啊 #攝影技巧]]></title>
+        <id>https://www.youtube.com/shorts/rdK8uV7Sk8Q</id>
+        <link href="https://www.youtube.com/shorts/rdK8uV7Sk8Q"/>
+        <updated>2026-05-28T12:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +339,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[BTS]GFX ETERNA 55: Mauro Fiore x Shortfilm "Dove Sono Mamma E Papà? (Left Alone)" / FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=nMXLKsSuNt0</id>
+        <link href="https://www.youtube.com/watch?v=nMXLKsSuNt0"/>
+        <updated>2026-05-27T05:00:06.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 AI 当“造型师” #ai工具]]></title>
+        <id>https://www.youtube.com/shorts/G7WVuLoZTfE</id>
+        <link href="https://www.youtube.com/shorts/G7WVuLoZTfE"/>
+        <updated>2026-05-27T04:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>WenGuang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Emotional & Chill Music for YouTube & Stories 🏕️ (Royalty Free) | Johny Grimes - Long Journey Home]]></title>
         <id>https://www.youtube.com/watch?v=xM6bzdhgbFk</id>
         <link href="https://www.youtube.com/watch?v=xM6bzdhgbFk"/>
@@ -183,6 +373,15 @@
         <updated>2026-05-25T12:35:03.000Z</updated>
         <author>
             <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[找到適合你的小相機｜2026年不可換鏡頭相機推薦]]></title>
+        <id>https://www.youtube.com/watch?v=o35EMCRDBrE</id>
+        <link href="https://www.youtube.com/watch?v=o35EMCRDBrE"/>
+        <updated>2026-05-25T12:30:00.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -222,6 +421,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[24小时超长【福州长乐游神】拍摄全记录！#原来这么拍# 第264集]]></title>
+        <id>https://www.youtube.com/watch?v=lx1rhYuEltk</id>
+        <link href="https://www.youtube.com/watch?v=lx1rhYuEltk"/>
+        <updated>2026-05-23T12:30:39.000Z</updated>
+        <author>
+            <name>左手+</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EDM Nightcore Cực Chill "Thư Giãn Mùa Hè" ♫ Top Nhạc EDM Nightcore Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=IKm2uz8rrB8</id>
         <link href="https://www.youtube.com/watch?v=IKm2uz8rrB8"/>
@@ -237,6 +445,25 @@
         <updated>2026-05-23T11:00:47.000Z</updated>
         <author>
             <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Image 2 + Seedance 2.0 能做到什么？]]></title>
+        <id>https://www.youtube.com/shorts/qDoXpQ9-2b0</id>
+        <link href="https://www.youtube.com/shorts/qDoXpQ9-2b0"/>
+        <updated>2026-05-23T09:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>WenGuang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【测评】VisualGPT.io 真实测评：AI一键生成YouTube封面+虚拟试衣+房间设计，到底值不值得用？]]></title>
+        <id>https://www.youtube.com/watch?v=YOr6t-Kr5AM</id>
+        <link href="https://www.youtube.com/watch?v=YOr6t-Kr5AM"/>
+        <updated>2026-05-23T08:59:32.000Z</updated>
+        <author>
+            <name>WenGuang</name>
         </author>
     </entry>
     <entry>
@@ -258,6 +485,95 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GDP增速一路下跌，为什么反而说这是成功的五年？【大国阶梯·十二五规划】]]></title>
+        <id>https://www.youtube.com/watch?v=vFdBBiAapRg</id>
+        <link href="https://www.youtube.com/watch?v=vFdBBiAapRg"/>
+        <updated>2026-05-22T07:50:43.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRO Neg.Std FS RECIPE x Gyu-yeon Lee / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/jeBYhEMBJ1E</id>
+        <link href="https://www.youtube.com/shorts/jeBYhEMBJ1E"/>
+        <updated>2026-05-22T05:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRO Neg.Std FS RECIPE x Derrick Ong / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/cpsWP1Ps2dE</id>
+        <link href="https://www.youtube.com/shorts/cpsWP1Ps2dE"/>
+        <updated>2026-05-22T05:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRO Neg. Std FS RECIPE x Juan Pablo/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/shorts/hgPGA98PH8o</id>
+        <link href="https://www.youtube.com/shorts/hgPGA98PH8o"/>
+        <updated>2026-05-22T05:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRO Neg.Std FS RECIPE x Paolo Emanuele Barretta/ FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/NxK9tUvXp7w</id>
+        <link href="https://www.youtube.com/shorts/NxK9tUvXp7w"/>
+        <updated>2026-05-22T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRO Neg. Std FS RECIPE x Maggie Parisé / FUJIFILM]]></title>
+        <id>https://www.youtube.com/shorts/DiCNXXoWgC8</id>
+        <link href="https://www.youtube.com/shorts/DiCNXXoWgC8"/>
+        <updated>2026-05-22T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using technology for what it’s meant for]]></title>
+        <id>https://www.youtube.com/shorts/j3w3W01UcZg</id>
+        <link href="https://www.youtube.com/shorts/j3w3W01UcZg"/>
+        <updated>2026-05-21T19:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony 全新100-400mm鏡頭來囉！]]></title>
+        <id>https://www.youtube.com/shorts/X9wRgB46hIQ</id>
+        <link href="https://www.youtube.com/shorts/X9wRgB46hIQ"/>
+        <updated>2026-05-21T13:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Niccolls x WOTANCRAFT Pilot 88 聯名包款]]></title>
+        <id>https://www.youtube.com/shorts/ryFMpP_Yjsk</id>
+        <link href="https://www.youtube.com/shorts/ryFMpP_Yjsk"/>
+        <updated>2026-05-21T13:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc Nightcore Siêu Phiêu Không Lối Thoát ♫ Nhạc EDM Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=nrdwpkfwaZ4</id>
         <link href="https://www.youtube.com/watch?v=nrdwpkfwaZ4"/>
@@ -276,6 +592,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[致喜愛望遠鏡頭的你！夢想的人生鏡頭｜Sony FE 100-400mm F4.5 GM OSS]]></title>
+        <id>https://www.youtube.com/watch?v=j1_syzNSek0</id>
+        <link href="https://www.youtube.com/watch?v=j1_syzNSek0"/>
+        <updated>2026-05-21T04:05:29.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10款5月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第7期！]]></title>
         <id>https://www.youtube.com/watch?v=QPSpKjrydek</id>
         <link href="https://www.youtube.com/watch?v=QPSpKjrydek"/>
@@ -285,12 +610,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Dance Music for Gaming Streams & Montages 🎮 (Free to Use) | tubebackr - Keep Speech Free]]></title>
-        <id>https://www.youtube.com/watch?v=5yKiaADVe4w</id>
-        <link href="https://www.youtube.com/watch?v=5yKiaADVe4w"/>
-        <updated>2026-05-20T11:00:15.000Z</updated>
+        <title type="html"><![CDATA[The Chainsmokers - Ultra AUS/NZ 2026 Vlog]]></title>
+        <id>https://www.youtube.com/watch?v=7vwhzIpva8s</id>
+        <link href="https://www.youtube.com/watch?v=7vwhzIpva8s"/>
+        <updated>2026-05-19T19:18:18.000Z</updated>
         <author>
-            <name>Audio Library</name>
+            <name>The Chainsmokers</name>
         </author>
     </entry>
     <entry>
@@ -312,12 +637,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Came for nostalgia, stayed for Alex on the mic 🤣]]></title>
+        <id>https://www.youtube.com/shorts/IEmGWIQKS4k</id>
+        <link href="https://www.youtube.com/shorts/IEmGWIQKS4k"/>
+        <updated>2026-05-18T22:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - The Making of Love Is Kind EP Vlog Pt. 2]]></title>
+        <id>https://www.youtube.com/watch?v=2lz0ra9A6Pk</id>
+        <link href="https://www.youtube.com/watch?v=2lz0ra9A6Pk"/>
+        <updated>2026-05-18T17:11:03.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【出國怎麼拍？】雪地的人像構圖小技巧！札幌三個好拍的地方｜ft. Luminar Neo]]></title>
+        <id>https://www.youtube.com/watch?v=Y-M0RsPVd_U</id>
+        <link href="https://www.youtube.com/watch?v=Y-M0RsPVd_U"/>
+        <updated>2026-05-18T12:30:42.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2026年類《寶可夢》的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
         <id>https://www.youtube.com/watch?v=cJEVHa495h0</id>
         <link href="https://www.youtube.com/watch?v=cJEVHa495h0"/>
         <updated>2026-05-18T12:01:05.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a7r6全新功能按鍵！]]></title>
+        <id>https://www.youtube.com/shorts/57RKmYJfDPE</id>
+        <link href="https://www.youtube.com/shorts/57RKmYJfDPE"/>
+        <updated>2026-05-18T10:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +702,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Our full set from Ultra in Melbourne is up now]]></title>
+        <id>https://www.youtube.com/shorts/BxqnmdpamBk</id>
+        <link href="https://www.youtube.com/shorts/BxqnmdpamBk"/>
+        <updated>2026-05-15T17:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers - Live @ Ultra Melbourne 2026]]></title>
+        <id>https://www.youtube.com/watch?v=A5ERobJaS_0</id>
+        <link href="https://www.youtube.com/watch?v=A5ERobJaS_0"/>
+        <updated>2026-05-15T15:00:03.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TOP Nhạc EDM Mix Cực Phiêu Của "TheFatRat" ♫ EDM Gaming Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=auu_5ANVxCM</id>
         <link href="https://www.youtube.com/watch?v=auu_5ANVxCM"/>
@@ -354,6 +736,43 @@
         <updated>2026-05-15T12:00:04.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XC13-33mmF3.5-6.3 OIS x Richard Wong/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=TKRB7lrCjfU</id>
+        <link href="https://www.youtube.com/watch?v=TKRB7lrCjfU"/>
+        <updated>2026-05-15T05:00:23.000Z</updated>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony α7R VI來囉！！！]]></title>
+        <id>https://www.youtube.com/shorts/qLjXwiiPNzE</id>
+        <link href="https://www.youtube.com/shorts/qLjXwiiPNzE"/>
+        <updated>2026-05-14T03:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超高續航加高速連拍！超過你對 R 系列的認知｜Sony α7R VI]]></title>
+        <id>https://www.youtube.com/watch?v=W8M0buwx2-I</id>
+        <link href="https://www.youtube.com/watch?v=W8M0buwx2-I"/>
+        <updated>2026-05-14T02:30:18.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thypoch 24-50mm F2.8 ——中国第一支全画幅自动对焦变焦镜头！大量样片实拍测试]]></title>
+        <id>https://www.youtube.com/watch?v=IWPSdxQ3VfE</id>
+        <link href="https://www.youtube.com/watch?v=IWPSdxQ3VfE"/>
+        <updated>2026-05-14T02:15:01.000Z</updated>
+        <author>
+            <name>左手+</name>
         </author>
     </entry>
     <entry>
@@ -384,6 +803,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[we were filming this…]]></title>
+        <id>https://www.youtube.com/shorts/7cm273vuETU</id>
+        <link href="https://www.youtube.com/shorts/7cm273vuETU"/>
+        <updated>2026-05-12T20:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XC13-33mmF3.5-6.3 OIS x Richard Wong/Reel/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/shorts/XrFuxDbSVLo</id>
+        <link href="https://www.youtube.com/shorts/XrFuxDbSVLo"/>
+        <updated>2026-05-12T05:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayoooo thank you so much for the love on FIVE PAST THREE!!!!]]></title>
+        <id>https://www.youtube.com/shorts/jgVUg5JHWF8</id>
+        <link href="https://www.youtube.com/shorts/jgVUg5JHWF8"/>
+        <updated>2026-05-11T20:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EDM Mix Cực Phiêu ♫ TOP 20 Bản Nhạc EDM Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=dww2XEIgVEE</id>
         <link href="https://www.youtube.com/watch?v=dww2XEIgVEE"/>
@@ -411,6 +860,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[See… we do smoke. LOVE IS KIND IS OUT MEOWWWW!!!!]]></title>
+        <id>https://www.youtube.com/shorts/e8Ft0nhi17k</id>
+        <link href="https://www.youtube.com/shorts/e8Ft0nhi17k"/>
+        <updated>2026-05-08T16:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5月份10款必玩手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第4期！]]></title>
         <id>https://www.youtube.com/watch?v=0Cq0hjhEXCE</id>
         <link href="https://www.youtube.com/watch?v=0Cq0hjhEXCE"/>
@@ -420,30 +879,49 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Love Is Kind (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=DtU94kpPeFM</id>
+        <link href="https://www.youtube.com/watch?v=DtU94kpPeFM"/>
+        <updated>2026-05-08T04:00:29.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Wild (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=6LjDSYW_cPI</id>
+        <link href="https://www.youtube.com/watch?v=6LjDSYW_cPI"/>
+        <updated>2026-05-08T04:00:21.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Chainsmokers, Oaks - Five Past Three (Official Visualizer)]]></title>
+        <id>https://www.youtube.com/watch?v=H_Z0Kv-LWkU</id>
+        <link href="https://www.youtube.com/watch?v=H_Z0Kv-LWkU"/>
+        <updated>2026-05-08T04:00:10.000Z</updated>
+        <author>
+            <name>The Chainsmokers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【嘉義老建築 】嘉義很多日式老建築，拍一個月都可以吧！ #攝影教學 #引導 #攝影技巧 #人像寫真]]></title>
+        <id>https://www.youtube.com/shorts/JtSkIG10ddY</id>
+        <link href="https://www.youtube.com/shorts/JtSkIG10ddY"/>
+        <updated>2026-05-07T12:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TOP Nhạc EDM Thư Giãn Dễ Ngủ Giải Nhiệt Mùa Hè ♫ EDM Mix Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=YqwTUmfBb4E</id>
         <link href="https://www.youtube.com/watch?v=YqwTUmfBb4E"/>
         <updated>2026-05-07T12:01:05.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球唯一可出租的國家列支敦士登：四萬人口的小國體驗國王待遇｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=yUR1UBhPIPA</id>
-        <link href="https://www.youtube.com/watch?v=yUR1UBhPIPA"/>
-        <updated>2026-05-06T12:01:47.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月份10款必玩手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第3期！]]></title>
-        <id>https://www.youtube.com/watch?v=aMISxeTTGd0</id>
-        <link href="https://www.youtube.com/watch?v=aMISxeTTGd0"/>
-        <updated>2026-05-06T12:00:02.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
