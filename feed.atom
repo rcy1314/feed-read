@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-07T04:45:59.752Z</id>
+    <id>urn:2026-06-08T04:51:00.289Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T04:45:59.752Z</updated>
+    <updated>2026-06-08T04:51:00.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高考背后的“隐形巨型系统”：一场千万人参与的“国家级精密运维”【大国之治·高考运行系统】]]></title>
+        <id>https://www.youtube.com/watch?v=xHN1yhZGp5U</id>
+        <link href="https://www.youtube.com/watch?v=xHN1yhZGp5U"/>
+        <updated>2026-06-07T11:55:34.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspiring Orchestral Music for Documentaries 🦅 (Royalty Free) | Scott Buckley - Clear Skies]]></title>
+        <id>https://www.youtube.com/watch?v=T-6HH5G_1uo</id>
+        <link href="https://www.youtube.com/watch?v=T-6HH5G_1uo"/>
+        <updated>2026-06-07T11:00:21.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Nhạc EDM Mix Cho Ngày Dài mệt Mỏi ♫ Nhạc EDM Gây Nghiện Hay Nhất 2026]]></title>
         <id>https://www.youtube.com/watch?v=OBuc6HROJkw</id>
@@ -555,15 +573,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uplifting Tropical House for Summer Vlogs & Travel Montages 🌴 (No Copyright) | Johny Grimes - Lagoon]]></title>
-        <id>https://www.youtube.com/watch?v=gmSJ0w9Gu_k</id>
-        <link href="https://www.youtube.com/watch?v=gmSJ0w9Gu_k"/>
-        <updated>2026-05-23T11:00:47.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT Image 2 + Seedance 2.0 能做到什么？]]></title>
         <id>https://www.youtube.com/shorts/qDoXpQ9-2b0</id>
         <link href="https://www.youtube.com/shorts/qDoXpQ9-2b0"/>
@@ -917,15 +926,6 @@
         <updated>2026-05-11T12:00:18.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút Nhạc EDM Mix Chill Giải Nhiệt Mùa Hè ♫ TOP Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
-        <id>https://www.youtube.com/watch?v=zQSznBoHA9Y</id>
-        <link href="https://www.youtube.com/watch?v=zQSznBoHA9Y"/>
-        <updated>2026-05-09T12:01:47.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
