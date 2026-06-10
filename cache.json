@@ -1,4 +1,64 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "左手+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvqg0fyR1cE_PsuFEgKJpgg",
+      "siteUrl": "https://www.youtube.com/channel/UCvqg0fyR1cE_PsuFEgKJpgg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GxjuPswaXxw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GxjuPswaXxw",
+          "publishedOn": "2026-06-09T00:00:12.000Z",
+          "wordCount": null,
+          "title": "被遗忘的徕卡圣地：加拿大米德兰工厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=93LsUt_mMWg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=93LsUt_mMWg",
+          "publishedOn": "2026-06-01T13:00:25.000Z",
+          "wordCount": null,
+          "title": "21mm配75mm，极端跳跃的视觉组合｜#原来这么毒# 第129集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lx1rhYuEltk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lx1rhYuEltk",
+          "publishedOn": "2026-05-23T12:30:39.000Z",
+          "wordCount": null,
+          "title": "24小时超长【福州长乐游神】拍摄全记录！#原来这么拍# 第264集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IWPSdxQ3VfE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IWPSdxQ3VfE",
+          "publishedOn": "2026-05-14T02:15:01.000Z",
+          "wordCount": null,
+          "title": "Thypoch 24-50mm F2.8 ——中国第一支全画幅自动对焦变焦镜头！大量样片实拍测试",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "懒人摄影",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
+      "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
+      "articles": []
+    },
+    {
+      "title": "無私設計分享",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
+      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
