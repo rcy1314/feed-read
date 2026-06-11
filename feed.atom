@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T04:24:24.847Z</id>
+    <id>urn:2026-06-11T04:46:50.402Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T04:24:24.847Z</updated>
+    <updated>2026-06-11T04:46:50.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[被遗忘的徕卡圣地：加拿大米德兰工厂]]></title>
-        <id>https://www.youtube.com/watch?v=GxjuPswaXxw</id>
-        <link href="https://www.youtube.com/watch?v=GxjuPswaXxw"/>
-        <updated>2026-06-09T00:00:12.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21mm配75mm，极端跳跃的视觉组合｜#原来这么毒# 第129集]]></title>
-        <id>https://www.youtube.com/watch?v=93LsUt_mMWg</id>
-        <link href="https://www.youtube.com/watch?v=93LsUt_mMWg"/>
-        <updated>2026-06-01T13:00:25.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24小时超长【福州长乐游神】拍摄全记录！#原来这么拍# 第264集]]></title>
-        <id>https://www.youtube.com/watch?v=lx1rhYuEltk</id>
-        <link href="https://www.youtube.com/watch?v=lx1rhYuEltk"/>
-        <updated>2026-05-23T12:30:39.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thypoch 24-50mm F2.8 ——中国第一支全画幅自动对焦变焦镜头！大量样片实拍测试]]></title>
-        <id>https://www.youtube.com/watch?v=IWPSdxQ3VfE</id>
-        <link href="https://www.youtube.com/watch?v=IWPSdxQ3VfE"/>
-        <updated>2026-05-14T02:15:01.000Z</updated>
-        <author>
-            <name>左手+</name>
-        </author>
-    </entry>
 </feed>
