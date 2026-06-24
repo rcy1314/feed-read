@@ -1,66 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-23T04:10:33.014Z</id>
+    <id>urn:2026-06-24T04:13:37.175Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T04:10:33.014Z</updated>
+    <updated>2026-06-24T04:13:37.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[No telling what happens when I leave the decks]]></title>
-        <id>https://www.youtube.com/shorts/Oh_hTcoaa1U</id>
-        <link href="https://www.youtube.com/shorts/Oh_hTcoaa1U"/>
-        <updated>2026-06-22T19:01:41.000Z</updated>
+        <title type="html"><![CDATA[TILTA鐵頭瞬境磁吸濾鏡套裝]]></title>
+        <id>https://www.youtube.com/shorts/i0ekmTo7JfQ</id>
+        <link href="https://www.youtube.com/shorts/i0ekmTo7JfQ"/>
+        <updated>2026-06-23T11:29:37.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>The Chainsmokers</name>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Chainsmokers - College Tour Pt. 2 Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=pkGDDl-O_nw</id>
-        <link href="https://www.youtube.com/watch?v=pkGDDl-O_nw"/>
-        <updated>2026-06-18T15:00:01.000Z</updated>
+        <title type="html"><![CDATA[加上手把後體驗升級！極具個性與風格的相機｜Sigma BF｜ft. 鐵頭TILTA 瞬境磁吸濾鏡套組]]></title>
+        <id>https://www.youtube.com/watch?v=FbpV3t6Xiu4</id>
+        <link href="https://www.youtube.com/watch?v=FbpV3t6Xiu4"/>
+        <updated>2026-06-22T12:30:38.000Z</updated>
         <author>
-            <name>The Chainsmokers</name>
+            <name>我都ok啊</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[And now you’re all i seeeeeeeeee]]></title>
-        <id>https://www.youtube.com/shorts/mzPw4aeMHcI</id>
-        <link href="https://www.youtube.com/shorts/mzPw4aeMHcI"/>
-        <updated>2026-06-09T20:27:55.000Z</updated>
+        <title type="html"><![CDATA[AE Gradients Boring? This FREE Plugin Makes Text Flow Automatically]]></title>
+        <id>https://www.youtube.com/shorts/x1deqtuwE3c</id>
+        <link href="https://www.youtube.com/shorts/x1deqtuwE3c"/>
+        <updated>2026-06-16T07:38:15.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>The Chainsmokers</name>
+            <name>文广同学</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[thriving even]]></title>
-        <id>https://www.youtube.com/shorts/hRHoIGny0-0</id>
-        <link href="https://www.youtube.com/shorts/hRHoIGny0-0"/>
-        <updated>2026-06-05T20:24:36.000Z</updated>
+        <title type="html"><![CDATA[走進雪國之境｜札幌近郊半日輕鬆自駕！]]></title>
+        <id>https://www.youtube.com/watch?v=f6p3dtfCpEM</id>
+        <link href="https://www.youtube.com/watch?v=f6p3dtfCpEM"/>
+        <updated>2026-06-15T12:30:11.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5-Min After Effects Hack: Make Flowing Rainbow Text (FREE Plugin!)]]></title>
+        <id>https://www.youtube.com/shorts/EUUoEy1_Z-Y</id>
+        <link href="https://www.youtube.com/shorts/EUUoEy1_Z-Y"/>
+        <updated>2026-06-14T10:57:22.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>The Chainsmokers</name>
+            <name>文广同学</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Chainsmokers - College Tour Pt. 1 Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=t_4mFF5dUTA</id>
-        <link href="https://www.youtube.com/watch?v=t_4mFF5dUTA"/>
-        <updated>2026-06-03T15:00:10.000Z</updated>
+        <title type="html"><![CDATA[AE免费插件！5分钟做出会自己流动的彩虹渐变文字]]></title>
+        <id>https://www.youtube.com/watch?v=KYUpah5P0zE</id>
+        <link href="https://www.youtube.com/watch?v=KYUpah5P0zE"/>
+        <updated>2026-06-14T07:49:53.000Z</updated>
         <author>
-            <name>The Chainsmokers</name>
+            <name>文广同学</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[some of them knew]]></title>
-        <id>https://www.youtube.com/shorts/B7O2DV3TCNE</id>
-        <link href="https://www.youtube.com/shorts/B7O2DV3TCNE"/>
-        <updated>2026-06-01T20:03:03.000Z</updated>
+        <title type="html"><![CDATA[70多年「对台政策」解析！“台独”势力的末日何时到来？]]></title>
+        <id>https://www.youtube.com/watch?v=NMt10RIjcGQ</id>
+        <link href="https://www.youtube.com/watch?v=NMt10RIjcGQ"/>
+        <updated>2026-06-13T02:00:29.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那年你写下了什么？复盘1977—2025年高考作文题【大国之治·高考作文题】]]></title>
+        <id>https://www.youtube.com/watch?v=3xYReX1TGJI</id>
+        <link href="https://www.youtube.com/watch?v=3xYReX1TGJI"/>
+        <updated>2026-06-11T12:46:12.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】AI 比不过谷歌，Siri 学习安卓？苹果：那能一样吗！]]></title>
+        <id>https://www.youtube.com/watch?v=o2OvyS10nyw</id>
+        <link href="https://www.youtube.com/watch?v=o2OvyS10nyw"/>
+        <updated>2026-06-10T13:46:46.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[極限夜間測｜Sony α7R6]]></title>
+        <id>https://www.youtube.com/shorts/VANFqZQbkrg</id>
+        <link href="https://www.youtube.com/shorts/VANFqZQbkrg"/>
+        <updated>2026-06-10T04:00:07.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
-            <name>The Chainsmokers</name>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【爱否】影像"机皇" 已死，现在是焦段的战争]]></title>
+        <id>https://www.youtube.com/watch?v=XS3oIyEPQU4</id>
+        <link href="https://www.youtube.com/watch?v=XS3oIyEPQU4"/>
+        <updated>2026-06-09T03:25:32.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28mm 與 35mm 怎麼選？視角與景深的終極二選一！]]></title>
+        <id>https://www.youtube.com/watch?v=_UyNHJDdb8Y</id>
+        <link href="https://www.youtube.com/watch?v=_UyNHJDdb8Y"/>
+        <updated>2026-06-08T12:30:13.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高考背后的“隐形巨型系统”：一场千万人参与的“国家级精密运维”【大国之治·高考运行系统】]]></title>
+        <id>https://www.youtube.com/watch?v=xHN1yhZGp5U</id>
+        <link href="https://www.youtube.com/watch?v=xHN1yhZGp5U"/>
+        <updated>2026-06-07T11:55:34.000Z</updated>
+        <author>
+            <name>大象放映室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你學會了嗎]]></title>
+        <id>https://www.youtube.com/shorts/uY8pmr63Zl0</id>
+        <link href="https://www.youtube.com/shorts/uY8pmr63Zl0"/>
+        <updated>2026-06-03T16:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AE 弹性弹跳动画 3步搞定！Squash & Stretch V2]]></title>
+        <id>https://www.youtube.com/shorts/F0JlxkAkPCI</id>
+        <link href="https://www.youtube.com/shorts/F0JlxkAkPCI"/>
+        <updated>2026-06-03T02:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>文广同学</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為了「一隻鳥」飛了半個地球｜人生的夢想清單 - 法羅群島]]></title>
+        <id>https://www.youtube.com/watch?v=8XWMLj2eIw8</id>
+        <link href="https://www.youtube.com/watch?v=8XWMLj2eIw8"/>
+        <updated>2026-06-01T12:30:08.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we for real now?]]></title>
+        <id>https://www.youtube.com/shorts/cRKxK3txbus</id>
+        <link href="https://www.youtube.com/shorts/cRKxK3txbus"/>
+        <updated>2026-06-01T09:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我花了不到12萬台幣買到了一支勞力士 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/m6PcPTP49oA</id>
+        <link href="https://www.youtube.com/shorts/m6PcPTP49oA"/>
+        <updated>2026-06-01T09:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直男們快去買！ #shorts]]></title>
+        <id>https://www.youtube.com/shorts/wq9cdAYHcpo</id>
+        <link href="https://www.youtube.com/shorts/wq9cdAYHcpo"/>
+        <updated>2026-06-01T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可能是目前最厲害的Vlog相機了]]></title>
+        <id>https://www.youtube.com/shorts/AYObzURyNk4</id>
+        <link href="https://www.youtube.com/shorts/AYObzURyNk4"/>
+        <updated>2026-06-01T06:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DJI Pocket4 推薦給你！]]></title>
+        <id>https://www.youtube.com/shorts/wmiHpIbH5MM</id>
+        <link href="https://www.youtube.com/shorts/wmiHpIbH5MM"/>
+        <updated>2026-05-29T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人像攝影引導技巧！ #人像寫真 #攝影教學 #拍照 #引導 #拍照姿勢  #我都ok啊 #攝影技巧]]></title>
+        <id>https://www.youtube.com/shorts/rdK8uV7Sk8Q</id>
+        <link href="https://www.youtube.com/shorts/rdK8uV7Sk8Q"/>
+        <updated>2026-05-28T12:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么样的光学改动，能让巨幕眼镜重生？雷鸟 GT Max 评测]]></title>
+        <id>https://www.youtube.com/watch?v=G6ooFCusAZA</id>
+        <link href="https://www.youtube.com/watch?v=G6ooFCusAZA"/>
+        <updated>2026-05-28T08:52:47.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 AI 当“造型师” #ai工具]]></title>
+        <id>https://www.youtube.com/shorts/G7WVuLoZTfE</id>
+        <link href="https://www.youtube.com/shorts/G7WVuLoZTfE"/>
+        <updated>2026-05-27T04:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>文广同学</name>
         </author>
     </entry>
 </feed>
