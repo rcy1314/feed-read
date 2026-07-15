@@ -1,32 +1,15 @@
 {
   "sources": [
     {
-      "title": "文广同学",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
-      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/x1deqtuwE3c",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/x1deqtuwE3c",
-          "publishedOn": "2026-06-16T07:38:15.000Z",
-          "wordCount": 2114,
-          "title": "AE Gradients Boring? This FREE Plugin Makes Text Flow Automatically",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "title": "Cruising Cat风光喵",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
+      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
       "articles": []
     },
     {
-      "title": "Thomas Chu",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCHVb6alsMj8XfGW1Rx5rRw",
-      "siteUrl": "https://www.youtube.com/channel/UCCHVb6alsMj8XfGW1Rx5rRw",
+      "title": "Thomas看看世界",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9AsbX_TBYfUAMxLNSU6J7A",
+      "siteUrl": "https://www.youtube.com/channel/UC9AsbX_TBYfUAMxLNSU6J7A",
       "articles": []
     }
   ],
