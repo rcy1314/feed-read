@@ -1,15 +1,148 @@
 {
   "sources": [
     {
-      "title": "Cruising Cat风光喵",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
+      "title": "FURY EDM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
+      "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6vB_IxmHm0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6vB_IxmHm0Q",
+          "publishedOn": "2026-07-14T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Top 10 Bản Nhạc EDM Thư Giãn, Giảm Stress ♫ Nhạc EDM Chill Cho Ngày Dài Mỏi Mệt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8BSMQfPkf7g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8BSMQfPkf7g",
+          "publishedOn": "2026-07-12T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Nevada x With You ♫ Top 10 Bản Nhạc EDM Mix Nghe Hoài Không Chán",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j4QhdhvYF60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j4QhdhvYF60",
+          "publishedOn": "2026-07-10T12:00:12.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc EDM Thư Giãn Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=B9DM_A4Zh-w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=B9DM_A4Zh-w",
+          "publishedOn": "2026-07-08T12:00:33.000Z",
+          "wordCount": null,
+          "title": "Top 20 Bản Nhạc EDM Mix Cực Phiêu Nghe Hoài Không Chán ♫ Nhạc EDM Mix Chill 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fgSH4K-N-bE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fgSH4K-N-bE",
+          "publishedOn": "2026-07-06T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Top 15 Bản Nhạc EDM Nghe Hoài Không Chán ♫ Nhạc EDM Thư Giãn Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jn7iHuYCfeY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jn7iHuYCfeY",
+          "publishedOn": "2026-07-04T12:00:17.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NoaRmG3x6c4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NoaRmG3x6c4",
+          "publishedOn": "2026-07-02T12:00:02.000Z",
+          "wordCount": null,
+          "title": "Chút Nhạc EDM Mix Cực Phiêu Dành Cho Game Thủ ♫ Top 10 Bản Nhạc EDM Mix Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=otnqhWpHoH8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=otnqhWpHoH8",
+          "publishedOn": "2026-06-30T12:22:03.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Mix Chill Cho Ngày Dài Mệt Mỏi ♫ Top 10 Bản Nhạc EDM Nghe Hoài Không Chán",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CTigxog4EN0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CTigxog4EN0",
+          "publishedOn": "2026-06-28T12:00:22.000Z",
+          "wordCount": null,
+          "title": "Chút Nhạc EDM Tobu Mix Cực Phiêu ♫ Top Nhạc EDM Gây Nghiện Nghe Hoài Không Chán",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Sq_H0EtVfmw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sq_H0EtVfmw",
+          "publishedOn": "2026-06-26T12:00:32.000Z",
+          "wordCount": null,
+          "title": "Một Chút Nhạc EDM Chill Nhiều Cảm Xúc ♫ Nhạc EDM Thư Giãn Gây Nghiện Hay Nhất",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u_Cy_tuQaWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u_Cy_tuQaWU",
+          "publishedOn": "2026-06-24T12:00:29.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Mix Chill Nghe Hoài Không Chán ♫ Nhạc EDM Thư Giãn Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AZI74cZzyIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AZI74cZzyIk",
+          "publishedOn": "2026-06-22T12:00:12.000Z",
+          "wordCount": null,
+          "title": "Top Nhạc EDM Mix Chill Nhiều Cảm Xúc ♫ Nhạc EDM Thư Giãn Hay Nhất 2026",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "哲宇寇汀吧 CheYu's Coding Bar",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHX_XMhPrtvOmgGOnA2eTmA",
+      "siteUrl": "https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA",
       "articles": []
     },
     {
-      "title": "Thomas看看世界",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9AsbX_TBYfUAMxLNSU6J7A",
-      "siteUrl": "https://www.youtube.com/channel/UC9AsbX_TBYfUAMxLNSU6J7A",
+      "title": "巫师后期.wrcolor",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
+      "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
+      "articles": []
+    },
+    {
+      "title": "HeyDrones",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
+      "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
       "articles": []
     }
   ],
