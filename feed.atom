@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-17T03:25:38.701Z</id>
+    <id>urn:2026-07-18T03:14:30.024Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T03:25:38.701Z</updated>
+    <updated>2026-07-18T03:14:30.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026世界杯10张神图逐张解析！每一张都是决定性瞬间！]]></title>
+        <id>https://www.youtube.com/watch?v=t1zEWdzjkgw</id>
+        <link href="https://www.youtube.com/watch?v=t1zEWdzjkgw"/>
+        <updated>2026-07-17T16:30:07.000Z</updated>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鐵頭 Pocket 4 系列專屬配件 一套搞定]]></title>
+        <id>https://www.youtube.com/shorts/GUaxnHwmh9U</id>
+        <link href="https://www.youtube.com/shorts/GUaxnHwmh9U"/>
+        <updated>2026-07-17T15:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年7月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第7期！]]></title>
+        <id>https://www.youtube.com/watch?v=WLhNMaZ4MpE</id>
+        <link href="https://www.youtube.com/watch?v=WLhNMaZ4MpE"/>
+        <updated>2026-07-17T12:00:17.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hype Trap & Dance Beat for Action Videos & Streams 🔥 (Free to Use)  Next Route - Ra ta ta]]></title>
+        <id>https://www.youtube.com/watch?v=5vmapgjcbpg</id>
+        <link href="https://www.youtube.com/watch?v=5vmapgjcbpg"/>
+        <updated>2026-07-17T11:00:14.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Nhạc EDM Chơi Game Hay Nhất Của "TheFatRat" ♫ Nhạc Điện Tử Gây Nghiện 2026]]></title>
         <id>https://www.youtube.com/watch?v=xD9bwBnelPc</id>
@@ -488,15 +525,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Electronic Music for Travel Vlogs & Lifestyle 🌴 (No Copyright) | tubebackr - Awakening]]></title>
-        <id>https://www.youtube.com/watch?v=vd1ua9s0kMc</id>
-        <link href="https://www.youtube.com/watch?v=vd1ua9s0kMc"/>
-        <updated>2026-07-02T11:00:31.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年7月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
         <id>https://www.youtube.com/watch?v=1d2H4nzs87k</id>
         <link href="https://www.youtube.com/watch?v=1d2H4nzs87k"/>
@@ -734,15 +762,6 @@
         <updated>2026-06-19T04:38:26.000Z</updated>
         <author>
             <name>D2izy +.+</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - College Tour Pt. 2 Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=pkGDDl-O_nw</id>
-        <link href="https://www.youtube.com/watch?v=pkGDDl-O_nw"/>
-        <updated>2026-06-18T15:00:01.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
