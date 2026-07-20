@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-19T03:35:09.285Z</id>
+    <id>urn:2026-07-20T03:49:41.562Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T03:35:09.285Z</updated>
+    <updated>2026-07-20T03:49:41.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Cinematic Music for Documentaries & Trailers 🎬 (Royalty Free) | Scott Buckley - Rise Above]]></title>
+        <id>https://www.youtube.com/watch?v=UmD0k5YL80Y</id>
+        <link href="https://www.youtube.com/watch?v=UmD0k5YL80Y"/>
+        <updated>2026-07-19T11:00:17.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc EDM Thư Giãn Gây Nghiện 2026]]></title>
         <id>https://www.youtube.com/watch?v=SniJq1nxbw4</id>
@@ -477,15 +486,6 @@
         <updated>2026-07-04T12:00:17.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Background Music for Family Videos and Kids 🎈 (Royalty Free) | Alex-Productions - Fun]]></title>
-        <id>https://www.youtube.com/watch?v=XHed4tbupws</id>
-        <link href="https://www.youtube.com/watch?v=XHed4tbupws"/>
-        <updated>2026-07-04T11:00:11.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
