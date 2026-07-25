@@ -1,10 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-24T03:28:54.984Z</id>
+    <id>urn:2026-07-25T03:26:45.646Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T03:28:54.984Z</updated>
+    <updated>2026-07-25T03:26:45.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【懒人摄影】吉隆坡摄影工作坊开放报名！]]></title>
+        <id>https://www.youtube.com/shorts/PuptSLNMgas</id>
+        <link href="https://www.youtube.com/shorts/PuptSLNMgas"/>
+        <updated>2026-07-24T14:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Nhạc EDM Mix Nhiều Cảm Xúc ♫ Nhạc Điện Tử Hay Nhất Của Elektronomia]]></title>
+        <id>https://www.youtube.com/watch?v=hTnwXWPApsU</id>
+        <link href="https://www.youtube.com/watch?v=hTnwXWPApsU"/>
+        <updated>2026-07-24T12:00:29.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年7月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第8期！]]></title>
+        <id>https://www.youtube.com/watch?v=qMzEeb2XjdY</id>
+        <link href="https://www.youtube.com/watch?v=qMzEeb2XjdY"/>
+        <updated>2026-07-24T12:00:04.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chill House Vibe for Tech Reviews & Lifestyle 🌅 (Royalty Free) | Next Route & MEZCLA - Horizon]]></title>
+        <id>https://www.youtube.com/watch?v=iwGmIiGxOIE</id>
+        <link href="https://www.youtube.com/watch?v=iwGmIiGxOIE"/>
+        <updated>2026-07-24T11:00:15.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京瓜车骑行，真骑不动了！Can't Ride Anymore！]]></title>
+        <id>https://www.youtube.com/watch?v=LNQQDnGRldc</id>
+        <link href="https://www.youtube.com/watch?v=LNQQDnGRldc"/>
+        <updated>2026-07-24T07:00:06.000Z</updated>
+        <author>
+            <name>Hantao TB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x Aya Cabauatan / FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/rfrPWcaJeMg</id>
+        <link href="https://www.youtube.com/shorts/rfrPWcaJeMg"/>
+        <updated>2026-07-24T05:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#asti...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x JM Beltran / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/ZW61xUUrMPw</id>
+        <link href="https://www.youtube.com/shorts/ZW61xUUrMPw"/>
+        <updated>2026-07-24T05:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#asti...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x Yuri Katafuchi/ FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/N6VGAU7vQIg</id>
+        <link href="https://www.youtube.com/shorts/N6VGAU7vQIg"/>
+        <updated>2026-07-24T05:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#asti...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x Tin Phung/ FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/m1xNnRtTczo</id>
+        <link href="https://www.youtube.com/shorts/m1xNnRtTczo"/>
+        <updated>2026-07-24T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#asti...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x Mikaela Mertens / FUJIFILM #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/zS7ZHlUEoVY</id>
+        <link href="https://www.youtube.com/shorts/zS7ZHlUEoVY"/>
+        <updated>2026-07-24T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#asti...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTIA FS RECIPE x Matt Krumins / FUJIFILM  #filmsimulation]]></title>
+        <id>https://www.youtube.com/shorts/YkvCWHZelrI</id>
+        <link href="https://www.youtube.com/shorts/YkvCWHZelrI"/>
+        <updated>2026-07-24T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn more about ASTIAhttps://www.fujifilm-x.com/global/products/film-simulation/astia/Learn more about FUJIFILM X Series & GFX : https://fujifilm-x.com#prov...]]></summary>
+        <author>
+            <name>FUJIFILM X Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Videography, products by Yonex Malaysia]]></title>
+        <id>https://www.youtube.com/shorts/M4Z5daHHAWE</id>
+        <link href="https://www.youtube.com/shorts/M4Z5daHHAWE"/>
+        <updated>2026-07-24T03:50:24.000Z</updated>
+        <summary type="html"><![CDATA[What do you think of the results?]]></summary>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[終於把線上課程做完啦！]]></title>
         <id>https://www.youtube.com/shorts/eFEgyB9-HE4</id>
@@ -48,15 +164,6 @@
         <id>https://www.youtube.com/watch?v=kLJKbYhHboU</id>
         <link href="https://www.youtube.com/watch?v=kLJKbYhHboU"/>
         <updated>2026-07-23T10:00:15.000Z</updated>
-        <author>
-            <name>Hantao TB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京瓜车骑行，真骑不动了！Can't Ride Anymore！]]></title>
-        <id>https://www.youtube.com/watch?v=LNQQDnGRldc</id>
-        <link href="https://www.youtube.com/watch?v=LNQQDnGRldc"/>
-        <updated>2026-07-22T13:38:02.000Z</updated>
         <author>
             <name>Hantao TB</name>
         </author>
@@ -455,15 +562,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upbeat Tropical Electronic Music for Travel Vlogs 🌴 (No Copyright) | tubebackr - Amazonica]]></title>
-        <id>https://www.youtube.com/watch?v=RP0RIuYVbfw</id>
-        <link href="https://www.youtube.com/watch?v=RP0RIuYVbfw"/>
-        <updated>2026-07-09T11:00:00.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[BTS] GF19-35mm Eleven Productions x Commercial "Magic City" / FUJIFILM/ FUJIFILM]]></title>
         <id>https://www.youtube.com/watch?v=RsM4I8zaBfM</id>
         <link href="https://www.youtube.com/watch?v=RsM4I8zaBfM"/>
@@ -513,24 +611,6 @@
         <id>https://www.youtube.com/watch?v=KRURlTr_PAM</id>
         <link href="https://www.youtube.com/watch?v=KRURlTr_PAM"/>
         <updated>2026-07-08T20:02:05.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GF19-35mmT3.5 PZ OIS WR: Hao Huang x Music Video "Born Beyond the Frame" / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=dAO1CFxilps</id>
-        <link href="https://www.youtube.com/watch?v=dAO1CFxilps"/>
-        <updated>2026-07-08T20:01:08.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJINON GF19-35mmT3.5 PZ OIS WR Promotional video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=tW80UlA7iNg</id>
-        <link href="https://www.youtube.com/watch?v=tW80UlA7iNg"/>
-        <updated>2026-07-08T20:00:36.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
         </author>
@@ -642,15 +722,6 @@
         <updated>2026-07-03T12:00:17.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUJINON GF32-90mmT3.5 PZ OIS WR Promotional video / FUJIFILM]]></title>
-        <id>https://www.youtube.com/watch?v=MbcuRZdkTJg</id>
-        <link href="https://www.youtube.com/watch?v=MbcuRZdkTJg"/>
-        <updated>2026-07-03T05:00:33.000Z</updated>
-        <author>
-            <name>FUJIFILM X Series</name>
         </author>
     </entry>
     <entry>
@@ -788,16 +859,6 @@
         <updated>2026-06-26T12:00:02.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SONY相機+富士鏡頭，蹦出新花樣。 #人像寫真 #引導 #攝影教學 #拍照教學 #拍照姿勢]]></title>
-        <id>https://www.youtube.com/shorts/vo4c058sX48</id>
-        <link href="https://www.youtube.com/shorts/vo4c058sX48"/>
-        <updated>2026-06-25T12:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
