@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-25T03:26:45.646Z</id>
+    <id>urn:2026-07-26T03:40:01.346Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T03:26:45.646Z</updated>
+    <updated>2026-07-26T03:40:01.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【吉隆坡】摄影实战工作坊开放报名了！报名链接在留言里！]]></title>
+        <id>https://www.youtube.com/shorts/3tIEWc8aGO8</id>
+        <link href="https://www.youtube.com/shorts/3tIEWc8aGO8"/>
+        <updated>2026-07-26T02:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当顾客对摄影师说：我也不知道哪里不对]]></title>
+        <id>https://www.youtube.com/shorts/5tmi_QeU-bI</id>
+        <link href="https://www.youtube.com/shorts/5tmi_QeU-bI"/>
+        <updated>2026-07-25T15:45:39.000Z</updated>
+        <summary type="html"><![CDATA[“感觉不对。”可能是剪辑师/摄影师最怕听到的一句话。#剪辑师日常 #顾客反馈 #懒人摄影 #懒人摄影工作坊]]></summary>
+        <author>
+            <name>懒人摄影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relaxing Summer Pop Music for Daily Vlogs and Podcasts ☀️ (Royalty Free) | Hotham - Cruising]]></title>
+        <id>https://www.youtube.com/watch?v=6KKvUvBOElI</id>
+        <link href="https://www.youtube.com/watch?v=6KKvUvBOElI"/>
+        <updated>2026-07-25T11:00:33.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【懒人摄影】吉隆坡摄影工作坊开放报名！]]></title>
         <id>https://www.youtube.com/shorts/PuptSLNMgas</id>
@@ -251,7 +280,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[到底是攝影師厲害，還是加德滿都太美？]]></title>
+        <title type="html"><![CDATA[到底是網路上照片厲害，還是加德滿都真的太美？]]></title>
         <id>https://www.youtube.com/watch?v=c6eBz-EI7mI</id>
         <link href="https://www.youtube.com/watch?v=c6eBz-EI7mI"/>
         <updated>2026-07-20T12:30:25.000Z</updated>
@@ -540,15 +569,6 @@
         <updated>2026-07-10T12:00:12.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quirky Background Music for Animations & Shorts 🎬 (Royalty Free) | Kevin MacLeod - Amazing Plan]]></title>
-        <id>https://www.youtube.com/watch?v=D2V2e8Nrm8k</id>
-        <link href="https://www.youtube.com/watch?v=D2V2e8Nrm8k"/>
-        <updated>2026-07-10T11:00:08.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -841,24 +861,6 @@
         <updated>2026-06-28T12:00:22.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút Nhạc EDM Chill Nhiều Cảm Xúc ♫ Nhạc EDM Thư Giãn Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=Sq_H0EtVfmw</id>
-        <link href="https://www.youtube.com/watch?v=Sq_H0EtVfmw"/>
-        <updated>2026-06-26T12:00:32.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年7月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
-        <id>https://www.youtube.com/watch?v=YKomy8J_0DM</id>
-        <link href="https://www.youtube.com/watch?v=YKomy8J_0DM"/>
-        <updated>2026-06-26T12:00:02.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
 </feed>
