@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-02T03:37:34.071Z</id>
+    <id>urn:2026-08-03T03:39:42.319Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T03:37:34.071Z</updated>
+    <updated>2026-08-03T03:39:42.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hopeful Piano & Strings for Inspiring Video Essays ✨ (Free to Use) | Scott Buckley - Effervescence]]></title>
+        <id>https://www.youtube.com/watch?v=pBrR83IjSUA</id>
+        <link href="https://www.youtube.com/watch?v=pBrR83IjSUA"/>
+        <updated>2026-08-02T11:00:13.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 20 Bản Nhạc EDM Chill 2026 ♫ Nhạc EDM Chill Cho Ngày Dài Mỏi Mệt]]></title>
         <id>https://www.youtube.com/watch?v=q4DhDHEm860</id>
@@ -562,15 +571,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uplifting Electronic Music for Travel Vlogs ✈️ (No Copyright) | Spiring - Azure Sky]]></title>
-        <id>https://www.youtube.com/watch?v=xrAKInr0UHA</id>
-        <link href="https://www.youtube.com/watch?v=xrAKInr0UHA"/>
-        <updated>2026-07-18T11:00:04.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026世界杯10张神图逐张解析！每一张都是决定性瞬间！]]></title>
         <id>https://www.youtube.com/watch?v=t1zEWdzjkgw</id>
         <link href="https://www.youtube.com/watch?v=t1zEWdzjkgw"/>
@@ -880,15 +880,6 @@
         <summary type="html"><![CDATA[#旅行 #景點 #人像攝影 #攝影教學 #攝影技巧 #拍照技巧 #拍照教學金水蛇神社應該是想求財的大家都知道的神社在前一趟去仙台的時候被觀眾推薦了這個地方有黑卡御守超級貴的御朱印還可以淨化你的鈔票跟信用卡下次去仙台玩記得抽空繞過去看看！【加會員？我都ok啊！】我都ok啊開設會員頻道啦！！每個月只要 $50.00有...]]></summary>
         <author>
             <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Một Chút EDM Chill Cho Ngày Dài Mỏi Mệt ♫ Top 20 Bản Nhạc EDM Gây Nghiện Hay Nhất]]></title>
-        <id>https://www.youtube.com/watch?v=Jn7iHuYCfeY</id>
-        <link href="https://www.youtube.com/watch?v=Jn7iHuYCfeY"/>
-        <updated>2026-07-04T12:00:17.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
