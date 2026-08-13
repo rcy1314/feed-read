@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T02:30:48.675Z</id>
+    <id>urn:2026-08-13T02:32:29.973Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T02:30:48.675Z</updated>
+    <updated>2026-08-13T02:32:29.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026  JS+Vue 前端工程師培訓班＆專題班 線上說明會｜8/12(三) 20:00 卡斯伯老師主持]]></title>
+        <id>https://www.youtube.com/watch?v=9UDfAAbehAQ</id>
+        <link href="https://www.youtube.com/watch?v=9UDfAAbehAQ"/>
+        <updated>2026-08-13T02:02:57.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[足球競技到古羅馬經營一次滿足!? 2026年8月手遊推薦必玩精選！| Android/iOS雙平台第5期]]></title>
+        <id>https://www.youtube.com/watch?v=lfhgI7Xl86s</id>
+        <link href="https://www.youtube.com/watch?v=lfhgI7Xl86s"/>
+        <updated>2026-08-12T12:00:15.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calm Acoustic Guitar for Cozy Vlogs & Reading 📖 (No Copyright) | Rrrrrose Azerty - tapis d'épingle]]></title>
+        <id>https://www.youtube.com/watch?v=alrxLlq-OCo</id>
+        <link href="https://www.youtube.com/watch?v=alrxLlq-OCo"/>
+        <updated>2026-08-12T11:00:37.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harman Kardon的Aura studio 5好讚!]]></title>
+        <id>https://www.youtube.com/shorts/HHBT9-TaKJ8</id>
+        <link href="https://www.youtube.com/shorts/HHBT9-TaKJ8"/>
+        <updated>2026-08-12T10:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入門也能玩超望遠｜FE 100-400mm F5.6-8 OSS]]></title>
+        <id>https://www.youtube.com/shorts/N0qTPTHHNtY</id>
+        <link href="https://www.youtube.com/shorts/N0qTPTHHNtY"/>
+        <updated>2026-08-12T04:00:38.000Z</updated>
+        <summary type="html"><![CDATA[道慈老師 2026年新的攝影線上課程上線囉🔥【在旅行中找到攝影｜風景、人像到街拍，透過你的視角來看世界】課程連結：https://seeds.com.tw/courses/taotzu結帳時輸入「tz300」即可獲得 NT$300 折扣優惠這次 Sony 新推出 SEL100400(FE 100-400mm F...]]></summary>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超望遠世界的體驗券！｜Sony SEL100400 新登場！｜FE 100-400mm F5.6-8 OSS]]></title>
+        <id>https://www.youtube.com/watch?v=yHDBbSmBgts</id>
+        <link href="https://www.youtube.com/watch?v=yHDBbSmBgts"/>
+        <updated>2026-08-12T04:00:33.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn Cho Ngày Dài Mỏi Mệt ♫ Nhạc EDM Thư Giãn 2026]]></title>
         <id>https://www.youtube.com/watch?v=SYyGcIslrD0</id>
@@ -34,7 +90,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026年超上癮的模擬經營手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
+        <title type="html"><![CDATA[20款超上癮的模擬經營手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
         <id>https://www.youtube.com/watch?v=QkJz0_4-HQc</id>
         <link href="https://www.youtube.com/watch?v=QkJz0_4-HQc"/>
         <updated>2026-08-10T12:00:06.000Z</updated>
@@ -405,15 +461,6 @@
         <updated>2026-07-28T12:00:27.000Z</updated>
         <author>
             <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relaxing Chillout Music for Study & Focus Sessions 🎧 (Royalty Free) | Jay Someday - Weightless]]></title>
-        <id>https://www.youtube.com/watch?v=uvnL3tGJrRk</id>
-        <link href="https://www.youtube.com/watch?v=uvnL3tGJrRk"/>
-        <updated>2026-07-28T11:00:04.000Z</updated>
-        <author>
-            <name>Audio Library</name>
         </author>
     </entry>
     <entry>
@@ -799,15 +846,6 @@
         <updated>2026-07-15T06:30:25.000Z</updated>
         <author>
             <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Bản Nhạc EDM Thư Giãn, Giảm Stress ♫ Nhạc EDM Chill Cho Ngày Dài Mỏi Mệt]]></title>
-        <id>https://www.youtube.com/watch?v=6vB_IxmHm0Q</id>
-        <link href="https://www.youtube.com/watch?v=6vB_IxmHm0Q"/>
-        <updated>2026-07-14T12:00:01.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
