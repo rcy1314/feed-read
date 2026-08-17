@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-16T01:47:46.786Z</id>
+    <id>urn:2026-08-17T01:45:51.237Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T01:47:46.786Z</updated>
+    <updated>2026-08-17T01:45:51.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -827,34 +827,6 @@
         <updated>2026-07-20T12:00:14.000Z</updated>
         <author>
             <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EDM Mix Chill Cho Ngày Dài Mỏi Mệt ♫ Nhạc EDM Thư Giãn Gây Nghiện 2026]]></title>
-        <id>https://www.youtube.com/watch?v=SniJq1nxbw4</id>
-        <link href="https://www.youtube.com/watch?v=SniJq1nxbw4"/>
-        <updated>2026-07-18T12:00:34.000Z</updated>
-        <author>
-            <name>FURY EDM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026世界杯10张神图逐张解析！每一张都是决定性瞬间！]]></title>
-        <id>https://www.youtube.com/watch?v=t1zEWdzjkgw</id>
-        <link href="https://www.youtube.com/watch?v=t1zEWdzjkgw"/>
-        <updated>2026-07-17T16:30:07.000Z</updated>
-        <author>
-            <name>懒人摄影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鐵頭 Pocket 4 系列專屬配件 一套搞定]]></title>
-        <id>https://www.youtube.com/shorts/GUaxnHwmh9U</id>
-        <link href="https://www.youtube.com/shorts/GUaxnHwmh9U"/>
-        <updated>2026-07-17T15:06:03.000Z</updated>
-        <summary type="html"><![CDATA[道慈老師 2026年新的攝影線上課程上線囉🔥【在旅行中找到攝影｜風景、人像到街拍，透過你的視角來看世界】課程連結：https://seeds.com.tw/courses/taotzu結帳時輸入「tz300」即可獲得 NT$300 折扣優惠剛入手 DJI Pocket 4 或 4P？鐵頭打造整套專用配件。續航手...]]></summary>
-        <author>
-            <name>我都ok啊</name>
         </author>
     </entry>
 </feed>
