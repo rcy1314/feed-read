@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-27T08:53:30.200Z</id>
+    <id>urn:2026-08-28T11:06:25.922Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T08:53:30.200Z</updated>
+    <updated>2026-08-28T11:06:25.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Happy Tropical Pop Music for Summer Vlogs 🌻 (No Copyright) | Sakura Girl - Sunflower]]></title>
+        <id>https://www.youtube.com/watch?v=wzM9cfJa3zw</id>
+        <link href="https://www.youtube.com/watch?v=wzM9cfJa3zw"/>
+        <updated>2026-08-28T11:00:01.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbeat House & Dance Music for Workout & Fitness Videos 🎧 (Royalty Free) | ZiMPL - In The Zone]]></title>
+        <id>https://www.youtube.com/watch?v=wWfCDU5S1-k</id>
+        <link href="https://www.youtube.com/watch?v=wWfCDU5S1-k"/>
+        <updated>2026-08-28T10:00:08.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新竹舊城區，東門市場拍出氛圍感。 #新竹景點 #攝影教學 #引導 #攝影技巧 #人像寫真 #拍照景點]]></title>
+        <id>https://www.youtube.com/shorts/W-DF9apTKxE</id>
+        <link href="https://www.youtube.com/shorts/W-DF9apTKxE"/>
+        <updated>2026-08-27T12:30:34.000Z</updated>
+        <author>
+            <name>我都ok啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抓寵全自動、輕鬆滿圖鑑!《閃耀吧！嚕咪》推出前的試玩心得！｜Android/iOS 雙平台手機遊戲/遊戲試玩介紹！]]></title>
+        <id>https://www.youtube.com/watch?v=OL-GVuQ2d9E</id>
+        <link href="https://www.youtube.com/watch?v=OL-GVuQ2d9E"/>
+        <updated>2026-08-27T12:01:47.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Những Bản Nhạc EDM Nhiều Cảm Xúc "Bạn Sẽ Rơi Lệ" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=ycNjyh4b4bo</id>
+        <link href="https://www.youtube.com/watch?v=ycNjyh4b4bo"/>
+        <updated>2026-08-27T12:00:12.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年9月即將上線的必玩手遊新作盤點！| Android/iOS 雙平台手機遊戲/遊戲作品推薦！]]></title>
         <id>https://www.youtube.com/watch?v=sASpGgmHdjA</id>
@@ -55,7 +100,6 @@
         <id>https://www.youtube.com/shorts/R92Lf5JsGIA</id>
         <link href="https://www.youtube.com/shorts/R92Lf5JsGIA"/>
         <updated>2026-08-24T22:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -164,7 +208,6 @@
         <id>https://www.youtube.com/shorts/S9M0abQQeJQ</id>
         <link href="https://www.youtube.com/shorts/S9M0abQQeJQ"/>
         <updated>2026-08-21T15:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -291,7 +334,6 @@
         <id>https://www.youtube.com/shorts/cS6vavm-TQs</id>
         <link href="https://www.youtube.com/shorts/cS6vavm-TQs"/>
         <updated>2026-08-14T21:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -328,7 +370,6 @@
         <id>https://www.youtube.com/shorts/_bE54HEfJ2A</id>
         <link href="https://www.youtube.com/shorts/_bE54HEfJ2A"/>
         <updated>2026-08-13T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
         </author>
@@ -374,7 +415,6 @@
         <id>https://www.youtube.com/shorts/HHBT9-TaKJ8</id>
         <link href="https://www.youtube.com/shorts/HHBT9-TaKJ8"/>
         <updated>2026-08-12T10:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>JJJason自由攝影師</name>
         </author>
@@ -384,7 +424,6 @@
         <id>https://www.youtube.com/shorts/N0qTPTHHNtY</id>
         <link href="https://www.youtube.com/shorts/N0qTPTHHNtY"/>
         <updated>2026-08-12T04:00:38.000Z</updated>
-        <summary type="html"><![CDATA[道慈老師 2026年新的攝影線上課程上線囉🔥【在旅行中找到攝影｜風景、人像到街拍，透過你的視角來看世界】課程連結：https://seeds.com.tw/courses/taotzu結帳時輸入「tz300」即可獲得 NT$300 折扣優惠這次 Sony 新推出 SEL100400(FE 100-400mm F...]]></summary>
         <author>
             <name>我都ok啊</name>
         </author>
@@ -421,7 +460,6 @@
         <id>https://www.youtube.com/shorts/O6X0N8wuonc</id>
         <link href="https://www.youtube.com/shorts/O6X0N8wuonc"/>
         <updated>2026-08-10T20:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -490,24 +528,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smooth Sunset Lofi Music for Travel & Lifestyle Vloggers 🌆 (Royalty Free) | Next Route - Dusk]]></title>
-        <id>https://www.youtube.com/watch?v=jO-_5KYisa8</id>
-        <link href="https://www.youtube.com/watch?v=jO-_5KYisa8"/>
-        <updated>2026-08-07T11:00:00.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bright Dance Beat for YouTube Shorts & Montages 🏖️ (Royalty Free) | Declan DP - Bali]]></title>
-        <id>https://www.youtube.com/watch?v=sNOcNE7U08Y</id>
-        <link href="https://www.youtube.com/watch?v=sNOcNE7U08Y"/>
-        <updated>2026-08-06T11:00:21.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大疆Pocket4P 保姆级教程！拍出电影感秘诀]]></title>
         <id>https://www.youtube.com/watch?v=SK0iPlfHunU</id>
         <link href="https://www.youtube.com/watch?v=SK0iPlfHunU"/>
@@ -557,7 +577,6 @@
         <id>https://www.youtube.com/shorts/nIOIswl7HZM</id>
         <link href="https://www.youtube.com/shorts/nIOIswl7HZM"/>
         <updated>2026-08-04T04:00:17.000Z</updated>
-        <summary type="html"><![CDATA[#開局一座島 #玩遊戲送真海鮮 #熱炒塔防RPG #遊戲 #手游這一集帶來的是偏放置塔防的遊戲《開局一座島》，不用太花時間操作，現在登入有送免費多抽，還有稀有角色烏拉和金牌島主稱號！原片鏈接：https://youtu.be/9j8tdTqJ6C8遊戲下載連結 : https://kj.onelink.me/ar...]]></summary>
         <author>
             <name>花現新大鹿DoeDaDa</name>
         </author>
@@ -567,7 +586,6 @@
         <id>https://www.youtube.com/shorts/5xi0LJLIwsU</id>
         <link href="https://www.youtube.com/shorts/5xi0LJLIwsU"/>
         <updated>2026-08-03T21:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>The Chainsmokers</name>
         </author>
@@ -640,7 +658,6 @@
         <id>https://www.youtube.com/shorts/wgX6kTGAoMY</id>
         <link href="https://www.youtube.com/shorts/wgX6kTGAoMY"/>
         <updated>2026-07-30T12:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>我都ok啊</name>
         </author>
@@ -661,62 +678,6 @@
         <updated>2026-07-30T12:00:03.000Z</updated>
         <author>
             <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today is the 10 year anniversary of Closer 😭 Can’t believe we are writing that!]]></title>
-        <id>https://www.youtube.com/shorts/nLr8KhWIh6s</id>
-        <link href="https://www.youtube.com/shorts/nLr8KhWIh6s"/>
-        <updated>2026-07-29T19:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - Making of "Closer"]]></title>
-        <id>https://www.youtube.com/watch?v=GO4mXWVyxcU</id>
-        <link href="https://www.youtube.com/watch?v=GO4mXWVyxcU"/>
-        <updated>2026-07-29T19:38:29.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - EDC 2026 Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=2RNWRddclBQ</id>
-        <link href="https://www.youtube.com/watch?v=2RNWRddclBQ"/>
-        <updated>2026-07-29T17:54:07.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNK情懷神作降臨!? 白天種田晚上肉鴿!? 2026年8月手遊推薦必玩精選！| Android/iOS雙平台第1期]]></title>
-        <id>https://www.youtube.com/watch?v=_ETTW8o4yC4</id>
-        <link href="https://www.youtube.com/watch?v=_ETTW8o4yC4"/>
-        <updated>2026-07-29T12:00:32.000Z</updated>
-        <author>
-            <name>花現新大鹿DoeDaDa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8 月班即將開課】AI 測試實戰－從自動測試到跨專案整合｜7/28 晚上八點 卡斯伯老師]]></title>
-        <id>https://www.youtube.com/watch?v=08sQkQIuLZw</id>
-        <link href="https://www.youtube.com/watch?v=08sQkQIuLZw"/>
-        <updated>2026-07-29T02:11:47.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The sunset really hitting]]></title>
-        <id>https://www.youtube.com/shorts/e3C-hgJuYB8</id>
-        <link href="https://www.youtube.com/shorts/e3C-hgJuYB8"/>
-        <updated>2026-07-28T22:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
         </author>
     </entry>
 </feed>
