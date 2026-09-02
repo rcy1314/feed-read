@@ -1,121 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T04:47:51.878Z</id>
+    <id>urn:2026-09-02T04:09:08.137Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T04:47:51.878Z</updated>
+    <updated>2026-09-02T04:09:08.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[„Inundauswendig“ ist endlich draußen! 💆🏼‍♂️🌍🔂]]></title>
-        <id>https://www.youtube.com/shorts/R92Lf5JsGIA</id>
-        <link href="https://www.youtube.com/shorts/R92Lf5JsGIA"/>
-        <updated>2026-08-24T22:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <title type="html"><![CDATA[Next Horizon -After GFX Challenge Grant Program- × Atsushi Fukushima/ FUJIFILM]]></title>
+        <id>https://www.youtube.com/watch?v=8WDHP7ziHwg</id>
+        <link href="https://www.youtube.com/watch?v=8WDHP7ziHwg"/>
+        <updated>2026-08-05T05:00:34.000Z</updated>
         <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靠450万网格员，国家管到了每一栋楼【大国之治·网格员】]]></title>
-        <id>https://www.youtube.com/watch?v=Ici0AoduMF8</id>
-        <link href="https://www.youtube.com/watch?v=Ici0AoduMF8"/>
-        <updated>2026-08-24T07:04:37.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INUNDAUSWENDIG IS OUT YALL!]]></title>
-        <id>https://www.youtube.com/shorts/S9M0abQQeJQ</id>
-        <link href="https://www.youtube.com/shorts/S9M0abQQeJQ"/>
-        <updated>2026-08-21T15:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国悄悄建了一张“看不见的网”【大国之治·应急物资储备】]]></title>
-        <id>https://www.youtube.com/watch?v=HN74aIsKUxA</id>
-        <link href="https://www.youtube.com/watch?v=HN74aIsKUxA"/>
-        <updated>2026-08-19T16:31:11.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers & makko - The Making of Inundauswendig]]></title>
-        <id>https://www.youtube.com/watch?v=r_B0IEC-RW4</id>
-        <link href="https://www.youtube.com/watch?v=r_B0IEC-RW4"/>
-        <updated>2026-08-19T14:00:09.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[this song has lived many lives]]></title>
-        <id>https://www.youtube.com/shorts/cS6vavm-TQs</id>
-        <link href="https://www.youtube.com/shorts/cS6vavm-TQs"/>
-        <updated>2026-08-14T21:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - Live at Lollapalooza Chicago 2026]]></title>
-        <id>https://www.youtube.com/watch?v=RwkGbu69nYc</id>
-        <link href="https://www.youtube.com/watch?v=RwkGbu69nYc"/>
-        <updated>2026-08-14T18:56:59.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026  JS+Vue 前端工程師培訓班＆專題班 線上說明會｜8/12(三) 20:00 卡斯伯老師主持]]></title>
-        <id>https://www.youtube.com/watch?v=9UDfAAbehAQ</id>
-        <link href="https://www.youtube.com/watch?v=9UDfAAbehAQ"/>
-        <updated>2026-08-13T02:02:57.000Z</updated>
-        <author>
-            <name>六角學院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[something just like this]]></title>
-        <id>https://www.youtube.com/shorts/O6X0N8wuonc</id>
-        <link href="https://www.youtube.com/shorts/O6X0N8wuonc"/>
-        <updated>2026-08-10T20:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Pocket4P 保姆级教程！拍出电影感秘诀]]></title>
-        <id>https://www.youtube.com/watch?v=SK0iPlfHunU</id>
-        <link href="https://www.youtube.com/watch?v=SK0iPlfHunU"/>
-        <updated>2026-08-06T09:45:04.000Z</updated>
-        <author>
-            <name>Cruising Cat风光喵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国很多城市为什么一下雨就看海？]]></title>
-        <id>https://www.youtube.com/watch?v=j-JV7DgcBgw</id>
-        <link href="https://www.youtube.com/watch?v=j-JV7DgcBgw"/>
-        <updated>2026-08-04T08:45:34.000Z</updated>
-        <author>
-            <name>大象放映室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say you’ll never let me go frfr]]></title>
-        <id>https://www.youtube.com/shorts/5xi0LJLIwsU</id>
-        <link href="https://www.youtube.com/shorts/5xi0LJLIwsU"/>
-        <updated>2026-08-03T21:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>The Chainsmokers</name>
+            <name>FUJIFILM X Series</name>
         </author>
     </entry>
 </feed>

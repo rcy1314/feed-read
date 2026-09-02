@@ -1,110 +1,10 @@
 {
   "sources": [
     {
-      "title": "The Chainsmokers",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
-      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/R92Lf5JsGIA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/R92Lf5JsGIA",
-          "publishedOn": "2026-08-24T22:09:17.000Z",
-          "wordCount": 4042,
-          "title": "„Inundauswendig“ ist endlich draußen! 💆🏼‍♂️🌍🔂",
-          "imageUrl": "https://i.ytimg.com/vi/R92Lf5JsGIA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBJ2X3FGXgpAsVY3liCXkCWobqK8Q&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/S9M0abQQeJQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/S9M0abQQeJQ",
-          "publishedOn": "2026-08-21T15:44:31.000Z",
-          "wordCount": 3105,
-          "title": "INUNDAUSWENDIG IS OUT YALL!",
-          "imageUrl": "https://i.ytimg.com/vi/S9M0abQQeJQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDid3R2wf7XEI-2_oktYLYmj9HgPQ&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r_B0IEC-RW4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r_B0IEC-RW4",
-          "publishedOn": "2026-08-19T14:00:09.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers & makko - The Making of Inundauswendig",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/cS6vavm-TQs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/cS6vavm-TQs",
-          "publishedOn": "2026-08-14T21:54:48.000Z",
-          "wordCount": 3079,
-          "title": "this song has lived many lives",
-          "imageUrl": "https://i.ytimg.com/vi/cS6vavm-TQs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBFzGTSN36ccf3CZmdcghQsTWld7A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RwkGbu69nYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RwkGbu69nYc",
-          "publishedOn": "2026-08-14T18:56:59.000Z",
-          "wordCount": null,
-          "title": "The Chainsmokers - Live at Lollapalooza Chicago 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O6X0N8wuonc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/O6X0N8wuonc",
-          "publishedOn": "2026-08-10T20:42:29.000Z",
-          "wordCount": 3077,
-          "title": "something just like this",
-          "imageUrl": "https://i.ytimg.com/vi/O6X0N8wuonc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCzVyjo7uFSwNARi40NoWtAFQcxPg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/5xi0LJLIwsU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/5xi0LJLIwsU",
-          "publishedOn": "2026-08-03T21:43:34.000Z",
-          "wordCount": 3290,
-          "title": "Say you’ll never let me go frfr",
-          "imageUrl": "https://i.ytimg.com/vi/5xi0LJLIwsU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAEJx-QtD4Fly84T8i1xdUkKLR18Q&usqp=CCk"
-        }
-      ]
-    },
-    {
-      "title": "文广同学",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
-      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
+      "title": "左手+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvqg0fyR1cE_PsuFEgKJpgg",
+      "siteUrl": "https://www.youtube.com/channel/UCvqg0fyR1cE_PsuFEgKJpgg",
       "articles": []
-    },
-    {
-      "title": "懒人摄影",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
-      "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
-      "articles": []
-    },
-    {
-      "title": "六角學院",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
-      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=9UDfAAbehAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9UDfAAbehAQ",
-          "publishedOn": "2026-08-13T02:02:57.000Z",
-          "wordCount": null,
-          "title": "2026  JS+Vue 前端工程師培訓班＆專題班 線上說明會｜8/12(三) 20:00 卡斯伯老師主持",
-          "imageUrl": null
-        }
-      ]
     },
     {
       "title": "無私設計分享",
@@ -113,58 +13,27 @@
       "articles": []
     },
     {
-      "title": "大象放映室",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
-      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
+      "title": "FUJIFILM X Series",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
+      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Ici0AoduMF8",
+          "id": "https://www.youtube.com/watch?v=8WDHP7ziHwg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Ici0AoduMF8",
-          "publishedOn": "2026-08-24T07:04:37.000Z",
+          "link": "https://www.youtube.com/watch?v=8WDHP7ziHwg",
+          "publishedOn": "2026-08-05T05:00:34.000Z",
           "wordCount": null,
-          "title": "靠450万网格员，国家管到了每一栋楼【大国之治·网格员】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HN74aIsKUxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HN74aIsKUxA",
-          "publishedOn": "2026-08-19T16:31:11.000Z",
-          "wordCount": null,
-          "title": "中国悄悄建了一张“看不见的网”【大国之治·应急物资储备】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j-JV7DgcBgw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=j-JV7DgcBgw",
-          "publishedOn": "2026-08-04T08:45:34.000Z",
-          "wordCount": null,
-          "title": "中国很多城市为什么一下雨就看海？",
+          "title": "Next Horizon -After GFX Challenge Grant Program- × Atsushi Fukushima/ FUJIFILM",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "Cruising Cat风光喵",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SK0iPlfHunU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SK0iPlfHunU",
-          "publishedOn": "2026-08-06T09:45:04.000Z",
-          "wordCount": null,
-          "title": "大疆Pocket4P 保姆级教程！拍出电影感秘诀",
-          "imageUrl": null
-        }
-      ]
+      "title": "Thomas看看世界",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9AsbX_TBYfUAMxLNSU6J7A",
+      "siteUrl": "https://www.youtube.com/channel/UC9AsbX_TBYfUAMxLNSU6J7A",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
