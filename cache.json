@@ -1,39 +1,27 @@
 {
   "sources": [
     {
-      "title": "左手+",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvqg0fyR1cE_PsuFEgKJpgg",
-      "siteUrl": "https://www.youtube.com/channel/UCvqg0fyR1cE_PsuFEgKJpgg",
-      "articles": []
-    },
-    {
       "title": "無私設計分享",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
       "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
       "articles": []
     },
     {
-      "title": "FUJIFILM X Series",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
-      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
+      "title": "Cruising Cat风光喵",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
+      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=8WDHP7ziHwg",
+          "id": "https://www.youtube.com/watch?v=SK0iPlfHunU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=8WDHP7ziHwg",
-          "publishedOn": "2026-08-05T05:00:34.000Z",
+          "link": "https://www.youtube.com/watch?v=SK0iPlfHunU",
+          "publishedOn": "2026-08-06T09:45:04.000Z",
           "wordCount": null,
-          "title": "Next Horizon -After GFX Challenge Grant Program- × Atsushi Fukushima/ FUJIFILM",
+          "title": "大疆Pocket4P 保姆级教程！拍出电影感秘诀",
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "Thomas看看世界",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9AsbX_TBYfUAMxLNSU6J7A",
-      "siteUrl": "https://www.youtube.com/channel/UC9AsbX_TBYfUAMxLNSU6J7A",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
