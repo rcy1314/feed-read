@@ -1,28 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
-    },
-    {
-      "title": "Cruising Cat风光喵",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "siteUrl": "https://www.youtube.com/channel/UCzemv5Hi8z-G2Vb_0r2CTxw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SK0iPlfHunU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SK0iPlfHunU",
-          "publishedOn": "2026-08-06T09:45:04.000Z",
-          "wordCount": null,
-          "title": "大疆Pocket4P 保姆级教程！拍出电影感秘诀",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
