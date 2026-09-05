@@ -1,4 +1,38 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "D2izy +.+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
+      "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aHNSD1xWgXU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aHNSD1xWgXU",
+          "publishedOn": "2026-09-04T21:09:41.000Z",
+          "wordCount": null,
+          "title": "STANDARD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uzrfli6dDVI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uzrfli6dDVI",
+          "publishedOn": "2026-08-31T02:00:06.000Z",
+          "wordCount": null,
+          "title": "MEADOW w/ @kunai_vis",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "tx6sb3jf4q",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGiZ0JgBXpGznj-QDJkdgEg",
+      "siteUrl": "https://www.youtube.com/channel/UCGiZ0JgBXpGznj-QDJkdgEg",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
