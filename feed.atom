@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T04:15:27.292Z</id>
+    <id>urn:2026-09-09T04:21:10.390Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T04:15:27.292Z</updated>
+    <updated>2026-09-09T04:21:10.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Mac 也能玩英雄联盟？]]></title>
-        <id>https://www.youtube.com/watch?v=nSBpClWRUlA</id>
-        <link href="https://www.youtube.com/watch?v=nSBpClWRUlA"/>
-        <updated>2026-09-02T13:16:08.000Z</updated>
-        <author>
-            <name>黄杨ME</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seedance 2.5 Is INSANE! Create Professional AI Commercials with Dreamina]]></title>
-        <id>https://www.youtube.com/watch?v=G2_h1jcjiTo</id>
-        <link href="https://www.youtube.com/watch?v=G2_h1jcjiTo"/>
-        <updated>2026-09-02T12:17:18.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best AI Video Editor: Turn One Product Image into a Pro Video Ad | Seedance 2.5 1080P]]></title>
-        <id>https://www.youtube.com/watch?v=x8lx7wOv4n8</id>
-        <link href="https://www.youtube.com/watch?v=x8lx7wOv4n8"/>
-        <updated>2026-08-23T09:01:47.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Cinematic AI Short Film with Flova + Seedance 🎬]]></title>
-        <id>https://www.youtube.com/watch?v=MFldhID0gSI</id>
-        <link href="https://www.youtube.com/watch?v=MFldhID0gSI"/>
-        <updated>2026-08-13T14:41:19.000Z</updated>
-        <author>
-            <name>Learning Screen</name>
-        </author>
-    </entry>
 </feed>
