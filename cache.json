@@ -1,4 +1,52 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "大象放映室",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
+      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
+          "publishedOn": "2026-09-11T04:00:01.000Z",
+          "wordCount": null,
+          "title": "AI时代，中国的护城河、杀手锏【大国之治·东数西算】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
+          "publishedOn": "2026-09-10T13:47:09.000Z",
+          "wordCount": null,
+          "title": "1998年之后，中国洪水为什么再没造成特大伤亡？【大国之治·防洪指挥系统】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ici0AoduMF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ici0AoduMF8",
+          "publishedOn": "2026-08-24T07:04:37.000Z",
+          "wordCount": null,
+          "title": "靠450万网格员，国家管到了每一栋楼【大国之治·网格员】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HN74aIsKUxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HN74aIsKUxA",
+          "publishedOn": "2026-08-19T16:31:11.000Z",
+          "wordCount": null,
+          "title": "中国悄悄建了一张“看不见的网”【大国之治·应急物资储备】",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
