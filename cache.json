@@ -1,34 +1,175 @@
 {
   "sources": [
     {
-      "title": "文广同学",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
-      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
-      "articles": []
-    },
-    {
-      "title": "大象放映室",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
-      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
+      "title": "FURY EDM",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSY2Jb3C82bNYWv4DesCeJQ",
+      "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
+          "id": "https://www.youtube.com/watch?v=Eo9TRlVAeCY",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
-          "publishedOn": "2026-09-11T04:00:01.000Z",
+          "link": "https://www.youtube.com/watch?v=Eo9TRlVAeCY",
+          "publishedOn": "2026-09-30T12:00:21.000Z",
           "wordCount": null,
-          "title": "AI时代，中国的护城河、杀手锏【大国之治·东数西算】",
+          "title": "TOP Nhạc EDM Mix Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
+          "id": "https://www.youtube.com/watch?v=ioydiXbyHV4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
-          "publishedOn": "2026-09-10T13:47:09.000Z",
+          "link": "https://www.youtube.com/watch?v=ioydiXbyHV4",
+          "publishedOn": "2026-09-28T12:00:06.000Z",
           "wordCount": null,
-          "title": "1998年之后，中国洪水为什么再没造成特大伤亡？【大国之治·防洪指挥系统】",
+          "title": "Bạn Sẽ Nghiện Đấy ♫ EDM 2018 Huyền Thoại ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=capzGtyiZ_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=capzGtyiZ_8",
+          "publishedOn": "2026-09-26T12:00:17.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TvBFIfoT6Z4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TvBFIfoT6Z4",
+          "publishedOn": "2026-09-24T12:00:16.000Z",
+          "wordCount": null,
+          "title": "Cùng Nghe Lại Những Bản Nhạc EDM Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uDKQmoS2XYU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uDKQmoS2XYU",
+          "publishedOn": "2026-09-22T12:00:35.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Thư Giãn Dễ Đi vào Giấc Ngủ ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qjuOc9hB7EU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qjuOc9hB7EU",
+          "publishedOn": "2026-09-20T12:00:18.000Z",
+          "wordCount": null,
+          "title": "Những Bản Nhạc EDM Nhẹ Nhàng Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TEbEXAUCa64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TEbEXAUCa64",
+          "publishedOn": "2026-09-18T12:00:26.000Z",
+          "wordCount": null,
+          "title": "EDM Chill Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TPyEJ7uj7vw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TPyEJ7uj7vw",
+          "publishedOn": "2026-09-16T12:00:32.000Z",
+          "wordCount": null,
+          "title": "EDM Mix Phiêu Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tOmAUDnN9JE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tOmAUDnN9JE",
+          "publishedOn": "2026-09-14T12:00:24.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nIDXiY_JMMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nIDXiY_JMMw",
+          "publishedOn": "2026-09-12T12:00:33.000Z",
+          "wordCount": null,
+          "title": "TOP EDM NCS Mix Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bvDF9F6ezD0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bvDF9F6ezD0",
+          "publishedOn": "2026-09-10T12:00:15.000Z",
+          "wordCount": null,
+          "title": "EDM Mix Gaming ♫ Top EDM Music Of TheFatRat ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XaEU3zZD37Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XaEU3zZD37Y",
+          "publishedOn": "2026-09-08T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Top EDM Mix \"Tobu Cảnh Báo Không Có Thuốc Giải\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aTKGchGA9nk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aTKGchGA9nk",
+          "publishedOn": "2026-09-06T12:00:23.000Z",
+          "wordCount": null,
+          "title": "Top EDM Mix Cực Phiêu Chơi Game ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Fna5f-Yc4Dg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Fna5f-Yc4Dg",
+          "publishedOn": "2026-09-04T12:00:25.000Z",
+          "wordCount": null,
+          "title": "Những Bản Nhạc EDM Mix \"Ngất Ngây Quên Lối Về\" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fOBk4PyuzJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fOBk4PyuzJU",
+          "publishedOn": "2026-09-02T12:00:01.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Chill \"Nhiều Cảm Xúc\" Thư Giãn ♫ Nhạc Điện Tử gây Nghiện Hay Nhất",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Learning Screen",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA-LWJLcBkSZrFjWhQc_mzA",
+      "siteUrl": "https://www.youtube.com/channel/UCA-LWJLcBkSZrFjWhQc_mzA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=G2_h1jcjiTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G2_h1jcjiTo",
+          "publishedOn": "2026-09-02T12:17:18.000Z",
+          "wordCount": null,
+          "title": "Seedance 2.5 Is INSANE! Create Professional AI Commercials with Dreamina",
           "imageUrl": null
         }
       ]

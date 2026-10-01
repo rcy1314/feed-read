@@ -1,26 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-30T05:15:19.413Z</id>
+    <id>urn:2026-10-01T05:30:33.524Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T05:15:19.413Z</updated>
+    <updated>2026-10-01T05:30:33.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[AI时代，中国的护城河、杀手锏【大国之治·东数西算】]]></title>
-        <id>https://www.youtube.com/watch?v=ilK2jvqTH9A</id>
-        <link href="https://www.youtube.com/watch?v=ilK2jvqTH9A"/>
-        <updated>2026-09-11T04:00:01.000Z</updated>
+        <title type="html"><![CDATA[TOP Nhạc EDM Mix Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Eo9TRlVAeCY</id>
+        <link href="https://www.youtube.com/watch?v=Eo9TRlVAeCY"/>
+        <updated>2026-09-30T12:00:21.000Z</updated>
         <author>
-            <name>大象放映室</name>
+            <name>FURY EDM</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1998年之后，中国洪水为什么再没造成特大伤亡？【大国之治·防洪指挥系统】]]></title>
-        <id>https://www.youtube.com/watch?v=YdkmzIuu-Ig</id>
-        <link href="https://www.youtube.com/watch?v=YdkmzIuu-Ig"/>
-        <updated>2026-09-10T13:47:09.000Z</updated>
+        <title type="html"><![CDATA[Bạn Sẽ Nghiện Đấy ♫ EDM 2018 Huyền Thoại ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=ioydiXbyHV4</id>
+        <link href="https://www.youtube.com/watch?v=ioydiXbyHV4"/>
+        <updated>2026-09-28T12:00:06.000Z</updated>
         <author>
-            <name>大象放映室</name>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=capzGtyiZ_8</id>
+        <link href="https://www.youtube.com/watch?v=capzGtyiZ_8"/>
+        <updated>2026-09-26T12:00:17.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cùng Nghe Lại Những Bản Nhạc EDM Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện 2026]]></title>
+        <id>https://www.youtube.com/watch?v=TvBFIfoT6Z4</id>
+        <link href="https://www.youtube.com/watch?v=TvBFIfoT6Z4"/>
+        <updated>2026-09-24T12:00:16.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Thư Giãn Dễ Đi vào Giấc Ngủ ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=uDKQmoS2XYU</id>
+        <link href="https://www.youtube.com/watch?v=uDKQmoS2XYU"/>
+        <updated>2026-09-22T12:00:35.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Những Bản Nhạc EDM Nhẹ Nhàng Thư Giãn ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=qjuOc9hB7EU</id>
+        <link href="https://www.youtube.com/watch?v=qjuOc9hB7EU"/>
+        <updated>2026-09-20T12:00:18.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Chill Thư Giãn Giảm Stress ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=TEbEXAUCa64</id>
+        <link href="https://www.youtube.com/watch?v=TEbEXAUCa64"/>
+        <updated>2026-09-18T12:00:26.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Mix Phiêu Nhiều Cảm Xúc ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=TPyEJ7uj7vw</id>
+        <link href="https://www.youtube.com/watch?v=TPyEJ7uj7vw"/>
+        <updated>2026-09-16T12:00:32.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill Cho Ngày Dài Mệt Mỏi ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=tOmAUDnN9JE</id>
+        <link href="https://www.youtube.com/watch?v=tOmAUDnN9JE"/>
+        <updated>2026-09-14T12:00:24.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOP EDM NCS Mix Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=nIDXiY_JMMw</id>
+        <link href="https://www.youtube.com/watch?v=nIDXiY_JMMw"/>
+        <updated>2026-09-12T12:00:33.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EDM Mix Gaming ♫ Top EDM Music Of TheFatRat ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=bvDF9F6ezD0</id>
+        <link href="https://www.youtube.com/watch?v=bvDF9F6ezD0"/>
+        <updated>2026-09-10T12:00:15.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top EDM Mix "Tobu Cảnh Báo Không Có Thuốc Giải" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=XaEU3zZD37Y</id>
+        <link href="https://www.youtube.com/watch?v=XaEU3zZD37Y"/>
+        <updated>2026-09-08T12:00:25.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top EDM Mix Cực Phiêu Chơi Game ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=aTKGchGA9nk</id>
+        <link href="https://www.youtube.com/watch?v=aTKGchGA9nk"/>
+        <updated>2026-09-06T12:00:23.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Những Bản Nhạc EDM Mix "Ngất Ngây Quên Lối Về" ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Fna5f-Yc4Dg</id>
+        <link href="https://www.youtube.com/watch?v=Fna5f-Yc4Dg"/>
+        <updated>2026-09-04T12:00:25.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedance 2.5 Is INSANE! Create Professional AI Commercials with Dreamina]]></title>
+        <id>https://www.youtube.com/watch?v=G2_h1jcjiTo</id>
+        <link href="https://www.youtube.com/watch?v=G2_h1jcjiTo"/>
+        <updated>2026-09-02T12:17:18.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một Chút EDM Chill "Nhiều Cảm Xúc" Thư Giãn ♫ Nhạc Điện Tử gây Nghiện Hay Nhất]]></title>
+        <id>https://www.youtube.com/watch?v=fOBk4PyuzJU</id>
+        <link href="https://www.youtube.com/watch?v=fOBk4PyuzJU"/>
+        <updated>2026-09-02T12:00:01.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
         </author>
     </entry>
 </feed>
