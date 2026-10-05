@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
