@@ -1,10 +1,375 @@
 {
   "sources": [
     {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "title": "文广同学",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbhkN6OTDazdbmEcHpMIeXQ",
+      "siteUrl": "https://www.youtube.com/channel/UCbhkN6OTDazdbmEcHpMIeXQ",
       "articles": []
+    },
+    {
+      "title": "D2izy +.+",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaDMg2476BnLZR6GoxInkkg",
+      "siteUrl": "https://www.youtube.com/channel/UCaDMg2476BnLZR6GoxInkkg",
+      "articles": []
+    },
+    {
+      "title": "HeyDrones",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvW-dq-ck4X-oPlnfLOqQA",
+      "siteUrl": "https://www.youtube.com/channel/UCYvW-dq-ck4X-oPlnfLOqQA",
+      "articles": []
+    },
+    {
+      "title": "大象放映室",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCbYWuRvD2q_3qSla1gNHtg",
+      "siteUrl": "https://www.youtube.com/channel/UCCbYWuRvD2q_3qSla1gNHtg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ilK2jvqTH9A",
+          "publishedOn": "2026-09-11T04:00:01.000Z",
+          "wordCount": null,
+          "title": "AI时代，中国的护城河、杀手锏【大国之治·东数西算】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YdkmzIuu-Ig",
+          "publishedOn": "2026-09-10T13:47:09.000Z",
+          "wordCount": null,
+          "title": "1998年之后，中国洪水为什么再没造成特大伤亡？【大国之治·防洪指挥系统】",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Thomas Chu",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCHVb6alsMj8XfGW1Rx5rRw",
+      "siteUrl": "https://www.youtube.com/channel/UCCHVb6alsMj8XfGW1Rx5rRw",
+      "articles": []
+    },
+    {
+      "title": "姜本平那村的人儿",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQ4JhzK-tXaehlpE6gUAAg",
+      "siteUrl": "https://www.youtube.com/channel/UCzQ4JhzK-tXaehlpE6gUAAg",
+      "articles": []
+    },
+    {
+      "title": "FUJIFILM X Series",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZvtcRxo82A4-7BQ2T8MOAA",
+      "siteUrl": "https://www.youtube.com/channel/UCZvtcRxo82A4-7BQ2T8MOAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3g4sdosW1fA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3g4sdosW1fA",
+          "publishedOn": "2026-10-09T05:00:30.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Jacob Sigala \"The Real Portrait of America\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FI6TnnY6PYk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FI6TnnY6PYk",
+          "publishedOn": "2026-10-09T05:00:30.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Lee-Ann Olwage \"Weaving Stars and Palm Leaves\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1_OR6krkzc0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1_OR6krkzc0",
+          "publishedOn": "2026-10-09T05:00:05.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Yasutaka Seki \"Destination\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PqhEjCGwFg4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PqhEjCGwFg4",
+          "publishedOn": "2026-10-07T05:30:28.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Wang Jiayi \"Human Sagas at Vertical Extremes\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jsJFkBU_f5k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jsJFkBU_f5k",
+          "publishedOn": "2026-10-07T05:00:23.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Floyd Gonzales \"Kulturang Suot (Culture Worn)\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lhlzY33epM8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lhlzY33epM8",
+          "publishedOn": "2026-10-07T05:00:08.000Z",
+          "wordCount": null,
+          "title": "[BTS] GFX Challenge Grant Program 2025: Manuel Michael \"OUR CROWN (The Shape of Us)\"/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RTqpR-3zSbA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RTqpR-3zSbA",
+          "publishedOn": "2026-09-24T05:00:30.000Z",
+          "wordCount": null,
+          "title": "XF400mmF4.5 x Madeleine Penfold / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ODioM8XBA3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ODioM8XBA3o",
+          "publishedOn": "2026-09-24T05:00:19.000Z",
+          "wordCount": null,
+          "title": "Film Simulation - ETERNA Promotional Video/ FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Kg2FC60DkZs",
+          "author": null,
+          "description": "Learn more about NOSTALGIC Neg.https://www.fujifilm-x.com/global/products/film-simulation/nostalgic-neg/Learn more about FUJIFILM X Series & GFX : https://fu...",
+          "link": "https://www.youtube.com/shorts/Kg2FC60DkZs",
+          "publishedOn": "2026-09-18T05:00:36.000Z",
+          "wordCount": 3290,
+          "title": "NOSTALGIC Neg. FS RECIPE x Muhammed Ali Arslan/ FUJIFILM  #filmsimulation",
+          "imageUrl": "https://i.ytimg.com/vi/Kg2FC60DkZs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD46lxkS_0ML47pUmOodH9xDJK_zg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hSdRiiPj5cQ",
+          "author": null,
+          "description": "Learn more about NOSTALGIC Neg.https://www.fujifilm-x.com/global/products/film-simulation/nostalgic-neg/Learn more about FUJIFILM X Series & GFX : https://fu...",
+          "link": "https://www.youtube.com/shorts/hSdRiiPj5cQ",
+          "publishedOn": "2026-09-18T05:00:28.000Z",
+          "wordCount": 3227,
+          "title": "NOSTALGIC Neg. FS RECIPE x Chang Duong/ FUJIFILM #filmsimulation",
+          "imageUrl": "https://i.ytimg.com/vi/hSdRiiPj5cQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCR8jqPOhDlVUmddZx6nuqz_duPNg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/WTr2IGiBgGI",
+          "author": null,
+          "description": "Learn more about NOSTALGIC Neg.https://www.fujifilm-x.com/global/products/film-simulation/nostalgic-neg/Learn more about FUJIFILM X Series & GFX : https://fu...",
+          "link": "https://www.youtube.com/shorts/WTr2IGiBgGI",
+          "publishedOn": "2026-09-18T05:00:25.000Z",
+          "wordCount": 4120,
+          "title": "NOSTALGIC Neg. FS RECIPE x Theodora Melnik/ FUJIFILM  #filmsimulation",
+          "imageUrl": "https://i.ytimg.com/vi/WTr2IGiBgGI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDSqbKq8N4ce18-Vq6xT2BNPSAtSw&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lEZWJV19Ta0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lEZWJV19Ta0",
+          "publishedOn": "2026-09-18T05:00:08.000Z",
+          "wordCount": null,
+          "title": "XF400mF4.5 x William Chua / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/YK8KcSDvUSs",
+          "author": null,
+          "description": "Learn more about NOSTALGIC Neg.https://www.fujifilm-x.com/global/products/film-simulation/nostalgic-neg/Learn more about FUJIFILM X Series & GFX : https://fu...",
+          "link": "https://www.youtube.com/shorts/YK8KcSDvUSs",
+          "publishedOn": "2026-09-18T05:00:04.000Z",
+          "wordCount": 3284,
+          "title": "NOSTALGIC Neg. FS RECIPE x AV Schofield / FUJIFILM #filmsimulation",
+          "imageUrl": "https://i.ytimg.com/vi/YK8KcSDvUSs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBOmEUB5k2kwiqkzTU2hl9mSS1nrw&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1GbwZRqjSG8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1GbwZRqjSG8",
+          "publishedOn": "2026-09-15T05:00:02.000Z",
+          "wordCount": null,
+          "title": "XF400mmF4.5 x Sarah Dotson / FUJIFILM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9GFu70_38dc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9GFu70_38dc",
+          "publishedOn": "2026-09-11T05:00:44.000Z",
+          "wordCount": null,
+          "title": "XF400mmF4.5 x Giacomo De Franchis / FUJIFILM",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Audio Library",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCht8qITGkBvXKsR1Byln-wA",
+      "siteUrl": "https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-W4CJzYCCWY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-W4CJzYCCWY",
+          "publishedOn": "2026-10-08T11:00:07.000Z",
+          "wordCount": null,
+          "title": "Sunny Tropical House for Drone Shots & Lifestyle Vlogs 🌅 (Royalty Free) | Scandinavianz - Pacific",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wi4kwUrvYgw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wi4kwUrvYgw",
+          "publishedOn": "2026-10-07T11:00:20.000Z",
+          "wordCount": null,
+          "title": "10 Free Halloween Songs for Content Creators (No Copyright)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iXEz-JKrr-Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iXEz-JKrr-Y",
+          "publishedOn": "2026-10-06T11:00:40.000Z",
+          "wordCount": null,
+          "title": "Smooth Chillhop Beat for Podcasts, Tutorials & Relaxing Streams 🌿 (Free to Use) | Qlowdy - Purity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GKUZ1e3-67E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GKUZ1e3-67E",
+          "publishedOn": "2026-10-05T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Eerie Orchestral Music for Haunted Houses 👻 (Royalty Free) | Alex-Productions - Halloween Night",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=g2_UgPtlJEE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g2_UgPtlJEE",
+          "publishedOn": "2026-10-04T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Chill Vaporwave for Vlogs 🌙 (No Copyright) | Audio Library Beats Group - Closing Time // 09:03 PM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=n-WmGzSVIII",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=n-WmGzSVIII",
+          "publishedOn": "2026-10-03T11:00:27.000Z",
+          "wordCount": null,
+          "title": "Epic Fantasy Music for Trailers & RPG Streams 🐉 (No Copyright) | Scott Buckley - A Dragon's Lullaby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s-n6jdQpt2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s-n6jdQpt2Q",
+          "publishedOn": "2026-10-02T11:00:14.000Z",
+          "wordCount": null,
+          "title": "Modern Dance Pop Music for YouTube Shorts & Vlogs ✨ (Free to Use) | ZiMPL - ZAY YEZ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KnpSnbEpuKk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KnpSnbEpuKk",
+          "publishedOn": "2026-10-01T11:00:30.000Z",
+          "wordCount": null,
+          "title": "Spooky Dark Electro Music for Haunted Vlogs & Creepy Edits 🎃 (Royalty Free) | Next Route - Spook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=G7noYF6LGBA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G7noYF6LGBA",
+          "publishedOn": "2026-09-30T11:00:13.000Z",
+          "wordCount": null,
+          "title": "Moody Ambient Music for Films 🌙 (No Copyright) | Rrrrrose Azerty - toujours retourner en arrière",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3SKYyA3g4Q8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3SKYyA3g4Q8",
+          "publishedOn": "2026-09-29T11:00:20.000Z",
+          "wordCount": null,
+          "title": "Chill House Music for Study Sessions, Podcasts & Vlogs 🪐 (Free to Use) | Riyhsal - Saturn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=edDS8aLpyhA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=edDS8aLpyhA",
+          "publishedOn": "2026-09-28T11:00:04.000Z",
+          "wordCount": null,
+          "title": "Cozy Lo-fi Beat for Vlogs, Study Sessions & Cafe Scenes ☕ (No Copyright) | Snoozy Beats - Cat Cafe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rl0LwTwbEZE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rl0LwTwbEZE",
+          "publishedOn": "2026-09-27T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Epic Pirate Music for Gaming & RPGs ⚔️ (Royalty Free) | Scott Buckley - Three Sheets To The Wind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IU00dhtlOmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IU00dhtlOmg",
+          "publishedOn": "2026-09-26T11:00:04.000Z",
+          "wordCount": null,
+          "title": "Upbeat Electronic Music for Lifestyle Vlogs & Travel ☀️ (No Copyright) | Ferco & Tubebackr - So Cold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8DhBlKFcQnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8DhBlKFcQnA",
+          "publishedOn": "2026-09-25T11:00:30.000Z",
+          "wordCount": null,
+          "title": "Bright Orchestral Music for Podcasts & Reviews🎙️(Free to Use) | Kevin MacLeod - Movement Proposition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TM5YnV1pY68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TM5YnV1pY68",
+          "publishedOn": "2026-09-24T11:00:37.000Z",
+          "wordCount": null,
+          "title": "Warm & Melodic Dance Background Music for Lifestyle Videos ✨ (No Copyright) | KV - Waiting",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
