@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T05:27:18.656Z</id>
+    <id>urn:2026-10-12T05:37:52.585Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T05:27:18.656Z</updated>
+    <updated>2026-10-12T05:37:52.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[标普500，可以高抛低吸吗？]]></title>
+        <id>https://www.youtube.com/watch?v=vTo2a2sC93c</id>
+        <link href="https://www.youtube.com/watch?v=vTo2a2sC93c"/>
+        <updated>2026-10-12T00:54:36.000Z</updated>
+        <author>
+            <name>巫师</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的车被偷了！]]></title>
+        <id>https://www.youtube.com/watch?v=5MRFSpm97cc</id>
+        <link href="https://www.youtube.com/watch?v=5MRFSpm97cc"/>
+        <updated>2026-10-08T01:52:04.000Z</updated>
+        <author>
+            <name>巫师</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[已经买了标普500，还需要买QQQ吗？]]></title>
+        <id>https://www.youtube.com/watch?v=8AzHtaKkkhE</id>
+        <link href="https://www.youtube.com/watch?v=8AzHtaKkkhE"/>
+        <updated>2026-10-06T01:05:48.000Z</updated>
+        <author>
+            <name>巫师</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lisbon, Portugal]]></title>
+        <id>https://www.youtube.com/watch?v=uViDTAyF280</id>
+        <link href="https://www.youtube.com/watch?v=uViDTAyF280"/>
+        <updated>2026-10-03T12:18:08.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普500：应该All in买入，还是分期定投？]]></title>
+        <id>https://www.youtube.com/watch?v=-ukErqxl33w</id>
+        <link href="https://www.youtube.com/watch?v=-ukErqxl33w"/>
+        <updated>2026-09-29T12:09:24.000Z</updated>
+        <author>
+            <name>巫师</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo X500 Pro Max 评测：动态逆光怎么清晰？]]></title>
+        <id>https://www.youtube.com/watch?v=8NiwrTuUl_0</id>
+        <link href="https://www.youtube.com/watch?v=8NiwrTuUl_0"/>
+        <updated>2026-09-23T07:00:12.000Z</updated>
+        <author>
+            <name>爱否科技</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标普500，我应该重仓吗？]]></title>
+        <id>https://www.youtube.com/watch?v=gHhrBIhvHXk</id>
+        <link href="https://www.youtube.com/watch?v=gHhrBIhvHXk"/>
+        <updated>2026-09-21T12:30:28.000Z</updated>
+        <author>
+            <name>巫师</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[底片攝影初體驗]]></title>
+        <id>https://www.youtube.com/watch?v=dDiN_Jm4iJM</id>
+        <link href="https://www.youtube.com/watch?v=dDiN_Jm4iJM"/>
+        <updated>2026-09-18T10:32:14.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEUGEOT帶我跟里唯去花蓮玩！Ft. PEUGEOT & CITROËN]]></title>
+        <id>https://www.youtube.com/watch?v=GdwokurbZ4I</id>
+        <link href="https://www.youtube.com/watch?v=GdwokurbZ4I"/>
+        <updated>2026-09-14T10:13:12.000Z</updated>
+        <author>
+            <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
 </feed>

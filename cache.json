@@ -1,10 +1,115 @@
 {
   "sources": [
     {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
+      "title": "JJJason自由攝影師",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
+      "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uViDTAyF280",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uViDTAyF280",
+          "publishedOn": "2026-10-03T12:18:08.000Z",
+          "wordCount": null,
+          "title": "Lisbon, Portugal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dDiN_Jm4iJM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dDiN_Jm4iJM",
+          "publishedOn": "2026-09-18T10:32:14.000Z",
+          "wordCount": null,
+          "title": "底片攝影初體驗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GdwokurbZ4I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GdwokurbZ4I",
+          "publishedOn": "2026-09-14T10:13:12.000Z",
+          "wordCount": null,
+          "title": "PEUGEOT帶我跟里唯去花蓮玩！Ft. PEUGEOT & CITROËN",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "巫师",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl8H2rDqKFlisPC37gVX9mg",
+      "siteUrl": "https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vTo2a2sC93c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vTo2a2sC93c",
+          "publishedOn": "2026-10-12T00:54:36.000Z",
+          "wordCount": null,
+          "title": "标普500，可以高抛低吸吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5MRFSpm97cc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5MRFSpm97cc",
+          "publishedOn": "2026-10-08T01:52:04.000Z",
+          "wordCount": null,
+          "title": "我的车被偷了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8AzHtaKkkhE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8AzHtaKkkhE",
+          "publishedOn": "2026-10-06T01:05:48.000Z",
+          "wordCount": null,
+          "title": "已经买了标普500，还需要买QQQ吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-ukErqxl33w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-ukErqxl33w",
+          "publishedOn": "2026-09-29T12:09:24.000Z",
+          "wordCount": null,
+          "title": "标普500：应该All in买入，还是分期定投？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gHhrBIhvHXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gHhrBIhvHXk",
+          "publishedOn": "2026-09-21T12:30:28.000Z",
+          "wordCount": null,
+          "title": "标普500，我应该重仓吗？",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "爱否科技",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
+      "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8NiwrTuUl_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8NiwrTuUl_0",
+          "publishedOn": "2026-09-23T07:00:12.000Z",
+          "wordCount": null,
+          "title": "vivo X500 Pro Max 评测：动态逆光怎么清晰？",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
