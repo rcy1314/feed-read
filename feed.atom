@@ -1,35 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-12T05:37:52.585Z</id>
+    <id>urn:2026-10-13T06:33:57.427Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T05:37:52.585Z</updated>
+    <updated>2026-10-13T06:33:57.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[标普500，可以高抛低吸吗？]]></title>
-        <id>https://www.youtube.com/watch?v=vTo2a2sC93c</id>
-        <link href="https://www.youtube.com/watch?v=vTo2a2sC93c"/>
-        <updated>2026-10-12T00:54:36.000Z</updated>
+        <title type="html"><![CDATA[2026年角色扮演RPG手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
+        <id>https://www.youtube.com/watch?v=sbY7XPPEATw</id>
+        <link href="https://www.youtube.com/watch?v=sbY7XPPEATw"/>
+        <updated>2026-10-12T12:00:31.000Z</updated>
         <author>
-            <name>巫师</name>
+            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的车被偷了！]]></title>
-        <id>https://www.youtube.com/watch?v=5MRFSpm97cc</id>
-        <link href="https://www.youtube.com/watch?v=5MRFSpm97cc"/>
-        <updated>2026-10-08T01:52:04.000Z</updated>
+        <title type="html"><![CDATA[2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第4期！]]></title>
+        <id>https://www.youtube.com/watch?v=TBtKiTjlOAo</id>
+        <link href="https://www.youtube.com/watch?v=TBtKiTjlOAo"/>
+        <updated>2026-10-09T12:00:08.000Z</updated>
         <author>
-            <name>巫师</name>
+            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[已经买了标普500，还需要买QQQ吗？]]></title>
-        <id>https://www.youtube.com/watch?v=8AzHtaKkkhE</id>
-        <link href="https://www.youtube.com/watch?v=8AzHtaKkkhE"/>
-        <updated>2026-10-06T01:05:48.000Z</updated>
+        <title type="html"><![CDATA[Tripo Smart Mesh P2.0 Create 3D Models From ANY Image in Seconds]]></title>
+        <id>https://www.youtube.com/watch?v=hhMCxOfuuT8</id>
+        <link href="https://www.youtube.com/watch?v=hhMCxOfuuT8"/>
+        <updated>2026-10-09T10:59:49.000Z</updated>
         <author>
-            <name>巫师</name>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Friday Advertising: How to Make AI Product Ads with AI Ad Generator | CapCut PC Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=M5arwS48YaI</id>
+        <link href="https://www.youtube.com/watch?v=M5arwS48YaI"/>
+        <updated>2026-10-07T14:37:52.000Z</updated>
+        <author>
+            <name>Learning Screen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10月份10款必玩手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第3期！]]></title>
+        <id>https://www.youtube.com/watch?v=rqMDeUjzWt0</id>
+        <link href="https://www.youtube.com/watch?v=rqMDeUjzWt0"/>
+        <updated>2026-10-07T12:00:29.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 是什麼？前端專案為什麼需要開發伺服器與建置｜AI Coding 入門 Day 23]]></title>
+        <id>https://www.youtube.com/watch?v=gS5AmfnYec0</id>
+        <link href="https://www.youtube.com/watch?v=gS5AmfnYec0"/>
+        <updated>2026-10-05T13:00:05.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年大型多人在線的MMORPG手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！]]></title>
+        <id>https://www.youtube.com/watch?v=0LR9kcWft-w</id>
+        <link href="https://www.youtube.com/watch?v=0LR9kcWft-w"/>
+        <updated>2026-10-05T12:00:35.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 是什麼？為什麼有 AI 還是要安裝開發環境｜AI Coding 入門 Day 21]]></title>
+        <id>https://www.youtube.com/watch?v=4e4s89k8B0k</id>
+        <link href="https://www.youtube.com/watch?v=4e4s89k8B0k"/>
+        <updated>2026-10-04T12:15:20.000Z</updated>
+        <author>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
@@ -42,30 +87,192 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[标普500：应该All in买入，还是分期定投？]]></title>
-        <id>https://www.youtube.com/watch?v=-ukErqxl33w</id>
-        <link href="https://www.youtube.com/watch?v=-ukErqxl33w"/>
-        <updated>2026-09-29T12:09:24.000Z</updated>
+        <title type="html"><![CDATA[用 ChatGPT 部署 GitHub Pages：從建立儲存庫到網站上線｜AI Coding 入門 Day 21]]></title>
+        <id>https://www.youtube.com/watch?v=K1i-AAJlZrY</id>
+        <link href="https://www.youtube.com/watch?v=K1i-AAJlZrY"/>
+        <updated>2026-10-03T12:00:09.000Z</updated>
         <author>
-            <name>巫师</name>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vivo X500 Pro Max 评测：动态逆光怎么清晰？]]></title>
-        <id>https://www.youtube.com/watch?v=8NiwrTuUl_0</id>
-        <link href="https://www.youtube.com/watch?v=8NiwrTuUl_0"/>
-        <updated>2026-09-23T07:00:12.000Z</updated>
+        <title type="html"><![CDATA[GitHub Pages 怎麼免費架網站？從檔案到網址的 3 個步驟｜AI Coding 入門 Day 20]]></title>
+        <id>https://www.youtube.com/watch?v=gUFHwJ1y80g</id>
+        <link href="https://www.youtube.com/watch?v=gUFHwJ1y80g"/>
+        <updated>2026-10-02T13:00:07.000Z</updated>
         <author>
-            <name>爱否科技</name>
+            <name>六角學院</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[标普500，我应该重仓吗？]]></title>
-        <id>https://www.youtube.com/watch?v=gHhrBIhvHXk</id>
-        <link href="https://www.youtube.com/watch?v=gHhrBIhvHXk"/>
-        <updated>2026-09-21T12:30:28.000Z</updated>
+        <title type="html"><![CDATA[2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！]]></title>
+        <id>https://www.youtube.com/watch?v=rd0UpLqCgh0</id>
+        <link href="https://www.youtube.com/watch?v=rd0UpLqCgh0"/>
+        <updated>2026-10-02T12:00:25.000Z</updated>
         <author>
-            <name>巫师</name>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 和 GitHub 差在哪？版本控制、協作與開源一次看懂｜AI Coding 入門 Day 19]]></title>
+        <id>https://www.youtube.com/watch?v=7IjMC-Q2wvE</id>
+        <link href="https://www.youtube.com/watch?v=7IjMC-Q2wvE"/>
+        <updated>2026-10-01T12:00:14.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/14 開課】AI Coding 還能這樣做？5 種 SubAgent 協作模式｜9/30 晚上八點 卡斯伯老師]]></title>
+        <id>https://www.youtube.com/watch?v=hheyFO7x1WU</id>
+        <link href="https://www.youtube.com/watch?v=hheyFO7x1WU"/>
+        <updated>2026-09-30T14:40:32.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 把程式改壞怎麼辦？用 Git 回到「剛剛還好好的」版本｜AI Coding 入門 Day 18]]></title>
+        <id>https://www.youtube.com/watch?v=yCUWEwoHvLQ</id>
+        <link href="https://www.youtube.com/watch?v=yCUWEwoHvLQ"/>
+        <updated>2026-09-30T13:00:29.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
+        <id>https://www.youtube.com/watch?v=hUTAl9_x3Ag</id>
+        <link href="https://www.youtube.com/watch?v=hUTAl9_x3Ag"/>
+        <updated>2026-09-30T12:00:35.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 40 天高效職場英文班 線上說明會｜9/29(二) 20:00 卡斯伯老師主持]]></title>
+        <id>https://www.youtube.com/watch?v=bOENeBTAXyo</id>
+        <link href="https://www.youtube.com/watch?v=bOENeBTAXyo"/>
+        <updated>2026-09-30T06:19:28.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[終端機是什麼？AI 為什麼靠黑色視窗操作你的電腦｜AI Coding 入門 Day 17]]></title>
+        <id>https://www.youtube.com/watch?v=3XR23-7FsNs</id>
+        <link href="https://www.youtube.com/watch?v=3XR23-7FsNs"/>
+        <updated>2026-09-29T13:00:12.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《空之軌跡 the 2nd》正式版來了! 3D化演出帥炸，劇情直衝最高潮! | Switch/PS5/Steam 遊戲試玩介紹!]]></title>
+        <id>https://www.youtube.com/watch?v=3W461YjyvCU</id>
+        <link href="https://www.youtube.com/watch?v=3W461YjyvCU"/>
+        <updated>2026-09-29T12:00:22.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年不需要PC也能玩到的Steam移植手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第4期！]]></title>
+        <id>https://www.youtube.com/watch?v=IwCgE5vOUjE</id>
+        <link href="https://www.youtube.com/watch?v=IwCgE5vOUjE"/>
+        <updated>2026-09-28T12:00:19.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON 是什麼？看懂 API 資料格式，以及它和資料庫的關係｜AI Coding 入門 Day 16]]></title>
+        <id>https://www.youtube.com/watch?v=e6gSqSuCxbI</id>
+        <link href="https://www.youtube.com/watch?v=e6gSqSuCxbI"/>
+        <updated>2026-09-28T00:00:04.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API 是什麼？看懂前端、後端如何交換資料與除錯｜AI Coding 入門 Day 15]]></title>
+        <id>https://www.youtube.com/watch?v=dzIxOUj1bcM</id>
+        <link href="https://www.youtube.com/watch?v=dzIxOUj1bcM"/>
+        <updated>2026-09-27T13:00:20.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Coding 一定需要後端與資料庫嗎？新手先判斷網站是哪一級｜AI Coding 入門 Day 14]]></title>
+        <id>https://www.youtube.com/watch?v=D-sgDacH7Hs</id>
+        <link href="https://www.youtube.com/watch?v=D-sgDacH7Hs"/>
+        <updated>2026-09-26T12:00:28.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML、CSS、JavaScript 差在哪？前端三層架構一次搞懂｜AI Coding 入門 Day 13]]></title>
+        <id>https://www.youtube.com/watch?v=RvqtCLtgKD4</id>
+        <link href="https://www.youtube.com/watch?v=RvqtCLtgKD4"/>
+        <updated>2026-09-25T13:00:31.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10款9月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第8期！]]></title>
+        <id>https://www.youtube.com/watch?v=cNinZAONGpg</id>
+        <link href="https://www.youtube.com/watch?v=cNinZAONGpg"/>
+        <updated>2026-09-25T12:00:17.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輸入網址後發生什麼事？前端、後端、伺服器與資料庫一次看懂｜AI Coding 入門 Day 12]]></title>
+        <id>https://www.youtube.com/watch?v=N2zFjZOejmw</id>
+        <link href="https://www.youtube.com/watch?v=N2zFjZOejmw"/>
+        <updated>2026-09-24T12:00:34.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Skill 是什麼？把重複規則整理成 AI 工作手冊｜AI Coding 入門 Day 11]]></title>
+        <id>https://www.youtube.com/watch?v=TZP-PYraTAE</id>
+        <link href="https://www.youtube.com/watch?v=TZP-PYraTAE"/>
+        <updated>2026-09-23T12:00:33.000Z</updated>
+        <author>
+            <name>六角學院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年10月即將上線的必玩手遊新作盤點！| Android/iOS 雙平台手機遊戲/遊戲作品推薦！]]></title>
+        <id>https://www.youtube.com/watch?v=OX6HzIFxg-A</id>
+        <link href="https://www.youtube.com/watch?v=OX6HzIFxg-A"/>
+        <updated>2026-09-23T12:00:09.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年輕鬆放置掛機類的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！]]></title>
+        <id>https://www.youtube.com/watch?v=OO28cc-6xGg</id>
+        <link href="https://www.youtube.com/watch?v=OO28cc-6xGg"/>
+        <updated>2026-09-21T12:00:07.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年9月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第7期！]]></title>
+        <id>https://www.youtube.com/watch?v=PEW4n9e5Y5k</id>
+        <link href="https://www.youtube.com/watch?v=PEW4n9e5Y5k"/>
+        <updated>2026-09-18T12:00:22.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +282,24 @@
         <updated>2026-09-18T10:32:14.000Z</updated>
         <author>
             <name>JJJason自由攝影師</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年9月手遊推薦必玩精選！| Android/iOS雙平台第6期]]></title>
+        <id>https://www.youtube.com/watch?v=1RlPgWhX6Eo</id>
+        <link href="https://www.youtube.com/watch?v=1RlPgWhX6Eo"/>
+        <updated>2026-09-16T12:00:19.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年超爽快的ACTION動作類手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！]]></title>
+        <id>https://www.youtube.com/watch?v=-AxdRwD7_2c</id>
+        <link href="https://www.youtube.com/watch?v=-AxdRwD7_2c"/>
+        <updated>2026-09-14T12:00:24.000Z</updated>
+        <author>
+            <name>花現新大鹿DoeDaDa</name>
         </author>
     </entry>
     <entry>
