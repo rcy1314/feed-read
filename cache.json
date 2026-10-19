@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCSY2Jb3C82bNYWv4DesCeJQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aFA5mxVBbMo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aFA5mxVBbMo",
+          "publishedOn": "2026-10-18T12:00:12.000Z",
+          "wordCount": null,
+          "title": "Một Chút EDM Mix Cực Phiêu ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YtAM3CIxrgM",
           "author": null,
           "description": "",
@@ -148,141 +158,10 @@
       ]
     },
     {
-      "title": "花現新大鹿DoeDaDa",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsQ8iA9pIUXe8DHaIWlrBLg",
-      "siteUrl": "https://www.youtube.com/channel/UCsQ8iA9pIUXe8DHaIWlrBLg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hq2Nc6R3Tgk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hq2Nc6R3Tgk",
-          "publishedOn": "2026-10-16T12:00:04.000Z",
-          "wordCount": null,
-          "title": "2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第6期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3ot8ftLM-bE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3ot8ftLM-bE",
-          "publishedOn": "2026-10-14T12:00:08.000Z",
-          "wordCount": null,
-          "title": "2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第5期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sbY7XPPEATw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sbY7XPPEATw",
-          "publishedOn": "2026-10-12T12:00:31.000Z",
-          "wordCount": null,
-          "title": "2026年角色扮演RPG手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TBtKiTjlOAo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TBtKiTjlOAo",
-          "publishedOn": "2026-10-09T12:00:08.000Z",
-          "wordCount": null,
-          "title": "2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第4期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rqMDeUjzWt0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rqMDeUjzWt0",
-          "publishedOn": "2026-10-07T12:00:29.000Z",
-          "wordCount": null,
-          "title": "10月份10款必玩手遊精選！| 2026年最新 Android/iOS 雙平台手機遊戲推薦第3期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0LR9kcWft-w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0LR9kcWft-w",
-          "publishedOn": "2026-10-05T12:00:35.000Z",
-          "wordCount": null,
-          "title": "2026年大型多人在線的MMORPG手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rd0UpLqCgh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rd0UpLqCgh0",
-          "publishedOn": "2026-10-02T12:00:25.000Z",
-          "wordCount": null,
-          "title": "2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第2期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hUTAl9_x3Ag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hUTAl9_x3Ag",
-          "publishedOn": "2026-09-30T12:00:35.000Z",
-          "wordCount": null,
-          "title": "2026年10月份最新好玩的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第1期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3W461YjyvCU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3W461YjyvCU",
-          "publishedOn": "2026-09-29T12:00:22.000Z",
-          "wordCount": null,
-          "title": "《空之軌跡 the 2nd》正式版來了! 3D化演出帥炸，劇情直衝最高潮! | Switch/PS5/Steam 遊戲試玩介紹!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IwCgE5vOUjE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IwCgE5vOUjE",
-          "publishedOn": "2026-09-28T12:00:19.000Z",
-          "wordCount": null,
-          "title": "2026年不需要PC也能玩到的Steam移植手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第4期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cNinZAONGpg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cNinZAONGpg",
-          "publishedOn": "2026-09-25T12:00:17.000Z",
-          "wordCount": null,
-          "title": "10款9月份必玩手遊精選！| Android/iOS 雙平台！| 安卓/蘋果手機遊戲/遊戲作品推薦第8期！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OX6HzIFxg-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OX6HzIFxg-A",
-          "publishedOn": "2026-09-23T12:00:09.000Z",
-          "wordCount": null,
-          "title": "2026年10月即將上線的必玩手遊新作盤點！| Android/iOS 雙平台手機遊戲/遊戲作品推薦！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OO28cc-6xGg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OO28cc-6xGg",
-          "publishedOn": "2026-09-21T12:00:07.000Z",
-          "wordCount": null,
-          "title": "2026年輕鬆放置掛機類的手遊精選！| Android/iOS 雙平台手機遊戲/遊戲作品推薦第3期！",
-          "imageUrl": null
-        }
-      ]
+      "title": "無私設計分享",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
+      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
