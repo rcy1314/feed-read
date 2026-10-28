@@ -1,10 +1,111 @@
 {
   "sources": [
     {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
+      "title": "The Chainsmokers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq3Ci-h945sbEYXpVlw7rJg",
+      "siteUrl": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/s8I3Tj-F-FA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/s8I3Tj-F-FA",
+          "publishedOn": "2026-10-26T22:31:52.000Z",
+          "wordCount": 3205,
+          "title": "I can’t believe they let us throw a party on Pennsylvania Ave",
+          "imageUrl": "https://i.ytimg.com/vi/s8I3Tj-F-FA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQFfJDGhfAn7xs-veLb0n87GzVkA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0hdRjEuUK5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0hdRjEuUK5g",
+          "publishedOn": "2026-10-24T15:00:01.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - Live at Austin City Limits 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jXctjIUT1qY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jXctjIUT1qY",
+          "publishedOn": "2026-10-23T15:03:10.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - College Tour Pt. 4 Vlog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KeuCUcAdYtA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KeuCUcAdYtA",
+          "publishedOn": "2026-10-22T15:00:05.000Z",
+          "wordCount": null,
+          "title": "Miley Cyrus - The Climb (The Chainsmokers & TWINSICK Remix)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/p4La1VUmbsM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/p4La1VUmbsM",
+          "publishedOn": "2026-10-20T17:02:08.000Z",
+          "wordCount": 3344,
+          "title": "a baby shower",
+          "imageUrl": "https://i.ytimg.com/vi/p4La1VUmbsM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYfvttujh6jQEqGW6KOVRmygD4FA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u_fm1zTR0qc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u_fm1zTR0qc",
+          "publishedOn": "2026-10-19T16:18:52.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - A Week in the Life Vlog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/xRLOObM3Yfc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xRLOObM3Yfc",
+          "publishedOn": "2026-10-16T19:39:49.000Z",
+          "wordCount": 3022,
+          "title": "seeing all the love",
+          "imageUrl": "https://i.ytimg.com/vi/xRLOObM3Yfc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB3n23CeQGZJyVR6qnKCkJiuIbZ_Q"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1V8cP3xFGmQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1V8cP3xFGmQ",
+          "publishedOn": "2026-10-16T04:00:03.000Z",
+          "wordCount": null,
+          "title": "The Chainsmokers - Baby (Official Lyric Video)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/qg5vdJlTSfc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/qg5vdJlTSfc",
+          "publishedOn": "2026-10-13T20:42:59.000Z",
+          "wordCount": 3110,
+          "title": "There’s always a reason to dance, reason to cry, but tonight I’m somewhere in the middle",
+          "imageUrl": "https://i.ytimg.com/vi/qg5vdJlTSfc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD-YDs2p0j3NbkdqPVbs8X-3Sk2pw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/EBU5x3l8kbA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/EBU5x3l8kbA",
+          "publishedOn": "2026-10-12T22:36:18.000Z",
+          "wordCount": 3238,
+          "title": "Haven’t written a verse like this in a whiiiiillleeee",
+          "imageUrl": "https://i.ytimg.com/vi/EBU5x3l8kbA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC_cinJbdOo7LFvHkKlApnFhHhAaA"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
