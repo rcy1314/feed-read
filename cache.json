@@ -1,4 +1,39 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "JJJason自由攝影師",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-erCKdayYpUgSFD1JZ8pvQ",
+      "siteUrl": "https://www.youtube.com/channel/UC-erCKdayYpUgSFD1JZ8pvQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uViDTAyF280",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uViDTAyF280",
+          "publishedOn": "2026-10-03T12:18:08.000Z",
+          "wordCount": null,
+          "title": "Lisbon, Portugal",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "懒人摄影",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRw_v-JH01tU3cGy_x4nJw",
+      "siteUrl": "https://www.youtube.com/channel/UCxRw_v-JH01tU3cGy_x4nJw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=F1Yh19awMjM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F1Yh19awMjM",
+          "publishedOn": "2026-10-03T07:30:52.000Z",
+          "wordCount": null,
+          "title": "一起学摄影，亲手拍出好画面｜马来西亚摄影基础班",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
