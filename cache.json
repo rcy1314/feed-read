@@ -1,48 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "六角學院",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-b2nGm0xLzic38Byti0VjA",
-      "siteUrl": "https://www.youtube.com/channel/UC-b2nGm0xLzic38Byti0VjA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=WgvUAfJtepM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WgvUAfJtepM",
-          "publishedOn": "2026-10-12T03:43:49.000Z",
-          "wordCount": null,
-          "title": "【11/20 開課】AI 開發進化營說明會｜11/4 晚上八點 卡斯伯老師",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gS5AmfnYec0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gS5AmfnYec0",
-          "publishedOn": "2026-10-05T13:00:05.000Z",
-          "wordCount": null,
-          "title": "Vite 是什麼？前端專案為什麼需要開發伺服器與建置｜AI Coding 入門 Day 23",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4e4s89k8B0k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4e4s89k8B0k",
-          "publishedOn": "2026-10-04T12:15:20.000Z",
-          "wordCount": null,
-          "title": "Node.js 是什麼？為什麼有 AI 還是要安裝開發環境｜AI Coding 入門 Day 21",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "無私設計分享",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYE5rWIo5_I-APxqcLRHwJw",
-      "siteUrl": "https://www.youtube.com/channel/UCYE5rWIo5_I-APxqcLRHwJw",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
