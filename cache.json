@@ -1,4 +1,22 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "爱否科技",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ISXkvMtP_Je1ITiYIJSSA",
+      "siteUrl": "https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zvNe4iB4ooY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zvNe4iB4ooY",
+          "publishedOn": "2026-11-04T05:50:51.000Z",
+          "wordCount": null,
+          "title": "Rokid Glasses 2 评测 ：AR1 后面的加号，加在哪里？",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
