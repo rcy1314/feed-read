@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-17T07:38:47.752Z</id>
+    <id>urn:2026-11-18T07:00:24.860Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T07:38:47.752Z</updated>
+    <updated>2026-11-18T07:00:24.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nhạc EDM Mix Hay Nhất Gây Nghiện Một Thời ♫ Nhạc Điện Tử Gây Nghiện Hay Nhất 2026]]></title>
+        <id>https://www.youtube.com/watch?v=sP0ji3rrMjI</id>
+        <link href="https://www.youtube.com/watch?v=sP0ji3rrMjI"/>
+        <updated>2026-11-17T12:00:14.000Z</updated>
+        <author>
+            <name>FURY EDM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relaxing Lo-fi Hip Hop for Streams & Cafes ☕  (Royalty Free) | Purrple Cat - A Short Walk With You]]></title>
+        <id>https://www.youtube.com/watch?v=r1PPckDMMSg</id>
+        <link href="https://www.youtube.com/watch?v=r1PPckDMMSg"/>
+        <updated>2026-11-17T11:00:00.000Z</updated>
+        <author>
+            <name>Audio Library</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不讲情怀，只看素质｜Mandler Pre-Asph 50mm F1.4 E46复刻镜头实测]]></title>
         <id>https://www.youtube.com/watch?v=rKvraCG5SKo</id>
@@ -696,15 +714,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powerful House Music for Car Videos, Tech Promos & Reels ⚡ (Free to Use) | Next Route - Bull]]></title>
-        <id>https://www.youtube.com/watch?v=UZJBT81zvwQ</id>
-        <link href="https://www.youtube.com/watch?v=UZJBT81zvwQ"/>
-        <updated>2026-10-31T11:00:20.000Z</updated>
-        <author>
-            <name>Audio Library</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年11月手遊推薦必玩精選！| Android/iOS雙平台手機遊戲第1期]]></title>
         <id>https://www.youtube.com/watch?v=FcDY-l5rNU8</id>
         <link href="https://www.youtube.com/watch?v=FcDY-l5rNU8"/>
@@ -989,42 +998,6 @@
         <updated>2026-10-20T11:00:11.000Z</updated>
         <author>
             <name>FUJIFILM X Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chainsmokers - A Week in the Life Vlog]]></title>
-        <id>https://www.youtube.com/watch?v=u_fm1zTR0qc</id>
-        <link href="https://www.youtube.com/watch?v=u_fm1zTR0qc"/>
-        <updated>2026-10-19T16:18:52.000Z</updated>
-        <author>
-            <name>The Chainsmokers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只要 7000 塊！輕小便宜的隨身餅乾鏡｜Viltrox AF 26mm F2.8 EVO]]></title>
-        <id>https://www.youtube.com/watch?v=e7NziUD91aQ</id>
-        <link href="https://www.youtube.com/watch?v=e7NziUD91aQ"/>
-        <updated>2026-10-19T12:30:05.000Z</updated>
-        <author>
-            <name>我都ok啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[居家辦公反而效率高，生活式工作教你如何偷懶。｜陈曦Stanley]]></title>
-        <id>https://www.youtube.com/watch?v=O82v9qhKNQo</id>
-        <link href="https://www.youtube.com/watch?v=O82v9qhKNQo"/>
-        <updated>2026-10-19T12:00:39.000Z</updated>
-        <author>
-            <name>陈曦Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电诈，进化到这种程度了？【大国之治·反诈系统】]]></title>
-        <id>https://www.youtube.com/watch?v=xh12q7bPyUE</id>
-        <link href="https://www.youtube.com/watch?v=xh12q7bPyUE"/>
-        <updated>2026-10-19T02:00:35.000Z</updated>
-        <author>
-            <name>大象放映室</name>
         </author>
     </entry>
 </feed>
